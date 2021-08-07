@@ -2335,9 +2335,108 @@
   </bcf:section>
   <!-- SECTION 4 -->
   <bcf:bibdata section="4">
-    <bcf:datasource type="file" datatype="bibtex">References/referencesCh7.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">References/referencesCh3.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="4">
+    <bcf:citekey order="1">Alburquerque</bcf:citekey>
+    <bcf:citekey order="1">Bolzonella</bcf:citekey>
+    <bcf:citekey order="1">Seppala</bcf:citekey>
+    <bcf:citekey order="1">Gell</bcf:citekey>
+    <bcf:citekey order="1">Normak</bcf:citekey>
+    <bcf:citekey order="1">Sorensen</bcf:citekey>
+    <bcf:citekey order="1">Tampere</bcf:citekey>
+    <bcf:citekey order="1">Moset</bcf:citekey>
+    <bcf:citekey order="1">Zheng</bcf:citekey>
+    <bcf:citekey order="1">Xia</bcf:citekey>
+    <bcf:citekey order="1">Moller</bcf:citekey>
+    <bcf:citekey order="1">WRAP</bcf:citekey>
+    <bcf:citekey order="1">ADAS</bcf:citekey>
+    <bcf:citekey order="1">Risgberg</bcf:citekey>
+    <bcf:citekey order="1">Ledda</bcf:citekey>
+    <bcf:citekey order="1">Kirchmann</bcf:citekey>
+    <bcf:citekey order="1">Moller2</bcf:citekey>
+    <bcf:citekey order="1">Walsh</bcf:citekey>
+    <bcf:citekey order="1">Loes</bcf:citekey>
+    <bcf:citekey order="1">Martin2</bcf:citekey>
+    <bcf:citekey order="2">Alburquerque</bcf:citekey>
+    <bcf:citekey order="2">Bolzonella</bcf:citekey>
+    <bcf:citekey order="2">Seppala</bcf:citekey>
+    <bcf:citekey order="2">Gell</bcf:citekey>
+    <bcf:citekey order="2">Normak</bcf:citekey>
+    <bcf:citekey order="2">Sorensen</bcf:citekey>
+    <bcf:citekey order="2">Tampere</bcf:citekey>
+    <bcf:citekey order="2">Moset</bcf:citekey>
+    <bcf:citekey order="2">Zheng</bcf:citekey>
+    <bcf:citekey order="2">Xia</bcf:citekey>
+    <bcf:citekey order="2">Moller</bcf:citekey>
+    <bcf:citekey order="2">WRAP</bcf:citekey>
+    <bcf:citekey order="2">ADAS</bcf:citekey>
+    <bcf:citekey order="2">Risgberg</bcf:citekey>
+    <bcf:citekey order="2">Ledda</bcf:citekey>
+    <bcf:citekey order="2">Kirchmann</bcf:citekey>
+    <bcf:citekey order="2">Moller2</bcf:citekey>
+    <bcf:citekey order="2">Walsh</bcf:citekey>
+    <bcf:citekey order="2">Loes</bcf:citekey>
+    <bcf:citekey order="2">Martin2</bcf:citekey>
+    <bcf:citekey order="3">Moller</bcf:citekey>
+    <bcf:citekey order="4">WRAP</bcf:citekey>
+    <bcf:citekey order="5">ADAS</bcf:citekey>
+    <bcf:citekey order="6">ADAS</bcf:citekey>
+    <bcf:citekey order="7">ADAS</bcf:citekey>
+    <bcf:citekey order="8">ADAS</bcf:citekey>
+    <bcf:citekey order="9">ADAS</bcf:citekey>
+    <bcf:citekey order="10">ADAS</bcf:citekey>
+    <bcf:citekey order="11">ADAS</bcf:citekey>
+    <bcf:citekey order="12">ADAS</bcf:citekey>
+    <bcf:citekey order="13">ADAS</bcf:citekey>
+    <bcf:citekey order="14">ADAS</bcf:citekey>
+    <bcf:citekey order="15">ADAS</bcf:citekey>
+    <bcf:citekey order="16">ADAS</bcf:citekey>
+    <bcf:citekey order="17">Risgberg</bcf:citekey>
+    <bcf:citekey order="18">Risgberg</bcf:citekey>
+    <bcf:citekey order="19">Seppala</bcf:citekey>
+    <bcf:citekey order="20">Alburquerque</bcf:citekey>
+    <bcf:citekey order="21">Alburquerque</bcf:citekey>
+    <bcf:citekey order="22">Alburquerque</bcf:citekey>
+    <bcf:citekey order="23">Bolzonella</bcf:citekey>
+    <bcf:citekey order="24">Gell</bcf:citekey>
+    <bcf:citekey order="25">Moset</bcf:citekey>
+    <bcf:citekey order="26">Ledda</bcf:citekey>
+    <bcf:citekey order="27">Kirchmann</bcf:citekey>
+    <bcf:citekey order="28">Moller2</bcf:citekey>
+    <bcf:citekey order="29">Walsh</bcf:citekey>
+    <bcf:citekey order="30">Zheng</bcf:citekey>
+    <bcf:citekey order="31">Sorensen</bcf:citekey>
+    <bcf:citekey order="32">Sorensen</bcf:citekey>
+    <bcf:citekey order="33">Tampere</bcf:citekey>
+    <bcf:citekey order="34">Tampere</bcf:citekey>
+    <bcf:citekey order="35">Tampere</bcf:citekey>
+    <bcf:citekey order="36">Loes</bcf:citekey>
+    <bcf:citekey order="37">Martin2</bcf:citekey>
+    <bcf:citekey order="38">Normak</bcf:citekey>
+    <bcf:citekey order="39">Xia</bcf:citekey>
+    <bcf:citekey order="40">Duong</bcf:citekey>
+    <bcf:citekey order="41">Dickson</bcf:citekey>
+    <bcf:citekey order="42">Dickson</bcf:citekey>
+    <bcf:citekey order="43">WolfGladrow</bcf:citekey>
+    <bcf:citekey order="44">WolfGladrow</bcf:citekey>
+    <bcf:citekey order="45">WolfGladrow</bcf:citekey>
+    <bcf:citekey order="46">Bates</bcf:citekey>
+    <bcf:citekey order="47">Skoog</bcf:citekey>
+    <bcf:citekey order="48">Ohlinger</bcf:citekey>
+    <bcf:citekey order="49">Ohlinger</bcf:citekey>
+    <bcf:citekey order="50">Ohlinger</bcf:citekey>
+    <bcf:citekey order="51">Skoog</bcf:citekey>
+    <bcf:citekey order="52">Skoog</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 5 -->
+  <bcf:bibdata section="5">
+    <bcf:datasource type="file" datatype="bibtex">References/referencesCh7.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="5">
     <bcf:citekey order="1">collet2017techno</bcf:citekey>
     <bcf:citekey order="2">collet2017techno</bcf:citekey>
     <bcf:citekey order="3">vo2018techno</bcf:citekey>
@@ -2509,6 +2608,15 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="4"
+                name="nyt/global//global/global"
+                type="entry"
+                sortingtemplatename="nyt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="5"
                 name="nyt/global//global/global"
                 type="entry"
                 sortingtemplatename="nyt"

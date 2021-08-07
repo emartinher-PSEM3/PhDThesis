@@ -87,31 +87,45 @@
 \contentsline {section}{Bibliography}{42}{equation.Alph1.5.34}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {B}{Appendix B: Supplementary Information of Chapter 3}}{45}{appendix.Alph2}%
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {B.1}{Cattle organic waste composition}}{45}{section.Alph2.1}%
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {B.2}{Distribution functions of elements from cattle waste}}{48}{section.Alph2.2}%
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {B.3}{Thermodynamic modeling of the carbonates system}}{50}{section.Alph2.3}%
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {B.4}{Surrogate models to estimate the formation of precipitates from livestock organic waste}}{53}{section.Alph2.4}%
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {B.4.1}{Influence of magnesium}}{53}{subsection.Alph2.4.1}%
+\defcounter {refsection}{4}\relax
+\contentsline {subsubsection}{\numberline {B.4.1.1}{Influence of calcium}}{53}{subsubsection.Alph2.4.1.1}%
+\defcounter {refsection}{4}\relax
+\contentsline {subsubsection}{\numberline {B.4.1.2}{Influence of alkalinity}}{53}{subsubsection.Alph2.4.1.2}%
+\defcounter {refsection}{4}\relax
+\contentsline {section}{Bibliography}{54}{figure.caption.23}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {B.1}{Biogas production}}{45}{section.Alph2.1}%
+\contentsline {chapter}{\numberline {C}{Appendix C: Supplementary Information of Chapter 4}}{61}{appendix.Alph3}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}{Appendix C: Supplementary Information of Chapter 4}}{47}{appendix.Alph3}%
+\contentsline {section}{\numberline {C.1}{Biogas production}}{61}{section.Alph3.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {C.1}{Biogas production}}{47}{section.Alph3.1}%
+\contentsline {chapter}{\numberline {D}{Appendix D: Supplementary Information of Chapter 6}}{63}{appendix.Alph4}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}{Appendix D: Supplementary Information of Chapter 6}}{49}{appendix.Alph4}%
+\contentsline {section}{\numberline {D.1}{Biogas production}}{63}{section.Alph4.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {D.1}{Biogas production}}{49}{section.Alph4.1}%
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 7}}{51}{appendix.Alph5}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.1}{Literature review}}{51}{section.Alph5.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.2}{Modelling approach}}{51}{section.Alph5.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {E.2.1}{Amines}}{51}{subsection.Alph5.2.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {E.2.2}{PSA}}{54}{subsection.Alph5.2.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {E.2.3}{Membranes}}{57}{subsection.Alph5.2.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.3}{Economic evaluation}}{59}{section.Alph5.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.4}{Scaling-up study}}{60}{section.Alph5.4}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{Bibliography}{61}{section.Alph5.4}%
+\contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 7}}{65}{appendix.Alph5}%
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {E.1}{Literature review}}{65}{section.Alph5.1}%
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {E.2}{Modelling approach}}{65}{section.Alph5.2}%
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {E.2.1}{Amines}}{65}{subsection.Alph5.2.1}%
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {E.2.2}{PSA}}{68}{subsection.Alph5.2.2}%
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {E.2.3}{Membranes}}{71}{subsection.Alph5.2.3}%
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {E.3}{Economic evaluation}}{73}{section.Alph5.3}%
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {E.4}{Scaling-up study}}{74}{section.Alph5.4}%
+\defcounter {refsection}{5}\relax
+\contentsline {section}{Bibliography}{75}{section.Alph5.4}%
