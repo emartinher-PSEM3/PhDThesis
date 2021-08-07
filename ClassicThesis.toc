@@ -64,52 +64,54 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {2.4}{Conclusions}}{25}{section.2.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Acknowledgments}{26}{section.2.4}%
+\contentsline {section}{Nomenclature}{26}{section.2.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{26}{section.2.4}%
+\contentsline {section}{Acknowledgments}{27}{table.2.7}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{Bibliography}{27}{table.2.7}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {ii}{Appendix}}{31}{part.2}%
+\contentsline {part}{\numberline {ii}{Appendix}}{33}{part.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}{Appendix A: Supplementary Information of Chapter 2}}{33}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {A}{Appendix A: Supplementary Information of Chapter 2}}{35}{appendix.Alph1}%
 \defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.1}{Biogas production}}{33}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.1}{Biogas production}}{35}{section.Alph1.1}%
 \defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.2}{H\textsubscript {2}S removal}}{36}{section.Alph1.2}%
+\contentsline {section}{\numberline {A.2}{H\textsubscript {2}S removal}}{38}{section.Alph1.2}%
 \defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.3}{CO\textsubscript {2}, NH\textsubscript {3} and H\textsubscript {2}O removal (PSA)}}{37}{section.Alph1.3}%
+\contentsline {section}{\numberline {A.3}{CO\textsubscript {2}, NH\textsubscript {3} and H\textsubscript {2}O removal (PSA)}}{39}{section.Alph1.3}%
 \defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.4}{Brayton cycle}}{37}{section.Alph1.4}%
+\contentsline {section}{\numberline {A.4}{Brayton cycle}}{39}{section.Alph1.4}%
 \defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.5}{Rankine cycle}}{38}{section.Alph1.5}%
+\contentsline {section}{\numberline {A.5}{Rankine cycle}}{40}{section.Alph1.5}%
 \defcounter {refsection}{3}\relax
-\contentsline {section}{Bibliography}{40}{equation.Alph1.5.34}%
+\contentsline {section}{Bibliography}{42}{equation.Alph1.5.34}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}{Appendix B: Supplementary Information of Chapter 3}}{43}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {B}{Appendix B: Supplementary Information of Chapter 3}}{45}{appendix.Alph2}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {B.1}{Biogas production}}{43}{section.Alph2.1}%
+\contentsline {section}{\numberline {B.1}{Biogas production}}{45}{section.Alph2.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}{Appendix C: Supplementary Information of Chapter 4}}{45}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {C}{Appendix C: Supplementary Information of Chapter 4}}{47}{appendix.Alph3}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {C.1}{Biogas production}}{45}{section.Alph3.1}%
+\contentsline {section}{\numberline {C.1}{Biogas production}}{47}{section.Alph3.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}{Appendix D: Supplementary Information of Chapter 6}}{47}{appendix.Alph4}%
+\contentsline {chapter}{\numberline {D}{Appendix D: Supplementary Information of Chapter 6}}{49}{appendix.Alph4}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {D.1}{Biogas production}}{47}{section.Alph4.1}%
+\contentsline {section}{\numberline {D.1}{Biogas production}}{49}{section.Alph4.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 7}}{49}{appendix.Alph5}%
+\contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 7}}{51}{appendix.Alph5}%
 \defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.1}{Literature review}}{49}{section.Alph5.1}%
+\contentsline {section}{\numberline {E.1}{Literature review}}{51}{section.Alph5.1}%
 \defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.2}{Modelling approach}}{49}{section.Alph5.2}%
+\contentsline {section}{\numberline {E.2}{Modelling approach}}{51}{section.Alph5.2}%
 \defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {E.2.1}{Amines}}{49}{subsection.Alph5.2.1}%
+\contentsline {subsection}{\numberline {E.2.1}{Amines}}{51}{subsection.Alph5.2.1}%
 \defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {E.2.2}{PSA}}{52}{subsection.Alph5.2.2}%
+\contentsline {subsection}{\numberline {E.2.2}{PSA}}{54}{subsection.Alph5.2.2}%
 \defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {E.2.3}{Membranes}}{55}{subsection.Alph5.2.3}%
+\contentsline {subsection}{\numberline {E.2.3}{Membranes}}{57}{subsection.Alph5.2.3}%
 \defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.3}{Economic evaluation}}{57}{section.Alph5.3}%
+\contentsline {section}{\numberline {E.3}{Economic evaluation}}{59}{section.Alph5.3}%
 \defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {E.4}{Scaling-up study}}{58}{section.Alph5.4}%
+\contentsline {section}{\numberline {E.4}{Scaling-up study}}{60}{section.Alph5.4}%
 \defcounter {refsection}{4}\relax
-\contentsline {section}{Bibliography}{59}{section.Alph5.4}%
+\contentsline {section}{Bibliography}{61}{section.Alph5.4}%

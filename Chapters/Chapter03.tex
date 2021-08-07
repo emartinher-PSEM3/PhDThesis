@@ -75,7 +75,8 @@ A set of initial conditions must be defined to establish the physico-chemical ch
 
 \begin{table}[h]
 	\centering
-	\caption{Initial conditions of the livestock organic material system} \label{table:init_cond}.
+	\caption{Initial conditions of the livestock organic material system} \label{table:init_cond}
+	\resizebox{\columnwidth}{!}{
 	\begin{tabular}{@{}ccc@{}}
 		\toprule
 		Variable               & Value                                                                                      & Unit                               \\ \midrule
@@ -89,6 +90,7 @@ A set of initial conditions must be defined to establish the physico-chemical ch
 		{[N-NH$_{4}^{+}$]}                      & \begin{tabular}[c]{@{}c@{}} 0.015-0.64 \\ (determined by Monte Carlo model) \end{tabular}  & \% wt wet                          \\
 		{[Mg$^{2+}$]}                      &  0-10                                                                                       &$\text{Mg}^{2+}/\text{PO}_{4}^{3-}$ molar ratio           \\ \bottomrule
 	\end{tabular}
+	}
 \end{table}
 
 \subsubsection{Activities} \label{Activity coefficients}
@@ -367,6 +369,33 @@ Therefore, the phosphorus recovered from livestock facilities have a significant
 To estimate the potential phosphorus releases avoided through struvite precipitation from cattle waste, a thermodynamic framework has been developed to evaluate struvite production from cattle organic waste as a technology for nutrient management and recovery. A set of practical numerical correlations is developed to help predict the struvite recovery. Cattle waste treatment and nutrient recovery through struvite formation is a feasible process from a thermodynamic perspective, reaching phosphate recovery efficiencies up to 80\% with the addition of considerable amounts of magnesium. Additionally, the results show that alkaline conditions can control the calcium ions when their presence in the medium is high and these can interfere in the formation of struvite by precipitating the calcium ions as calcium carbonate, and enhancing the recovery of phosphate as struvite. However, the variability in the organic waste composition is an important parameter that has a high impact on the efficiency of the process. Therefore, an individual composition analysis of the treated cattle waste should be the ideal procedure to achieve the optimal performance of the process by adjusting the operating conditions, particularly the amount of magnesium added and the alkalinity of the medium. Nevertheless, there are opportunities for improving the proposed model by the experimental determination of pKsp values for all potential precipitates from cattle leachate, and by including the effects from kinetics and transport phenomena. 
 
 The techno-ecological synergy sustainability metric (TES) is a useful tool for visualizing the spatial distribution of environmental problems, making it possible to determine what areas are  more sensible to nutrient pollution, and allowing an adequate distribution of efforts to mitigate phosphorus releases and achieved better nutrient management practices. In the U.S., struvite production has large potential for reducing the phosphorus losses from livestock facilities, avoiding between the 22\% and the 36\% of the phosphorus releases from the agricultural sector at national level, reducing the phosphorus runoff and mitigating the nutrient pollution of waterbodies. In addition, it can be observed how struvite production can significantly contribute to reducing phosphorus emissions around Lake Erie and the Great Lakes region, some of the most severely affected areas by eutrophication problems. It should be remarked that the production of struvite from cattle leachate allows the redistribution of phosphorus to nutrient deficient areas reducing the phosphorus runoff to waterbodies and mitigating the nutrient pollution of aquatic ecosystems. However, future research is needed to consider temporal aspects, transportation logistics, and coordinated management strategies for achieving global solutions to global problems. 
+
+\section*{Nomenclature}
+\addcontentsline{toc}{section}{Nomenclature}
+
+\vspace{-0.8cm}
+\begingroup     
+\let\clearpage\relax
+%
+\input{Nomenclature/NomenCh3}
+%
+\glsaddall
+%**************************************************************
+%This is for horizontal spacing between acronym and description
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
+\setlength\glsdescwidth{0.8\hsize}
+%**************************************************************
+%**************************************************************
+%This is for vertical spacing between title and entries
+\renewcommand*{\glossarypreamble}{\vspace{-0.8cm}}
+%**************************************************************
+\printglossary[type=VarCh3, style=long]
+\vspace{10pt}
+\printglossary[type=AcroCh3, style=long]
+%\printglossaries
+\endgroup
+
 
 \section*{Acknowledgments} \label{section:Ch3Acknowledgments}
 \addcontentsline{toc}{section}{Acknowledgments}
