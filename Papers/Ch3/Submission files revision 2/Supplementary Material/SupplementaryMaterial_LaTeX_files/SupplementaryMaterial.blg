@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: SupplementaryMaterial.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+You're missing a field name---line 131 of file references.bib
+ : 
+ : %issn = "0959-6526",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 145 of file references.bib
+ : 
+ : %issn = "0960-8524",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No address in Loes
+Warning--No address in Martin2
+Warning--No address in WRAP
+Warning--No address in ADAS
+You've used 26 entries,
+            6951 wiz_defined-function locations,
+            1452 strings with 15639 characters,
+and the built_in function-call counts, 57677 in all, are:
+= -- 6789
+> -- 514
+< -- 3250
++ -- 3275
+- -- 52
+* -- 4064
+:= -- 11521
+add.period$ -- 108
+call.type$ -- 26
+change.case$ -- 442
+chr.to.int$ -- 0
+cite$ -- 56
+duplicate$ -- 1480
+empty$ -- 2027
+format.name$ -- 912
+if$ -- 10297
+int.to.chr$ -- 0
+int.to.str$ -- 78
+missing$ -- 0
+newline$ -- 693
+num.names$ -- 208
+pop$ -- 791
+preamble$ -- 1
+purify$ -- 104
+quote$ -- 0
+skip$ -- 3319
+stack$ -- 0
+substring$ -- 3431
+swap$ -- 875
+text.length$ -- 52
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 2080
+warning$ -- 4
+while$ -- 306
+width$ -- 0
+write$ -- 921
+(There were 2 error messages)

@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Manuscript.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+You're missing a field name---line 207 of file references.bib
+ : 
+ : %issn = "0959-6526",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 221 of file references.bib
+ : 
+ : %issn = "0960-8524",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No address in NuGIS
+Warning--No address in OSU2005
+Warning--No address in OSU2017
+Warning--No address in Richards
+Warning--No address in SPARROW_report_1999
+Warning--No address in Kellog2000
+Warning--No institution in USDAWaste
+Warning--No address in USDAWaste
+Warning--No institution in 2017CensusofAgriculture
+Warning--No address in 2017CensusofAgriculture
+Warning--No institution in USDACattle2020
+Warning--No address in USDACattle2020
+Warning--No address in HUC8
+You've used 53 entries,
+            6951 wiz_defined-function locations,
+            1616 strings with 20084 characters,
+and the built_in function-call counts, 107021 in all, are:
+= -- 12913
+> -- 942
+< -- 5505
++ -- 5563
+- -- 126
+* -- 7169
+:= -- 20270
+add.period$ -- 226
+call.type$ -- 53
+change.case$ -- 905
+chr.to.int$ -- 0
+cite$ -- 119
+duplicate$ -- 2863
+empty$ -- 4049
+format.name$ -- 1593
+if$ -- 19859
+int.to.chr$ -- 0
+int.to.str$ -- 159
+missing$ -- 0
+newline$ -- 1354
+num.names$ -- 426
+pop$ -- 1690
+preamble$ -- 1
+purify$ -- 214
+quote$ -- 0
+skip$ -- 6587
+stack$ -- 0
+substring$ -- 5990
+swap$ -- 1647
+text.length$ -- 142
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 4368
+warning$ -- 13
+while$ -- 545
+width$ -- 0
+write$ -- 1729
+(There were 2 error messages)

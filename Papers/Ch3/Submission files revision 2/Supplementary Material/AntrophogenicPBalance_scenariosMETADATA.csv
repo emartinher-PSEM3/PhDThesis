@@ -1,0 +1,27 @@
+HUC_8,HUC₈ watershed
+P_emitted,Anthropogenic phosphorus releases (kg)
+P_emittedManure,Anthropogenic livestock-based phosphorus releases (kg)
+P_emittedFert,Anthropogenic fertilizer-based phosphorus releases (kg)
+P_uptake,Anthropogenic phosphorus uptakes (kg)
+P_balance,Anthropogenic phosphorus balance (kg)
+P_TES,TES indicator value
+Pnorm_Recovery_Scenario1_kg,Phosphorus from cattle recovered in scenario 1 (kg)
+Pnorm_Recovery_Scenario2_kg,Phosphorus from cattle recovered in scenario 2 (kg)
+Pnorm_Recovery_Scenario3_kg,Phosphorus from cattle recovered in scenario 3 (kg)
+Pnorm_Recovery_Scenario4_kg,Phosphorus from cattle recovered in scenario 4 (kg)
+P_EmissionsAvoided_Scenario1_kg,Phosphorus from cattle recovered in scenario 1 (%)
+P_EmissionsAvoided_Scenario2_kg,Phosphorus from cattle recovered in scenario 2 (%)
+P_EmissionsAvoided_Scenario3_kg,Phosphorus from cattle recovered in scenario 3 (%)
+P_EmissionsAvoided_Scenario4_kg,Phosphorus from cattle recovered in scenario 4 (%)
+PEmitted_scenario1,Anthropogenic phosphorus releases in scenario 1 (kg)
+PEmitted_scenario2,Anthropogenic phosphorus releases in scenario 2 (kg)
+PEmitted_scenario3,Anthropogenic phosphorus releases in scenario 3 (kg)
+PEmitted_scenario4,Anthropogenic phosphorus releases in scenario 4 (kg)
+P_TES_Scenario1,TES indicator value in scenario 1
+P_TES_Scenario2,TES indicator value in scenario 2
+P_TES_Scenario3,TES indicator value in scenario 3
+P_TES_Scenario4,TES indicator value in scenario 4
+P_TESfrac_Scenario1,Diference in TES value between case base and scenario 1 (%)
+P_TESfrac_Scenario2,Diference in TES value between case base and scenario 2 (%)
+P_TESfrac_Scenario3,Diference in TES value between case base and scenario 3 (%)
+P_TESfrac_Scenario4,Diference in TES value between case base and scenario 4 (%)
