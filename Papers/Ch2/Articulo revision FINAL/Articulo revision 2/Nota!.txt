@@ -1,0 +1,1 @@
+Al añadir la tabla del set de componentes hay que cambiar el numero de todas las tablas al cargar el paper (en el texto ya estan cambiadas)

@@ -1,0 +1,277 @@
+%********************************************************************
+% Appendix
+%*******************************************************
+% If problems with the headers: get headings in appendix etc. right
+%\markboth{\spacedlowsmallcaps{Appendix}}{\spacedlowsmallcaps{Appendix}}
+\chapter{Appendix A: Supplementary Information of Chapter 2}
+\begin{refsection}[referencesCh2]
+All the units involved in the flowsheet are modeled using mass and energy balances, thermodynamic relationships, chemical and vapor-liquid equilibria, and product yield calculations. Therefore, the variables of the equation oriented framework comprise the total mass flows, component mass flows, component mass fractions, temperatures and pressures of the streams in the process network. The components that are tracked in our calculations belong to the following set:
+
+\begin{align*}
+	& \{\text{Wa, CO\textsubscript{2}, CO, O\textsubscript{2}, N\textsubscript{2}, H\textsubscript{2}S, NH\textsubscript{3}, CH\textsubscript{4}, SO\textsubscript{2}, C, H, O, N, N\textsubscript{org},} \\
+	& \text{P, K, S, Rest, Cattle slurry, Pig slurry, Poultry slurry, P\textsubscript{2}O\textsubscript{5},} \\
+	& \text{CaCO\textsubscript{3}, FeCl\textsubscript{3}, Antifoam,  Fe\textsubscript{2}(SO\textsubscript{4})\textsubscript{3}, Al\textsubscript{2}(SO\textsubscript{4})\textsubscript{3}, AlCl\textsubscript{3}, MgCl\textsubscript{2},} \\
+	& \text{NaOH, Struvite seeds, Mg, Cl, Struvite, K-Struvite,} \\
+	& \text{MgCl\textsubscript{2} CSTR, NaOH CSTR, Mg CSTR, Cl CSTR, Struvite CSTR,}\\
+	&  \text{KStruvite CSTR, FeCl\textsubscript{3} Coag}
+	\}
+\end{align*}
+
+In the following subsections we briefly present the main equations used to characterize the operation of the different units. Simpler balances based on removal efficiency or stoichiometry, or the equations that connect two units are omitted and only the conversion, the chemical reactions, and the removal efficiency are presented.
+
+The decision on the technology to use to process the digestate requires the evaluation of the cost. Its estimation uses the factorial method based on the equipment units costs \citet{rk1999coulson}. The total physical plant cost involving equipment erection, piping instrumentation, electrical, buildings, utilities, storages, site development, and ancillary buildings is 3.15 times the total equipment cost for processes which uses fluids and solids. On the other hand, the fixed cost, which includes design and engineering, contractor’s fee, and contingency items is determined as 1.4 times the total physical plant cost for fluid and solid processes. In the subsequent cost estimation, these parameters are designed as $f_i$ for the total physical plant parameter and $f_j$ for the fixed cost parameter.
+
+\section{Biogas production}
+The anaerobic fermentation of different types of manure generates biogas, methane and carbon dioxide, through a series of reactions such as hydrolysis, acidogenesis, acetogenesis and methanogenesis \citep{AlSeadi2008}. The biogas produced shows a variable composition in methane and CO\textsubscript{2} depending on the composition of the manure processed and the operating conditions. The lower the temperature, the longer the retention time. We operate at 55 \textdegree C for 20 days. A part from methane and CO\textsubscript{2}, nitrogen, H\textsubscript{2}S, and NH\textsubscript{3} are produced \citep{kaparaju2013generation}. Thus, in order to compute the biogas composition a mass balance is performed considering the composition of the different manure sources:
+
+\begin{align}
+	MW_{dry \text{-} biogas} = \sum\limits_{a'} {Y_{a'/biogas \text{-} dry} \cdot MW_{a'}} \label{eq:AnexAEq1}
+\end{align}
+
+where the typical composition, $Y_i$,  of the biogas is given by the following bounds:
+
+\begin{align}
+	& 0.7 \le Y_{CH_{4}} \le 0.5 \nonumber \\
+	& 0.3 \le Y_{CO_{2}} \le 0.5 \nonumber \\
+	& 0.02 \le Y_{N_{2}} \le 0.06 \label{eq:AnexAEq2} \\
+	& 0.005 \le Y_{O_{2}} \le 0.16 \nonumber \\
+	& Y_{H_{2}S} \le 0.002 \nonumber \\
+	& 9 \cdot 10^{-5} \le Y_{NH_{3}} \le 1 \cdot 10^{-4}	 \nonumber
+\end{align}
+
+The contact between biogas and the liquid residue results in biogas saturated with water. Gas moisture is computed using Antoine correlation as per Eq. \ref{eq:AnexAEq3}. The flow of dry biogas is determined using Eq \ref{eq:AnexAEq4}. To compute the power in the compressor, we need to determine the molar mass of the biogas as in Eq. \ref{eq:AnexAEq5}. The mass flow rate of each component is computed from its molecular weight and the total mass flow rate,  Eqs. \ref{eq:AnexAEq6}-\ref{eq:AnexAEq7}. 
+
+\begin{align}
+	y_{biogas} = \frac{MW_{H_{2}O}}{MW_{biogas\text{-}dry}}\frac{Pv(T)}{P - Pv(T)} \label{eq:AnexAEq3}
+\end{align} 
+
+\begin{align}
+	{F}_{biogas} = \rho_{biogas} \sum\limits_{Waste} {w'_{SV/Waste} \cdot {w}_{MS/Waste} \cdot {F}_{Waste} \cdot {V}_{biogas/Waste}} \label{eq:AnexAEq4}
+\end{align}
+
+\begin{align}
+	fc_{H_{2}O}^{biogas} = y_{biogas} \cdot \sum\limits_{a'} {fc_{a'}^{biogas}} \label{eq:AnexAEq5}
+\end{align}
+
+\begin{align}
+	& \frac{fc_{a'}^{Bioreactor,Compres1}}{MW_{a'}} = \label{eq:AnexAEq6} \\
+	& \frac{Y_{a'/biogas\text{-} dry}}{MW_{biogas\text{-} dry}} \left( F^{Bioreactor,Compres1} - fc_{H_{2}O}^{Bioreactor,Compres1}\right)  \nonumber
+\end{align}
+
+\begin{align}
+	MW_{biogas} \sum\limits_{a} {\frac{x_{a/biogas}}{MW_{a}} = \sum\limits_{a} {x_{a/biogas}}} \label{eq:AnexAEq7}
+\end{align}
+
+The lower and upper limits for the generation of biogas are given by Eq. \ref{eq:AnexAEq8} \citep{AlSeadi2008}:
+
+\begin{align}
+	& 0.20 \le V_{biogas/Waste} \le 0.50 \nonumber \\
+	& 0.10 \le w_{MS/Waste}  \le 0.20 \label{eq:AnexAEq8} \\					
+	& 0.50 \le w_{VS/Waste}  \le 0.80 \nonumber
+\end{align}
+
+The mass of waste that does not leave as biogas constitutes the digestate as follows \citep{AlSeadi2008}:
+
+\begin{align}
+	w'_{C/k} = R_{C\text{-}N/k} \left( {w'_{Norg/k}} + w'_{N_{NH_{3}}/k} \right) \label{eq:AnexAEq9}
+\end{align}
+
+Each manure type has its own composition \citep{DEFRA}.
+
+\begin{align}
+		& 6 \le {R_{C\text{-}N/Waste}} \le 20 \nonumber \\
+		& 0.005 \le w_{N/Waste} \le 0.047 \nonumber \\
+		& 0.005 \le w_{N_{org}/Waste}  \label{eq:AnexAEq10} \le 0.036 \\
+		& 0.008 \le w_{P/Waste} \le 0.013 \nonumber \\							
+		& 0.033 \le w_{K/Waste}  \le  0.1 \nonumber
+\end{align}
+
+\begin{align}
+	& {w}_{C/Waste} + {w}_{N_{org}/Waste} + {w}_{N_{NH_{3}/Waste}} + {w}_{P/Waste} + \label{eq:AnexAEq11} \\
+	& {w}_{K/Waste} + {w}_{Rest/Waste} = 1 \nonumber
+\end{align}
+
+Atom mass balances are performed to compute the products of the reactors. We consider balances for carbon, organic nitrogen (N\textsubscript{org}), inorganic nitrogen (N), phosphate and potassium. The carbon either leaves in the form of CO\textsubscript{2} or CH\textsubscript{4} with the gas or as part of the waste in the digestate, Eq. \ref{eq:AnexAEq12}. The organic nitrogen in the digestate is given by the fraction of organic nitrogen in the digestate minus the nitrogen released as gas, Eq \ref{eq:AnexAEq13}. Similarly, the inorganic nitrogen that is not used to produce ammonia that accompanies the gas or is left as residue is computed using the values above, Eq. \ref{eq:AnexAEq14}. P and K directly leave the reactor as part of the digestate, Eqs. \ref{eq:AnexAEq15}-\ref{eq:AnexAEq16}. The rest that is not accounted for is assumed to be a residual part leaving the reactor with the digestate. 	
+
+\begin{align}
+	fc_C^{digestate} = w'_{C} \cdot w_{MS} \cdot F_{Waste} - fc_{CH_{4}} \frac{MW_{C}}{MW_{CH_{4}}} - fc _{CO_{2}} \frac{MW_{C}}{MW_{CO_{2}}} \label{eq:AnexAEq12}
+\end{align}
+
+
+\begin{align}
+	fc_{N_{org}}^{digestate} = w'_{N_{org}/Waste} \cdot {w}_{MS/Waste} \cdot F_{Waste} - fc_{N_{2}} \frac{MW_{N}}{MW_{N_{2}}} \label{eq:AnexAEq13}
+\end{align}
+
+
+\begin{align}
+	{fc_{N}}^{digestate} = w'_{N/Waste} \cdot w_{MS/Waste} \cdot F_{Waste} - fc_{NH_{3}}  \frac{MW_{N}}{MW_{NH_{3}}} \label{eq:AnexAEq14}
+\end{align}
+
+\begin{align}
+	fc_{P}^{digestate} = w'_{P/Waste} \cdot {w}_{MS/Waste} \cdot F_{Waste} \label{eq:AnexAEq15}
+\end{align}
+
+\begin{align}
+	fc_K^{digestate} = w'_{K/Waste} \cdot w_{MS/Waste} \cdot F_{Waste} \label{eq:AnexAEq16}
+\end{align}
+
+\begin{align}
+	& fc_{Rest}^{digestate} = w'_{Rest/Waste} \cdot w_{MS/Waste} \cdot F_{Waste} + \label{eq:AnexAEq17} \\
+	& fc_{CH_{4}}^{biogas} \cdot \frac{4\cdot MW_{H}}{MW_{CH_{4}}} - fc_{CO_{2}}^{biogas} \cdot \frac{2 \cdot MW_{O}}{MW_{CO_{2}}} -  \nonumber \\
+	& fc_{NH_{3}}^{biogas} \cdot \frac { 3 \cdot MW_{H}} {MW_{NH_{3}}} - fc_{H_{2}S}^{biogas} - fc_{O_{2}}^{biogas} \nonumber
+\end{align}
+
+\begin{align}
+	fc_{H_{2}O}^{digestate} = \left( 1 - w_{MS/Waste}\right) \cdot F_{Waste} - fc_{H_{2}O}^{biogas} \label{eq:AnexAEq18}
+\end{align}
+
+The energy balance to the digester is as follows:
+
+\begin{align}
+	& Q_{digestor} = \Delta H_{reaction} - F \cdot c_p \cdot \left( T_{digestor} - T_{in} \right) \label{eq:AnexAEq19} \\
+	& \Delta H_{reaction} = \sum\limits_{products} {\Delta H_{comb}}  - \sum\limits_{reactants} {\Delta H_{comb}} \nonumber
+\end{align}
+
+The digestate is further conditioned.
+
+\section{H\textsubscript{2}S removal}
+Since biogas is burned for power production, any sulfur compound would potentially produce SO\textsubscript{2}. We can avoid it by removing the H\textsubscript{2}S. A reactive bed of Fe\textsubscript{2}O\textsubscript{3} that operates at 25-50 \textdegree C is used. The actual removal is carried out following the chemical reaction below \citep{ryckebosch2011techniques}. 
+
+\begin{align}
+	& \text{Fe\textsubscript{2}O\textsubscript{3}}  + 3\text{H\textsubscript{2}S} \rightarrow \text{Fe\textsubscript{2}S\textsubscript{3}}  + 3\text{H}_2 \text{O} \nonumber
+\end{align}
+
+Thus, the model of this unit is based on a mass balance based on the stoichiometry of the reaction assuming 100\% conversion. The bed can be regenerated using oxygen \citep{ryckebosch2011techniques}.
+
+\begin{align}
+	& \text{Fe\textsubscript{2}S\textsubscript{3}}  + 3\text{O\textsubscript{2}} \rightarrow  \text{Fe\textsubscript{2}O\textsubscript{3}} + 6\text{S} \nonumber
+\end{align}
+
+\section{CO\textsubscript{2}, NH\textsubscript{3} and H\textsubscript{2}O removal (PSA)}
+The flue gas from the gas turbine is to be used as heat source to produce steam for the steam turbine. Therefore, it is interesting that the stream has high temperature. CO\textsubscript{2} is removed from biogas using a packed bed of zeolite 5A operating at 25 \textdegree C and 4.5 bar. To secure continuous operation, two adsorbent beds operate in parallel so that while one is in adsorbent mode, the second one is under regeneration. We assume a recovery of 100\% for NH\textsubscript{3} and H\textsubscript{2}O (because of their low total quantities in the biogas, in general), 95\% for CO\textsubscript{2} and 0\% for any other gas of the mixture \citep{russell2004gpsa, Nexant2006}. 
+
+\section{Brayton cycle}
+The process consists of a three stage polytropic compressor with intercooling. Each compressor s modelled assuming polytropic behavior using Eqs. \ref{eq:AnexAEq20} - \ref{eq:AnexAEq21} to compute the exit temperature and the power required for each stage. After each compression stage, intercooling is used to reduce the power input. The polytropic coefficient, $k$, is taken to be 1.4 based on an offline simulation using CHEMCAD\textregistered. The efficiency of the compressor is assumed to be 85\% \citep{Moran2003}. A maximum compression ratio of 40 for air is used, based on typical achievements \citep{Jane1997}. The intercooling stage is modeled as simple energy balance to compute the cooling required to cool down the gas to the initial temperature of the previous compressor.
+
+\begin{align}
+	& {T_{out/compresor}} = \label{eq:AnexAEq20} \\
+	& {T_{in/compressor}} + {T_{in/compressor}} \left( {{{\left( {\frac{{{P_{out/compressor}}}}{{{P_{in/compressor}}}}} \right)}^{\frac{{z - 1}}{z}}} - 1} \right)\frac{1}{{{\eta _c}}} \nonumber
+\end{align}
+
+Eq21
+\begin{align}
+	& {W}_{ {compressor}} = \label{eq:AnexAEq21} \\
+	& \left( F \right)\cdot\frac{{R\cdot z\cdot\left( {{{{T}}_{in/compressor}}} \right)}}{{\left( {\left( {{{MW}}} \right)\cdot\left( {z - {{1}}} \right)} \right)}}\frac{1}{{{\eta _c}}}\left( {{{\left( {\frac{{{P_{out/compressor}}}}{{{P_{in/compressor}}}}} \right)}^{\frac{{z - 1}}{z}}} - {{1}}} \right)  \nonumber
+\end{align}
+
+The combustion of the biogas, see reactions below, heats up the mixture. We use an excess of 20\% of air with respect to the stoichiometry and assume 100\% conversion of the reaction.  
+
+\begin{align}
+	& \text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2 \text{O} \nonumber
+\end{align}
+
+The material balance is based on the stoichiometry of the chemical reaction stated above and an energy balance is used to compute temperature of the gases exiting the gas turbine as given by Eq. \ref{eq:AnexAEq22}:
+
+\begin{align}
+%	& {Q_{Furnace}} = {\sum\limits_h {{{\left. {\Delta {H_{f,h}}} (T) \right|}_{{Furnace,GasTurb}}}} } 	- \label{eq:AnexAEq22}\\
+%	& {\sum\limits_h {{{\left. {\Delta {H_{f,h}} (T)} \right|}_{{Compres2,Furnace}}}} } -  {\sum\limits_h {{{\left. {\Delta {H_{f,h}}(T)} \right|}_{{Compres3,Furnace}}}} } 	\nonumber
+	& {Q_{Furnace}} = {\sum\limits_h {{{ {\Delta {H_{f,h}^{{Furnace,GasTurb}}}} (T) }}} } 	- \label{eq:AnexAEq22}\\
+	& {\sum\limits_h {{{ {\Delta {H_{f,h}^{{Compres2,Furnace}}} (T)} }}} } -  {\sum\limits_h {{{ {\Delta {H_{f,h}^{{Compres3,Furnace}}}(T)} }}} } 	\nonumber
+\end{align}
+
+%\left.
+%\left.
+%\left.
+%\right|_{Furnace,GasTur}} 
+%\right|_{Compres2,Furnace}}
+%\right|_{Compres3,Furnace}} 
+
+The hot flue gas is expanded in the gas turbine to generate power. Eq. \ref{eq:AnexAEq21} is used to model the performance of the gas turbine. The polytropic coefficient is taken to be 1.3, also based on an offline simulation using CHEMCAD ®, with an efficiency of 85\% \citep{Moran2003}. Finally, the exhaust gas is cooled down and used to generate high pressure steam to be fed to the Rankine cycle.
+
+\section{Rankine cycle}
+The steam is generated in a system of heat exchangers. Two alternatives are evaluated: 
+\begin{enumerate}
+	\item Only a fraction of the flue gas from the gas turbine is used to produce the high pressure steam fed to the steam turbine. The rest of the gas is used for the regeneration step.
+	\item The entire flue gas is used to heat up the saturated steam before feeding it to the high pressure turbine. Next, it is used to reheat the expanded steam before feeding it to the medium pressure turbine.
+\end{enumerate}
+
+In the second body of the turbine, part of the steam is extracted at a medium pressure and it is used to heat up the condensate. The rest of the steam is finally expanded to an exhaust pressure, condensed and recycled. The flue gas is used for heating up and evaporating this stream. Due to the size of the plants and their typical location, a farm, it is expected that a lagoon is used to condensate the working fluid. Each unit is modeled using mass and energy balances as well as thermodynamic properties \citep{martin2013optimal, vidal2015optimal}.
+
+The enthalpy and entropy of steam as a function of the temperature and pressure are correlated as in previous work \citep{martin2013optimal, vidal2015optimal}. The equations can be found in the appendix below. Therefore, the stream exiting the first body can be calculated using Eqs. \ref{eq:AnexAEq23}-\ref{eq:AnexAEq28}, assuming an isentropic efficiency, $\eta_s$, of 0.9.
+
+\begin{align}
+	{\eta _s} = \frac{{{{{H}}_{{{steam }}}^{{{Turb1}},{{HX5}}}} - {{{H}}_{{{steam}}}{{{HX4}},{{Turb1}}}}}}{{{{{H}}_{steam , isoentropy}}{{ - }}{{{H}}_{{{steam}}}^{{{HX4}},{{Turb1}}}}}} \label{eq:AnexAEq23}
+\end{align}
+
+where:
+
+\begin{align}
+	{H_{steam , isoentropy}} = {{ f}}\left( {{{{p}}_{{{{Turb1}},{{HX5}}}}},{T^*}_{{{{Turb1,HX5}}}}} \right)  \label{eq:AnexAEq24}
+\end{align}
+
+T* represents the isentropic temperature after the expansion computed as follows:
+
+\begin{align}
+	& {{{s}}_{{{steam}}}^{{{HX4}},{{Turb1}}}} = \label{eq:AnexAEq25} \\
+	& {{f}}\left( {{{{p}}_{{{{HX4}},{{Turb1}}} }},{T_{ {{{HX4,Turb1}}} }}} \right) = \;{{f}}({{{p}}_{ {{{Turb1}},{{HX5}}} }},{T^*}_{ {{{Turb1}},{{HX5}}} })  \nonumber
+\end{align}
+
+We make sure that the output of the turbine is superheated steam by maintaining its temperature above the one that corresponds to saturation for the pressure of the stream.
+
+\begin{align}
+	{{{p}}_{{{turb,2}}}}\cdot 760 = {e^{\left( {A_{{H_2}O} - \frac{{B_{{H_2}O} }}{{\left( {C_{{H_2}O} \cdot {{{T}}_{{{turb,1, min}}}}} \right)}}} \right)}} \label{eq:AnexAEq26}
+\end{align}
+
+\begin{align}
+	{{{T}}_{{{{Turb,1}},{{HX5}}} }}{{ > }}{{{T}}_{{{turb,1,min}}}} \label{eq:AnexAEq27}
+\end{align}
+
+The energy that is obtained in the steam expansion in the first turbine is given by Eq. \ref{eq:AnexAEq28}:
+
+\begin{align}
+	{{W}}_{{{Turbine1}}} = {{ f}}{{{c}}_{ {H2O} }^{{{HX4}},{{Turb1}}}}\cdot\left( {{H_{{{steam}}}^{{{HX4}},{{Turb1}}}} - {{{H}}_{{{steam}}}^{{{Turb1}},{{HX5}}}}} \right)	 \label{eq:AnexAEq28}
+\end{align}
+
+The stream, as superheated vapor, is heated up again in HX5 using a fraction of the exhaust gas from the gas turbine, Eq. \ref{eq:AnexAEq29}, or the entire flow depending on the flowsheet configuration, Eq. \ref{eq:AnexAEq30}. Next, the superheated steam is fed to a second turbine. HX5 is modeled using Eq. \ref{eq:AnexAEq29}-\ref{eq:AnexAEq31}.
+
+\begin{align}
+	{{{Q}}_{ {{{HX5}}} }} = {{ f}}{{{c}}_{ {H2O} }^{{{Turb1}},{{HX5}}}}\cdot\left( {{H_{steam}^{HX5,Turb2}}{{ - }}{{{H}}_{steam}^{Turb1,HX5}}} \right) \label{eq:AnexAEq29}
+\end{align}
+
+\begin{align}
+	{{{Q}}_{ {{{HX5}}} }}= \;\; - F^{{Spl1},{{HX5}}}\cdot\int\limits_{{{{T}}_{Spl1,{{HX5}}}}}^{{{{T}}_{{{HX5}},Mix1}}} {C{p_{sat}}dT} \label{eq:AnexAEq30}
+\end{align}
+
+\begin{align}
+	{{{Q}}_{{{{HX5}}} }} = \;\; - F^{HX4,{{HX5}}}\cdot\int\limits_{{{{T}}_{(HX4,{{HX5)}}}}}^{{{{T}}_{{{HX5}},Mix1}}} {C{p_{salt}}dT} \label{eq:AnexAEq31}
+\end{align}
+
+In the second turbine there is another expansion to a lower pressure. Part of the stream will be sent to HX7, while the rest is used in the third body of the turbine,  where it is expanded to a pressure below  atmosphere, see Eq. \ref{eq:AnexAEq32}; this pressure ranges from 0.05 bar to 0.31 bar in the literature \citep{vidal2015optimal}. The second and third bodies of the turbine are calculated similarly to the first one, assuming 0.9 isentropic efficiency in all stages. 
+
+\begin{align}
+	{{f}}{{{c}}_{ {H2O} }^{{HX5}},{{Turb2}}} = {{ f}}{{{c}}_{{H2O}}^{{Turb2}},{{HX7}}} + {{f}}{{{c}}_{ {H2O} }^{{Turb2}},{{Turb3}}} \label{eq:AnexAEq32}
+\end{align}
+
+The stream extracted from the medium pressure turbine is sent to HX7, where it will be used to reheat the liquid obtained after condensing the exhaust of the third body of the turbine. The exhaust of the low pressure turbine is assumed to be saturated vapor. This stream is condensed in HX6:
+
+\begin{align}
+	{{{Q}}_{\left( {{{HX6}}} \right)}} = {{ f}}{{{c}}_{{H2O}}^{{Turb3}},{{HX6}}}\cdot\left( {{{{H}}_{liq}^{HX6,HX7}}{{ - }}{{{H}}_{steam}^{Turb3,HX6}}} \right) \label{eq:AnexAEq33}
+\end{align}
+
+This energy must be removed in the cooling system. We assume that a lagoon is used to cool down the water used to condense the saturated steam before reuse. This part is not included in the model. When mixing the exhaust of the second turbine with the compressed liquid from HX6, we must bear in mind that the outlet should be liquid since it is going to be compressed and heated up as a liquid in HX8. Eq. \ref{eq:AnexAEq34} ensures this fact:
+
+\begin{align}
+	{{{T}}_{ {{{HX7,HX8}}} }} \le {{{T}}_{{{turb,2,min}}}} \label{eq:AnexAEq34}
+\end{align}
+
+\section*{Bibliography}
+\addcontentsline{toc}{section}{Bibliography}
+\printbibliography[heading=none]
+\end{refsection}
+%%\begin{lstlisting}[float=b,language=Pascal,frame=tb,caption={A floating example (\texttt{listings} manual)},label=lst:useless]
+%%for i:=maxint downto 0 do
+%%begin
+%%{ do nothing }
+%%end;
+%%\end{lstlisting}
+

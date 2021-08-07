@@ -1,0 +1,3906 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{martin2020optimal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=51322db202e2bcc50d2b5445f78a5247}{%
+           family={Guerras},
+           familyi={G\bibinitperiod},
+           given={L.S.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{72261e5d7ba68217eca6edd9d5eb34f5}
+      \strng{fullhash}{72261e5d7ba68217eca6edd9d5eb34f5}
+      \strng{bibnamehash}{72261e5d7ba68217eca6edd9d5eb34f5}
+      \strng{authorbibnamehash}{72261e5d7ba68217eca6edd9d5eb34f5}
+      \strng{authornamehash}{72261e5d7ba68217eca6edd9d5eb34f5}
+      \strng{authorfullhash}{72261e5d7ba68217eca6edd9d5eb34f5}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Optimal technology selection for the biogas upgrading to biomethane}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{122032}
+      \range{pages}{1}
+    \endentry
+    \entry{Policies}{article}{}
+      \name{author}{5}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=abca94954939cb7608a6fa0b712c8a57}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{fullhash}{7d8910b5ab928a202325d913c4b329ab}
+      \strng{bibnamehash}{7d8910b5ab928a202325d913c4b329ab}
+      \strng{authorbibnamehash}{7d8910b5ab928a202325d913c4b329ab}
+      \strng{authornamehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{authorfullhash}{7d8910b5ab928a202325d913c4b329ab}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Resources, Conservation \& Recycling}
+      \field{title}{{Analysis of incentive policies for phosphorus recovery at livestock facilities in the Great Lakes area}}
+      \field{year}{Under Review}
+      \true{nocite}
+    \endentry
+    \entry{Tool}{article}{}
+      \name{author}{3}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e046473272db5a0a7a5181d0b03f9b76}
+      \strng{fullhash}{e046473272db5a0a7a5181d0b03f9b76}
+      \strng{bibnamehash}{e046473272db5a0a7a5181d0b03f9b76}
+      \strng{authorbibnamehash}{e046473272db5a0a7a5181d0b03f9b76}
+      \strng{authornamehash}{e046473272db5a0a7a5181d0b03f9b76}
+      \strng{authorfullhash}{e046473272db5a0a7a5181d0b03f9b76}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Resources, Conservation \& Recycling}
+      \field{title}{A geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}
+      \field{year}{Under Review}
+      \true{nocite}
+    \endentry
+    \entry{martin2020model}{article}{}
+      \name{author}{3}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{fullhash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{bibnamehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{authorbibnamehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{authornamehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{authorfullhash}{4bf02950736038efdbf9f1fe034a064f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{title}{Model-driven spatial evaluation of nutrient recovery from livestock leachate for struvite production}
+      \field{volume}{271}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{110967}
+      \range{pages}{1}
+    \endentry
+    \entry{martin2021logistics}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=968ccd383de6646ca8622f03e2e11749}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.M.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cfb77c17fbc439b7d9668f91d8bf0a91}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{fullhash}{d3e17174db48de91edf4686c09a1b9df}
+      \strng{bibnamehash}{d3e17174db48de91edf4686c09a1b9df}
+      \strng{authorbibnamehash}{d3e17174db48de91edf4686c09a1b9df}
+      \strng{authornamehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{authorfullhash}{d3e17174db48de91edf4686c09a1b9df}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Carbon Management Technologies}
+      \field{title}{A Logistics Analysis for Advancing Carbon and Nutrient Recovery from Organic Waste}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{186\bibrangedash 207}
+      \range{pages}{22}
+    \endentry
+    \entry{Martin}{article}{}
+      \name{author}{4}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=968ccd383de6646ca8622f03e2e11749}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.M.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{fullhash}{10aaed7fa2f786fa42d3fe4006f1b0d1}
+      \strng{bibnamehash}{10aaed7fa2f786fa42d3fe4006f1b0d1}
+      \strng{authorbibnamehash}{10aaed7fa2f786fa42d3fe4006f1b0d1}
+      \strng{authornamehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{authorfullhash}{10aaed7fa2f786fa42d3fe4006f1b0d1}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Research and Design}
+      \field{title}{Optimal integrated facility for waste processing}
+      \field{volume}{131}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{160\bibrangedash 182}
+      \range{pages}{23}
+    \endentry
+    \entry{mohammadi2021modeling}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fb894afe61c86a63d9ab56fb3f186bf5}{%
+           family={Mohammadi},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1dc0d69fe0e2fa8d038f26bc268bed20}{%
+           family={Mart{í}n\bibnamedelima Hern{á}ndez},
+           familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b5776d1b7671a9ee809b3af711f1d79}{%
+           family={Harjunkoski},
+           familyi={H\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{3d55d3227d0aebb7129edef20d6bd5af}
+      \strng{fullhash}{6752243da04ec1d4eda02e20238508ea}
+      \strng{bibnamehash}{6752243da04ec1d4eda02e20238508ea}
+      \strng{authorbibnamehash}{6752243da04ec1d4eda02e20238508ea}
+      \strng{authornamehash}{3d55d3227d0aebb7129edef20d6bd5af}
+      \strng{authorfullhash}{6752243da04ec1d4eda02e20238508ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial \& Engineering Chemistry Research}
+      \field{number}{4}
+      \field{title}{Modeling and Analysis of Organic Waste Management Systems in Centralized and Decentralized Supply Chains Using Generalized Disjunctive Programming}
+      \field{volume}{60}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1719\bibrangedash 1745}
+      \range{pages}{27}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Alexander_2008}{article}{}
+      \name{author}{6}{}{%
+        {{hash=593223a4c8975abd9ef519325043a6cd}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Richard\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=09368b30e2cbb77ab8d3eeb4aafd535c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fd3dd56529b26c5c82d2d5db45ac4f35}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Gregory\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4373ac63eb08931766059eb07b12e30d}{%
+           family={Boyer},
+           familyi={B\bibinitperiod},
+           given={Elizabeth\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cf688146613673a728f8d02f2d3bb755}{%
+           family={Nolan},
+           familyi={N\bibinitperiod},
+           given={Jacqueline\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=2fb09c697d5a1f0dc1cba0da9c2ae00a}{%
+           family={Brakebill},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4dd274fd8d4cf326acdc2fde2f8bcd8}
+      \strng{fullhash}{dc2299712e089f42b86c594f8c71bb6e}
+      \strng{bibnamehash}{dc2299712e089f42b86c594f8c71bb6e}
+      \strng{authorbibnamehash}{dc2299712e089f42b86c594f8c71bb6e}
+      \strng{authornamehash}{f4dd274fd8d4cf326acdc2fde2f8bcd8}
+      \strng{authorfullhash}{dc2299712e089f42b86c594f8c71bb6e}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science \& Technology}
+      \field{number}{3}
+      \field{title}{{Differences in Phosphorus and Nitrogen Delivery to The Gulf of Mexico from the Mississippi River Basin}}
+      \field{volume}{42}
+      \field{year}{2008}
+      \field{pages}{822\bibrangedash 830}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/es0716103
+      \endverb
+    \endentry
+    \entry{TESmetric}{article}{}
+      \name{author}{3}{}{%
+        {{hash=94fd033e976f1edecbb7bc2e221a3ee3}{%
+           family={Bakshi},
+           familyi={B\bibinitperiod},
+           given={B.R.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=120915cbfcc4c38e9e8456f85adeb977}{%
+           family={Ziv},
+           familyi={Z\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9786e85bf04bb70db644ae672b6a9a8c}{%
+           family={Lepech},
+           familyi={L\bibinitperiod},
+           given={M.D.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{40369b38150f39bb8c589d2db6843c6d}
+      \strng{fullhash}{40369b38150f39bb8c589d2db6843c6d}
+      \strng{bibnamehash}{40369b38150f39bb8c589d2db6843c6d}
+      \strng{authorbibnamehash}{40369b38150f39bb8c589d2db6843c6d}
+      \strng{authornamehash}{40369b38150f39bb8c589d2db6843c6d}
+      \strng{authorfullhash}{40369b38150f39bb8c589d2db6843c6d}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environ. Sci. Technol.}
+      \field{number}{3}
+      \field{title}{Techno-ecological synergy: A framework for sustainable engineering.}
+      \field{volume}{49}
+      \field{year}{2015}
+      \field{pages}{1752\bibrangedash 1760}
+      \range{pages}{9}
+    \endentry
+    \entry{Bates}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8158d95f0d42dc10c81f03c8da446c2a}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=51cfeca9e3e273e57ed5451bfa603d9f}{%
+           family={Pinching},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cfd9f12a2c7098a25b76bc7a524f192}
+      \strng{fullhash}{3cfd9f12a2c7098a25b76bc7a524f192}
+      \strng{bibnamehash}{3cfd9f12a2c7098a25b76bc7a524f192}
+      \strng{authorbibnamehash}{3cfd9f12a2c7098a25b76bc7a524f192}
+      \strng{authornamehash}{3cfd9f12a2c7098a25b76bc7a524f192}
+      \strng{authorfullhash}{3cfd9f12a2c7098a25b76bc7a524f192}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Research of the National Bureau of Standards}
+      \field{title}{Acid dissociation constant of ammonium ion at 0-50 º{C}, and the base strength of ammonia}
+      \field{volume}{42}
+      \field{year}{1949}
+      \field{pages}{419\bibrangedash 430}
+      \range{pages}{12}
+    \endentry
+    \entry{Battistoni}{article}{}
+      \name{author}{5}{}{%
+        {{hash=956171460c5c313473c70a2252530c62}{%
+           family={Battistoni},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0872a970171187184fb366c3bd5849c7}{%
+           family={De\bibnamedelima Angelis},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d6bbc002e1834846f87f98a9bac424a8}{%
+           family={Pavan},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c3dd210dc2dc87613a5c7cfb15a70fc}{%
+           family={Prisciandaro},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f5a0d706104a0ae2405a07c891a16226}{%
+           family={Cecchi},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{af34c6cf23ecc625f6fb8a886cb5995b}
+      \strng{fullhash}{7b479ac126101d4c120a103d5977b7bb}
+      \strng{bibnamehash}{7b479ac126101d4c120a103d5977b7bb}
+      \strng{authorbibnamehash}{7b479ac126101d4c120a103d5977b7bb}
+      \strng{authornamehash}{af34c6cf23ecc625f6fb8a886cb5995b}
+      \strng{authorfullhash}{7b479ac126101d4c120a103d5977b7bb}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wat. Res.}
+      \field{title}{Phosphorus removal from a real anaerobic supernatant by struvite crystallization}
+      \field{volume}{35}
+      \field{year}{2001}
+      \field{pages}{2167\bibrangedash 2178}
+      \range{pages}{12}
+    \endentry
+    \entry{Beaulieu}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3d7f84c6358dfa0424e0e5fbafe8f45b}{%
+           family={Beaulieu},
+           familyi={B\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a96cd1bd9135067c6d3245970339e360}{%
+           family={DelSontro},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=df31d2449fc105f5f9d66357756091a6}{%
+           family={Downing},
+           familyi={D\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d540299d1d13e5c49a8892e0b8b3c7e}
+      \strng{fullhash}{6d540299d1d13e5c49a8892e0b8b3c7e}
+      \strng{bibnamehash}{6d540299d1d13e5c49a8892e0b8b3c7e}
+      \strng{authorbibnamehash}{6d540299d1d13e5c49a8892e0b8b3c7e}
+      \strng{authornamehash}{6d540299d1d13e5c49a8892e0b8b3c7e}
+      \strng{authorfullhash}{6d540299d1d13e5c49a8892e0b8b3c7e}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat. Commun.}
+      \field{title}{Eutrophication will increase methane emissions from lakes and impoundments during the 21st century}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{1375}
+      \range{pages}{1}
+    \endentry
+    \entry{bezanson2017julia}{article}{}
+      \name{author}{4}{}{%
+        {{hash=17e68031e06f57a7e83caeb4e0aed827}{%
+           family={Bezanson},
+           familyi={B\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+        {{hash=01a6ca61fcd12a3a071ec49304df57f8}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bca7c93f55e669f71c4ff95e68ac9538}{%
+           family={Karpinski},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=de802ff42d9c902868c57a332dbac5e0}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Viral\bibnamedelima B},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{07e3452af3652a626dc1d02355fda942}
+      \strng{fullhash}{651af5e2dc744eabe31cd448eb05d640}
+      \strng{bibnamehash}{651af5e2dc744eabe31cd448eb05d640}
+      \strng{authorbibnamehash}{651af5e2dc744eabe31cd448eb05d640}
+      \strng{authornamehash}{07e3452af3652a626dc1d02355fda942}
+      \strng{authorfullhash}{651af5e2dc744eabe31cd448eb05d640}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM review}
+      \field{number}{1}
+      \field{title}{Julia: A fresh approach to numerical computing}
+      \field{volume}{59}
+      \field{year}{2017}
+      \field{pages}{65\bibrangedash 98}
+      \range{pages}{34}
+    \endentry
+    \entry{Brezonik}{book}{}
+      \name{author}{2}{}{%
+        {{hash=edaa23041b5a81995aad062ff755f0ae}{%
+           family={Brezonik},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af703d076cf799eccef33e8a40517403}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{bb3940e42a8bbbfca42e6d7beac953e5}
+      \strng{fullhash}{bb3940e42a8bbbfca42e6d7beac953e5}
+      \strng{bibnamehash}{bb3940e42a8bbbfca42e6d7beac953e5}
+      \strng{authorbibnamehash}{bb3940e42a8bbbfca42e6d7beac953e5}
+      \strng{authornamehash}{bb3940e42a8bbbfca42e6d7beac953e5}
+      \strng{authorfullhash}{bb3940e42a8bbbfca42e6d7beac953e5}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780199730728}
+      \field{title}{Water Chemistry An Introduction to the Chemistry of Natural and Engineered Aquatic Systems}
+      \field{year}{2011}
+    \endentry
+    \entry{celen_using_2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c56bcf9c182338ff28e0a4b0783db460}{%
+           family={Celen},
+           familyi={C\bibinitperiod},
+           given={Ipek},
+           giveni={I\bibinitperiod}}}%
+        {{hash=387d1bf040804404c68c96c05149e385}{%
+           family={Buchanan},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e3144b496e3d1c96efd22aceab5a6241}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=d975b53a32b78e88858099cdd35de814}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Bruce},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ba813a12c56c222c514f29deed173f68}{%
+           family={Raman},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi Raj},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e9b3466339a8b00c5564e554c6c94c5}
+      \strng{fullhash}{34fd691afbe90b3775fd87f744bc6327}
+      \strng{bibnamehash}{34fd691afbe90b3775fd87f744bc6327}
+      \strng{authorbibnamehash}{34fd691afbe90b3775fd87f744bc6327}
+      \strng{authornamehash}{4e9b3466339a8b00c5564e554c6c94c5}
+      \strng{authorfullhash}{34fd691afbe90b3775fd87f744bc6327}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{number}{8}
+      \field{title}{Using a chemical equilibrium model to predict amendments required to precipitate phosphorus as struvite in liquid swine manure}
+      \field{volume}{41}
+      \field{year}{2007}
+      \field{pages}{1689\bibrangedash 1696}
+      \range{pages}{8}
+    \endentry
+    \entry{Cordell}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2aec67b5d23a6fbd8bdf9a1f567ec1dc}{%
+           family={Cordell},
+           familyi={C\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b74278f29eded90a5a9bb54e7a6e5dd3}{%
+           family={Drangert},
+           familyi={D\bibinitperiod},
+           given={Jan-Olof},
+           giveni={J\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=eed894196404376c6b4bec6307ca6611}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{204881e180f25dd022dd866966f2207d}
+      \strng{fullhash}{204881e180f25dd022dd866966f2207d}
+      \strng{bibnamehash}{204881e180f25dd022dd866966f2207d}
+      \strng{authorbibnamehash}{204881e180f25dd022dd866966f2207d}
+      \strng{authornamehash}{204881e180f25dd022dd866966f2207d}
+      \strng{authorfullhash}{204881e180f25dd022dd866966f2207d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Glob. Environ. Change.}
+      \field{number}{2}
+      \field{title}{The story of phosphorus: Global food security and food for thought}
+      \field{volume}{19}
+      \field{year}{2009}
+      \field{pages}{292\bibrangedash 305}
+      \range{pages}{14}
+    \endentry
+    \entry{DunningHuchetteLubin2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6a09fd9d4b66412cec2802755aa5942e}{%
+           family={Dunning},
+           familyi={D\bibinitperiod},
+           given={Iain},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3d4093b368f12c6a917914c63f0d75d1}{%
+           family={Huchette},
+           familyi={H\bibinitperiod},
+           given={Joey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ae562f612365bfa1287b8268e8b021df}{%
+           family={Lubin},
+           familyi={L\bibinitperiod},
+           given={Miles},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{298dd979b252c07511d86580ba18757c}
+      \strng{fullhash}{298dd979b252c07511d86580ba18757c}
+      \strng{bibnamehash}{298dd979b252c07511d86580ba18757c}
+      \strng{authorbibnamehash}{298dd979b252c07511d86580ba18757c}
+      \strng{authornamehash}{298dd979b252c07511d86580ba18757c}
+      \strng{authorfullhash}{298dd979b252c07511d86580ba18757c}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Review}
+      \field{number}{2}
+      \field{title}{JuMP: A Modeling Language for Mathematical Optimization}
+      \field{volume}{59}
+      \field{year}{2017}
+      \field{pages}{295\bibrangedash 320}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1137/15M1020575
+      \endverb
+    \endentry
+    \entry{Dzombak}{article}{}
+      \name{author}{1}{}{%
+        {{hash=318cf52df183ed559c7a5f0bb0bf29b1}{%
+           family={Dzombak},
+           familyi={D\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{318cf52df183ed559c7a5f0bb0bf29b1}
+      \strng{fullhash}{318cf52df183ed559c7a5f0bb0bf29b1}
+      \strng{bibnamehash}{318cf52df183ed559c7a5f0bb0bf29b1}
+      \strng{authorbibnamehash}{318cf52df183ed559c7a5f0bb0bf29b1}
+      \strng{authornamehash}{318cf52df183ed559c7a5f0bb0bf29b1}
+      \strng{authorfullhash}{318cf52df183ed559c7a5f0bb0bf29b1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Bridge}
+      \field{number}{4}
+      \field{title}{Nutrient Control in Large-Scale U.S. Watershed. The Chesapeak Bay and Nothern Gulf of Mexico)}
+      \field{volume}{41}
+      \field{year}{2011}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
+    \endentry
+    \entry{Fowler}{article}{}
+      \name{author}{2}{}{%
+        {{hash=092e2cb72eb5ba46c53d1e3ff3d5bd40}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={B.O.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=28f3b5ab89450fad613d832b858c0138}{%
+           family={Kuroda},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{43bcbab1c708f762ad806c96c8b0704d}
+      \strng{fullhash}{43bcbab1c708f762ad806c96c8b0704d}
+      \strng{bibnamehash}{43bcbab1c708f762ad806c96c8b0704d}
+      \strng{authorbibnamehash}{43bcbab1c708f762ad806c96c8b0704d}
+      \strng{authornamehash}{43bcbab1c708f762ad806c96c8b0704d}
+      \strng{authorfullhash}{43bcbab1c708f762ad806c96c8b0704d}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Calcif. Tissue. Int.}
+      \field{title}{Changes in heated and in laser-irradiated human tooth enamel and their probable effects on solubility}
+      \field{volume}{38}
+      \field{year}{1986}
+      \field{pages}{197\bibrangedash 208}
+      \range{pages}{12}
+    \endentry
+    \entry{gadekar2010validation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=114fbc735611eb97eb574a77ab99f277}{%
+           family={Gadekar},
+           familyi={G\bibinitperiod},
+           given={Sachin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f3888372fabfddb272bf7694f4d2014a}{%
+           family={Pullammanappallil},
+           familyi={P\bibinitperiod},
+           given={Pratap},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd4581a8e15e215537216438871fe813}
+      \strng{fullhash}{fd4581a8e15e215537216438871fe813}
+      \strng{bibnamehash}{fd4581a8e15e215537216438871fe813}
+      \strng{authorbibnamehash}{fd4581a8e15e215537216438871fe813}
+      \strng{authornamehash}{fd4581a8e15e215537216438871fe813}
+      \strng{authorfullhash}{fd4581a8e15e215537216438871fe813}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental modeling \& assessment}
+      \field{number}{3}
+      \field{title}{Validation and applications of a chemical equilibrium model for struvite precipitation}
+      \field{volume}{15}
+      \field{year}{2010}
+      \field{pages}{201\bibrangedash 209}
+      \range{pages}{9}
+    \endentry
+    \entry{Gregory}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e248468ba699769f1488a483e61a4e11}{%
+           family={Gregory},
+           familyi={G\bibinitperiod},
+           given={T.M.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2a4255538db06546ffb59bd3b4e83ebd}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={E.C.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9d646aa54f3f0ba505a968e70465374b}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={W.E.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc28161d0a07bb1803f28107c3b8e471}
+      \strng{fullhash}{cc28161d0a07bb1803f28107c3b8e471}
+      \strng{bibnamehash}{cc28161d0a07bb1803f28107c3b8e471}
+      \strng{authorbibnamehash}{cc28161d0a07bb1803f28107c3b8e471}
+      \strng{authornamehash}{cc28161d0a07bb1803f28107c3b8e471}
+      \strng{authorfullhash}{cc28161d0a07bb1803f28107c3b8e471}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Res. Natl. Bur. Stand.}
+      \field{title}{Solubility of $\text{CaHPO}_4 \cdot 2\text{H}_2\text{O}$ in the system $\text{Ca(OH)}_2-\text{H}_3\text{PO}_4-\text{H}_2\text{O}$ at 5, 15, 25 and 37.5 º{C}}
+      \field{volume}{74}
+      \field{year}{1970}
+      \field{pages}{461\bibrangedash 475}
+      \range{pages}{15}
+    \endentry
+    \entry{Harada}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7ffff4000c6725efbc6762520cd03b22}{%
+           family={Harada},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7c5038d88dbe2335271d8faad89269b0}{%
+           family={Shimizu},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d32a8b4af1d1f8b048cad87ee4c89635}{%
+           family={Miyagoshi},
+           familyi={M\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7ec8cc3fddb86e96585d8700220a2b8b}{%
+           family={Matsui},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a03e676f59119af527e43b2f8593789f}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b6b2c0b097f027e5e874fa8a4ff67749}{%
+           family={Nagasaka},
+           familyi={N\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e85821964c114348061299726acd9650}
+      \strng{fullhash}{4920a7c82eecdb3f52736651a07ef72f}
+      \strng{bibnamehash}{4920a7c82eecdb3f52736651a07ef72f}
+      \strng{authorbibnamehash}{4920a7c82eecdb3f52736651a07ef72f}
+      \strng{authornamehash}{e85821964c114348061299726acd9650}
+      \strng{authorfullhash}{4920a7c82eecdb3f52736651a07ef72f}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Science and Technology}
+      \field{number}{8}
+      \field{title}{{Predicting struvite formation for phosphorus recovery from human urine using an equilibrium model}}
+      \field{volume}{54}
+      \field{year}{2006}
+      \field{pages}{247\bibrangedash 255}
+      \range{pages}{9}
+    \endentry
+    \entry{hu_logistics_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5ca2ea97e61b1550e2dc1f78c8f49a1f}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yicheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=64e03ff2bfa6bb92dbc02ac3541b5906}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={Apoorva\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=81594113fd6040181b06349a1d526a20}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Gerardo\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={Victor\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d28b1b3ac3605c13c785b9837d543e9}
+      \strng{fullhash}{6be5514ddf3ddfe3fb4232321dfc7103}
+      \strng{bibnamehash}{6be5514ddf3ddfe3fb4232321dfc7103}
+      \strng{authorbibnamehash}{6be5514ddf3ddfe3fb4232321dfc7103}
+      \strng{authornamehash}{8d28b1b3ac3605c13c785b9837d543e9}
+      \strng{authorfullhash}{6be5514ddf3ddfe3fb4232321dfc7103}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACS Sustainable Chem. Eng.}
+      \field{number}{22}
+      \field{title}{Logistics {Network} {Management} of {Livestock} {Waste} for {Spatiotemporal} {Control} of {Nutrient} {Pollution} in {Water} {Bodies}}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{18359\bibrangedash 18374}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1021/acssuschemeng.9b03920
+      \endverb
+    \endentry
+    \entry{Matplotlib}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a2f53dcc6bb05a06b8ad94176f80fe26}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{bibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorbibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authornamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput Sci Eng}
+      \field{title}{{Matplotlib: A 2D Graphics Environment}}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{90\bibrangedash 95}
+      \range{pages}{6}
+    \endentry
+    \entry{Pandas}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a2f53dcc6bb05a06b8ad94176f80fe26}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{bibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorbibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authornamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 9th Python in Science Conference,}
+      \field{title}{{Data Structures for Statistical Computing in Python}}
+      \field{year}{2010}
+      \field{pages}{51\bibrangedash 56}
+      \range{pages}{6}
+    \endentry
+    \entry{NuGIS}{report}{}
+      \name{author}{1}{}{%
+        {{hash=536161fdfc9d867613a2b920930d5b8e}{%
+           family={{International Plant Nutrition Institute (IPNI)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Plant Nutrition Institute (IPNI)}%
+      }
+      \strng{namehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{fullhash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{bibnamehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{authorbibnamehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{authornamehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{authorfullhash}{536161fdfc9d867613a2b920930d5b8e}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A Nutrient Use Information System (NuGIS) for the U.S.}}
+      \field{type}{techreport}
+      \field{year}{2012}
+    \endentry
+    \entry{Kadlec}{article}{}
+      \name{author}{1}{}{%
+        {{hash=43af4ce552c8efbb64ed0334fbca4a75}{%
+           family={Kadlec},
+           familyi={K\bibinitperiod},
+           given={R.H.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{fullhash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{bibnamehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{authorbibnamehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{authornamehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{authorfullhash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{title}{Large Constructed Wetlands for Phosphorus Control: A Review}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{243}
+      \range{pages}{1}
+    \endentry
+    \entry{mangin2004fluid}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=dda29382528b0821c904ee97bef56da6}{%
+           family={Mangin},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eecaf533bcb01b1b8389e9bf0328b856}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={JP},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IWA Publishing London, UK}%
+      }
+      \strng{namehash}{b0c63b50ee1fe12ca0c192285b4a9c4f}
+      \strng{fullhash}{b0c63b50ee1fe12ca0c192285b4a9c4f}
+      \strng{bibnamehash}{b0c63b50ee1fe12ca0c192285b4a9c4f}
+      \strng{authorbibnamehash}{b0c63b50ee1fe12ca0c192285b4a9c4f}
+      \strng{authornamehash}{b0c63b50ee1fe12ca0c192285b4a9c4f}
+      \strng{authorfullhash}{b0c63b50ee1fe12ca0c192285b4a9c4f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Phosphorus in environmental technologies: Principles and applications}
+      \field{title}{Fluid dynamic concepts for a phosphate precipitation reactor design}
+      \field{year}{2004}
+      \field{pages}{358\bibrangedash 401}
+      \range{pages}{44}
+    \endentry
+    \entry{Martin}{article}{}
+      \name{author}{4}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Mart{í}n-Hern{á}ndez},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=dc7650d9efee14c86d7e8b59147f75b2}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{fullhash}{3ddccf6b3df141b64d2990a94764dd57}
+      \strng{bibnamehash}{3ddccf6b3df141b64d2990a94764dd57}
+      \strng{authorbibnamehash}{3ddccf6b3df141b64d2990a94764dd57}
+      \strng{authornamehash}{ff84ac18e9f3578397a36503c0707e2d}
+      \strng{authorfullhash}{3ddccf6b3df141b64d2990a94764dd57}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Eng. Res. Des.}
+      \field{title}{Optimal integrated facility for waste processing}
+      \field{volume}{131}
+      \field{year}{2018}
+      \field{pages}{160\bibrangedash 182}
+      \range{pages}{23}
+    \endentry
+    \entry{Matynia}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1328e96198a3eb7437c7c278a0fef0e5}{%
+           family={Matynia},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=774a00249d6fc41906711607b5f48088}{%
+           family={Wierzbowska},
+           familyi={W\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9705c0d912e1f737ae6ff94af7e4f16f}{%
+           family={Hutnik},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1ff054fe67cf3af76d43409c609cd48a}{%
+           family={Mazienczuk},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=60a157b06c0806c67a0103386c653702}{%
+           family={Kozik},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=451dd13670d53c9b48023073c0715ca2}{%
+           family={Piotrowski},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca31711f855f93038bf52591362626de}
+      \strng{fullhash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \strng{bibnamehash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \strng{authorbibnamehash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \strng{authornamehash}{ca31711f855f93038bf52591362626de}
+      \strng{authorfullhash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia. Environ. Sci.}
+      \field{title}{Separation of struvite from mineral fertilizer industry wastewater}
+      \field{volume}{18}
+      \field{year}{2013}
+      \field{pages}{766\bibrangedash 775}
+      \range{pages}{10}
+    \endentry
+    \entry{Metcalf}{book}{}
+      \name{author}{2}{}{%
+        {{hash=15f78c200c40a16cc564141e918ab728}{%
+           family={Metcalf},
+           familyi={M\bibinitperiod}}}%
+        {{hash=817ac4898a54568561273707d3c2b90a}{%
+           family={Eddy},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill, New York}%
+      }
+      \strng{namehash}{58214f465d85733151e88a90aacbaeca}
+      \strng{fullhash}{58214f465d85733151e88a90aacbaeca}
+      \strng{bibnamehash}{58214f465d85733151e88a90aacbaeca}
+      \strng{authorbibnamehash}{58214f465d85733151e88a90aacbaeca}
+      \strng{authornamehash}{58214f465d85733151e88a90aacbaeca}
+      \strng{authorfullhash}{58214f465d85733151e88a90aacbaeca}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780071122504}
+      \field{title}{Wastewater Engineering: Treatment and Resource Recovery}
+      \field{year}{2014}
+    \endentry
+    \entry{Morse}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f303182a7afb8d06e270bd284d40ff5c}{%
+           family={Morse},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=afedd0c4c71bd38043f0632a098d6f3e}{%
+           family={Arvidson},
+           familyi={A\bibinitperiod},
+           given={Rolf\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=86a54ef5613a6ac1843fb44a442e2dbf}{%
+           family={Lüttge},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{15c7b7ef073dbf8d511ea9122988800f}
+      \strng{fullhash}{15c7b7ef073dbf8d511ea9122988800f}
+      \strng{bibnamehash}{15c7b7ef073dbf8d511ea9122988800f}
+      \strng{authorbibnamehash}{15c7b7ef073dbf8d511ea9122988800f}
+      \strng{authornamehash}{15c7b7ef073dbf8d511ea9122988800f}
+      \strng{authorfullhash}{15c7b7ef073dbf8d511ea9122988800f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Rev.}
+      \field{title}{Calcium Carbonate Formation and Dissolution}
+      \field{volume}{107}
+      \field{year}{2007}
+      \field{pages}{342\bibrangedash 381}
+      \range{pages}{40}
+    \endentry
+    \entry{muhmood2019formation}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5de311fd7aa001efa67863853b39eed4}{%
+           family={Muhmood},
+           familyi={M\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f1e62d56a85a69c237d01acc07ee32e4}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Jiaxin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5c75589c6a7848ca7383f6d6e1e143e8}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Renjie},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8f0559d15e5892bde693a34f515714b4}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Shubiao},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{63b4741dbf8143fc15a0b9f3445ce17c}
+      \strng{fullhash}{504660d07c1bc8e62f8d011c5f620720}
+      \strng{bibnamehash}{504660d07c1bc8e62f8d011c5f620720}
+      \strng{authorbibnamehash}{504660d07c1bc8e62f8d011c5f620720}
+      \strng{authornamehash}{63b4741dbf8143fc15a0b9f3445ce17c}
+      \strng{authorfullhash}{504660d07c1bc8e62f8d011c5f620720}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of environmental management}
+      \field{title}{Formation of struvite from agricultural wastewaters and its reuse on farmlands: Status and hindrances to closing the nutrient loop}
+      \field{volume}{230}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{OSU2005}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8ed6ee8031b2554d61410eed30ef5441}{%
+           family={{Ohio State University Extension}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ohio State University Extension}%
+      }
+      \strng{namehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{fullhash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{bibnamehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{authorbibnamehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{authornamehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{authorfullhash}{8ed6ee8031b2554d61410eed30ef5441}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Ohio Agronomy Guide, 14th Edition}}
+      \field{type}{techreport}
+      \field{year}{2005}
+    \endentry
+    \entry{OSU2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8ed6ee8031b2554d61410eed30ef5441}{%
+           family={{Ohio State University Extension}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ohio State University Extension}%
+      }
+      \strng{namehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{fullhash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{bibnamehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{authorbibnamehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{authornamehash}{8ed6ee8031b2554d61410eed30ef5441}
+      \strng{authorfullhash}{8ed6ee8031b2554d61410eed30ef5441}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Ohio Agronomy Guide, 15th Edition}}
+      \field{type}{techreport}
+      \field{year}{2017}
+    \endentry
+    \entry{Ohlinger}{article}{}
+      \name{author}{3}{}{%
+        {{hash=718e3b05bc2a29363dd287fd5f187901}{%
+           family={Ohlinger},
+           familyi={O\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=afa74e2659b7fcf17bfe319ec1ea74a0}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={T.M.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b824d4a91df42d53bf946021ee0fa930}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={E.D.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{646f7a3aad36a3777bece009e37cffac}
+      \strng{fullhash}{646f7a3aad36a3777bece009e37cffac}
+      \strng{bibnamehash}{646f7a3aad36a3777bece009e37cffac}
+      \strng{authorbibnamehash}{646f7a3aad36a3777bece009e37cffac}
+      \strng{authornamehash}{646f7a3aad36a3777bece009e37cffac}
+      \strng{authorfullhash}{646f7a3aad36a3777bece009e37cffac}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wat. Res.}
+      \field{number}{12}
+      \field{title}{Predicting struvite formation in digestion}
+      \field{volume}{32}
+      \field{year}{1998}
+      \field{pages}{3607\bibrangedash 3614}
+      \range{pages}{8}
+    \endentry
+    \entry{EnviroAtlas}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4a6011c802b6678a716dae17a11e06ea}{%
+           family={Pickard},
+           familyi={P\bibinitperiod},
+           given={B.\bibnamedelimi R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=416d5469f540ea3d781e0062665257e8}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=40e6cae643f424f6f57785a9809e147f}{%
+           family={Mehaffey},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bef2a4c927eb075183cce08ad105330f}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={L.\bibnamedelimi E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c002913db5a9fe84835792ba01173b53}{%
+           family={Neale},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4139ce053556676fdb694c8ecda12e08}
+      \strng{fullhash}{84346c1c65ce3cf6a1471f6f84658778}
+      \strng{bibnamehash}{84346c1c65ce3cf6a1471f6f84658778}
+      \strng{authorbibnamehash}{84346c1c65ce3cf6a1471f6f84658778}
+      \strng{authornamehash}{4139ce053556676fdb694c8ecda12e08}
+      \strng{authorfullhash}{84346c1c65ce3cf6a1471f6f84658778}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecosyst. Serv.}
+      \field{title}{EnviroAtlas: A new geospatial tool to foster ecosystem services science and resource management}
+      \field{volume}{14}
+      \field{year}{2015}
+      \field{pages}{45\bibrangedash 55}
+      \range{pages}{11}
+    \endentry
+    \entry{rahaman_modeling_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5823316604ffc4cf9ebb469953e9473a}{%
+           family={Rahaman},
+           familyi={R\bibinitperiod},
+           given={Md\bibnamedelima Saifur},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6c56f4eeb2315bc3e4c7abcd2ed247db}{%
+           family={Mavinic},
+           familyi={M\bibinitperiod},
+           given={Donald\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0fd1e31fcfa3534f826bdb3ec84d26f9}{%
+           family={Meikleham},
+           familyi={M\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9f69154cfa0203ddce7ab9c5d0042eb9}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Naoko},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{619bb416088f814136974999c1edfb9d}
+      \strng{fullhash}{68a6c1988a35bf74e23072870b0c4252}
+      \strng{bibnamehash}{68a6c1988a35bf74e23072870b0c4252}
+      \strng{authorbibnamehash}{68a6c1988a35bf74e23072870b0c4252}
+      \strng{authornamehash}{619bb416088f814136974999c1edfb9d}
+      \strng{authorfullhash}{68a6c1988a35bf74e23072870b0c4252}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Modeling phosphorus removal and recovery from anaerobic digester supernatant through struvite crystallization in a fluidized bed reactor}
+      \field{volume}{51}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{Richards}{report}{}
+      \name{author}{2}{}{%
+        {{hash=c5fa8f7a685a3a1ee58871bf97d4b50f}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={I.\bibnamedelimi R.},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=86e106b934911e27dc440aa81bfa1bc0}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {CEEP, European Fertiliser Manufacturers Association, Anglian Water UK, Thames Water UK}%
+        {Berlin Wasser Betriebe}%
+      }
+      \strng{namehash}{c3de7a4e38e5ffcedc9936bfa5b94bf7}
+      \strng{fullhash}{c3de7a4e38e5ffcedc9936bfa5b94bf7}
+      \strng{bibnamehash}{c3de7a4e38e5ffcedc9936bfa5b94bf7}
+      \strng{authorbibnamehash}{c3de7a4e38e5ffcedc9936bfa5b94bf7}
+      \strng{authornamehash}{c3de7a4e38e5ffcedc9936bfa5b94bf7}
+      \strng{authorfullhash}{c3de7a4e38e5ffcedc9936bfa5b94bf7}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The effectiveness of different precipitated phosphates as sources of phosphorus for plants}
+      \field{type}{techreport}
+      \field{year}{2001}
+    \endentry
+    \entry{ronteltap_struvite_2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fcc79b293e242574059e60a84ae1f992}{%
+           family={Ronteltap},
+           familyi={R\bibinitperiod},
+           given={Mariska},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b975ad52111ed9cfa9f5d242bc2e925}{%
+           family={Maurer},
+           familyi={M\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c57a5a5580c9a6df685efc704cd1e2}{%
+           family={Gujer},
+           familyi={G\bibinitperiod},
+           given={Willi},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1638ef69e5952a64030a35ab404cd1b7}
+      \strng{fullhash}{1638ef69e5952a64030a35ab404cd1b7}
+      \strng{bibnamehash}{1638ef69e5952a64030a35ab404cd1b7}
+      \strng{authorbibnamehash}{1638ef69e5952a64030a35ab404cd1b7}
+      \strng{authornamehash}{1638ef69e5952a64030a35ab404cd1b7}
+      \strng{authorfullhash}{1638ef69e5952a64030a35ab404cd1b7}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{number}{5}
+      \field{title}{Struvite precipitation thermodynamics in source-separated urine}
+      \field{volume}{41}
+      \field{year}{2007}
+      \field{pages}{977\bibrangedash 984}
+      \range{pages}{8}
+    \endentry
+    \entry{Python}{report}{}
+      \name{author}{1}{}{%
+        {{hash=f34213416cf8ddd3260699c9ee29b821}{%
+           family={Rossum},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centrum voor Wiskunde en Informatica (CWI)}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \strng{namehash}{f34213416cf8ddd3260699c9ee29b821}
+      \strng{fullhash}{f34213416cf8ddd3260699c9ee29b821}
+      \strng{bibnamehash}{f34213416cf8ddd3260699c9ee29b821}
+      \strng{authorbibnamehash}{f34213416cf8ddd3260699c9ee29b821}
+      \strng{authornamehash}{f34213416cf8ddd3260699c9ee29b821}
+      \strng{authorfullhash}{f34213416cf8ddd3260699c9ee29b821}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{number}{CS-R9526}
+      \field{title}{Python tutorial}
+      \field{type}{techreport}
+      \field{year}{1995}
+    \endentry
+    \entry{RUTTENBERG2001401}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7c4d80c6ed33c8b8ec2fd52fc4313833}{%
+           family={Ruttenberg},
+           familyi={R\bibinitperiod},
+           given={K.C.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=aebe60cae3743e8a2316473e82ea915b}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{7c4d80c6ed33c8b8ec2fd52fc4313833}
+      \strng{fullhash}{7c4d80c6ed33c8b8ec2fd52fc4313833}
+      \strng{bibnamehash}{7c4d80c6ed33c8b8ec2fd52fc4313833}
+      \strng{authorbibnamehash}{7c4d80c6ed33c8b8ec2fd52fc4313833}
+      \strng{authornamehash}{7c4d80c6ed33c8b8ec2fd52fc4313833}
+      \strng{authorfullhash}{7c4d80c6ed33c8b8ec2fd52fc4313833}
+      \strng{editorbibnamehash}{aebe60cae3743e8a2316473e82ea915b}
+      \strng{editornamehash}{aebe60cae3743e8a2316473e82ea915b}
+      \strng{editorfullhash}{aebe60cae3743e8a2316473e82ea915b}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Ocean Sciences (Second Edition)}
+      \field{edition}{Second Edition}
+      \field{isbn}{978-0-12-374473-9}
+      \field{title}{Phosphorus Cycle*}
+      \field{year}{2001}
+      \field{pages}{401\bibrangedash 412}
+      \range{pages}{12}
+    \endentry
+    \entry{Sampat3}{article}{}
+      \name{author}{7}{}{%
+        {{hash=968ccd383de6646ca8622f03e2e11749}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.M.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=abca94954939cb7608a6fa0b712c8a57}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=67c80adc97c72cd6d7b56a96129633c6}{%
+           family={Sharara},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3960718dbbfce974743609c9617eaff6}{%
+           family={Aguirre-Villegas},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4ad12251f1aba7b7d13054081dd14f91}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.\bibnamedelimi M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7b414671f0a56464f21010362e61624}
+      \strng{fullhash}{07ce7b4de3e084d1fcfad925626a6f75}
+      \strng{bibnamehash}{07ce7b4de3e084d1fcfad925626a6f75}
+      \strng{authorbibnamehash}{07ce7b4de3e084d1fcfad925626a6f75}
+      \strng{authornamehash}{a7b414671f0a56464f21010362e61624}
+      \strng{authorfullhash}{07ce7b4de3e084d1fcfad925626a6f75}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput. Chem. Eng.}
+      \field{title}{Coordinated management of organic waste and derived products}
+      \field{volume}{128}
+      \field{year}{2019}
+      \field{pages}{352\bibrangedash 363}
+      \range{pages}{12}
+    \endentry
+    \entry{Sampat}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dc7650d9efee14c86d7e8b59147f75b2}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6e6f7ef5e59c85a36efd8824747cbfaf}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{99b93d47260c138211baf1a4ad08d4dc}
+      \strng{fullhash}{5053d3ce32d024191bdd974a51b272ab}
+      \strng{bibnamehash}{5053d3ce32d024191bdd974a51b272ab}
+      \strng{authorbibnamehash}{5053d3ce32d024191bdd974a51b272ab}
+      \strng{authornamehash}{99b93d47260c138211baf1a4ad08d4dc}
+      \strng{authorfullhash}{5053d3ce32d024191bdd974a51b272ab}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput. Chem. Eng.}
+      \field{title}{Optimization formulations for multi-product supply chain networks}
+      \field{volume}{104}
+      \field{year}{2017}
+      \field{pages}{296\bibrangedash 310}
+      \range{pages}{15}
+    \endentry
+    \entry{Sampat2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dc7650d9efee14c86d7e8b59147f75b2}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{baef36d50b3f467fe0be9d1fc3667975}
+      \strng{fullhash}{baef36d50b3f467fe0be9d1fc3667975}
+      \strng{bibnamehash}{baef36d50b3f467fe0be9d1fc3667975}
+      \strng{authorbibnamehash}{baef36d50b3f467fe0be9d1fc3667975}
+      \strng{authornamehash}{baef36d50b3f467fe0be9d1fc3667975}
+      \strng{authorfullhash}{baef36d50b3f467fe0be9d1fc3667975}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACS Sustain. Chem. Eng.}
+      \field{number}{5}
+      \field{title}{Economic and Environmental Analysis for Advancing Sustainable Management of Livestock Waste: A Wisconsin Case Study.}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{6018\bibrangedash 6031}
+      \range{pages}{14}
+    \endentry
+    \entry{Sharara}{article}{}
+      \name{author}{8}{}{%
+        {{hash=5ec4756162ec97b4a70b580ace1926d0}{%
+           family={Sharara},
+           familyi={S\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=864fc2ea497c9d1c92fac11d6d856e84}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={Apoorva},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4d7067d91150c8aab3520a8b6b08043}{%
+           family={Good},
+           familyi={G\bibinitperiod},
+           given={Laura\bibnamedelima W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=98e0f0594437f87dd3419703a7003e0c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7bf8d175303be2dea7e270788c84553b}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={Victor\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6b8222bc8046a640eaa8acf0e9e02902}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{hash=caa916a0be822afc05074c547d05c598}{%
+           family={Runge},
+           familyi={R\bibinitperiod},
+           given={Troy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c7feab8b74caa4d46fc8fc93a06d711}
+      \strng{fullhash}{6d28ce40ea951b1292398559beabd7bb}
+      \strng{bibnamehash}{6d28ce40ea951b1292398559beabd7bb}
+      \strng{authorbibnamehash}{6d28ce40ea951b1292398559beabd7bb}
+      \strng{authornamehash}{2c7feab8b74caa4d46fc8fc93a06d711}
+      \strng{authorfullhash}{6d28ce40ea951b1292398559beabd7bb}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Environ. Manage.}
+      \field{title}{Spatially explicit methodology for coordinated manure management in shared watersheds}
+      \field{volume}{192}
+      \field{year}{2017}
+      \field{pages}{48\bibrangedash 56}
+      \range{pages}{9}
+    \endentry
+    \entry{Shashvatt}{article}{}
+      \name{author}{4}{}{%
+        {{hash=88a079bf896aa15e4ba90019a732e8fb}{%
+           family={Shashvatt},
+           familyi={S\bibinitperiod},
+           given={Utsav},
+           giveni={U\bibinitperiod}}}%
+        {{hash=65168716b1192be116a03b41a0bcf0e6}{%
+           family={Benoit},
+           familyi={B\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod}}}%
+        {{hash=93a2409270c42bfab4f0eb8073faf12f}{%
+           family={Aris},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4560a3e2d1ab441513b3a08a1583c8b0}{%
+           family={Blaney},
+           familyi={B\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3f4adeb53be748d5a8a08cb19e51912}
+      \strng{fullhash}{3a1f11a3ccf600726e8470606ff81253}
+      \strng{bibnamehash}{3a1f11a3ccf600726e8470606ff81253}
+      \strng{authorbibnamehash}{3a1f11a3ccf600726e8470606ff81253}
+      \strng{authornamehash}{d3f4adeb53be748d5a8a08cb19e51912}
+      \strng{authorfullhash}{3a1f11a3ccf600726e8470606ff81253}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wat. Res.}
+      \field{title}{CO2-assisted phosphorus extraction from poultry litter and selective recovery of struvite and potassium struvite}
+      \field{volume}{143}
+      \field{year}{2018}
+      \field{pages}{19\bibrangedash 27}
+      \range{pages}{9}
+    \endentry
+    \entry{Skoog}{book}{}
+      \name{author}{4}{}{%
+        {{hash=5d2a2aa4ec4ceb36b27fb0bf291b6c92}{%
+           family={Skoog},
+           familyi={S\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2c42249d33526987e59f07ca332d5279}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={D.M.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=41376677d1ea83df4985876e66e94b47}{%
+           family={Holler},
+           familyi={H\bibinitperiod},
+           given={F.J.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=36408473cc82cf1ab75db3c8dc5d77c6}{%
+           family={Crouch},
+           familyi={C\bibinitperiod},
+           given={S.R},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cengage Learning}%
+      }
+      \strng{namehash}{a7427796d08c43a073c5e62cd03d7600}
+      \strng{fullhash}{3d5b0729ede26877a8fa3e865ed67d32}
+      \strng{bibnamehash}{3d5b0729ede26877a8fa3e865ed67d32}
+      \strng{authorbibnamehash}{3d5b0729ede26877a8fa3e865ed67d32}
+      \strng{authornamehash}{a7427796d08c43a073c5e62cd03d7600}
+      \strng{authorfullhash}{3d5b0729ede26877a8fa3e865ed67d32}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780495558286}
+      \field{title}{Fundamentals of analytical chemistry}
+      \field{year}{2014}
+    \endentry
+    \entry{SPARROW_report_1999}{report}{}
+      \name{author}{2}{}{%
+        {{hash=09368b30e2cbb77ab8d3eeb4aafd535c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=593223a4c8975abd9ef519325043a6cd}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Richard\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U. S. Geological Survey}%
+      }
+      \strng{namehash}{d00eacb2577de027ec06f156b7ed4ddc}
+      \strng{fullhash}{d00eacb2577de027ec06f156b7ed4ddc}
+      \strng{bibnamehash}{d00eacb2577de027ec06f156b7ed4ddc}
+      \strng{authorbibnamehash}{d00eacb2577de027ec06f156b7ed4ddc}
+      \strng{authornamehash}{d00eacb2577de027ec06f156b7ed4ddc}
+      \strng{authorfullhash}{d00eacb2577de027ec06f156b7ed4ddc}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Sources of Nutrients in the Nation’s Watersheds}}
+      \field{type}{techreport}
+      \field{year}{1999}
+    \endentry
+    \entry{Tao}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d98348699bcd318da70f71abe32cbc70}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1d6f722bb9d1a0e1140b05702b872d04}{%
+           family={Fattah},
+           familyi={F\bibinitperiod},
+           given={K.P.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2af5c3f1124b0c50fbcf4d381381e4a5}{%
+           family={Huchzermeier},
+           familyi={H\bibinitperiod},
+           given={M.P.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2692f5c51b4d5bf9b198fdb2bc7721a1}
+      \strng{fullhash}{2692f5c51b4d5bf9b198fdb2bc7721a1}
+      \strng{bibnamehash}{2692f5c51b4d5bf9b198fdb2bc7721a1}
+      \strng{authorbibnamehash}{2692f5c51b4d5bf9b198fdb2bc7721a1}
+      \strng{authornamehash}{2692f5c51b4d5bf9b198fdb2bc7721a1}
+      \strng{authorfullhash}{2692f5c51b4d5bf9b198fdb2bc7721a1}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Environ. Manage.}
+      \field{title}{Struvite recovery from anaerobically digested dairy manure: A review of application potential and hindrances}
+      \field{volume}{169}
+      \field{year}{2016}
+      \field{pages}{46\bibrangedash 57}
+      \range{pages}{12}
+    \endentry
+    \entry{TaylorAW}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8a88c0d5475e274a1235b8e3542e597a}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={A.W.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e9b9cac0d0d0af4ee29f71c1428e38f}{%
+           family={Frazier},
+           familyi={F\bibinitperiod},
+           given={A.W.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0059ef6320200ef686ffc4dc19cb4538}{%
+           family={Gurneynium},
+           familyi={G\bibinitperiod},
+           given={E.L.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5a0654b1f6600b56563f8dc176c008c}
+      \strng{fullhash}{a5a0654b1f6600b56563f8dc176c008c}
+      \strng{bibnamehash}{a5a0654b1f6600b56563f8dc176c008c}
+      \strng{authorbibnamehash}{a5a0654b1f6600b56563f8dc176c008c}
+      \strng{authornamehash}{a5a0654b1f6600b56563f8dc176c008c}
+      \strng{authorfullhash}{a5a0654b1f6600b56563f8dc176c008c}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trans. Faraday Soc.}
+      \field{title}{Solubility products of magnesium ammonium and magnesium potassium phosphates}
+      \field{volume}{59}
+      \field{year}{1963}
+      \field{pages}{1580\bibrangedash 1584}
+      \range{pages}{5}
+    \endentry
+    \entry{Thomopoulos}{book}{}
+      \name{author}{1}{}{%
+        {{hash=33a59610bc94a94f5d260e60c414d4a6}{%
+           family={Thomopoulos},
+           familyi={T\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, New York}%
+      }
+      \strng{namehash}{33a59610bc94a94f5d260e60c414d4a6}
+      \strng{fullhash}{33a59610bc94a94f5d260e60c414d4a6}
+      \strng{bibnamehash}{33a59610bc94a94f5d260e60c414d4a6}
+      \strng{authorbibnamehash}{33a59610bc94a94f5d260e60c414d4a6}
+      \strng{authornamehash}{33a59610bc94a94f5d260e60c414d4a6}
+      \strng{authorfullhash}{33a59610bc94a94f5d260e60c414d4a6}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Essentials of Monte Carlo Simulation}
+      \field{year}{2012}
+    \endentry
+    \entry{HUC8}{report}{}
+      \name{author}{1}{}{%
+        {{hash=443478d363b15c65a1ee517d1122e79b}{%
+           family={{U.S. Geological Survey}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Geological Survey}%
+      }
+      \strng{namehash}{443478d363b15c65a1ee517d1122e79b}
+      \strng{fullhash}{443478d363b15c65a1ee517d1122e79b}
+      \strng{bibnamehash}{443478d363b15c65a1ee517d1122e79b}
+      \strng{authorbibnamehash}{443478d363b15c65a1ee517d1122e79b}
+      \strng{authornamehash}{443478d363b15c65a1ee517d1122e79b}
+      \strng{authorfullhash}{443478d363b15c65a1ee517d1122e79b}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Federal Standards and Procedures for the National Watershaed Boundary Dataset (WBD)}}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{Kellog2000}{report}{}
+      \name{author}{1}{}{%
+        {{hash=80fd38d05f96523b89762870eb63ab35}{%
+           family={{United States Department of Agriculture}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture}%
+      }
+      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Manure Nutrients Relative to the Capacity of Cropland and Pastureland to Assimilate Nutrients}}
+      \field{type}{techreport}
+      \field{year}{2000}
+    \endentry
+    \entry{USDAWaste}{report}{}
+      \name{author}{1}{}{%
+        {{hash=296ff256fcace7423856111a01f1374e}{%
+           family={{United States Department of Agriculture (USDA)}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{296ff256fcace7423856111a01f1374e}
+      \strng{fullhash}{296ff256fcace7423856111a01f1374e}
+      \strng{bibnamehash}{296ff256fcace7423856111a01f1374e}
+      \strng{authorbibnamehash}{296ff256fcace7423856111a01f1374e}
+      \strng{authornamehash}{296ff256fcace7423856111a01f1374e}
+      \strng{authorfullhash}{296ff256fcace7423856111a01f1374e}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Waste Management Field Handbook}}
+      \field{type}{techreport}
+      \field{year}{2009}
+    \endentry
+    \entry{2017CensusofAgriculture}{report}{}
+      \name{author}{1}{}{%
+        {{hash=296ff256fcace7423856111a01f1374e}{%
+           family={{United States Department of Agriculture (USDA)}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{296ff256fcace7423856111a01f1374e}
+      \strng{fullhash}{296ff256fcace7423856111a01f1374e}
+      \strng{bibnamehash}{296ff256fcace7423856111a01f1374e}
+      \strng{authorbibnamehash}{296ff256fcace7423856111a01f1374e}
+      \strng{authornamehash}{296ff256fcace7423856111a01f1374e}
+      \strng{authorfullhash}{296ff256fcace7423856111a01f1374e}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{2017 Census of Agriculture. United Satates. Summary and State Data}}
+      \field{type}{techreport}
+      \field{year}{2019}
+    \endentry
+    \entry{USDACattle2020}{report}{}
+      \name{author}{1}{}{%
+        {{hash=e8b15d31d46fe890d9a3aeecca04b826}{%
+           family={{United States Department of Agriculture (USDA), National Agricultural Statistics Service}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \strng{fullhash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \strng{bibnamehash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \strng{authorbibnamehash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \strng{authornamehash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \strng{authorfullhash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Cattle (January 2020)}}
+      \field{type}{techreport}
+      \field{year}{2020}
+    \endentry
+    \entry{Numpy}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4862fab6a3dd4e267454aa056e04381f}{%
+           family={Walt},
+           familyi={W\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=2a6d79faab06fcd384803a5652ad804d}{%
+           family={Colbert},
+           familyi={C\bibinitperiod},
+           given={S.C.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b99c2df2144dc5ee09317a7833dea42d}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{60d1f595adb7493c054913176f107481}
+      \strng{fullhash}{60d1f595adb7493c054913176f107481}
+      \strng{bibnamehash}{60d1f595adb7493c054913176f107481}
+      \strng{authorbibnamehash}{60d1f595adb7493c054913176f107481}
+      \strng{authornamehash}{60d1f595adb7493c054913176f107481}
+      \strng{authorfullhash}{60d1f595adb7493c054913176f107481}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput Sci Eng}
+      \field{title}{{The NumPy Array: A Structure for Efficient Numerical Computation}}
+      \field{volume}{13}
+      \field{year}{2011}
+      \field{pages}{22\bibrangedash 30}
+      \range{pages}{9}
+    \endentry
+    \entry{Yan}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d6f1541146eafd44387e775468b3a66e}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hanlu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=38d11240e4fcf8ba3e76446f5b6245ab}{%
+           family={Shih},
+           familyi={S\bibinitperiod},
+           given={Kaimin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{d248417257a77d66813c661c536f1472}
+      \strng{fullhash}{d248417257a77d66813c661c536f1472}
+      \strng{bibnamehash}{d248417257a77d66813c661c536f1472}
+      \strng{authorbibnamehash}{d248417257a77d66813c661c536f1472}
+      \strng{authornamehash}{d248417257a77d66813c661c536f1472}
+      \strng{authorfullhash}{d248417257a77d66813c661c536f1472}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wat. Res.}
+      \field{title}{Effects of calcium and ferric ions on struvite precipitation: A new assessment based on quantitative X-ray diffraction analysis}
+      \field{volume}{95}
+      \field{year}{2016}
+      \field{pages}{310\bibrangedash 318}
+      \range{pages}{9}
+    \endentry
+    \entry{Zeng}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d0057d9ce4eecbe057f6ebc03e11e67b}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c9a3728dcc2397d1bab78a791b51779b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9113afe88e942c391608711b3f8175b}
+      \strng{fullhash}{a9113afe88e942c391608711b3f8175b}
+      \strng{bibnamehash}{a9113afe88e942c391608711b3f8175b}
+      \strng{authorbibnamehash}{a9113afe88e942c391608711b3f8175b}
+      \strng{authornamehash}{a9113afe88e942c391608711b3f8175b}
+      \strng{authorfullhash}{a9113afe88e942c391608711b3f8175b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Environ. Eng. Sci.}
+      \field{title}{Nutrient removal from anaerobically digested cattle manure by struvite precipitation}
+      \field{volume}{5}
+      \field{year}{2006}
+      \field{pages}{285\bibrangedash 294}
+      \range{pages}{10}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Jane1997}{report}{}
+      \name{author}{1}{}{%
+        {{hash=1648ceba6aef9ba569b2cce39f9397d6}{%
+           family={Aero-engines},
+           familyi={A\bibinithyphendelim e\bibinitperiod},
+           given={Jane's},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Sentinel House}%
+      }
+      \strng{namehash}{1648ceba6aef9ba569b2cce39f9397d6}
+      \strng{fullhash}{1648ceba6aef9ba569b2cce39f9397d6}
+      \strng{bibnamehash}{1648ceba6aef9ba569b2cce39f9397d6}
+      \strng{authorbibnamehash}{1648ceba6aef9ba569b2cce39f9397d6}
+      \strng{authornamehash}{1648ceba6aef9ba569b2cce39f9397d6}
+      \strng{authorfullhash}{1648ceba6aef9ba569b2cce39f9397d6}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Jane's Information Group,}
+      \field{type}{techreport}
+      \field{year}{1997}
+    \endentry
+    \entry{AlSeadi2008}{book}{}
+      \name{author}{7}{}{%
+        {{hash=d4da5d1f0cab2deafe6eec6f947d3bf4}{%
+           family={Al\bibnamedelima Seadi},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d577236810e2ec79e54c63e065ec67a0}{%
+           family={Rutz},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e15c2bc130ea37fcc97dc2ba495953f9}{%
+           family={Prassl},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5adf5db2272e0aca6fc2dc2356d6ea5d}{%
+           family={Köttner},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1fc823841b40ad5ca1f1bd702aa6b8ef}{%
+           family={Finsterwalder},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0322ab773f49c6f4740d1bc0f4f02998}{%
+           family={Volk},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c7b84b08b9c9d46a1f298f641e6bf874}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Denmark}%
+      }
+      \list{publisher}{1}{%
+        {Syddansk Universitet}%
+      }
+      \strng{namehash}{d0b252082a1ce78bcdbd8534ce31ec46}
+      \strng{fullhash}{fc98cd865fc2117f5bcfd0582cac6ebd}
+      \strng{bibnamehash}{fc98cd865fc2117f5bcfd0582cac6ebd}
+      \strng{authorbibnamehash}{fc98cd865fc2117f5bcfd0582cac6ebd}
+      \strng{authornamehash}{d0b252082a1ce78bcdbd8534ce31ec46}
+      \strng{authorfullhash}{fc98cd865fc2117f5bcfd0582cac6ebd}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2008}
+      \field{isbn}{978-87-992962-0-0}
+      \field{title}{Biogas handbook}
+      \field{year}{2008}
+    \endentry
+    \entry{russell2004gpsa}{report}{}
+      \name{author}{1}{}{%
+        {{hash=76f6060e19704e2b09671a297326f42a}{%
+           family={Association},
+           familyi={A\bibinitperiod},
+           given={Gas\bibnamedelimb Processors\bibnamedelima Suppliers},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gas Processors Suppliers Association}%
+      }
+      \strng{namehash}{76f6060e19704e2b09671a297326f42a}
+      \strng{fullhash}{76f6060e19704e2b09671a297326f42a}
+      \strng{bibnamehash}{76f6060e19704e2b09671a297326f42a}
+      \strng{authorbibnamehash}{76f6060e19704e2b09671a297326f42a}
+      \strng{authornamehash}{76f6060e19704e2b09671a297326f42a}
+      \strng{authorfullhash}{76f6060e19704e2b09671a297326f42a}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GPSA engineering data book, 12th ed.}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
+    \entry{DEFRA}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b82104964df13674c9fdfb7e3ab3a690}{%
+           family={{Department for Environment Food and Rural Affairs (DEFRA)}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b82104964df13674c9fdfb7e3ab3a690}
+      \strng{fullhash}{b82104964df13674c9fdfb7e3ab3a690}
+      \strng{bibnamehash}{b82104964df13674c9fdfb7e3ab3a690}
+      \strng{authorbibnamehash}{b82104964df13674c9fdfb7e3ab3a690}
+      \strng{authornamehash}{b82104964df13674c9fdfb7e3ab3a690}
+      \strng{authorfullhash}{b82104964df13674c9fdfb7e3ab3a690}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://adlib.everysite.co.uk/adlib/defra/content.aspx?doc=262994&id=263068}}
+      \field{note}{[Online; accessed 29-April-2017]}
+      \field{title}{{Fertiliser Manual (RB209)}}
+      \field{year}{2011}
+    \endentry
+    \entry{Nexant2006}{report}{}
+      \name{author}{1}{}{%
+        {{hash=abdb5e2a70a9441c22d1716708fe210a}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Nexant},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Renewable Energy Laboratory (NREL)}%
+      }
+      \strng{namehash}{abdb5e2a70a9441c22d1716708fe210a}
+      \strng{fullhash}{abdb5e2a70a9441c22d1716708fe210a}
+      \strng{bibnamehash}{abdb5e2a70a9441c22d1716708fe210a}
+      \strng{authorbibnamehash}{abdb5e2a70a9441c22d1716708fe210a}
+      \strng{authornamehash}{abdb5e2a70a9441c22d1716708fe210a}
+      \strng{authorfullhash}{abdb5e2a70a9441c22d1716708fe210a}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Equipment Design and Cost Estimation for Small Modular Biomass Systems, Synthesis Gas Cleanup, and Oxygen Separation Equipment. Task 2: Gas Cleanup Design and Cost Estimates – Black Liquor Gasification}
+      \field{type}{techreport}
+      \field{year}{2006}
+    \endentry
+    \entry{kaparaju2013generation}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=d9f864602ef3b723b56000bee79040d6}{%
+           family={Kaparaju},
+           familyi={K\bibinitperiod},
+           given={Prasad},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dd3c9f13f8a47dc75ebba20ccd12be81}{%
+           family={Rintala},
+           familyi={R\bibinitperiod},
+           given={Jukka},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b1745c268701740de88316b051a62294}
+      \strng{fullhash}{b1745c268701740de88316b051a62294}
+      \strng{bibnamehash}{b1745c268701740de88316b051a62294}
+      \strng{authorbibnamehash}{b1745c268701740de88316b051a62294}
+      \strng{authornamehash}{b1745c268701740de88316b051a62294}
+      \strng{authorfullhash}{b1745c268701740de88316b051a62294}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The biogas handbook}
+      \field{title}{Generation of heat and power from biogas for stationary applications: boilers, gas engines and turbines, combined heat and power (CHP) plants and fuel cells}
+      \field{year}{2013}
+      \field{pages}{404\bibrangedash 427}
+      \range{pages}{24}
+    \endentry
+    \entry{martin2013optimal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=647e287ed6c250b85462c70a22eb954a}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={Lidia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a3a26ffa95486d80769b78f1825bd877}
+      \strng{fullhash}{a3a26ffa95486d80769b78f1825bd877}
+      \strng{bibnamehash}{a3a26ffa95486d80769b78f1825bd877}
+      \strng{authorbibnamehash}{a3a26ffa95486d80769b78f1825bd877}
+      \strng{authornamehash}{a3a26ffa95486d80769b78f1825bd877}
+      \strng{authorfullhash}{a3a26ffa95486d80769b78f1825bd877}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Thermal Engineering}
+      \field{number}{1-2}
+      \field{title}{Optimal year-round operation of a concentrated solar energy plant in the south of Europe}
+      \field{volume}{59}
+      \field{year}{2013}
+      \field{pages}{627\bibrangedash 633}
+      \range{pages}{7}
+    \endentry
+    \entry{Moran2003}{book}{}
+      \name{author}{2}{}{%
+        {{hash=8f59b995bf7f24a35dcd62d711481e85}{%
+           family={Moran},
+           familyi={M\bibinitperiod},
+           given={M.J.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eaf0cb2597614e72f56cb325c9168e92}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={H.N.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{59131260f77664a18ca7f2a7d1b56354}
+      \strng{fullhash}{59131260f77664a18ca7f2a7d1b56354}
+      \strng{bibnamehash}{59131260f77664a18ca7f2a7d1b56354}
+      \strng{authorbibnamehash}{59131260f77664a18ca7f2a7d1b56354}
+      \strng{authornamehash}{59131260f77664a18ca7f2a7d1b56354}
+      \strng{authorfullhash}{59131260f77664a18ca7f2a7d1b56354}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5}
+      \field{title}{Fundamentals of Engineering Thermodynamics}
+      \field{year}{2003}
+    \endentry
+    \entry{ryckebosch2011techniques}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3d5dbbb379939c2882ce8752152be439}{%
+           family={Ryckebosch},
+           familyi={R\bibinitperiod},
+           given={Eline},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1c3f5d1bde7f104157ec8891c0d9ec30}{%
+           family={Drouillon},
+           familyi={D\bibinitperiod},
+           given={Margriet},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7af9301a4ada7678749686258e1e5c3d}{%
+           family={Vervaeren},
+           familyi={V\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7d2ee437836d4cfe7e93b9d67bf308ee}
+      \strng{fullhash}{7d2ee437836d4cfe7e93b9d67bf308ee}
+      \strng{bibnamehash}{7d2ee437836d4cfe7e93b9d67bf308ee}
+      \strng{authorbibnamehash}{7d2ee437836d4cfe7e93b9d67bf308ee}
+      \strng{authornamehash}{7d2ee437836d4cfe7e93b9d67bf308ee}
+      \strng{authorfullhash}{7d2ee437836d4cfe7e93b9d67bf308ee}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biomass and bioenergy}
+      \field{number}{5}
+      \field{title}{Techniques for transformation of biogas to biomethane}
+      \field{volume}{35}
+      \field{year}{2011}
+      \field{pages}{1633\bibrangedash 1645}
+      \range{pages}{13}
+    \endentry
+    \entry{rk1999coulson}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b179119a07b2b85f57b0d0a77b47fc57}{%
+           family={Sinnott},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b179119a07b2b85f57b0d0a77b47fc57}
+      \strng{fullhash}{b179119a07b2b85f57b0d0a77b47fc57}
+      \strng{bibnamehash}{b179119a07b2b85f57b0d0a77b47fc57}
+      \strng{authorbibnamehash}{b179119a07b2b85f57b0d0a77b47fc57}
+      \strng{authornamehash}{b179119a07b2b85f57b0d0a77b47fc57}
+      \strng{authorfullhash}{b179119a07b2b85f57b0d0a77b47fc57}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{journaltitle}{Chemical engineering design}
+      \field{title}{Coulson and Richardson's Chemical Engineering}
+      \field{year}{1999}
+    \endentry
+    \entry{vidal2015optimal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=34b4a928cc3e3f8feeb9b07772af91ec}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Mart{í}n},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd61a90ed7523c6ebdb1a4ccbfa150c8}
+      \strng{fullhash}{cd61a90ed7523c6ebdb1a4ccbfa150c8}
+      \strng{bibnamehash}{cd61a90ed7523c6ebdb1a4ccbfa150c8}
+      \strng{authorbibnamehash}{cd61a90ed7523c6ebdb1a4ccbfa150c8}
+      \strng{authornamehash}{cd61a90ed7523c6ebdb1a4ccbfa150c8}
+      \strng{authorfullhash}{cd61a90ed7523c6ebdb1a4ccbfa150c8}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comp. Chem. Eng}
+      \field{title}{Optimal coupling of biomass and solar energy for the production of electricity and chemicals}
+      \field{volume}{72}
+      \field{year}{2015}
+      \field{pages}{273\bibrangedash 283}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{almena2016technoeconomic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5e43e8e6b54addadfcd88742e40a7fa2}{%
+           family={Almena},
+           familyi={A\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{76e929b53ce9513a2c139a53c0ee5cb5}
+      \strng{fullhash}{76e929b53ce9513a2c139a53c0ee5cb5}
+      \strng{bibnamehash}{76e929b53ce9513a2c139a53c0ee5cb5}
+      \strng{authorbibnamehash}{76e929b53ce9513a2c139a53c0ee5cb5}
+      \strng{authornamehash}{76e929b53ce9513a2c139a53c0ee5cb5}
+      \strng{authorfullhash}{76e929b53ce9513a2c139a53c0ee5cb5}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial \& Engineering Chemistry Research}
+      \field{number}{12}
+      \field{title}{Technoeconomic analysis of the production of epichlorohydrin from glycerol}
+      \field{volume}{55}
+      \field{year}{2016}
+      \field{pages}{3226\bibrangedash 3238}
+      \range{pages}{13}
+    \endentry
+    \entry{angelidaki2018biogas}{article}{}
+      \name{author}{7}{}{%
+        {{hash=6c2898aad0905be871bfdb9293f8e82a}{%
+           family={Angelidaki},
+           familyi={A\bibinitperiod},
+           given={Irini},
+           giveni={I\bibinitperiod}}}%
+        {{hash=29983956b5f71ff588679ee41251b0c2}{%
+           family={Treu},
+           familyi={T\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6626a7ae3a03f150cb7275c52545a40a}{%
+           family={Tsapekos},
+           familyi={T\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0864430793cc40dda41694b9bf962ce2}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=57f240140272c5e194e45350cbe9c8e5}{%
+           family={Campanaro},
+           familyi={C\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a2fea7f17581efd673b3dfb3e0e0c047}{%
+           family={Wenzel},
+           familyi={W\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f31c96f8c40fe9326499ef7205371bcb}{%
+           family={Kougias},
+           familyi={K\bibinitperiod},
+           given={Panagiotis\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ae423e2f6c03c873220ab3517c000d0e}
+      \strng{fullhash}{e26db05261bba3242879717a1c977bbe}
+      \strng{bibnamehash}{e26db05261bba3242879717a1c977bbe}
+      \strng{authorbibnamehash}{e26db05261bba3242879717a1c977bbe}
+      \strng{authornamehash}{ae423e2f6c03c873220ab3517c000d0e}
+      \strng{authorfullhash}{e26db05261bba3242879717a1c977bbe}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biotechnology advances}
+      \field{number}{2}
+      \field{title}{Biogas upgrading and utilization: Current status and perspectives}
+      \field{volume}{36}
+      \field{year}{2018}
+      \field{pages}{452\bibrangedash 466}
+      \range{pages}{15}
+    \endentry
+    \entry{awe2017review}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3449bbcc9ce7802e5d110fff9d51bdf0}{%
+           family={Awe},
+           familyi={A\bibinitperiod},
+           given={Olumide\bibnamedelima Wesley},
+           giveni={O\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=e501b2de6fbceceaac518cdd62f43589}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yaqian},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b2a37a079e5ee0b2a9d88ce8131163b4}{%
+           family={Nzihou},
+           familyi={N\bibinitperiod},
+           given={Ange},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bc48ece0fc8dd17f3b352bc8f4f23df2}{%
+           family={Minh},
+           familyi={M\bibinitperiod},
+           given={Doan\bibnamedelima Pham},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2f1cc412e1f4a03bf108dcf1fc64e1da}{%
+           family={Lyczko},
+           familyi={L\bibinitperiod},
+           given={Nathalie},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1feb7105c66cfae2884502cd58116485}
+      \strng{fullhash}{e49c244debad90388db2c65c5a287004}
+      \strng{bibnamehash}{e49c244debad90388db2c65c5a287004}
+      \strng{authorbibnamehash}{e49c244debad90388db2c65c5a287004}
+      \strng{authornamehash}{1feb7105c66cfae2884502cd58116485}
+      \strng{authorfullhash}{e49c244debad90388db2c65c5a287004}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Waste and Biomass Valorization}
+      \field{number}{2}
+      \field{title}{A review of biogas utilisation, purification and upgrading technologies}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{pages}{267\bibrangedash 283}
+      \range{pages}{17}
+    \endentry
+    \entry{bauer2013biogas}{report}{}
+      \name{author}{4}{}{%
+        {{hash=7f40f5f9ad6584e95a3c03a05c3b4f86}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Fredric},
+           giveni={F\bibinitperiod}}}%
+        {{hash=788ceee1b52590a1f7009ec1ce52a947}{%
+           family={Hulteberg},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d0de530c1e6a0a029e5bb087adaa950d}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=35d056ee3f6a068392322713947e0fa7}{%
+           family={Tamm},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Svenskt Gastekniskt Center AB}%
+      }
+      \strng{namehash}{9dfad14a3cafc5afb792073d3280d290}
+      \strng{fullhash}{ae1c40de178c45990a149ce56a895416}
+      \strng{bibnamehash}{ae1c40de178c45990a149ce56a895416}
+      \strng{authorbibnamehash}{ae1c40de178c45990a149ce56a895416}
+      \strng{authornamehash}{9dfad14a3cafc5afb792073d3280d290}
+      \strng{authorfullhash}{ae1c40de178c45990a149ce56a895416}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Biogas upgrading-Review of commercial technologies}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{capra2018biogas}{article}{}
+      \name{author}{5}{}{%
+        {{hash=16572a9a22054b25efe3319bca43216c}{%
+           family={Capra},
+           familyi={C\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bd69d51c76b3bc8bbc991d2048403992}{%
+           family={Fettarappa},
+           familyi={F\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=eb04f3ac8ec942bf196fa025020cf7a5}{%
+           family={Magli},
+           familyi={M\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ceb488608da2b6148f756e984ef4cf9e}{%
+           family={Gatti},
+           familyi={G\bibinitperiod},
+           given={Manuele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4084bc9be007895ae9cc07c4636429a4}{%
+           family={Martelli},
+           familyi={M\bibinitperiod},
+           given={Emanuele},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{78a60a93cebeefb494b54b2fcb2d47a0}
+      \strng{fullhash}{bb2fafde48a7c9da135e1e1835ca2978}
+      \strng{bibnamehash}{bb2fafde48a7c9da135e1e1835ca2978}
+      \strng{authorbibnamehash}{bb2fafde48a7c9da135e1e1835ca2978}
+      \strng{authornamehash}{78a60a93cebeefb494b54b2fcb2d47a0}
+      \strng{authorfullhash}{bb2fafde48a7c9da135e1e1835ca2978}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Procedia}
+      \field{title}{Biogas upgrading by amine scrubbing: solvent comparison between MDEA and MDEA/MEA blend}
+      \field{volume}{148}
+      \field{year}{2018}
+      \field{pages}{970\bibrangedash 977}
+      \range{pages}{8}
+    \endentry
+    \entry{collet2017techno}{article}{}
+      \name{author}{7}{}{%
+        {{hash=6a699c3d46a49a883eea8b4bf162ff06}{%
+           family={Collet},
+           familyi={C\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=692424fee908feb184d1b3896d7a0bd9}{%
+           family={Flottes},
+           familyi={F\bibinitperiod},
+           given={Eglantine},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c77ad4382c17604407caf8e551e7ee5c}{%
+           family={Favre},
+           familyi={F\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0487a68743d1efd09c90a4f663c0f8ac}{%
+           family={Raynal},
+           familyi={R\bibinitperiod},
+           given={Ludovic},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c6f3da500aebbc6289cb7a8668f7fd98}{%
+           family={Pierre},
+           familyi={P\bibinitperiod},
+           given={H{é}l{è}ne},
+           giveni={H\bibinitperiod}}}%
+        {{hash=044bda82561d4d741b92daf8a0615a04}{%
+           family={Capela},
+           familyi={C\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8e562fbe2dd60e7d70227fee8da4bf14}{%
+           family={Peregrina},
+           familyi={P\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{38cc151b147c32b7c3fbc00eefd3a112}
+      \strng{fullhash}{e805d43b9c06b441278e9fad02172634}
+      \strng{bibnamehash}{e805d43b9c06b441278e9fad02172634}
+      \strng{authorbibnamehash}{e805d43b9c06b441278e9fad02172634}
+      \strng{authornamehash}{38cc151b147c32b7c3fbc00eefd3a112}
+      \strng{authorfullhash}{e805d43b9c06b441278e9fad02172634}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied energy}
+      \field{title}{Techno-economic and Life Cycle Assessment of methane production via biogas upgrading and power to gas technology}
+      \field{volume}{192}
+      \field{year}{2017}
+      \field{pages}{282\bibrangedash 295}
+      \range{pages}{14}
+    \endentry
+    \entry{curto2019renewable}{article}{}
+      \name{author}{2}{}{%
+        {{hash=76cb5531409afee9718b3aa27c23ae7d}{%
+           family={Curto},
+           familyi={C\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{35a9645d363d275ed469f3824177e8cf}
+      \strng{fullhash}{35a9645d363d275ed469f3824177e8cf}
+      \strng{bibnamehash}{35a9645d363d275ed469f3824177e8cf}
+      \strng{authorbibnamehash}{35a9645d363d275ed469f3824177e8cf}
+      \strng{authornamehash}{35a9645d363d275ed469f3824177e8cf}
+      \strng{authorfullhash}{35a9645d363d275ed469f3824177e8cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Renewable based biogas upgrading}
+      \field{volume}{224}
+      \field{year}{2019}
+      \field{pages}{50\bibrangedash 59}
+      \range{pages}{10}
+    \endentry
+    \entry{davis2014optimala}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9974ccfd47a4bbb25f284e7902cda82f}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{71b986a280988eae06195bd49470b79e}
+      \strng{fullhash}{71b986a280988eae06195bd49470b79e}
+      \strng{bibnamehash}{71b986a280988eae06195bd49470b79e}
+      \strng{authorbibnamehash}{71b986a280988eae06195bd49470b79e}
+      \strng{authornamehash}{71b986a280988eae06195bd49470b79e}
+      \strng{authorfullhash}{71b986a280988eae06195bd49470b79e}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{title}{Optimal year-round operation for methane production from CO2 and water using wind energy}
+      \field{volume}{69}
+      \field{year}{2014}
+      \field{pages}{497\bibrangedash 505}
+      \range{pages}{9}
+    \endentry
+    \entry{ferella2019techno}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cc9eee5b7054c220ab6d8e2b91daa670}{%
+           family={Ferella},
+           familyi={F\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=76b97235fce07e4c8b713c0b89b1a599}{%
+           family={Cucchiella},
+           familyi={C\bibinitperiod},
+           given={Federica},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4e381cbaf6da7c24a2e7707611387943}{%
+           family={D'Adamo},
+           familyi={D\bibinitperiod},
+           given={Idiano},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f8dd259d45c77f57a7fc6e33153533ed}{%
+           family={Gallucci},
+           familyi={G\bibinitperiod},
+           given={Katia},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f2ff2bb1b6119e8d9604de6184818ed1}
+      \strng{fullhash}{77319c33ad65dc9ed722508e41b437e7}
+      \strng{bibnamehash}{77319c33ad65dc9ed722508e41b437e7}
+      \strng{authorbibnamehash}{77319c33ad65dc9ed722508e41b437e7}
+      \strng{authornamehash}{f2ff2bb1b6119e8d9604de6184818ed1}
+      \strng{authorfullhash}{77319c33ad65dc9ed722508e41b437e7}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{A techno-economic assessment of biogas upgrading in a developed market}
+      \field{volume}{210}
+      \field{year}{2019}
+      \field{pages}{945\bibrangedash 957}
+      \range{pages}{13}
+    \endentry
+    \entry{ferella2017separation}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cc9eee5b7054c220ab6d8e2b91daa670}{%
+           family={Ferella},
+           familyi={F\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a603f267d5ab04156cb9710178663178}{%
+           family={Puca},
+           familyi={P\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=68f0bea127258f0bf98acfc758eab591}{%
+           family={Taglieri},
+           familyi={T\bibinitperiod},
+           given={Giuliana},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d978b56775d5e4efcf202d192b8b0867}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={Leucio},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f8dd259d45c77f57a7fc6e33153533ed}{%
+           family={Gallucci},
+           familyi={G\bibinitperiod},
+           given={Katia},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f2ff2bb1b6119e8d9604de6184818ed1}
+      \strng{fullhash}{6c961c91811aed5ad502e7afa4c79cd5}
+      \strng{bibnamehash}{6c961c91811aed5ad502e7afa4c79cd5}
+      \strng{authorbibnamehash}{6c961c91811aed5ad502e7afa4c79cd5}
+      \strng{authornamehash}{f2ff2bb1b6119e8d9604de6184818ed1}
+      \strng{authorfullhash}{6c961c91811aed5ad502e7afa4c79cd5}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Separation of carbon dioxide for biogas upgrading to biomethane}
+      \field{volume}{164}
+      \field{year}{2017}
+      \field{pages}{1205\bibrangedash 1218}
+      \range{pages}{14}
+    \endentry
+    \entry{FernandesRodriguesMsc}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=db986f4bdfde9cc7eb6ce30196edba1a}{%
+           family={Fernandes\bibnamedelima Rodrigues},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Instituto Superior Tecnico, Lisbon}%
+      }
+      \strng{namehash}{db986f4bdfde9cc7eb6ce30196edba1a}
+      \strng{fullhash}{db986f4bdfde9cc7eb6ce30196edba1a}
+      \strng{bibnamehash}{db986f4bdfde9cc7eb6ce30196edba1a}
+      \strng{authorbibnamehash}{db986f4bdfde9cc7eb6ce30196edba1a}
+      \strng{authornamehash}{db986f4bdfde9cc7eb6ce30196edba1a}
+      \strng{authorfullhash}{db986f4bdfde9cc7eb6ce30196edba1a}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Model Development of a Membrane Gas Permeation Unit for the Separation of Hydrogen and Carbon Dioxide}
+      \field{type}{mathesis}
+      \field{year}{2009}
+    \endentry
+    \entry{filipetto2019optimization}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=7e999e141337d382aa951baba56a929c}{%
+           family={Filipetto},
+           familyi={F\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+        {{hash=16572a9a22054b25efe3319bca43216c}{%
+           family={Capra},
+           familyi={C\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=eb04f3ac8ec942bf196fa025020cf7a5}{%
+           family={Magli},
+           familyi={M\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ceb488608da2b6148f756e984ef4cf9e}{%
+           family={Gatti},
+           familyi={G\bibinitperiod},
+           given={Manuele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4084bc9be007895ae9cc07c4636429a4}{%
+           family={Martelli},
+           familyi={M\bibinitperiod},
+           given={Emanuele},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e457932d313eeb98972ac42db675b4a8}
+      \strng{fullhash}{ca463b2dd42d56cb762acfb739b764f2}
+      \strng{bibnamehash}{ca463b2dd42d56cb762acfb739b764f2}
+      \strng{authorbibnamehash}{ca463b2dd42d56cb762acfb739b764f2}
+      \strng{authornamehash}{e457932d313eeb98972ac42db675b4a8}
+      \strng{authorfullhash}{ca463b2dd42d56cb762acfb739b764f2}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer Aided Chemical Engineering}
+      \field{title}{Optimization of semi-permeable membrane systems for biogas upgrading}
+      \field{volume}{46}
+      \field{year}{2019}
+      \field{pages}{1693\bibrangedash 1698}
+      \range{pages}{6}
+    \endentry
+    \entry{gilassi2019optimizing}{article}{}
+      \name{author}{4}{}{%
+        {{hash=321fcf8cd77c1aa65b2f8b1c237a1869}{%
+           family={Gilassi},
+           familyi={G\bibinitperiod},
+           given={Sina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=864ce879d6b469094f210cfa5030537c}{%
+           family={Taghavi},
+           familyi={T\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d2d86c0aa78868ccca9efc090af3af00}{%
+           family={Rodrigue},
+           familyi={R\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=665ee749cd8853b78b3e2d2beae0dd78}{%
+           family={Kaliaguine},
+           familyi={K\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2a09582da3db8849d4d84fdba8d554b4}
+      \strng{fullhash}{fe917901309ebd91b8a4296b8bb0f915}
+      \strng{bibnamehash}{fe917901309ebd91b8a4296b8bb0f915}
+      \strng{authorbibnamehash}{fe917901309ebd91b8a4296b8bb0f915}
+      \strng{authornamehash}{2a09582da3db8849d4d84fdba8d554b4}
+      \strng{authorfullhash}{fe917901309ebd91b8a4296b8bb0f915}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Greenhouse Gas Control}
+      \field{title}{Optimizing membrane module for biogas separation}
+      \field{volume}{83}
+      \field{year}{2019}
+      \field{pages}{195\bibrangedash 207}
+      \range{pages}{13}
+    \endentry
+    \entry{2004gpsa}{report}{}
+      \name{author}{1}{}{%
+        {{hash=7b94dae7a2bbf2fdb9f3a371c09951ab}{%
+           family={{GPSA}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gas Processors Suppliers Association}%
+      }
+      \strng{namehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{fullhash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{bibnamehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{authorbibnamehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{authornamehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{authorfullhash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GPSA engineering data book, 12th ed.}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
+    \entry{2012gpsa}{report}{}
+      \name{author}{1}{}{%
+        {{hash=7b94dae7a2bbf2fdb9f3a371c09951ab}{%
+           family={{GPSA}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gas Processors Suppliers Association}%
+      }
+      \strng{namehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{fullhash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{bibnamehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{authorbibnamehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{authornamehash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \strng{authorfullhash}{7b94dae7a2bbf2fdb9f3a371c09951ab}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{GPSA engineering data book, 13th ed.}}
+      \field{type}{techreport}
+      \field{year}{2012}
+    \endentry
+    \entry{hauchhum2014carbon}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9e2053fa6b2a99615551fe6670e5562b}{%
+           family={Hauchhum},
+           familyi={H\bibinitperiod},
+           given={Lalhmingsanga},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d334c79b5674da5f75b0af0bd8644315}{%
+           family={Mahanta},
+           familyi={M\bibinitperiod},
+           given={Pinakeswar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b4464baeffdcbc84b5b6146661e0a1c0}
+      \strng{fullhash}{b4464baeffdcbc84b5b6146661e0a1c0}
+      \strng{bibnamehash}{b4464baeffdcbc84b5b6146661e0a1c0}
+      \strng{authorbibnamehash}{b4464baeffdcbc84b5b6146661e0a1c0}
+      \strng{authornamehash}{b4464baeffdcbc84b5b6146661e0a1c0}
+      \strng{authorfullhash}{b4464baeffdcbc84b5b6146661e0a1c0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Energy and Environmental Engineering}
+      \field{number}{4}
+      \field{title}{Carbon dioxide adsorption on zeolites and activated carbon by pressure swing adsorption in a fixed bed}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{349\bibrangedash 356}
+      \range{pages}{8}
+    \endentry
+    \entry{khan2017biogas}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2a5dea7ef6ada42b308ae6036c03aaeb}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Imran\bibnamedelima Ullah},
+           giveni={I\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=b9a9cae93e7de26e7fcce678cfd7dce0}{%
+           family={Othman},
+           familyi={O\bibinitperiod},
+           given={Mohd\bibnamedelimb Hafiz\bibnamedelima Dzarfan},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=de9c308a8e83155704893aa56e32e4fa}{%
+           family={Hashim},
+           familyi={H\bibinitperiod},
+           given={Haslenda},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f52344116d36c2897d5808cd85a3fdab}{%
+           family={Matsuura},
+           familyi={M\bibinitperiod},
+           given={Takeshi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=09452c164cbc8f927edd954cd6b73a45}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={AF},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bd5a5f50475538f78f32dcc264b10d48}{%
+           family={Rezaei-DashtArzhandi},
+           familyi={R\bibinithyphendelim D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5a26eb110b0991bd386763bde827d9db}{%
+           family={Azelee},
+           familyi={A\bibinitperiod},
+           given={I\bibnamedelima Wan},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5af75b32f9ffcaa3107ade80fd62d975}
+      \strng{fullhash}{a8402df133eb8df148a686ed624f1201}
+      \strng{bibnamehash}{a8402df133eb8df148a686ed624f1201}
+      \strng{authorbibnamehash}{a8402df133eb8df148a686ed624f1201}
+      \strng{authornamehash}{5af75b32f9ffcaa3107ade80fd62d975}
+      \strng{authorfullhash}{a8402df133eb8df148a686ed624f1201}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{title}{Biogas as a renewable energy fuel--A review of biogas upgrading, utilisation and storage}
+      \field{volume}{150}
+      \field{year}{2017}
+      \field{pages}{277\bibrangedash 294}
+      \range{pages}{18}
+    \endentry
+    \entry{kim2017optimization}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cb4a078105d17ec6c3d923b2589cb8b5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Minsoo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a171d6e945964af8b2d7b8c6e5faaa7b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sunghoon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=19ced9700113d1ce76b7b46a894f4fdb}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jiyong},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6cc2e8d73a4d5f64ee58251ec592ace9}
+      \strng{fullhash}{6cc2e8d73a4d5f64ee58251ec592ace9}
+      \strng{bibnamehash}{6cc2e8d73a4d5f64ee58251ec592ace9}
+      \strng{authorbibnamehash}{6cc2e8d73a4d5f64ee58251ec592ace9}
+      \strng{authornamehash}{6cc2e8d73a4d5f64ee58251ec592ace9}
+      \strng{authorfullhash}{6cc2e8d73a4d5f64ee58251ec592ace9}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Procedia}
+      \field{title}{Optimization-based approach for design and integration of carbon dioxide separation processes using membrane technology}
+      \field{volume}{136}
+      \field{year}{2017}
+      \field{pages}{336\bibrangedash 341}
+      \range{pages}{6}
+    \endentry
+    \entry{leon2016optimal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6f443503000633bdc39f2d033a962c11}{%
+           family={León},
+           familyi={L\bibinitperiod},
+           given={Erick},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e5bc8e6ea5da05524eb6c84cb1e65430}
+      \strng{fullhash}{e5bc8e6ea5da05524eb6c84cb1e65430}
+      \strng{bibnamehash}{e5bc8e6ea5da05524eb6c84cb1e65430}
+      \strng{authorbibnamehash}{e5bc8e6ea5da05524eb6c84cb1e65430}
+      \strng{authornamehash}{e5bc8e6ea5da05524eb6c84cb1e65430}
+      \strng{authorfullhash}{e5bc8e6ea5da05524eb6c84cb1e65430}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{title}{Optimal production of power in a combined cycle from manure based biogas}
+      \field{volume}{114}
+      \field{year}{2016}
+      \field{pages}{89\bibrangedash 99}
+      \range{pages}{11}
+    \endentry
+    \entry{martin2011energy}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9a39a2eac2d858d35e3c0d94e4e8d4b6}{%
+           family={Grossmann},
+           familyi={G\bibinitperiod},
+           given={Ignacio\bibnamedelima E},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{58c1baacae5742eb0606451128fcdf2b}
+      \strng{fullhash}{58c1baacae5742eb0606451128fcdf2b}
+      \strng{bibnamehash}{58c1baacae5742eb0606451128fcdf2b}
+      \strng{authorbibnamehash}{58c1baacae5742eb0606451128fcdf2b}
+      \strng{authornamehash}{58c1baacae5742eb0606451128fcdf2b}
+      \strng{authorfullhash}{58c1baacae5742eb0606451128fcdf2b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& chemical engineering}
+      \field{number}{9}
+      \field{title}{Energy optimization of hydrogen production from lignocellulosic biomass}
+      \field{volume}{35}
+      \field{year}{2011}
+      \field{pages}{1798\bibrangedash 1806}
+      \range{pages}{9}
+    \endentry
+    \entry{miltner2017review}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ed6cb98bd77aa022b8f826c79aff5211}{%
+           family={Miltner},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cc0d308f2219c02168cdde1e7f61feca}{%
+           family={Makaruk},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=64d3c76a5dd9189bacfe132aaeedd61d}{%
+           family={Harasek},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6d55a604297001e138d828bc47b2b91c}
+      \strng{fullhash}{6d55a604297001e138d828bc47b2b91c}
+      \strng{bibnamehash}{6d55a604297001e138d828bc47b2b91c}
+      \strng{authorbibnamehash}{6d55a604297001e138d828bc47b2b91c}
+      \strng{authornamehash}{6d55a604297001e138d828bc47b2b91c}
+      \strng{authorfullhash}{6d55a604297001e138d828bc47b2b91c}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Review on available biogas upgrading technologies and innovations towards advanced solutions}
+      \field{volume}{161}
+      \field{year}{2017}
+      \field{pages}{1329\bibrangedash 1337}
+      \range{pages}{9}
+    \endentry
+    \entry{morero2017evaluation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2c8f0bc54c37795cd0710174a2449e33}{%
+           family={Morero},
+           familyi={M\bibinitperiod},
+           given={Betzabet},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9cf51b081da014462a820881bf54876b}{%
+           family={Groppelli},
+           familyi={G\bibinitperiod},
+           given={Eduardo\bibnamedelima S},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=184df79dec0e37b7abec36fb77273ac7}{%
+           family={Campanella},
+           familyi={C\bibinitperiod},
+           given={Enrique\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{09eaea5a49d04e56bb304910117c946b}
+      \strng{fullhash}{09eaea5a49d04e56bb304910117c946b}
+      \strng{bibnamehash}{09eaea5a49d04e56bb304910117c946b}
+      \strng{authorbibnamehash}{09eaea5a49d04e56bb304910117c946b}
+      \strng{authornamehash}{09eaea5a49d04e56bb304910117c946b}
+      \strng{authorfullhash}{09eaea5a49d04e56bb304910117c946b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of cleaner production}
+      \field{title}{Evaluation of biogas upgrading technologies using a response surface methodology for process simulation}
+      \field{volume}{141}
+      \field{year}{2017}
+      \field{pages}{978\bibrangedash 988}
+      \range{pages}{11}
+    \endentry
+    \entry{movagharnejad2011simulation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7c0447ad620fc08c6deb24782173efad}{%
+           family={Movagharnejad},
+           familyi={M\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=204161f8346085072a23e24aa0245108}{%
+           family={Akbari},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9114411813e27d76529e0ea1f27b30a}
+      \strng{fullhash}{e9114411813e27d76529e0ea1f27b30a}
+      \strng{bibnamehash}{e9114411813e27d76529e0ea1f27b30a}
+      \strng{authorbibnamehash}{e9114411813e27d76529e0ea1f27b30a}
+      \strng{authornamehash}{e9114411813e27d76529e0ea1f27b30a}
+      \strng{authorfullhash}{e9114411813e27d76529e0ea1f27b30a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Chemical and Molecular Engineering}
+      \field{number}{10}
+      \field{title}{Simulation of CO2 capture process}
+      \field{volume}{5}
+      \field{year}{2011}
+      \field{pages}{843\bibrangedash 847}
+      \range{pages}{5}
+    \endentry
+    \entry{sanchez2018scale}{article}{}
+      \name{author}{2}{}{%
+        {{hash=981411db18b90a8b0162e2624e2abfba}{%
+           family={S{á}nchez},
+           familyi={S\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a0a18aabd871fa7f0c7f5fb5ab18fa8a}
+      \strng{fullhash}{a0a18aabd871fa7f0c7f5fb5ab18fa8a}
+      \strng{bibnamehash}{a0a18aabd871fa7f0c7f5fb5ab18fa8a}
+      \strng{authorbibnamehash}{a0a18aabd871fa7f0c7f5fb5ab18fa8a}
+      \strng{authornamehash}{a0a18aabd871fa7f0c7f5fb5ab18fa8a}
+      \strng{authorfullhash}{a0a18aabd871fa7f0c7f5fb5ab18fa8a}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Production and Consumption}
+      \field{title}{Scale up and scale down issues of renewable ammonia plants: Towards modular design}
+      \field{volume}{16}
+      \field{year}{2018}
+      \field{pages}{176\bibrangedash 192}
+      \range{pages}{17}
+    \endentry
+    \entry{scholz2015structural}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9b9320acca4fdc30f7b09076aa6aa55f}{%
+           family={Scholz},
+           familyi={S\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e7c9d55173967925fa859e3dcbca2576}{%
+           family={Alders},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab8ef8e6969e9aa75525bb9bfae0e8f5}{%
+           family={Lohaus},
+           familyi={L\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=74028e9a0c576ec7e67b39309d5abba5}{%
+           family={Wessling},
+           familyi={W\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{194aab40db9c658191393140f02a1b8a}
+      \strng{fullhash}{0484dc887e965e84d4a9668630a3c3a5}
+      \strng{bibnamehash}{0484dc887e965e84d4a9668630a3c3a5}
+      \strng{authorbibnamehash}{0484dc887e965e84d4a9668630a3c3a5}
+      \strng{authornamehash}{194aab40db9c658191393140f02a1b8a}
+      \strng{authorfullhash}{0484dc887e965e84d4a9668630a3c3a5}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of membrane science}
+      \field{title}{Structural optimization of membrane-based biogas upgrading processes}
+      \field{volume}{474}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{sun2015selection}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7991ff813e514e09214991724205c003}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Qie},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=ff5e51097bdb97ec131b7b9f7b233435}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hailong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f7463fce229503f5d7b7e41edc175c1f}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jinying},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b68e3bf95dcf4bb3d4a322d2dd7bf9f4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Longcheng},
+           giveni={L\bibinitperiod}}}%
+        {{hash=49092caac64f84eda1d8b980949c3d84}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Zhixin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=741afb25491a996898faaa90c0c317ec}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Xinhai},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e0ef5dbbc4493cc6fe6d9d3b50c96ffa}
+      \strng{fullhash}{c1cca7791f78d715705492a4cc602dfa}
+      \strng{bibnamehash}{c1cca7791f78d715705492a4cc602dfa}
+      \strng{authorbibnamehash}{c1cca7791f78d715705492a4cc602dfa}
+      \strng{authornamehash}{e0ef5dbbc4493cc6fe6d9d3b50c96ffa}
+      \strng{authorfullhash}{c1cca7791f78d715705492a4cc602dfa}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Selection of appropriate biogas upgrading technology-a review of biogas cleaning, upgrading and utilisation}
+      \field{volume}{51}
+      \field{year}{2015}
+      \field{pages}{521\bibrangedash 532}
+      \range{pages}{12}
+    \endentry
+    \entry{taifouris2018multiscale}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b647f26f5fced730b9ad20d9f21ea379}{%
+           family={Taifouris},
+           familyi={T\bibinitperiod},
+           given={Manuel\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=57ca12e40b15c01dd5ec9d5ee2837e0a}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8812762b665c18174f2c858a2b88aed4}
+      \strng{fullhash}{8812762b665c18174f2c858a2b88aed4}
+      \strng{bibnamehash}{8812762b665c18174f2c858a2b88aed4}
+      \strng{authorbibnamehash}{8812762b665c18174f2c858a2b88aed4}
+      \strng{authornamehash}{8812762b665c18174f2c858a2b88aed4}
+      \strng{authorfullhash}{8812762b665c18174f2c858a2b88aed4}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of cleaner production}
+      \field{title}{Multiscale scheme for the optimal use of residues for the production of biogas across Castile and Leon}
+      \field{volume}{185}
+      \field{year}{2018}
+      \field{pages}{239\bibrangedash 251}
+      \range{pages}{13}
+    \endentry
+    \entry{toledo2017comparative}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c04a74b53106737f51b9c1e5162661b6}{%
+           family={Toledo-Cervantes},
+           familyi={T\bibinithyphendelim C\bibinitperiod},
+           given={Alma},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d08b1c4be45c0848b158d7f26dcc2cf}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={Jos{é}\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa3d501d020b09869dc86d81b67a3085}{%
+           family={Lebrero},
+           familyi={L\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=34c99521e4eeb7319724ae9ffb02bd28}{%
+           family={Mu{ñ}oz},
+           familyi={M\bibinitperiod},
+           given={Ra{ú}l},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{54a0c416964418d967d385d08ac99eac}
+      \strng{fullhash}{5f719a4ce0a36b736465dbf2758d966d}
+      \strng{bibnamehash}{5f719a4ce0a36b736465dbf2758d966d}
+      \strng{authorbibnamehash}{5f719a4ce0a36b736465dbf2758d966d}
+      \strng{authornamehash}{54a0c416964418d967d385d08ac99eac}
+      \strng{authorfullhash}{5f719a4ce0a36b736465dbf2758d966d}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Algal research}
+      \field{title}{A comparative analysis of biogas upgrading technologies: Photosynthetic vs physical/chemical processes}
+      \field{volume}{25}
+      \field{year}{2017}
+      \field{pages}{237\bibrangedash 243}
+      \range{pages}{7}
+    \endentry
+    \entry{towler2009chemical}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d61f145a15acc9920d261af5d11cc5ad}{%
+           family={Towler},
+           familyi={T\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=23e2efae5efef9aa786749f7075fbe0e}{%
+           family={Sinnott},
+           familyi={S\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5ab9688ac55600bac69a18161d8e1438}
+      \strng{fullhash}{5ab9688ac55600bac69a18161d8e1438}
+      \strng{bibnamehash}{5ab9688ac55600bac69a18161d8e1438}
+      \strng{authorbibnamehash}{5ab9688ac55600bac69a18161d8e1438}
+      \strng{authornamehash}{5ab9688ac55600bac69a18161d8e1438}
+      \strng{authorfullhash}{5ab9688ac55600bac69a18161d8e1438}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5}
+      \field{title}{Chemical engineering design}
+      \field{year}{2009}
+    \endentry
+    \entry{vo2018techno}{article}{}
+      \name{author}{5}{}{%
+        {{hash=af638d85d65ae671418441e1d11f1e2f}{%
+           family={Vo},
+           familyi={V\bibinitperiod},
+           given={Truc\bibnamedelima TQ},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=5d0f66e4f55bbcdb50b2aa6db54527f5}{%
+           family={Wall},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=da4597965994638d1c46a9ac1a02c8f2}{%
+           family={Ring},
+           familyi={R\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c7dfce00b927183c36722cddd0f43951}{%
+           family={Rajendran},
+           familyi={R\bibinitperiod},
+           given={Karthik},
+           giveni={K\bibinitperiod}}}%
+        {{hash=85f29124a3c3294f221cc22836cda5e4}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{52741bd3d08437abfc073e6c7ae2b4f1}
+      \strng{fullhash}{9c12d5f3a23ca00e3852e6cd2132f65d}
+      \strng{bibnamehash}{9c12d5f3a23ca00e3852e6cd2132f65d}
+      \strng{authorbibnamehash}{9c12d5f3a23ca00e3852e6cd2132f65d}
+      \strng{authornamehash}{52741bd3d08437abfc073e6c7ae2b4f1}
+      \strng{authorfullhash}{9c12d5f3a23ca00e3852e6cd2132f65d}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied energy}
+      \field{title}{Techno-economic analysis of biogas upgrading via amine scrubber, carbon capture and ex-situ methanation}
+      \field{volume}{212}
+      \field{year}{2018}
+      \field{pages}{1191\bibrangedash 1202}
+      \range{pages}{12}
+    \endentry
+    \entry{vrbova2017upgrading}{article}{}
+      \name{author}{2}{}{%
+        {{hash=caba30cfcf00f5c011c6981e518d93f6}{%
+           family={Vrbová},
+           familyi={V\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod}}}%
+        {{hash=23389c396f9585a3c2a5fdea5ba5405e}{%
+           family={Ciahotnyý},
+           familyi={C\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{d148d532bf17eb2381bfe98da9d13b17}
+      \strng{fullhash}{d148d532bf17eb2381bfe98da9d13b17}
+      \strng{bibnamehash}{d148d532bf17eb2381bfe98da9d13b17}
+      \strng{authorbibnamehash}{d148d532bf17eb2381bfe98da9d13b17}
+      \strng{authornamehash}{d148d532bf17eb2381bfe98da9d13b17}
+      \strng{authorfullhash}{d148d532bf17eb2381bfe98da9d13b17}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy \& Fuels}
+      \field{number}{9}
+      \field{title}{Upgrading biogas to biomethane using membrane separation}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{pages}{9393\bibrangedash 9401}
+      \range{pages}{9}
+    \endentry
+    \entry{Xiao2013}{report}{}
+      \name{author}{1}{}{%
+        {{hash=3738c4a3d90a7cdae0e1b60ba20454ca}{%
+           family={{Xiao, G., Webley, P., Hoadley, A., Ho, M., Wiley, D.}},
+           familyi={X\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Cooperative Research Centre for Greenhouse Gas Technologies. CO2CRC Publication, Canberra, Australia.}%
+      }
+      \strng{namehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{fullhash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{bibnamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{authorbibnamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{authornamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{authorfullhash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \field{sortinit}{X}
+      \field{sortinithash}{e90038f30fa4b9ce59606fc8347e3cc7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Low Cost Hybrid Capture Technology Development: Final Report. Ref No: 3-0510-0046.}}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{xue2017comparative}{article}{}
+      \name{author}{5}{}{%
+        {{hash=61d2ae25a13e008a1ed6a01516ece98a}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Boyang},
+           giveni={B\bibinitperiod}}}%
+        {{hash=35895f05d677a70b54f3de11b970f93c}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Yanmei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=383ef476f431eaf108d4a77c75c2def5}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=491f8e3da9f77df3f39ca793f026bb24}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Xiaobo},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6907037f3720d1587f17d88bf6d3dd3a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Meihong},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dcdfdf3703e3fd2f6674ce7fca5e7254}
+      \strng{fullhash}{116d2b143b6e3b8657a458c4cdb37d8d}
+      \strng{bibnamehash}{116d2b143b6e3b8657a458c4cdb37d8d}
+      \strng{authorbibnamehash}{116d2b143b6e3b8657a458c4cdb37d8d}
+      \strng{authornamehash}{dcdfdf3703e3fd2f6674ce7fca5e7254}
+      \strng{authorfullhash}{116d2b143b6e3b8657a458c4cdb37d8d}
+      \field{sortinit}{X}
+      \field{sortinithash}{e90038f30fa4b9ce59606fc8347e3cc7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Coal Science \& Technology}
+      \field{number}{1}
+      \field{title}{A comparative study of MEA and DEA for post-combustion CO\textsubscript{2} capture with different process configurations}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{pages}{15\bibrangedash 24}
+      \range{pages}{10}
+    \endentry
+    \entry{zhang2013modeling}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f5acec98b29ee91fa6b08b85a6a0adad}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=94b2c9d6b45b95d903c303ec24e6620c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chau-Chyun},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{727074368b4f0b14610d28de2e6f5320}
+      \strng{fullhash}{727074368b4f0b14610d28de2e6f5320}
+      \strng{bibnamehash}{727074368b4f0b14610d28de2e6f5320}
+      \strng{authorbibnamehash}{727074368b4f0b14610d28de2e6f5320}
+      \strng{authornamehash}{727074368b4f0b14610d28de2e6f5320}
+      \strng{authorfullhash}{727074368b4f0b14610d28de2e6f5320}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Procedia}
+      \field{title}{Modeling CO2 absorption and desorption by aqueous monoethanolamine solution with Aspen rate-based model}
+      \field{volume}{37}
+      \field{year}{2013}
+      \field{pages}{1584\bibrangedash 1596}
+      \range{pages}{13}
+    \endentry
+    \entry{zhou2017alternative}{article}{}
+      \name{author}{3}{}{%
+        {{hash=08a1c3824dfc743caeaf0db22b8c5dcc}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Kui},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6cf6820af2fab922964bbff759d4d824}{%
+           family={Chaemchuen},
+           familyi={C\bibinitperiod},
+           given={Somboon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9aef591fba2a3c96ee9e04223f83a0b5}{%
+           family={Verpoort},
+           familyi={V\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{871a19f6027aca13fae19088ef878d82}
+      \strng{fullhash}{871a19f6027aca13fae19088ef878d82}
+      \strng{bibnamehash}{871a19f6027aca13fae19088ef878d82}
+      \strng{authorbibnamehash}{871a19f6027aca13fae19088ef878d82}
+      \strng{authornamehash}{871a19f6027aca13fae19088ef878d82}
+      \strng{authorfullhash}{871a19f6027aca13fae19088ef878d82}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and sustainable energy reviews}
+      \field{title}{Alternative materials in technologies for Biogas upgrading via CO2 capture}
+      \field{volume}{79}
+      \field{year}{2017}
+      \field{pages}{1414\bibrangedash 1441}
+      \range{pages}{28}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

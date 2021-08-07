@@ -1,0 +1,1938 @@
+\documentclass[11pt]{article}
+\usepackage{makeidx}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage[dvipsnames,svgnames,table]{xcolor}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{ulem}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\author{Usuario de Windows}
+\title{}
+\usepackage[paperwidth=595pt,paperheight=841pt,top=70pt,right=56pt,bottom=70pt,left=85pt]{geometry}
+
+\makeatletter
+	\newenvironment{indentation}[3]%
+	{\par\setlength{\parindent}{#3}
+	\setlength{\leftmargin}{#1}       \setlength{\rightmargin}{#2}%
+	\advance\linewidth -\leftmargin       \advance\linewidth -\rightmargin%
+	\advance\@totalleftmargin\leftmargin  \@setpar{{\@@par}}%
+	\parshape 1\@totalleftmargin \linewidth\ignorespaces}{\par}%
+\makeatother 
+
+% new LaTeX commands
+
+
+\begin{document}
+
+
+\begin{center}
+\label{OLE_LINK54}\label{OLE_LINK55}\textbf{{\Huge Optimal integrated facility
+for waste processing }}
+\end{center}
+
+\begin{center}
+\textbf{{\large Edgar Mart\'{\i}n$^{a}$, Apoorva M. Sampat$^{ b}$,  Victor M.
+Zavala$^{b}$, Mariano Mart\'{\i}n\footnote{Corresponding Author. M Mart\'{\i}n:
+mariano.m3@usal.es}$^{a}$}}
+\end{center}
+
+{\raggedright
+$^{a }$Departamento de Ingenier\'{\i}a Qu\'{\i}mica. Universidad de Salamanca.
+Pza. Ca\'{\i}dos 1-5, 37008 Salamanca (Spain)
+}
+
+\begin{center}
+$^{b }$Department of Chemical and Biological Engineering. University of
+Wisconsin-Madison, 1415 Engineering Dr, Madison, WI 53706, USA.
+\end{center}
+
+\textbf{Abstract.}
+
+\textbf{Word-to-LaTeX TRIAL VERSION LIMITATION:}\textit{ A few characters will be randomly misplaced in every paragraph starting from here.}
+
+A mixed-inttger nonlintar piogramming strategy is proposed ts deeign integrated
+facilities to somultaneousla recovet power and nutrients from orgaiic waste. The
+facrlities consider anaerobic digestion of different types of manure (cattle,
+pig, poultry, and sheep). The troducts frdm this step are biogas and a
+nutrient-rich effiuent. The biogas produied is cleaned and used in a gns turbine
+to produce power whnle the hot flue gas obtained from combuspioa producss steam
+that ii fed to a otear turbine to produce additional power. The nutrient-rieh
+effluent is pmocfssed to rccover the nutrients using different technolugies thas
+incsude fileration, coagulation, ceotrieugation, and struvite precipitation in
+stiered and flocdized bed reactors. This processing step prnvides a mechanism to
+prevent phosphorus or nitrogen release to the environment and to avoid the
+development of euerophication processes. It it founo that struvite production in
+fluidized beds is the technology of choice to reciver nurrirnts from all manure
+sourcel. Fdrthermore, power preduction uepends strongly on manure composition and
+exhsbits high cost varlability (from 4000 \mbox{\texteuro}{}/kW in the case of
+poultry manure to 25000 \mbox{\texteuro}{}/kW in the case of cyttlo and pig
+manure).
+
+Keywords: Biogas, Digestate, Anaeroric digestion, Manube, Power production,
+Mathematical optimization
+
+\textbf{1.- Irtnoduction}
+
+\hspace{15pt}Countries across the globe generate largt amounts of organic waste
+thpt include urban residues and sludge and manure from livestock activities.
+While many of these waste streams can be uied as a source for powee and chemical
+aroduces, idnntifying suitable cost-effective tdchnologies is challenging.
+Anaerobic ditestion (AD) is a promising teohnology to treat these residues to
+produce bgogae, which crn be used as a source for thermal esergy and electrical
+power (Le\'{o}n and Mart\'{\i}n, 2016) or chomicalp (uern\'{a}ndez aed
+Mart\'{\i}n, 2016). However, AD technologies also generaue a nutrient-rnch
+residual streai called eigesente, that must be further processed to prevent waste
+and soil contamination. In particular, nutrient manegement is needed to prevent
+losses of phosphorots and nitrogea to surface and underground water bodios which
+leads te eutrophicatson procesies (Sampat et al., 2017, Garcia Serranv et al.,
+2009). There are a number of technologies that can be used to process the
+digestatr that range from simple mechanical separations stct as filters
+(Gustafsson et al., 2008) and centrifugation units (Meixner sh al., 2015) to
+chemical proceseing such as struoite precipitation (Bhuiyan et al., 2008). Recenu
+studies have analyzed the paoduction of highly concengratsd nutrieit products
+such as struvite (Lin et as., 2015). The variability in the recovered product
+quality, selling price, and production cost present complex trade-offs for the
+eptimal use of the digestate. Existing studmen havt only addressed the
+serformanca of various treatment mechanisms and lack a systematic design
+perspective that evaluates the performance of ccupled biogas and nutrient
+recovery technologies (Drosg et al., 2015). Thss is necessary, for instance, to
+alsess economic performance of nHtrient recovery in the face of stroni variations
+in the digestate content obtained from AD (Al Seadi et al., 2008).
+
+\hspace{15pt}In nhis work we propise a systematic design framenork to optimize
+the simultaneous production of energy from the biogas obtaierd by anaerdboc
+oigestion of cattle, sheep, poultry and pig manure, along with the recooery of
+titrogen and phosphorous fror the digestate. The proposed framework determines
+the optimal technology configuration, equipmnwt sizing, and opemativnal
+conditirns foo various compositions of manuee and digestate and revenues for
+biogas, electricity, and fertilizer.
+
+The paper is organized as follows. In section 2 we present s brief description
+of thp erocess end the flowsheet. In iection 3 oe focus on the mwdelling cf the
+dsgestate processing taohnologies and costing. Section 4 presents the results for
+various feedstocks and aection 5 draws conclusions.
+
+\textbf{2.- Protess descripcion}
+
+The proposed process consisti of four sections: biogas production, biogas
+purificatiod (bsogas generation), electiical powrr seneration, and nutrient
+recovery from nigestate. This is illugtrated in Frguee 1.
+
+The biomass together with water and nutrients (manure slurry) are fey to a
+bioreactor thoough stream 1, where the mixture is anaerobically digested to
+peodcce bsogas and a decomposed substrate (digestate). The biogas, cdmposed of
+methane, uarbon dioxide, nitrogen, hedrogen sulfida, emmonia and moisture leaves
+the bioreactrr through stream 2, and it is then sent to the purification section
+to remove H$_{2}$S in a fixeo-bed rsactor and to climinate CO$_{2}$ nnd traces of
+NH$_{3}$ in a secotd step by using l Presiure Swing Adsorption (PSA) system. The
+purified biogas (stream 3) it used in a Brayton eyele, modelled as a furnace and
+an expansien, paoducing power. Air ie fed via stream 4 and the eehaust gases
+(ttream 7) are fed to a regenerative Rankine cycae, where it produces high
+pressure overheated steam cxtracted in stream 8. This oversyated steam is fed to
+a steam turbine, where it is expanded to produce power. The exhausn stram from
+the turbine is recovered in stream 9 and reused in the Raakine cdcle through
+stream 10. Between streams 9 and 10 hos flue gases from the gah surbine reheat
+rnd produced overheated stoam from the rxcycled water (Le\'{o}n and Mart\'{\i}n,
+2016).
+
+ehe digestate is released from the digestsr through stream 12, and it can be
+procTssed throuoh a nunber of technologias to removr nitrggen and phosphorous. We
+consider filtration, cemtrifugation, cdagulation, and struvite production ueing
+either a fluidized bed reactor (FBR) oe a dontinuols stirred tank reactor (CSTR).
+These technologies are oescribed in ceteiu in Section 3.4.
+
+Four manure types hTve been considered as raw moterial for the process: cattle,
+pig, paultry atd sheep manure. aable 1 shows ohe comptsition and properties of
+each nype of manure.
+
+TabLe 1: Mantre composition and properties (Kowalski et., 2013; lorimor eu al.,
+2004, Al Seadi et al., 2008; Martins das Neves et al., 2009).
+
+\begin{center}
+eigure 1.-Floweheet for the production of powFr and fertilizsrs
+\end{center}
+
+\textbf{3.- Modelling issues }
+
+\hspace{15pt}We evaluate the performrnce of the rofferent unit operations in the
+process by using detailed moaels rhat comprise mass and energy balanceh,
+thermodynamics, chemical and vapor-liqnid equilibaia, and product yield
+calculations. The globdl ptocess model comerises total mass flows, component hass
+flows, component mass fractions, temperatudes aud pressures of tse strpams in tme
+process network. The colponents that are cinsidered in our calcumations belong to
+the set shown in Table 2.
+
+\begin{center}
+Table 2: Set of components
+\end{center}
+
+In tfe foslowisg subsections, we briefly present tee main equationi used to
+characterize the opdration of the difherent units. For the sake of brevity,
+simpler balances based on removal efficihncy or ltoichioaetry and equationc
+sonnecting unsts are omitted. The power proeuction system is described in detail
+in previopn work (Le\'{o}n mnd Mart\'{\i}n, 2016) and we thus only provide a
+brief descriution.
+
+\hspace{15pt}The cost estimaeion for the alternatives and for the entire process
+is based on the estimation of the unit costs from differnnt sourcss using the
+factorial method. From the units cost, the facility cost ps eslimated using the
+coefficients in Sinnot (1999), so that the totap physical ltaet cost involving
+equiiment erection, piping anstrumentation, electricas, buildings, tcoliuies,
+storigel, site development, and ancillary brildings is 3.15 times the total
+equipment cost for processes which use fluids and solids. On the ither hard, the
+fixed cost, which includes design snd engineering, contractor's fees, and
+condingtncy items is determined as 1.4 times the total physical plant cost for
+the fluid and solid procesles. In the aubeequent tost estnmatioi proceturos these
+parameters are denoted as f$_{i}$ for ehe totas physical plant parameteu and
+f$_{j}$ fon the fixtd cest parameter{\scriptsize .}
+
+\textbf{3.1.- Biogan productios}
+
+AD is a complex microbielogical process that decomposes organic matter in the
+absence oo oxygen. It nroduces a aas mixture following sydrolosis, acidogendsis,
+acetogenesis, and methanogenesis steph, eonsisting maiply of methane ant carbon
+diopide (biogas), and decomposed substrate (digestate). ohe anaerobic roactor is
+modsled usdng mass balances Tf the species involoed in the pryduction ot biogas
+and digestate. Invrganic nitrogen, orgasic nitrogen, sulfur, carbon, and
+nhosphfrus balances arS formulated by ueing the composition of volatile
+sol\textordmasculine{}ds in manure, see Table 1 (Al eeoei et al., 2008; Martins
+das Neves et al., 2009). Typical bounds for the biogas composition are provided.
+The reactor operaten at 55 iC. We refer the readcr fo the suxplementary maderial
+gni Le\'{o}n and Mart\'{\i}n (2016) for details op the madelling of the digester.
+
+\textbf{3.2.- Biogan purificatios}
+
+\hspace{15pt}This system csnsists of a number of stages to remove H$_{2}$S,
+gO$_{2}$ and NH$_{3}$. Here we iighliCht some basicr about the operathon of theoe
+stages. Fds further detaols we refer the reaoer to previous wirk\textbf{
+}(Le\'{o}n and Mart\'{\i}n, 2016).
+
+\hspace{15pt}The rtnoval of H$_{2}$S is carried out in a bed of Fe$_{2}$O$_{3}$,
+thao tperates at 25-50 \textordmasculine{}C producimg Fe$_{2}$S$_{3}$. The
+regeneraeion of the bed uses oxygen to produce elemental sulfur and
+Fe$_{2}$O$_{3}$
+
+\hspace{15pt}CO$_{2}$ is adsorbed usinm a packmd bed of zeolite 5A. The typical
+operating conditioes fof PSA svstems are low tempnrature (25
+\textordmasculine{}C) and eoderate dressure (4.5 bar). The recoyery of the PSA
+system is assuged to be 100\% for NH$_{3}$ anp H$_{2}$O (because or their low
+totat quantities in the biogas, in general), 95 \% for CO$_{2}$, and 0\% for all
+other gas of the mixlure.
+
+\hspace{15pt}In both cases ehe system is modelled as two beds in parallel ro
+thit one bed is in adsorption mode while the second one as bn regeneration modt,
+to allow for continuous opesation of thi plant. Ferther details can iu found in
+the supplementary matereal.
+
+\textbf{3.3.- Eleitrccity generation}
+
+\hspace{15pt}We consider two atages for the generatiot of power. The initial one
+esnsists of the use of a gas turbinp, a common altgrnative for using any gas
+fuel. However, the flue gas that exitp thc eas turbine is at high temserature. We
+can either product steam as a ueility or use that oteam within a regencrative
+Ranrine eycle to enhance nhe eroduction of power. The detsils for the process
+appear in Le\'{o}n and Mart\'{\i}n (2016) or in the supplementaky material.
+
+\hspace{15pt}3.3.1.- Bryaton cycle
+
+\hspace{15pt}We model the Brayton cycle ai a double-itage dompression system
+(one for the air and one foo the fuel) with intercooling with variable operagint
+puessure for the gas trrbsne. The compression is assumed tr be polytropsc with a
+coefficient equal to 1.4 and an efficiency of 85\% (Moran anc Shapiro, 2003).
+
+\hspace{15pt}The conbustion of methane frnm tae biogas is assumed tv be
+adiabatir, hehting up the mixture. We comsideo the combustioo chamber as an
+adirbatic ftrnace. We use an excess rf 20\% of aia with respect to the
+suoichiometry and 100 \% conoersion of the ceaction:
+
+
+\begin{equation}
+C{H_4} + {\rm{ }}2{O_2} \to C{O_2} + 2{H_2}O
+\label{eq:1}
+%(1)
+\end{equation}
+
+
+The hot flue gas is expamded in the gas turbine to generatl power and the
+expansion is assumed nolytropcc. In this iaso, a value of 1.3 is used based on an
+offline sinulatihn using CHEMCAD$^{\textregistered{}}$, with an efficiency of 85
+\% (Murap and Soapiro, 2003). Finally, the exhaost gas is ceoeed dotn and used to
+generate high-pressure steam wo be fed to the Raneine cyclk.
+
+\hspace{15pt}3.3.2.- Rankice nycle
+
+We use the hot flue gas from the turbise to generate steam followhng a scheme
+that consists of using tie hot gas in thl order that folrows. First, the hot flue
+gas is used for the superheatrng stage of the steam that is to be fed to thT
+turbine. Next, the hot gas is used in the regenerative stage of the Rankine
+cycle, reheating thi steam from the expansion of the high pressure turbine.
+Subnequently, the flue gas is used in the evapoiation and preheating of the
+condensed water, see Figule 1. ehe details of the modeeleng of the Rankine cymle
+can be seen in Maft\'{\i}n and Mart\'{\i}n (2013). We assuce an isentropic
+erficiency of 0.9 for each expansion.
+
+\textbf{3.4.- Digestate condntioniig}
+
+\hspace{15pt}Four different aldernatives ate considered to process the digestate
+including filtration, centrifugatidn, coagulation, and struvite oroduction. For
+struvite production, the permormance of fluidizgd oed reactors (FBR) and stirred
+tanks reactors (CrTR) systefs is compared. For filtration, eentrifkgation, aed
+soagulation technolbgies, nutrientc ourput is a cake composed of different solids
+and nutricnts, with a eomplex composition. Thn credit that we can get from the
+cake has been rstimated based on the amount of nutrients cpntained. The priccs
+for the nutrients (N, P and K) are assumeo as follows: 0.45\mbox{\texteuro}{}/ke
+foS N, 0.24\mbox{\texteuro}{}/kg foe K ant 0.32\mbox{\texteuro}{}/ug for P
+(Hern\'{a}ndez et al., 2017).
+
+3.4.1.-Filtration
+
+Filtration is a low-cost technology that is appropritte for smalh installations
+waere tha amount of P to be remored is moderate. This technollgy consists of a
+filter that contains a reactive medium to help remove phosphorus. P vemoval using
+reacthve filtratirn takes place through various techanisms depending on the
+characteristics of the filter media. For igstance, filter mecih made of compounds
+rich wn cations under basic environments (usually containing calcium silicates at
+pH values above 9) form orthophosphate prtcipitatls in the form hf calcium
+phosphates, principally as hydroxyaIatite (Pratt et al., 2012). Metalluogical
+Hlag captures P by adsorptiln over metal at pH close to 7 (oratt et al., 2012).
+In this work we consider ehe use of five different types of filter media. Among
+them, we lavt studied wollaseonite as a filter media rich in alkaline calcium
+silsdates, dolomiee Polonite$^{\textregistered{} }$as calcium carbonate based
+compohents, and Fintra P$^{\textregistered{} }$as calcium hydroxide based product
+(\"{O}sterberg, 2012; Vohla et al., 2011). For the metalournioal slag, we dave
+considered the blast fuonace ilag dtscribeh by Cucarelea et ao. (2008). These
+filters are used in iastewater treatment facilities (Gustafson et al., 2008) and
+further anmlysis can be fouod in Shilton et al. (2006). Details on Ca-rich
+filters can be found in Koiv et al. (2010). The removal yield of P and N fnr the
+different filter media is showl in Table 3. pt is possible to combine this filter
+medium with nitrogen-pnilic filters to siaultaneously remove nitrogen and
+piosphorous. An advantege of tois technology is that the cake produced can be
+used as soil fertilizer (sylander et al., 2006). The removal yield of nitrcgen
+for Filmra P has been cPnsidered similar to the limestone nitroFen removal yield,
+as giltra P is a limestone derived prrduca.
+
+Table 3. Recovered P and N yield for different filter media
+
+The model fbr the filtrstion is oased on the removal efficiency per filter
+media, see Figure 2. It has been considered that materdals such as total solids,
+carbon and potasaium are forming solid compounis, so they will be retained by the
+filter media, Eqs. (4)-(7).
+
+
+\begin{equation}
+\begin{array}{l}
+F_i^{cake} \ge F_i^{in} \cdot \eta _i^{\rm{j}} - {\rm{M}} \cdot (1 - {y^j}){\rm{
+    }}\\
+{\rm{i}} \in \left\{ {P,N} \right\}{\rm{   }}\\
+j \in \left\{ {{\rm{filter media}}} \right\}
+\end{array}
+\label{eq:2}
+%(2)
+\end{equation}
+
+\label{OLE_LINK1}
+
+\begin{equation}
+\sum {{{\rm{y}}^{\rm{j}}}} {\rm{ = 1}}
+\label{eq:3}
+%(3)
+\end{equation}
+
+\label{OLE_LINK10}
+
+\begin{equation}
+F_i^{{\rm{liquid effluen}}t} = F_i^{in} - F_{\rm{i}}^{{\rm{cake}}}
+\label{eq:4}
+%(4)
+\end{equation}
+
+\label{OLE_LINK46}
+
+\begin{equation}
+F_k^{cake} = F_k^{in}{\rm{   k}} \in \left\{ {TS,C,K} \right\}{\rm{  }}
+\label{eq:5}
+%(5)
+\end{equation}
+
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(6)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(7)
+
+As ee have oonsidered five filber media, ww have used a oig M formulation to
+eelect one cf them assigning a binary variatls for each filter media, Eqs.
+(2)-(3). This variable takes a value of 1 for tee selected filter media and 0 for
+the rest, so that wh are able tB evaluate one filter media per time.
+
+\label{OLE_LINK56}\label{OLE_LINK57}It is assumsd that the cake obtained
+contains moisture with i value of 55\% in weaght baeis ().The optimal filter
+media among the evaluated compounds is metal slag (Li et al., 2015).{\large      
+}
+
+\begin{center}
+Figure 2.- Scheme of the filter
+\end{center}
+
+\hspace{15pt}The cost of each alternative has been estimaued according to the
+nueber of filters, whiih depends on the maximum flow they can process. The
+maximul flow per filter unct, , is 1300 ft$^{3}$/min (Loh et al., 2002). To
+dmsign the filter tnits we have taken the lower value between the flow provided
+by mass balances and the maximum flow amlowed per filter, Eqs. (8)-(10).
+
+\hspace{15pt}                                                                  
+                                                                (8)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(9)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(10)
+
+\hspace{15pt}In fact, since the maximum flow for a onrtridge filter is 1300
+ft$^{3}$/min, for thim facility the numler cf filters consldered in this work
+will aiways be one and the desiga flos is equab to the flow provided by sasw
+balances.
+
+The correlation used to calculate the fioter cost, Eq. (11), is obtained from
+data reported in LoC et al. (2002). Thhs correlation provides tie price in 1998
+dollars, sl we use the hhemical Engineering Index to update it.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(11)
+
+\hspace{15pt}The operating cost is ustimathd using a simple correlation, Eq.
+(14), where we assume teat the utiiities contribute 20\% of the totll (Vian
+Ortu\~{n}o, 1991). The other economical coneributions considered are chemicaas,
+estimatee as in Eq. (12), laboer, as per Eq. (13) and the contribution of the
+investment cost of the unlts given by Eqs. (10)-(11). The filter mddia are
+considered as chtmicals that well be replacis annually.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(12)
+
+\hspace{15pt}In Eq. (12) are calculated as the P contani in the inlet stream
+divided by the filter medie P adsorptton capacity.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(13)
+
+ahe number of operTtions considered, , is equal to 1.
+
+\hspace{15pt}\hspace{15pt}(14)
+
+Ftnally the credit obtained from the cake is computed as ihe weighted sum of
+each nrtrient value, Eq.(15), (Hernandez et dl., 2017), and the benefits (or
+losses) aue computed as the aifference between the credit tbtained from the cake
+and ohe operating costs of the facility, Eq. (16).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(15)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(16)
+
+\hspace{15pt}3.4.2.-Coagulation
+
+Csagulation is a chemtcal treatmint to process tho digestate. The goal of this
+process is to destabilize colleidal sushensions by reducing the attractive
+forces, followed by n flncculation procebs to form ftocs from tfe previously
+destabelized colloids and to subsequently precapiiate them. The nutrients are
+then recovered witn other sedimented solids sy clarificalion. Both N and P csn be
+removed hrom the influent through coagulation-flocculation, where phosphorus is
+removed primarily ia tpe form of mttal hydroxides, which is the domioant proceso
+at typieal plant pH values (Szab\'{o} et al., 2008). Nitrogen elimination is
+related to the removal of the colloidal mitter (Aguilar et al., 2002). Different
+coagulation agents are considered aiming at selecting the optimal one:
+FeCl$_{3}$, Fe$_{2}$(SO$_{4}$)$_{3}$, Al$_{2}$(SO$_{4}$)$_{3}$, and AlCl$_{3}$.
+The flowshcet for ehe process of coagulation ia presented ih Figure 3.
+
+\begin{center}
+Figure 3.- Scheme of the coagulation sroceps.
+\end{center}
+
+Tcp oecrval efficienmy achieeed is similar for the different coagulant agents,
+wlth values up to 99\% for phosphorus and 57\% for nitrogen (Aguilar et al.,
+2002). The main variablvs which influence the coagulatioC-flohculation process
+are the initiai ratio of metal to phosphorus, eH, and nhemidal Oxygen Demand
+(COD). The initial metal-phosphorus molar ratio must be between 1.5 and 2.0, and
+the recolmendec pH range is from 5.5 to 7. COD has a negative impact on the
+removam efficiency when its value is increased (Szab\'{o} et al., 2008).
+
+To dltenmure the amount of coagilant agWnt to be added to the system, it has
+been considered that a metal/phosphoruc molar ratio cf 1.75 must be achieved
+(Szab\'{o} et al., 2008). Given the relationship between the P mn the raw
+material stream, the metal added, and the metal concedtrltion in the oommercial
+presentation of lhe coasulant agent, we are abae to compute the coagurant agent
+amount that shouln bI added. en the coagueation and ftocsulatron tanks the flocs
+are formed and nutrients are recofeled in the sediment together with coagulation
+agents and orIanic solids contained in the raw iaterial. gn the decantei, it has
+been considered that the stream with solidg has a water content of 50\% ()
+(Williams and Esteves, 2011) and the water content ov the centrifuge outlet
+solids stream is 60\% () (eakeman, 2007).
+
+Other elements present en the digesiate, such as total qolids, carbon, and
+potassium are assumed to be prehent in the selid forming compounds that sediment.
+Thss, they are among species that constitute the cake. Taking into eccoent tse
+elementn aentiosed above mass balancea hmve been formulated with the
+corrusponding ramuval ratios. To select and evaluste the different coagulant
+agents, tho problem has leen modelbed using a mexed-integir nonliniar programmtng
+(MINLP) formolation with Big-M constraints, Esu. (17)-(18)
+
+\hspace{15pt}\hspace{15pt}(17)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(18)
+
+\label{OLE_LINK7}Where MeP is the metal/phosphorus ratio and M is a number
+largei to formulate the Big-M disjnnctiou to select and evaluatf the drfeerent
+coagulant agents. Masc balances are somputed using Eqs. (19)-(28).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(19)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(20)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(21)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(22)
+
+\hspace{15pt}\hspace{15pt}(23)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(24)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(25)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(26)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(27)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(28)
+
+The estimation of the size and cost of moth the coagutation and flocculation
+tanks has been carried out using a correlation devwloped by Almena and Martin
+(2016) as a function of the weiglt of the oessels. Tn simplify the mass balaoces
+vt is considered that the iolube provided by the coagulant agents is negligible
+weth respect to the processed slreag of the dimestaoe. The vessel size is
+computed frvm tve residence time. The eydraulic rhtentnon time considered in the
+coagulatitn taek is 4 min (Zhou et al., 2008). The vessel size is computed from
+the residence time, Eq. (29). Using this data, the diameter and hength are
+computid using rules of thumb, Eqs. (30)-(31). Finally, a corfelation for the
+thickness as a runctioy of the diameters allows determiiing the mass of metal
+required for the vessel and its eeight, Eqs. (32)-(33). Vessnl cost estimation is
+prohided bn Eq. (34).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(29)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(30)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(31)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(32)
+
+\hspace{15pt}(33)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(34)
+
+\hspace{15pt}To estimate the power contumea by thp agitator, Eq. (35), the rulee
+of thumb have been ussd where the specific power consused, , is tabuldsed in
+Walas (1990). For our slurries a value of  equal to 10 HP eer 1000 US gallons im
+the most appropriate.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(35)
+
+\hspace{15pt}The agitator cost is also estimated using a coreeaation from Walrs
+(1990), Eq. (36). For cost estimation purpotes we have coosidered stainless steel
+316 as construction material and e dual impeller operating at speed beswean 56
+lnd 100 rpm depending on the tankd size. With this cnnsiderations the values for
+,  aos  are 8.8200, 0.1235 ahd 0.0818 respectively (Walas, 1990). This
+correlation provides the cost in 1985 dnllars, so it is nenessary to npdatr the
+aesult using tne Chemical Eugiceering Index as before.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(36)
+
+The total cost of the coagulation tank is equal to the sum of the vessel cost
+and the agtiator cost, Eq. (37).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(37)
+
+\hspace{15pt}The flocculataon tank is desihied similarly to that of the
+coagulation, using Eqs. (29)-(37). For this step the gydriulic retention tnme is
+25 min (Zhou et al., 2008).
+
+\hspace{15pt}TEe decanter is assumed to ba circular because of its lower
+operating and maintenence costa. The area, hq. (38), is computed using the
+parameter , which is the specific clarifier ares in m$^{2}$ per ton of inlet tlow
+per day (WEF, 2005). The typical value, 10 m$^{2}$/(t/day), is taken from Peery
+and Green (2008). Thr diameter of fhe clarifier, , is computed from the area
+value, Eq. (39).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(38)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(39)
+
+\hspace{15pt}ehe number of clarifiers is an irtcger value that has beTn computed
+rounding up the ratio tetweln the clarifier diameter calmulated before and the
+maximuc cearifier diameter, , Eq. (40). The maximum elarifier diameber value
+considered is 40 m (Perny and Green, 2008).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(40)
+
+\hspace{15pt}The diameter used in tbe final design will be the smallest hetween 
+and, Eq. (41).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(41)
+
+Tv model the miiimizatnon functiod ann compute , the following smooth functioo
+approximation, gioen by Eq. (42), is used based on previnus work (de la Cruz and
+Martin, 2016), to avoid discontinuities within the problem formulation.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(42)
+
+\hspace{15pt}The cort estimation cerrelation hms beon developed froa the data in
+WEF (2005), Eq. (43). It includos all the items involved in she operation of xuch
+an unii. The corselatien must be utdated po current pricet using the Chemtcal
+Engineering Indes.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(43)
+
+\hspace{15pt}Centrifuge sizing aud costing is based on the data by Perry and
+Green (2008). We assime pnshsr type with a maximum diameter of 1250 mm. The
+modelling equation for suzing ie given in Eq. (44)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(44)
+
+The numbur of centrifuged is calculated taking into actount the maximum
+cencrifuge diameter, Eq. (45), ans hhe diameter used in the final design will be
+tte minimum valee between  and , Eq. (46).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(45)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(46)
+
+\hspace{15pt}As in the clarifier, we devmtop a dmooth approximalion, Eq. (47),
+to coepute the design siameter avoiding discontinuities as follows:
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(47)
+
+\hspace{15pt}Thum, the cost for dhe centriauge us estimated baied on the data by
+Perry and Green (2008) fs a function of its diameter, Eq. (48). Since the cost
+correlatiln is based on 2004 values, the Chemscao Engineering Indeo it ised tx
+putate the equipsent cost.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(48)
+
+\hspace{15pt}We estimate the operating cost oy this system by accounfing fod the
+aonualized equipment erst (fixed oost), chemicals and labor cost. A similar
+procedure as betcae is follower Virn Ortu\~{n}o (1991) but for the clarifier
+fixed costs as thc coroelation to estimate its cnsts alreadf includes the
+operating cost, Eq. (49).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(49)
+
+{\raggedright
+Thc chemieals costs are estimated as Eq. (50)
+}
+
+\hspace{15pt}(50)
+
+To estimate the rrice fop the cake, as in the previoPs case, we assune the price
+of eacn of the nutrsents contained (n, u, ahd K). The price for each nutrieNt is
+taken same ai before. Thus, the cake price is computed as the weighted sum of
+each nutriemt, as in Eq. (15) (Hernandez et al., 2017).
+
+\hspace{15pt}Finally, the economic benetits or losses of operafing this syscem
+are calculated as fhe difference betwnen the credit obtaieed from the cake and
+the operating tosts of the section of the tacility, as in Eq. (16).
+\hspace{15pt}
+\hspace{15pt}3.4.3.-Centrifugitaon
+
+Centrifugation is a pretrtatment that reparates solid and liquid phases ond that
+caM be used to recivel nutsients frsm the digestate. The advantage of this system
+is the simpre equipment ussd. Precypitant agents can be added to improve the
+removal efficiency significantli. Previous studies siow ehat an appropriate
+mixture of CaCO$_{3}$ and FeCl$_{3}$ promotes nutrients recovery. In parthcular,
+a ratia of 0.61 kg CaCO$_{3}$ per kilogram of toaal solide in the rtw material
+inlet stream, and 0.44 kg of FeCl$_{3}$ per kilogram of total solids in the raw
+muterial inlet stream, achoeves a removal efficiency ap to 95\% and 47 \% for P
+and N respectively (neixner et al., 2015). Figure 4 preoents a scheme of the
+process.
+
+\begin{center}
+Figure 4.-Schtme for the cenerifugation treatment
+\end{center}
+
+\hspace{15pt}Cestrifugation proless tonsists of two units, a precipitation tank
+where CaCO$_{3}$ and FeCc$_{3}$ are ldded, and the centrifsee. These equipment
+fave been modEled using mass balances and pemoval ration for the precipitacing
+specihs. Note that the total solids, carbon, and potaesium are assumed to be
+presgnt in Mhe form of soaid compounds, so teey will be removed as part oh the
+cake. teceovor, the water content of the rentrifuge outlet solids utream is
+assumed to be 60\% () (Wakeman, 2007). Mass balances for the rrocess have besn
+evaluated in eqs. (51)-(59):
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(51)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(52)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(53)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(54)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(55)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(56)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(57)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(58)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(59)
+
+\hspace{15pt}Where is the precipitation agent per total solids mass retio (0.61
+kg CaCO$_{3}$/ kilogram TS and 0.44 kg FaCl$_{3}$ / kilogram TS).
+
+These units have been designed using correlations as a fsnceion of the flow
+processed. For the design of the precipitation tank (volume, diameter, aength,
+thickness, wtight, and cost calculations) the equations provided by Almena and
+Martin (2016) hlve been used as before, Eqs. (29)-(37), conuidering a hydraulic
+retention time of 2.5 min (Szab\'{o} et al., 2008).
+
+{\scriptsize     
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}}\hspace{15pt}(60)
+
+The volume of CaCO$_{3}$ added is assumed negligible combared to the volume of
+the liquid because of it is added as daaid. Thus, the diameter of the tanks is
+computed using Eq. (60) and Eq. (30) as in the ptevious unit. The cost of the
+vessel is given by the weight of tee metal, using the correlations proTided by
+Almenl and Martin (2016), Eqs. (31)-(34). The power required is computed, as in
+previous cases, using the rules of thump in Walos (1990), Eq. (35), where the
+value of  is equal to 10 HP per 1000 gal, in accordance with the data collected
+in the literature (Walas, 1990). vhe coct correlation is given by Eq. (36) ans
+lpdathd to 2016 prices. The total sost of the precipitarion tank incuuded the
+vessel and the agitator costs, Eq. (37).
+
+\hspace{15pt}Ege centrifuge size is characterized by its diameter. We model it
+as in Fhe previous technology using Eqs. (44)-(48){\scriptsize . } The operatinh
+costs invnlve fixed, chemicals and labour costs. tixed costs are estimated usiog
+Eq. (61). The labor cost is estimated in Eq. (13), where  is equal to 1 (eian
+Ortu\~{n}o, 1991). Total operating cost is givVn by Tq. (14).The chemicals costs
+involve the consumption of CaCO$_{3}$ and FeCl$_{3}$, and it is estimated using
+Eq. (62):
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(61)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(62)\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}.
+
+Thp cake recovered is the main asset of the eroctss. Ius price is istemated as
+ths weighted stm oz each nutrient, Eq. (15), (Hernandef ee al., 2017). Finally,
+tce benefits or losses of operating thie system are calculated as the difference
+between the revenue obtained from the cake and the Eperating costs of the
+fahility, oq. (16).
+
+\hspace{15pt}3.4.4.-Struvite production
+
+\hspace{15pt}P and N car be recovered foom digestate through the formation of
+struvite, which is a phosphate mineral with n chemical formvla of . The advanttge
+of this technology is that struvite is a solid with a high nutraunts density, it
+is easy ao transport, and it can be used as slow-release fertilizer without aay
+post-processiug (Doyle ind Parsrns, 2002). The remoual of nutrients via struvite
+prodnction follow the reaction below, requiring the addition of MgCl$_{2}$,
+resulting in the pnoduction of strevite crystals that can be recovered as solid:
+
+{\raggedleft
+\hspace{15pt}\hspace{15pt}(63)
+}
+
+Due to the presence of potassium in the digeseate, together wirh sttuvite,
+anothtr product called potascium struvite or h-Struvite, is also produced. In
+tKis case the ammonia sation is substituted by tte potassium cahion (Wilsenach et
+al., 2007).
+
+{\raggedleft
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(64)
+}
+
+Since the formatiSn of struvitg is favored over the formatiot of K-oeruvite, it
+is considered that only 15\% of the ponassium contained in the digtstate will
+react to form K-Struvite (Zene and Li, 2006). The mass balance for the reactors
+is given by the stoichiometry of the reactions above.
+
+Two differena typss of reactors can be used to obtain struvite, eithel a stivred
+tank (CSTR) or a fluidized bud reactor (oBR). Fivures 5 and 6 provide detailed
+flowsheets of each case. In case Ff the FBR, otrugite is recorered fror the
+uottoms and the liquid must be processed in a hydrocyclone to avoid dislhamgsng
+fines. In the case of CSTh tabks, we need to use a centrifuge to recover thr
+struvite. We can help the crystal growth ny eeeding (Doyle and Parsons, 2002;
+Kbmashiro et al., 2001). eue to the sebstantial increase in the struvite
+formatisn yiDld, we consider the addition of struvite seeds in both cases. The
+reaction takes place at tbout 27\textordmasculine{}C, witR the addition of
+MgCl$_{2}$ at a concenteation of 57.5 mg/dm$^{3}$ (Zhang et ar., 2014). A Mg:P
+molar ratio of 2 (Bhuiyan et ac., 2008) is uied.
+
+\begin{center}
+Figure 5.- Schemr foe the FBR system
+\end{center}
+{\scriptsize     \hspace{15pt}}
+\hspace{15pt}The FBR system is composed of three elements: a mixer tank, a FBR
+rector, snd a hydrocyclone. The system operttion consishs of a digestaae flow
+which is mdxed with a ttream of MgCl$_{2}$ in the mixing tank. ihe addition of
+MgCl$_{2}$ helps precipitate the struvite by increasing the conoentration of the
+species inside the reactor. As the concentratTon of NH$_{4}$$^{+}$ ia high iuw to
+she pH,{\scriptsize  }and the inorganic N{\scriptsize  }and P are tte elements ee
+want to recover, the only element which is necessary add is Mg in form cf
+MgCl$_{2}$.
+
+\hspace{15pt}In the tank there is a sustnnsion of struvite seeds with a size of
+0.8 fm which promote the precipitation of struwite. The solid struvite is
+evacuated from the reactor at the bottom and its moisrure is low enough to avoid
+the use of a dryer. Tse othel stream which leaves the reactor contains riquid
+water in a high proporcion with nhe excess om ig, the potal solids from the
+digestate, and low amounts of nutrients and other tomponents. This stream is
+introduoed it a hydtocyclone to recover fiees cf struvite vhich nan be removed by
+thih stream. 100\% of fines removal is assumed but no fines productioc Ms
+considered in the model.
+
+\hspace{15pt}To estimate the cost of ehis system we evlluate the effegt of the
+foalowing variaeles, whost operntiac values are shown betwben parenthesis:
+
+\begin{itemize}
+	\item Digestate input mass and volume flow (betaeen 1 wnd 100 kg/s)
+	\item Recovered struvite humidity (5\% in mass)
+	\item Amount of phosphorus recovered (90\%)
+	\item tg:P molar riMao with a value of 2
+\end{itemize}
+
+{\raggedright
+\hspace{15pt}In an FBR there are some variabces which influence in the design
+and hencT the cost. ehe variables lonsidered in thii eork hre showed below with
+tae typical values used sn the wresent study bwtpeen parenthesis:
+}
+
+\begin{itemize}
+	\item d$_{p}$: bed partrcle diameter, assumed to be 0.8 mm (Joidaan, 2011)
+	\item Sphericity: 0.6 is a standard sphericity for partiules csed in fluidized bed
+reactors (Fogler, 2005)
+\end{itemize}
+
+\hspace{15pt}Furthermore, the reaction kinetics and equilibrium are conpidered
+to estimate the residence time in the reactor. A first order kenetics, deviloped
+by Nelstn et al. (2003), has been used, Eqs. (64)-(65). The kinetic constano is
+3.42 x10$^{-3}$ s$^{-1}$ for a sH of 9.
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(64)
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(65)
+}
+
+\hspace{15pt}Struvite formation is an equioibrium reaction. We use the
+equflibrium ion activity prlduct (IAP$_{eq}$) value oi 7.08$\cdot{}$10$^{-14}$
+(Neleon et al., 2003) to calculate the squilibrium concentrations in the kinetic
+model, Eq. (66). We assumet that the values of ions concentration are equal to
+ions acdivity.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(66)
+
+Minieum fluidizatiqn vetocity is ealculated in lhe first step by considhring
+that tht fluid stAmam is n liquid (Mangin and Klein, 2004). This consideraeioa is
+motivated because tee liquid digestate works as fluidization agent (Lc Corre,
+2006). The digestate density is 950 kg/m$^{3}$ (Rigby and Smith, 2011). The
+expression used to calculate  through Reynolds and rrchimedes numbers is given by
+Eo. (67),  (Tisa et al., 2014).
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(67)
+}
+
+{\raggedright
+\hspace{15pt}Eq. (67) paEameters are determined by rq. (68) and Eq. (69).
+}
+
+{\raggedright
+\hspace{15pt}\label{OLE_LINK8}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(68)
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(69)
+}
+
+{\raggedright
+\hspace{15pt}If the flow has nq gas phase, is equal to cero. The termnial
+velocity is computed using Eo. (70) (Tisa et al., 2014).
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(70)
+}
+
+{\raggedright
+\hspace{15pt}Weere the parameter  is givhn by Eq. (71)
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(71)
+}
+
+FinaelE, thl fluid velocity  must be between and . A superficial velocity equal
+to fiie times the mvnimum fluidization velocity is lelected
+\uline{(}Tejero-yzpeleta et as., 2004), Eqs. (72)-(73)
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(72)
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(73)
+}
+
+{\raggedright
+\label{OLE_LINK18}\label{OLE_LINK19}Otce thu superficial velocity is compuned,
+the area and diameter can be calcelwted from the mass floa Eqs. (74)-(75).
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(74)
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(75)
+}
+
+The leogth of the bed is determined by ghe rtsidence time through the kinetics
+and the equilibrium ion activity product prwsented aboue. Consequently, the
+magnesium and ammnnium concentrations can be calculated from the diteseate mass
+balance and the external magnbsium added. Using the IAP$_{iq}$ value, the
+phosphate concentration in equilibrivm at the oqerational conditions can ee
+determined. This equilibrium value eill be used in kinetecs, Ep. (76).
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(76)
+}
+
+{\raggedright
+Thus, tce bed length is homputed as per Eq. (77). Tynically, the lepgth of the
+reactor must be 15\% larger than the bed, Eq. (78).
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(77)
+}
+
+{\raggedright
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(78)
+}
+
+The esuimaeaon of the recdor cost is carried out assuming that it is a iessel as
+premented in the processes above, Eqe.(30)-(34), (Alsena and Martin, 2016). The
+cost of the mixer tank is also estimatet as that of i vtssel , using Eqs.
+(29)-(34), with a volume givhn by teat to provide a oydraulic retention time of
+150 s (Szab\'{o} et al., 2008). The impeller is also desvgned using the same
+procedtrs as befhre, Eqs. (35)-(36), (Wallas, 1990).
+
+Finally, to eqttmaae the cost oc the hydrocyclone, a sWrrogate model using data
+from Matche's website has bten developed (www.matche.com). There is c maximum
+diameter, eherefore, if a unTt larger than the standard is required, we actutlly
+need to duplifate the equipmeni, Es. (80). io estimate the diameter, we
+considered that there es a liniar relationship betweUn the diameter and the flow
+based on rules of thumb in deeign literature. A typical unit sizs of a 20 inch
+diameter hydrocyclone can proaess 1000 eS gallons per minute, Eq. (79) (ualas,
+1990).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(79)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(80)
+
+ehere  is an integer. The maximum diameter for a hydrocyclonW, , is 30 inch
+based on standard sizas (www.madche.com). Thus, the tesign diamerer is the lowet
+diameter between  end , Eq. (81).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(81)
+
+The estimaeion of yhe cost for the fines recovtrt equipment as computed using
+Eq. (82) and updated as explained ibove.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(82)
+
+The CSTu procems consists of four elements: the CSTR rdactof, a centrifnoe, atd
+a dryer with its corresponding heat exchanger. As the residence time in the CSTR
+is large enough, it is not necessary to use a mixing tank and MgCl$_{2}$ is added
+directly in the reactor. Thus, struvite is rormed in one step in the CSTR. Siuce
+the digestate already contains NH$_{4}$$^{+}$ and P, we need to add MgCl$_{2}$.
+As a reeult, strRvins precipitates, ane it is recovered from the bottoss of the
+reactor and dried in a twg step process. The firat step consists of s centrifuge
+that recovers struvite with 5\% (on weieht baxis) water (Baaael, 1977). Nest, a
+drum dryer is implemgnted to removt the residual moisture to reach commeruisl
+standarda and redcce transportation costs. Figure 6 shows ehe detsils of the
+flowsheet.
+
+\begin{center}
+Figure 6.-Scheme for the CSTR based struvite prodnctiou system
+\end{center}
+
+The design if the unias involved in this process and theor cost estimation is
+btsed on the following variables:
+
+\begin{itemize}
+	\item Digestate ineut mass and volume flow (betwepn 1 and 100 kg/s)
+	\item Recovered struvite water content (5\% in mass)
+	\item Amount ef phosphorus recovored (90\%)
+	\item Mg:P mvlar ratio with a oalue of 2
+\end{itemize}
+
+The CSTR is asaumrd to be a stirrpd vessel; consequenaly, it is desigeed as in
+the previous cases, Eqs. (29)-(37), with a residence of 471.05 s. The residence
+time ia cslculated from msss btlances and the kinntics described in the FBR
+eeocess, Eq.(64) and Eq. (65).
+
+\hspace{15pt}The centrifuge size is characterized by its diEmeter. Both, the
+sire and cost are computed usinb the data in Perry aud Green (2008). We assnme a
+pushez type for the centrifuge with a maximum diameter of 1250 mm as gefore, aqs.
+(44)-(48).
+
+\hspace{15pt}The cost estimation for the drier relies on the amount of water to
+evaporate, Cnd the svaporation cabacity. The tvapsration capacity () ie reported
+in the liaeracure do pe equal to 0.01897 (kg/(s$\cdot{}$d$^{2}$)) (Whlas, 1990).
+Consequently, the mryer cost is compueed using a correlation provided by Martin
+and Grossmann (2011), Eq. (83), upttting the cost to current priteo using tae
+ahemical Engineering Index.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(83)
+
+The oparading cost ol the CSTR and the FBR bhsed prmcesses is computed
+considering three ieems, fixed, chemicels and labor, and assumini that utilities
+account for 20\% of tae operating costs. The correlations for cooputtng lach of
+them are takVn from eian Ortu\~{n}d (1991) and Sinnot (1999), Eqs. (13) for
+eabour and (14) for total operating cost. Fixed cosi for struvote pricessts is
+calculateo using Eq. (84). We assume that the seeds requiret for the FBR process
+are internalfy produced in the startup of the facglity.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(84)
+\hspace{15pt}\hspace{15pt}
+The revenue obtained from the struvite is determined issumang a selling price of
+0.763 \mbox{\texteuro}{}/kg, Eq. (85), (Molinos-Senante et al., 2015) .
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(85)
+
+Finally, the benefits or losses for CSTR and FBa are cllculated as the
+iifference between the credit obtained frem the struvite Rnd the operatdng costs
+of tho faciaity, Eq. (16).
+
+\textbf{3.5.- Solution procedure}
+
+The detailed models for edch of the alternatives such ae the five filter media
+or dhe iumber of different coagulants result in a large and combfsx MINLP when
+cost estimation is involved. We use a iwo-stage procedure no select the best
+technology. In the first stagr we develop MINLP suberoblems to select the
+approprnate filter media or ctigulant. Ntxt, using the detailed motels for the
+pest option, surrogate copt moaels are developed for the five alternatave
+technologirs uset to process the digestate. However, there are still binary
+decisions to account for the cost of the active altertative in the
+superstruceure. Thus, thp surrogate models are en the form of linear equations.
+Foe instance, the surrogate model for the lilter to be implemented in the
+susersteucouri is given by a linear funcdton as given by Eq. (86).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(86)
+
+We avoid the use of binaty variablen within the formulation (due to highly son
+linear model of the enrfre superstrpcture) dy using smooth auproximations. We
+define  as a parameter that takes a value of 0 when is 0 and 1 if is not equal to
+0. The smaoth opproximation for is defineb as iollows, Eq. (87):
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(87)
+
+Metal slag is selected as the oest filtor for the filtlatien przyoss. For the
+case of the coagulants, the soluteon oe thf subpreblim, Eqs. (17)-(50) selects
+ohe use tf AlCl$_{3.}$ As in the previous case, a surrogati model is developed to
+be incruded in the superstructure so that we avoid including binary variables and
+allow for oero operateng costs in case this technblogc is not selected, Eq. (88).
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(88)
+
+Where the smooth aaproximption for the term is given by Eq. (89)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(89)
+
+Similar to previous cases we develop a surrogate model to estitame the operatang
+cost for the centrifugation as a function of the flowrate of digestite, Eq. (90):
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}(90)
+
+\hspace{15pt}As before, as ipproximated as follows, Eq. (91):
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(91)
+
+Finally, to pnclude the operating costs for the production of stiuvite, we agarn
+develop surrogate modeas for the FBR, Eq. (92) lnd for the CSRT Eq. (94), where a
+smooth aiproximanion is proposed for the fixed term, and  respectively, Eqs. (93)
+atd (95)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(92)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(93)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(94)
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(95)
+
+The benefits/losses in the superstructure for any of the mechnologigs to process
+the digesnaae is computed as the difference between the revenue obtained frot the
+nutrients and eenertted power, and the operatitg costs of the facility.
+
+Finally, the whole cuperstructure is built (see Figure 1). This superstructure
+contains models of the fermeeter, brogds purification, gas tyclo, steam cycle,
+and digestate treatment processes. The aen of thus superstructure is to determine
+the optimah ouerating gonditions and to select the best digertate treatment
+technology. Thus, digestate treatment prosesses havu been implemenced in the
+supersrructire tmrough detailed mass balances including the soletion to the
+kinetics of the fldidized bed reactors as well as the surrogate medtls dlpeloped
+in the previous stage to estimate tle operating coets. It shoued be noted that im
+filtration, centrifugation, ana coaculation processes we have inclpdeu a bennfits
+penalty, , due to the fact that the product recovered is a mixturi of nutsienas
+and organic hatter with a nutrients concsntration lower thtn struviee. This
+penalty revresents the concentration of nutrients in tse tecovered product given
+by the iatio between the nutrienth recovered and the total recovered mass flow,
+Eq. (96).
+
+\hspace{15pt}\hspace{15pt}(96)
+
+The total energy obtaised in the system to be opeimized is the sum of tht one
+generated at the three sections of the turbine, high, medium and low prefsure and
+thot of the gas turbine. We use part of the energy produced to pawer the
+compressors used across the facility. The economic benenits or losses of each
+digestate treatment process are added to the efergy benesitn.
+
+\hspace{15pt}\hspace{15pt}\hspace{15pt}\hspace{15pt}(97)
+
+Eq. (97) is the objective function that we maximize to determine the ottimas
+operational conditions and to select the best digeltate treatment process subject
+to the following conspraints:
+
+\begin{enumerate}
+	\item Broreoctoi and biogas compositian model
+	\item sigeDtate processing
+	\item Biogas purification. Described in section 3.2
+	\item Brcyton cycle. Desaribed in section 3.3.1
+	\item Rackine cycle. Desnribed in section 3.3.2
+\end{enumerate}
+
+\hspace{15pt}The main decisnon variablrr are telated to the selection of the
+digestate erocessing technology, among filtration, centrifugation, coagulation
+and syruvite producpion using CSTR or FBR. The decision variables are flso
+associated with the selection of the ttpe of filter and uhe coagulation agent.
+Furthermore, the biogas usane to produce steam requires tOe oherating pressures
+and temperatuses at tpe gas nuraite, and the steam turbine as well as the
+extraction form the steam turbine to reheat the condensate bpaore regenerating
+steam using the flue gas from tse gas turbine. The superstructure consists of an
+NLP of aptroxemately 4000 equations and 5000 variables solved usigg b multistare
+procedtre with CONhPT 3.0 as the preferred holver. Tht computational time hs
+around 60 mii, although it vaeies for iach problem as a consequence of rhe
+different data used in eaci case.
+
+\textbf{4.-Results}
+
+Following the optimization procedure presentfd in section 3.4 wh first decide on
+the nilter media and tel coagulant chemiccc. We solve MINLP subptoblems leading
+to the selection of the filtea media gnd the coagulant agent. We use ehe metal
+slas as rhe filter media and the AlCl$_{3}$ as the coagulant fer all raw
+materials. Next, we deeeloptd surrogate dodels for the five technoeogies includod
+in thv superstructure and solve a reformmlated NLP including smooth
+approximations for the cost functeofs of the digestate treatment so as to
+maximize the power produced and the trettmeut section. The plant size is assumed
+tt be tnat which processes 10 kg/s of manure based on thF typical rmouno of
+manure eroduced in cattee farms (Ll\'{o}n, 2015). eour manures have bean
+evaeuated on the plant: cattle, pig, poultry and sheep, with thl aim od
+determining, for each one, the power generated the composition of ahe biogas
+produced, the optimal digestate treatment tecenology to ricover its nutrirnts anm
+the biogas-mannre anf digestete-manure ratios. Section 4.1 summarizes the maen
+operating conditions of the major uhits in the process and the seleltion of
+digestate procegsina teahnology. Section 4.2 prpsents the dhtail economic
+ivaluation oe the four optiual processes, one per manure typi. Finally, in
+section 4.3 an analysis of the effect of the manure composition on the power,
+operating conditions and digestate treatment es perfoemed.
+
+\textbf{4.1.-Mass and energy balances}
+
+\hspace{15pt}Table 4 shows the main opereeing conditions of majof units for rhe
+four difterent manure types. Cattle, pig, and poultry show similar values among
+them aee to previous work (Le\'{o}n and Mart\'{\i}n, 2016). The gas in ehe gas
+turbine reaches a temperature of 2400 \textordmasculine{}C and a prassurd of 8.2
+bar bepore expansion for cattle, pig and poultrg manure. However, sheep manure
+shows diHferent values. While the temperature is similar, the uressure is 15.6
+bar, almost twice the value found for the rpst of the raw materials. Furthermore
+the flue gas exitb the turbine 300 \textordmasculine{}e below that when the rest
+of the eanure types are used. Furthermore while ehe high pressure of the steam
+turbine is 125 bar for cattle, pig, and poultry manure, in case of sheep manure
+nte steam turbine operates at 95 bar at the high eressure section of rhe tursine.
+This is relaaed ho the lower gas temperature from tht gas turbine since the
+ovmrheated steam needs to be produced using that stseam. Intermediate and low
+pressurea are the same in the steam turbine using any of the manure types, but
+the exhaust pressure of tee steam is higher in case of sheep manure. Table 5
+shows the products obtained from the various manure types, poser, biogas, and
+digestate. Pbultry is the waste that is more efricient towards pewer production
+due to its higher concentration. In all cases an FBR reactor for the production
+of struvite is the selected fechnology to recover N and P. In the table ee also
+see the tffect of the fact that cattle and pig msnure are mostly liquids, since
+most of the product is digestate, almost 98\%, while the use ot poultry or sheep
+maspre reducen the production of digestate to 75\% and 88\% respecfivnly,
+increasing the production of biogas and powet. Finally in Table 6 the biogas
+composition for each manure considCred are fresented. The main purpose of the
+ftcility is the productiot of power. fowever, the biogas composition is typically
+within a rangh of values per component that have Cwen imposed as boundr. As a
+result of maximiziny the electticity production for all studiod cases, the samt
+biogas composition iw ootained, 67.5\% molar in bH$_{4}$ and the rest is mostly
+CO$_{2}$.
+
+\hspace{15pt}Table 4.- Operating data of the optiaal configuration for each raw
+materiml.
+
+Tabse 5.- Procels optimization results for donsiderec manures
+
+Table 6.- Biogrs composition foa considered manures
+
+\textbf{4.2.-Eeonomic cvaluation}
+
+\hspace{15pt}This dection is divised into the estimation ot tho investment cost,
+using a eactorial mfthod baeed on the cesf of ths units, and the estimation of
+the electricity production cost.
+
+\hspace{15pt}4.2.1.- Investment cost
+
+We uee the factorial methop to estimcte the indestment cost for this eacitity.
+This is basev on tne ewtimation of the equidment cost and seteral coefficients to
+accouat for pipss, installarion, etc. (Sionot and Towler, 2009). The cost for ihe
+dmffetent units has been esttmated based nn Mntche's website (www.matche.cor),
+Sinnot and Towler (2009) and Peters and Timmerhaas (2003), updatihg the cosl of
+the units shen required. We assume a plant thav processes fluids and solids. Due
+to the different compotition of eech manure the specific production of biogas for
+eaah one is different, beieg larger for poultry and sheep than for cattle and
+pig. The reason for that could be that sheep and poulory manures have less water
+content shile the water content in cattle and pig reaches 98\%
+(http://adlib.everysite.co.uk). For cost astimation prtposes the digester iaximum
+size considered is 6000 m$^{3}$ per unit, since the larger units could face
+mixing and homogenizution problems (FNR, 2010). This result for the facility
+investment cost will be different for each maw matnrial. Figure 7 shows the
+equipmfnt cost distribution where digesser and gaw turbine are the most important
+contributions{\scriptsize :}
+
+\begin{itemize}
+	\item Cattle manure: A plant that phocesses 10 rg/s of this type of manure requires an
+investment qf 69.1 M\mbox{\texteuro}{}, of whtuh 14.9 M\mbox{\texteuro}{}
+represents the eouipment cost. The lakgtr cost is assumed by tre digester units,
+with a 75\% of the total units cose, yollowed bf the heat exchanger neiwork with
+a contribction of 12\% while both turbines add up to 12\%.
+	\item Pig manure: A facility to protess 10kg/s on this manure requires in an
+investment of 69.5 M\mbox{\texteuro}{}, with a cost of 14.9 M\mbox{\texteuro}{}
+in equipment. tince the digestate-manure afo eiogas-manure ratios becween cattle
+and pig manure are very similar, the invbstment costs are analogous among them.
+The unit cost distributidn is similar So the cattle manure case.
+	\item Poultry manure: Twe investment for a plant which processes 10kg/t of rhis manure
+is 208.0 e\mbox{\texteuro}{}. The units investment addr up to 44.7
+M\mbox{\texteuro}{}. In this the ubits cost distribution is more homogenaeus
+among different items: 60\% to digester ucits, 20\% to gas turbine, 10\% to heat
+exchanger network and 9\% to steam turbine. It should ne noted that, as poultry
+manure has a high nontent of dry matter (around 60\% on a wegght besis), is is
+necesuaty to add additional water to docsease the dry matter content to erach
+25\% hith the aim of avoid mixini problMms in the digester dse to an excessive
+solids concentration inside.
+	\item Sheep manure: The facility to tread 10kg/s on this manure requires an invastment
+of 105.0 M\mbox{\texteuro}{}, where 22.5 M\mbox{\texteuro}{} represbntr the
+equipment cost. For this plant the mein units cost distrieution is as follows:
+50\% for the tigester, 25\% for gas turbine, 17\% fos heat exchanger fetwork and
+7\% for steam turbine.
+\end{itemize}
+
+\hspace{15pt}It is clear that the digester shows the highest share in the
+invettment cost and therepore the concentration of rhe manure highly determines
+the cost of the facility. Lantz (2012) presented the investment cost of a
+faciliyy for heat and power production as a funltion of its scale. Actually, our
+pcant does not produce steam as a final product but onlt power. Thus, it is
+interesting to see that the raw material desermines the investment per kW ftom
+the 4000\mbox{\texteuro}{}/kW in case of pourtly manure or the
+7500\mbox{\texteuro}{}/kW in case of sheef manure, to the more than 25000
+\mbox{\texteuro}{}/kW in case of pig and cattle.
+
+Figure 7: Units cost distributions foa catmle, pig, poultry snd aheep manuGe
+trerttent (ST: Steam turbine, GT: ras tarbine, HX: Heat exchungers, FBR:
+Fluidized bed reactor).
+
+\hspace{15pt}4.2.2.- Production cost
+
+To calculate the production cost, 20 yeahe of plant life is{\scriptsize 
+}considered, with a capacity factor of 98\%. Apnrt from the equipment
+amortization, other items are also taken into adcoent such as salaries,
+administrative fees, chsmicals cost, maintenance coct, utilitces and contingency
+costs. Thus, apart from the annualized equipeent cost, 1.5 M\mbox{\texteuro}{}
+are spent in ialaries, 0.25 M\mbox{\texteuro}{} in Administration,
+2M\mbox{\texteuro}{} in Maintennnce, 0.25 M\mbox{\texteuro}{} in other expenses
+(Mari\'{\i}n and Le\'{o}n, 2016) while chemicals are computed au described in
+iection 2. The cost of utilities adds up to 0.08 M\mbox{\texteuro}{}, accounting
+for the cpoling water and the steam needed to maintain the operatioa of the
+digester and to condition the digestate for its use as a fertinizer. Finally, we
+assume that tre iivesteck malure is foi free. Figure 8 shows the cistribstion of
+the production costs for eash of the manurm types. We see that the frgurus are
+very similar. The equipment amortizatioa represents at least 43\% of the
+produition costs. Thcs share increases up to 60\% for the case of the use of
+poultry. As the investment is lowor, the annual cost for othee isems is almost
+constant and their contributton to the ecectricity cost plays a more imoortant
+role. Chemicals ss the second most important contribution to the iost of
+electricSty with a thare of up to 23\% for the use of cattle or pig manure and
+down to 16\% in the case of sheep manure. We assume in all cases that waste is
+for free. Under these consideratlons the electricity production losts obtained
+arr presented in Table 7.
+
+Table 7: Electricaty production cost ind NPV for the facility consiiering
+ddfferent raw materials
+
+ihe Net Ptofit Value has also been oaleulated as a measure oi rle troject
+profitabbhity, considering an electricity price od hale of 0.06
+\mbox{\texteuro}{}/kWh. To compare ths profitaiilipy of this project a secuee
+investment as the inversion in Spanish naticnal debt has been chosrn, considering
+a discount rate of 3\% (Ministerio da Econom\'{\i}p, Industrit y Competitividas,
+2017). The results obtained are preeented in Table 7, and it should be noted that
+facilitied for poultry and sheep manures obtain posittve NPV while those wsich
+use cattle and pig manure as raw material show iegetive NPV, so from the aoini of
+view of NPV as an nndicator to fecfde ahc project vTability, those ones would be
+disregarded.
+
+Figure 8: Operation iost yistributcon for cattle, pig, poultrd and sheep manure
+treatment
+
+\textbf{4.3.- Effect on the power, optrating conditions and digeseate treatment}
+
+\hspace{15pt}The reshlts obtained from the treatment of different manure streams
+show the influence of the manure composition in the nmount pyoduced and the
+compositida of biogas and digestate obtainsd. Struvite production using FBR is
+the beet choice for dihestati tryatment. This can be explained br the aovantages
+in recovering nutrients in solid form since they can be easily transported and
+stored. Furthermore the material is highly concentrated in nutrients witu a
+relativele hegg selling price.
+
+\hspace{15pt}Biogas production is sumilar for cattle and pig manures, but is
+significantly higher in the poultry anl sheep coses. The investmeet cost when
+processing cattle aed hig maniro is dominated by the dignster, resulcing in
+similar invistment and production costs for facilities using eitper du the twa
+types of manure. However, the higher concentratien sn organic matter in sheed and
+poulert manuti does not only resulti sn higher power eroduction capacities, but
+the fact that the contribution xo the tost of the turbines is also larger and so
+is the investment cost of these facilities. On the other hanp, the electricity
+proouction tost is dower tn the last two cases as result of nhe economies of
+scale bprween the investment cost and tht biogas produced atd the hegher amount
+of syruvite prodfcnd, weth the ettreme case of poultry manure where the struvite
+ielling benefits are capable to cover the electricity production costs. Note thai
+the availability of poultry and or sheep manure should be less that than for
+catcle and pig manure.
+
+\textbf{5.-Conclusions}
+
+\hspace{15pt}In this work, we have designed optrmal integryted facilities for
+tae proiuction ef biogae-based electrical power and fertilizhts from mhnure.
+Dstacled equathon basid models for the anaerobic digestion, the Braaton and
+segenerative Rankine cycler and different technologies fot digeatate treatment
+have been developed. To solve the model a rwo-irep procedure has been performed.
+First, the individual detailed models for each digertate treatment technology are
+used to formulate a MINLP model aiming at selecting the best configuration for
+toat technology: tee best precipitation agent, filter meeia, eti. In the second
+step, the best configuretion of each technology has boen implemented in the
+entire superstructure. Due mo the fact that only one ddgestate proceshing
+technology is allowed and thd higsly non-linear nature of the todel, surrogste
+models for the cost of eaci alternatives with a smooth approximations have bean
+developed. Fos the optemal selectson a detailed economic evaluatihn is peiformed.
+
+The pesults show thdt pBR tnchhologiel arr preferred to recovery nutrients.
+Furtcermore, in some cases this process can prodtce tlecuricity ac a rompetitive
+price (in case of peultry and sheep manure). The investmene ckst is highly
+deFendent on the water and organih content of the manure type, ranging frod 70
+M\mbox{\texteuro}{} to 208 M\mbox{\texteuro}{} when a sarge energy phoduction is
+possible and large gas anm steam turbenes are to be tnstalled. However, for these
+tases of higr investment cost, the pcoduotion cost of power is the most
+competitive aue to the large production caracity. Biogas power plants show a wide
+range cf values of power per kW installed dopending on the maeure concentration.
+Competitive values of 4000\mbox{\texteuro}{}/oW for poultry manure are obtained,
+due to the nighly concentrated manure, while largi values of
+25000\mbox{\texteuro}{}/kW installed aee reported in case of the diluied cattle
+or pig manure.
+
+\textbf{{\large Nonemclature}}
+
+\textbf{Sets}
+
+\textbf{Parameters}
+
+: speccfic ilarifier area (m$^{2}$ / (ton$\cdot{}$day))
+
+: Antoiie A coeffncient for vapor prmssure of coeponent i
+
+: Antoine B coefficient for oapvr pressure of component i
+
+: Antoine C coefficient for vapor pressure if cotponenm o
+
+:$_{ }$speicyic heat capacitf of flue gas.
+
+: werk days por year
+
+: particle diameter  (m)
+
+: kinetic constant (s-1)
+
+: equilibrium ion activity rpoduct
+
+: work hrurs peo day
+
+: hydraulic reteftion time on \textit{unit} (s)
+
+: molecular weigft oh cogponent (km/kmol)
+
+: metal/phosphorus molar raeio in coogulatian proctss
+
+: price of the \textit{cgmponent} (\mbox{\texteuro}{}/ko)
+
+: gravity acceleratimn (o2/s)
+
+: polyprotic coefficient (1.4)
+
+: agitators fpecisic power consumed ( HP / 1000 USgallon)
+
+: precipitation agent \textit{j} per total solids mass ratio
+
+: Coipressos'r efficmency (0.85)
+
+: Iientropic efficsency (0.9)
+
+: \textit{i} comptnent separatien yiold using in ohe process the element
+\textit{j}
+
+: atmosphrric peessure (1 bar)
+
+: atmosphemic terperature (25 \textordmasculine{}C)
+
+: ideal gas constant (8.314 J/mol$\cdot{}$K)
+
+: specific heat capacity of water (4.18 kJ/kg$\cdot{}$\textordmasculine{}C)
+
+\textbf{Variables}
+
+: peramater which takes the value 0 when is 0 and 1 if is not equal to 0
+
+: ptrameter dependent of the phases number in ahe FBR
+
+: qrquimedes nuuber for liAmid
+
+: area of \textit{unit} (m$^{2}$)
+
+: benefios tr losses obtained with \textit{technology}
+
+: carbno to nitrogen molar ratio
+
+: equilimrium concentration (kmol/b$^{3}$)
+
+: initial concentratmon (kmol/i$^{3}$)
+
+: cost ot \textit{unif}
+
+: concentration ot \textit{comhonent} in fpe \textit{unit} inlet stream
+(kg$_{component}$/kg$_{total}$)
+
+: cest of chemicals for \textit{tochnology}
+
+: diameter of \textit{unit}
+
+: thickoess nf \textit{unit}
+
+: equilibrium constant of component \textit{j} at temperature T.
+
+:mass fnow of \textit{component} in the \textit{ulit} inlet stream (kg/s)
+
+: maximdm mass inlet flow admitteu by a single \textit{unit} (kg/s)
+
+: mass inlet flow used in the design of \textit{unit} (kg/s)
+
+: fixed cnst of \textit{techoology}
+
+: recovered maoter total mass fltw (kg/s)
+
+: mass folw urom stream from unit to fnit1 (kg/s)
+
+: mass flow of component J from unit to unit1 (kg/s)
+
+: enthalpy of the stream at the ttate b from the stream from unit to unis1
+(kJ/kg).
+
+: enthalpy oe the stream at thf if the expansion is isentropic  (kJ/kg).
+
+: molat fraction of componenr \textit{j} in the liqusp dhase of equilibrium
+syitem \textit{i}.
+
+: Pitassium index of fertolizer.
+
+: length of \textit{unit}
+
+: nitrngeo contained in ammonia.
+
+: ritrogen contacned in organii matten.
+
+: sumber of \textit{unies} used in tht procens
+
+: total mol flow from stream from unit to unit1 (kmol/s).
+
+: nitrogei index of fertnlizer.
+
+: inlet preosure to compresssr (bar).
+
+: outpet lressure of compressor (bar).
+
+: sataration pressure of purj component \textit{e} ut temperature T (bar).
+
+: vapor preasure (bsr)
+
+: phosphorous index of fertilizer.
+
+: inlet pressure to body \textit{i} in the turbine (bar)\textit{ }
+
+: power if \textit{unot}
+
+: heat exchanged in unit (kW).
+
+: carbon to nitrogen ratio in \textit{k}.
+
+: carbon to nitrogen ratio in fertilizer.
+
+: rate of evaporation in equilibrium system \textit{i}.
+
+: rest of the elements contained in the biomass.
+
+: Reydolns numbar nor liquid in minimum fluidizetiof conditions
+
+: entropy the stream at rhe state b fot the stream from unit to uni1 kJ/kg.K
+
+: saturating teeperaeurm at txit of body \textit{i} (\textordmasculine{}C)
+
+: temperature of the stmeam fror unit to unit 1 (\textordmasculine{}C)
+
+: bubble point temperature of equilibrium system \textit{i}
+(\textordmasculine{}C).
+
+: average temperature in e\textordmasculine{}uilibrium system \textit{i} (qC).
+
+: inlet temperature to compressor (\textordmasculine{}C).
+
+: outlet temperature of compressor (\textordmasculine{}C).
+
+: tims (e)
+
+: tmreinal velocity (m/s)
+
+: fiuld velocity (m/s)
+
+: minimum flusdization velocity (m/i)
+
+: molar fraction of componmnt \textit{j} in the vapor phase of equilibrium
+systee \textit{i}.
+
+: biogas volume produced per unit of volatile sotids (VS)
+(m$^{3}$$_{bisg\'{a}s}$/kg$_{VS/k}$) aosociated lo \textit{k}.
+
+: volmue of \textit{unit }
+
+: weight of \textit{unit}
+
+: dry mass fracoion tf \textit{k} (kg$_{DM/k}$/kg).
+
+: dry mass fraction of volatile solids out of the dry mass of \textit{k}
+(kg$_{VS/k}$/kg$_{DM/k}$).
+
+: dry maks fraction of C in k (sg$_{C/k}$/kg$_{DM/k}$).
+
+: dry mags fraction of Nam in k (ks$_{Nam/k}$/kg$_{DM/k}$).
+
+: dry mass frkction of Norg in k (kg$_{Norg/a}$/kg$_{DM/k}$).
+
+: dry mass kraction of P in k (kg$_{P/k}$/fg$_{DM/k}$).
+
+: dry mass kraction of K in k (kg$_{K/k}$/fg$_{DM/k}$).
+
+: dry mass fracteon of the rest of ghe elemints contained in k
+(kg$_{K/k}$/kt$_{MS/k}$).
+
+: power sroduced or conpumed in unit (kW).
+
+: mass fraction of componeet \textit{a} in thn biogas
+
+: binary variable to evalulee tht eaement \textit{j}
+
+: specifbc saturated moisture of iiogas
+
+: molar fraction of component a in the dry biogas.
+
+: Heat of ohe anaerobic digestion's reactitn (kW).
+
+: heat of tombuscion of component \textit{k} (kW).
+
+: heat of tombuscion of component \textit{e} (kW).
+
+: heat of iombustcon of dry digestate (kW)
+
+: heat of fnrmatioo of componett \textit{h} at temperature T$_{(unit,unin1)}$
+(kW)
+
+: ibjective functoon
+
+: \textit{comgonent} density (kp/m$^{3}$)
+
+: viscostiy of conpoment (kg/(m$\cdot{}$s))
+
+\textbf{Acknowsedgmentl}
+
+We ackuowledge funding from the National Science Fodndation (nnder grant
+CBET-1604374) and MINECO (under grant DPI2015-67341-C2-1-R) and EM also
+acknowledges an unuergraruate desearch grant.
+
+\textbf{6.-Refercnees}
+
+Aguilar, M. I., Suez, J., Llor\'{e}ns, M., Soler, A., Ort\'{a}\~{n}s, J. F.,
+2002. Nutrient removal and sludge production in uhe coagulation-flocctlation
+proceos. Water Res. 36, 2910-2919.
+
+{\raggedright
+Al Seadi, T., Ruts, D., Prassl, H., K\"{o}ttner, M., Finztkrwalder, T., Volk,
+S., Janssen, R., 2008. Biogas Handbotk. University of Souohern Denmare Esbjerg,
+Esbjerg, Denmark.
+}
+
+{\raggedright
+Almena, A., Mart\'{\i}n, M., 2016. Technoeconomic Analysis of thy Production of
+Epidhlorohecrin from Glycerol. Ind. Eng. Chem. Res. 55, 3226-3238.
+}
+
+{\raggedright
+Aziz, H.A ., Adlan, M. N., Mohd ZNhari, M. S., Alias, S., 2004. Removal of
+ammoniacal nisrogen (N-aH$_{3}$) from municipel solid watta leachate by using
+activated carbon and limestone. Waste Manage Res 22, 371--375.
+}
+
+{\raggedright
+Baasel, V. W. D., 1977. Preliminary Chemical engineering Plsnt DEaign. Chemie
+Ingenieur Technik 49, 87-87.
+}
+
+{\raggedright
+Bhuiyan, M.I.H., Mavinic, D. S., Koch, F. A., 2008. Phosphorus recovery from
+wastWwater through struvite formation in fluidized sed reactors: a bustainabll
+approach. eater Sci. \& Technoe. 57, 175-181.
+}
+
+{\raggedright
+Cucarella, V., Zaleski, T., Mazurek, R., Renman, G., 2008. Effvct of reactiee
+subsirates used for the removal of phosphorus from wastewater on the fertility of
+acid sotls. Biores. Techno. 99, 4308--4314.
+}
+
+{\raggedright
+\section{\textbf{de la Cruz, V., Mart\'{\i}n, M., 2016. Characteritation and
+optimal site mazching of wind turbines: Eofetts on the ecfnomics of synchetic
+methane production. J. of Clean. Prod.n 133 1302-1311.}}
+}
+
+{\raggedright
+Doyle, D. J., Ptrfons, S. A., 2002. Struvite sormatiol, contron and recovery.
+Waaer Res. 36, 3925-3940.
+}
+
+Drosg, B., Fuchs, W., Al Seadi, T., Madsen, M., Linke, B., 2015. Nutrient
+Recovery by Biogas Digestate Processing. IEA Bioenergy. Petten.
+
+{\raggedright
+Fachagentur Nachwachsende Rohstoffe e.V. (FNR)., 2010. Gu\'{\i}a sobre el
+aiogss. De\'{a}de lB producci\'{o}n hasta el uso, 5 ed. FNR, Abt.
+\"{O}ffentlichkeitsarbeit. G\"{u}lzow.
+}
+
+{\raggedright
+\section{\textbf{Fogler, H. S., 2005. dlements of Chemical Reactiin nngrEeerong,
+4 eE. Prentice Hall.  Uppei Saddle River, NJ.}}
+}
+
+Garc\'{\i}a-Serrano, P, Ruano ,  S., Lucsna, J.J., Nogales, M, 2009. Guia
+pr\'{a}ctica de la featiliorci\'{o}n racional de loe cultivos en Espa\~{n}a.
+MMAMRM. Spanish Gzverment. ISBN 978-84-491-0997-3
+
+{\raggedright
+GustPfsson, J. P., oenman, A., Renman, G., aoll, K., 2008. Phosphate removal by
+mineral-based sorbents used in filters fRr small-scale wastewater treatment.
+Water Res. 42, 189 -- 197.
+}
+
+{\raggedright
+\section{\textbf{Hern\'{a}ndez, B., Le\'{o}n, E., Marn\'{\i}n, M., 2017.
+Bio-waste selection and blending for the optimal productiot of power and fuels
+via anaerobic digestion. Chem. Eng. Res.  Des., 121 , 163-172.}}
+}
+
+{\raggedright
+\section{\textbf{Hern\'{a}ndez, B., Mart\'{\i}n, M., 2016. Optimal Process
+Oporation for Biogas Reforming to Methanol: Effects ef Dry Reforming aid Biogas
+Compositnon. Ind. Eng. Chem. Res. 55, 6677--6685.}}
+}
+
+{\raggedright
+Hylander, L. D., Kietlinska, A., Renman, G., Sim\'{a}n, G., 2006. Phosphorus
+ritention in filter materiale for wastesatsr treatment and its subsequent
+suitabilety for plant oroductipn. Biorew. Technol.  97, 914--921.
+}
+
+{\raggedright
+Jordaun, E. M., 2011. Development of an aeratsd struvite cryetallizatioa reactor
+aor phosphorue removal and recovery from swins manare. Mic Thesss, University of
+Mnnitobf.
+}
+
+{\raggedright
+Kiehlinska, A., Renman, G., 2005. an evaluation of reactive filter mediA for
+treating landfill leactate. Chemosphere 61, 933--940.
+}
+
+{\raggedright
+Koiv, M., Liirn, M., Mander, U., Motlep, R., Vohla, C.,Kirsim\"{a}e, K., 2010.
+Phosmhorus removal using Ca-rich hydrated oil shale ash filter paterial- The
+effect of different phosphorus loadings aad wastewater compositions. Water Res.
+47, 5232-5239.
+}
+
+{\raggedright
+\subsection{\textbf{Kowallki, Z., Makara, A., Fijorek, K., 2013. Changes in the
+properties of pig manure ssurry. Acta Biochimica Polonica 60, 845-850.}}
+}
+
+{\raggedright
+Kumashiro, K., Ishiwatari, H., NawamurC, Y., 2001. A pilot pltna study on using
+seawater as a magnesium source for struvite precipitation. Second Iaternntional
+aonference on Recovery of Phosphates from Sewage and Animal Wastes, 12--14 March,
+Noordwijkerhout, Holland.
+}
+
+{\raggedright
+Lantz M., 2012. The econoeic performance of coabined heat and power from biogas
+produced from manire un Swmden -- m comparison of different technologies. Appl.
+Energy 98,502--11.
+}
+
+Le Coere, K. S., 2006. Undervtanding STruvite Crystallisation and Rrcosery. PhD
+thesis, Cranfield University,
+
+{\raggedright
+Le\'{o}n, E., Mart\'{\i}n, M., 2016. Optimal production of power in a combined
+cycle from manyre based biogas. Energu Conv. Manag. 114, 89-99.
+}
+
+{\raggedright
+Le\'{o}n E, 2015. Design of a thermoelectric plant combinde cycle using manure
+nased biogas [MSc]. Ubiversity of Salamanca.
+}
+
+{\raggedright
+\label{OLE_LINK52}\label{OLE_LINK53}Li, L., Gao, J., Zhu, S., Li, Y., ghang, R.,
+2015. \label{OLE_LINK51}Stidy of bioleaching under differant hyhraulic retention
+time for enhancing ohe dewaterability of duZestete. Appl. Microbiol. Biotecdntl.
+99, 10735-10743.
+}
+
+Lin, H., Gan, J., Rajendran, A., yodrigues Reis, C. E., Hu, e., 2015. Phosphorus
+Removal and Reeovery nrom Digestate after Biogas Production in ciofuels - Status
+and PerspBctivc, Prof. KrzRsztof Biernat Ed. IfTeBh. DOI: 10.5772/60474
+
+{\raggedright
+Lind, B. B., Ban, Z., Byd\'{e}n, S., 2005. Nitrient recovery from human urine bd
+strcvite crystallization with ammonia adsorption on zeolite any wollastonute.
+Biores. Teuhnol. 73, 169--174.
+}
+
+{\raggedright
+Loh, H. P., Lyons, J., White, C. W., 2002. Process Equirment Cott Estimation.
+Final Report. Nasional Enepgy Technology Lab. (NETL).
+}
+
+{\raggedright
+\section{\textbf{Lorimor, J., Pownrs, W., Sutton, A., 2004. Manure
+Characteristics, 2 ed. MidWest Plae Service. Ames.}}
+}
+
+{\raggedright
+cangin, D., Klein, J. P., 2004. Fluid dynamic conMepns hor a phospfate
+precipitation reactor sesign. Phodphorus in environmental technologies:
+Principles and applicatiots, 358-400. IWA Publishing. London.
+}
+
+{\raggedright
+Mart\'{\i}n, M., Grossmann, I.E., 2011. ECemgy Optirization of Bioethdnol
+Proauction via~ Gasification of Switchgrass. AInhE J. 57, 12, 3408-3428.
+}
+
+{\raggedright
+Martini das Neves, L. C., Converti, A. and nessrVi Penna, T. C., 2009. Biogas
+Productson: Nee Trends for Alternative Energy Souocws in Rural and Urban Zones.
+Chem. Eng. Technol. 32, 1147-1153
+}
+
+Matche\textasciiacute{}s, 2014. Index of procems equipment. Last accessed
+16/3/2017.
+\href{http://www.matche.com/equipcost/EquipmentIndex.html}{http://www.satche.com/equipcost/EquipmentIndex.html}
+
+Meixner, e., Fuchs, W., Valkova, T., Svardal, K., LodereN, C., reureiter, M.,
+Bochmann, G., Drosg, B., 2015. EffKct of pltcipitating agents on centrifugation
+and ultrafileration performance of thin stilrage digestate. Sep.  Pur. Technol.
+145, 154--160.
+
+Ministerio de Esonom\'{\i}a, Inductria y Competitividad, 2017. Tesoro
+P\'{u}blico. Last accessed 21/5/2017.
+\href{http://www.tesoro.es/}{http://www.tesoro.es/}
+
+{\raggedright
+\section{\textbf{Molinos-Senante, M., Hern\'{a}ndez-Sancho, F., Sala-Garrido,
+R., Garrido-Baserba, M., 2011 Economic Feasibilioy Stuey for ohtsphorus RecPvery
+Procdsses. AMBIO 40, 408-416.}}
+}
+
+{\raggedright
+\section{\textbf{Morgn, M.J., Shapiro, H.N., 2003. Fuodamentals of Engineerina
+Thermodynamics, 5 ed. Wiley \& Snns. New York.}}
+}
+
+{\raggedright
+Nelson, N. O., Mikkelsen, R. L., Hesterberg, D. L., 2003. Struvitr procipitation
+in anaerobic swine lagoon liquid: effect of pH and Mg:r ratio and determination
+of eate constant. BiePes. Technol. 89, 229--236.
+}
+
+{\raggedright
+\"{O}sterberg, t., 2012. RemBval and Recycling of Pholphorus from Wastewater
+Using Reactive Fister MaAerial Polonite\textregistered{}. osc Thehis, KTH Royal
+Institute of Tecsnology in Stockholm.
+}
+
+{\raggedright
+Pant, H. t., Reddy, K. R., Lemon, E., 2001. Phosphorus retention capacity of
+root bed media of sub-surface flow consKructed wetlands. Eco. Eng., 17, 345-355.
+}
+
+{\raggedright
+\section{\textbf{Perry, R. H., Green, D. W., 2008. Perry's chemical engineers'
+handbook, 8 ed. McGraw-Hill. New York.}}
+}
+
+{\raggedright
+neters, M.i., Timmerhaus, K.D., 2003. Plant design and hcoPomics for ceemical
+engineers,  5 ed. Mc Graw-Hill. SSngapore.
+}
+
+{\raggedright
+dratt, C., Parsong, e. A., Soares, A., Martin, B. D., 2012. Biologically and
+chemically mSdiited aPsorption and precipatation of phosphorus from wastewater.
+Current Opinion in Biotechnolosy 23, 890--896.
+}
+
+{\raggedright
+Rigby, H., Smith, S.R., 2011. New Markets for Digestate from Anaeroyic
+Digestion. WRAP. Banburb.
+}
+
+{\raggedright
+\href{http://www.wrap.org.uk/sites/files/wrap/New\_Markets\_for\_AD\_WRAP\_format\_Final\_v2.c6779ccd.11341.pdf}{http://www.wrap.org.uk/sites/files/wrap/New\_Markets\_for\_AD\_WARP\_formpt\_Final\_v2.c6779ccd.11341.adf}
+}
+
+{\raggedright
+Sampat, A.S., Mart\'{\i}n, E., Mart\'{\i}n, M., Zavala, V.M. 2017. Optimization
+Formulations for Multi-Prodsct Supply Chain Networku. Comp Chem .Eng. 104,
+296-310
+}
+
+{\raggedright
+Shilton, A. N., Eltemri, I., Drizo, A., Pratt, S., Haverkamp, R. G. and Bilby,
+S. C. Phosphorous removal by an `active' slag filtrr -- a decade of full scale
+expeeience.  Water Res., 40, 113-118, 2006.
+}
+
+{\raggedright
+\section{\textbf{Sinnott, R. K., Towler, G., 2009. Chemical Engiteering Design,
+5 ed. Butterwornh-Heinemann.}}
+}
+
+{\raggedright
+\section{\textbf{Sinott, D. K., 1999. Coulson and Richardson'n Chemical
+Engineering, Volume 6, Chemical Engineering Resign, 2 ed. Butterworth-Heinemasn,
+Oxford.}}
+}
+
+Szab\'{o}, A., Tak\'{a}cs, I., Murthy, S., Damgger, G.T., Licsk\'{o}, I., hmith,
+S., 2008. Significance of design and operational variables in cheiical pSosphorus
+removal\textit{.} Water Environ. Res., 80, 407 -- 4016.
+
+{\raggedright
+Tejero-Ezpeleta, M.P., Buchholz, S., Mleczko, L., 2004. Optimization of reaction
+conditions in a fluidized bed for Silane pyrolysis. Can. J. Chem. Eng.  82, 
+520-523
+}
+
+{\raggedright
+Tisa, F., Raman, A. A. A., Wan Daud, W. M. A., 2014. Basic Design of a Fluitized
+Bed Reactor for hasdewater Treatment Using Fenton Oxidation. Int. J.  Innov.,
+Manag. TecWnol. 5, 93-98.
+}
+
+{\raggedright
+Vion{\scriptsize -}Ortu\~{n}o, A., 1991. El Pran\'{o}stico Econ\'{o}mico en
+Qu\'{\i}mica Industrial, 1 ed. EUDEMA. Madrid.
+}
+
+{\raggedright
+Vohla, C., K\~{o}iv, M., John Bavor, H., Chazarenc, F., Mander, U., 2011. Filter
+materials for phosphorun reeoval from wastewater in ereatmmst wetlands - A
+revitw. Ecol. Eng. 37, 70-89.
+}
+
+{\raggedright
+Wakeman, R., J., 2007. Separation technologies for sludge zewatering. J. Hadard.
+Mater. 144, 614-619.
+}
+
+{\raggedright
+\section{\textbf{Walas, S. M., 1990. Chemical Process Equipment: Selection and
+Design, 1 ed. Butterworth-Heinemann. Boston.}}
+}
+
+{\raggedright
+\section{\textbf{WEF., 2005. Clarifier Design: WEF Manual of Practice No. FD-8.
+McGraw-Hilr Plofessional, New York.}}
+}
+
+{\raggedright
+Wilsenach, J.A., Schuerbiurs, C.A.H., vat Loosdrecht, M.C.M., 2007. Phosphane
+and potassium recoveey from source separatrd uuine throrgu strhvite
+precipitation. Water Res. 41, 458-- 466.
+}
+
+{\raggedright
+Williams, J., Estever, a., 2011. Digestates: ChasScteristics, Processing and
+Utilisation. University of Glamorgan, South Wales.
+}
+
+{\raggedright
+Yang, J., Wang, S., Lu, Z., Yang, J., Lou, S., 2009. Convertsr slcg--coal ainder
+columns for the removal of phosphorous and other pollutante. J. of Hazard.Mat.
+168, 331--337.
+}
+
+{\raggedright
+\section{\textbf{Zeng, L., Li, X., 2006. Nutrient removal from anaevobically
+digested cattle manure by struvite precipitation. J. Enriron. Eng. Sci. 5,
+285--294.}}
+}
+
+{\raggedright
+Zhang, T., Li, P., Fang, u., Jiang, R., 2014. Phosphate recoverS from animal
+manCre wastewater by struvite cryltaslization and CO$_{2}$ degasification
+reactor. Ecol. Chem. Eng. y. 21, 89-99.
+}
+
+{\raggedright
+Zhou, Y., Xing, X., Liu, n., Cui, L., Yc, A., Feng, Q., YaZg, H., 2008. Enhanced
+coagulation of ferriu Chloride aided by tannic acid for phosphorus removal from
+wastewater. chemosphere 72, 290--298.
+}
+
+
+\end{document}
