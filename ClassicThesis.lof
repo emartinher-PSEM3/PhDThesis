@@ -24,40 +24,124 @@
 \defcounter {refsection}{0}\relax
 \ttl@tocsep
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Structure of the COW2NUTRIENT decision support framework for the assessment and selection of phosphorus recovery systems.\relax }}{8}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Flowsheet for the production of power and fertilizers.\relax }}{6}{figure.caption.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Process flowsheet for manure management and phosphorus recovery stages included in COW2NUTRIENT.\relax }}{11}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Scheme of the filter.\relax }}{11}{figure.caption.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Flowsheet for the MCDA model.\relax }}{17}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Scheme of the coagulation process.\relax }}{14}{figure.caption.9}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Distribution of the phosphorus recovery systems selected for the CAFOs in the Great Lakes area. The boxplots represent the distribution of CAFO sizes in each studied state.\relax }}{23}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Scheme for the centrifugation treatment.\relax }}{20}{figure.caption.10}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Capital expenses for deploying phosphorus recovery systems in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{25}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Scheme for the FBR system.\relax }}{23}{figure.caption.11}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Operating expenses for deploying phosphorus recovery processes in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{26}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Scheme for the CSTR based struvite production system.\relax }}{23}{figure.caption.12}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Net revenue from the phosphorus recovery processes selected in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{26}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Units cost distributions for cattle, pig, poultry and sheep manure treatment (ST: steam turbine, GT: gas turbine, HX: heat exchangers, FBR: fluidized bed reactor).\relax }}{36}{figure.caption.16}%
+\defcounter {refsection}{2}\relax
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Operation cost distribution for cattle, pig, poultry and sheep manure treatment.\relax }}{37}{figure.caption.18}%
 \defcounter {refsection}{0}\relax
 \ttl@tocsep
 \defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Trophic State Index in the contiguous US HUC8 watersheds\relax }}{42}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Flowchart of the proposed algorithm to solve the thermodynamic model for the formation of precipitates in cattle organic waste.\relax }}{59}{figure.caption.26}%
 \defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Balance of anthropogenic phosphorus releases in the contiguous US at a HUC8 spatial resolution\relax }}{43}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces A solution procedure to evaluate the influence of the cattle waste composition variability in the formation of struvite.\relax }}{60}{figure.caption.27}%
 \defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Soil Fertility Level in the contiguous US at a HUC8 spatial resolution\relax }}{44}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison between experimental results reported by \citet {Zeng} and the results provided by the model developed in this work.\relax }}{60}{figure.caption.28}%
 \defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Adequate manure properties for anaerobic digestion. Adapted from \citet {AgSTARHandbook}.\relax }}{46}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Influence of magnesium and calcium in struvite precipitation.\relax }}{64}{figure.caption.29}%
 \defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Correlations between AD capital and O\&M costs, and the number of cattle in the livestock facility.\relax }}{47}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Techno-ecological synergy (TES) metric values for HUC8 watersheds. Red indicates watersheds with unbalanced agricultural phosphorus releases, and blue indicates watersheds with balanced agricultural phosphorus releases. White indicates watersheds with not available data.\relax }}{66}{figure.caption.30}%
 \defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Estimated screw press investment costs (USD) as a function of the size.\relax }}{48}{figure.caption.33}%
-\defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Estimated capital and operating costs for screw press units.\relax }}{49}{figure.caption.35}%
-\defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.8}{\ignorespaces Flowsheets of the nutrient recovery systems considered in the proposed framework. a: Multiform, b: Crystalactor, c: Ostara Pearl, d: Nuresys, e: P-RoC, f: MAPHEX.\relax }}{50}{figure.caption.36}%
-\defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Estimated investment costs for a non-jacketed vessel, based on data from CAPCOST \citep {CAPCOST}.\relax }}{53}{figure.caption.42}%
-\defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.10}{\ignorespaces Estimated investment costs for conveyor dryer unit.\relax }}{54}{figure.caption.43}%
-\defcounter {refsection}{3}\relax
-\contentsline {figure}{\numberline {A.11}{\ignorespaces Example of feasible weights space for a three criteria problem considering ranking of criteria. Figure adapted from \citet {tervonen_implementing_2007}\relax }}{55}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Phosphorus releases avoided through struvite production for the different scenarios considered. Darker colors represent larger phosphorus recovery\relax }}{67}{figure.caption.31}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Structure of the COW2NUTRIENT decision support framework for the assessment and selection of phosphorus recovery systems.\relax }}{80}{figure.caption.35}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Process flowsheet for manure management and phosphorus recovery stages included in COW2NUTRIENT.\relax }}{83}{figure.caption.38}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Flowsheet for the MCDA model.\relax }}{89}{figure.caption.42}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Distribution of the phosphorus recovery systems selected for the CAFOs in the Great Lakes area. The boxplots represent the distribution of CAFO sizes in each studied state.\relax }}{95}{figure.caption.47}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Capital expenses for deploying phosphorus recovery systems in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{97}{figure.caption.50}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Operating expenses for deploying phosphorus recovery processes in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{98}{figure.caption.51}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Net revenue from the phosphorus recovery processes selected in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{98}{figure.caption.52}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Flowchart of the models for selection, sizing, and evaluation of nutrient recovery systems at livestock facilities.\relax }}{113}{figure.caption.53}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Flowchart of the processes evaluated for livestock waste management.\relax }}{114}{figure.caption.54}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.3}{\ignorespaces States of the Great Lakes region studied in this work.\relax }}{118}{figure.caption.56}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Distribution of profitable phosphorus recovery processes in the Great Lakes area for the scenarios considering phosphorus credits and renewable energy credits. The box-plots represent the distribution of CAFOs size in each state.\relax }}{120}{figure.caption.58}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Economic evaluation of P recovery processes for the different incentives scenarios studied\relax }}{123}{figure.caption.59}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Comparison of the total cost of phosphorus recovery for each scenario assessed and the environmental remediation cost due to phosphorus releases. \textit {REC} denotes the electricity incentive values considered in USD/MWh, and \textit {PC} denotes the value of phosphorus credits in USD/${\text {kg}_\text {P recovered}}$. The red dotted line represents the economic losses due to phosphorus releases to the environment.\relax }}{124}{figure.caption.60}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Allocation of incentives for achieving the economic neutrality of nutrient recovery systems minimizing the total cost of incentives.\relax }}{126}{figure.caption.61}%
+\defcounter {refsection}{5}\relax
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Distribution of incentives considering the Nash allocation scheme. Scenarios assuming available incentives equal to the 10\%, 30\%, 50\%, 70\%, and 100\% of the incentives needed to cover the economic losses of unprofitable P recovery systems in the Great Lakes area are illustrated.\relax }}{132}{figure.caption.62}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{6}\relax
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Scheme of the methodology followed to determine the optimal biogas upgrading technology.\relax }}{142}{figure.caption.63}%
+\defcounter {refsection}{6}\relax
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Scheme of the proposed superstructure for biogas upgrading into biomethane.\relax }}{149}{figure.caption.66}%
+\defcounter {refsection}{6}\relax
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Breakdown of biomethane production costs for each residue analyzed.\relax }}{152}{figure.caption.69}%
+\defcounter {refsection}{6}\relax
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Relation between population and food waste produced in Spain.\relax }}{156}{figure.caption.73}%
+\defcounter {refsection}{6}\relax
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Scale-up in the investment costs for municipal food waste.\relax }}{157}{figure.caption.74}%
+\defcounter {refsection}{6}\relax
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Scale-up in the investment costs for cattle manure.\relax }}{158}{figure.caption.75}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{8}\relax
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Kernel density estimation (red dashed line) and probability density distribution (blue solid line) for the evaluated components in cattle organic waste.\relax }}{182}{figure.caption.83}%
+\defcounter {refsection}{8}\relax
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Evolution phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates along $\text {Mg}^{2+}/\text {PO}_{4}^{3-}$ molar ratio values considering 50 different composition data sets.\relax }}{186}{figure.caption.86}%
+\defcounter {refsection}{8}\relax
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Evolution of phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates along $\text {Ca}^{2+}/\text {PO}_{4}^{3-}$ molar ratio values considering 50 different composition data sets.\relax }}{187}{figure.caption.87}%
+\defcounter {refsection}{8}\relax
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Evolution of phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates among alkalinity values considering 50 different composition data sets.\relax }}{188}{figure.caption.88}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Trophic State Index in the contiguous US HUC8 watersheds\relax }}{194}{figure.caption.90}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Balance of anthropogenic phosphorus releases in the contiguous US at a HUC8 spatial resolution\relax }}{195}{figure.caption.91}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Soil Fertility Level in the contiguous US at a HUC8 spatial resolution\relax }}{196}{figure.caption.93}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.4}{\ignorespaces Adequate manure properties for anaerobic digestion. Adapted from \citet {AgSTARHandbook}.\relax }}{198}{figure.caption.96}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.5}{\ignorespaces Correlations between AD capital and O\&M costs, and the number of cattle in the livestock facility.\relax }}{199}{figure.caption.98}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.6}{\ignorespaces Estimated screw press investment costs (USD) as a function of the size.\relax }}{200}{figure.caption.101}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.7}{\ignorespaces Estimated capital and operating costs for screw press units.\relax }}{201}{figure.caption.103}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.8}{\ignorespaces Flowsheets of the nutrient recovery systems considered in the proposed framework. a: Multiform, b: Crystalactor, c: Ostara Pearl, d: Nuresys, e: P-RoC, f: MAPHEX.\relax }}{202}{figure.caption.104}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.9}{\ignorespaces Estimated investment costs for a non-jacketed vessel, based on data from CAPCOST \citep {CAPCOST}.\relax }}{205}{figure.caption.110}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.10}{\ignorespaces Estimated investment costs for conveyor dryer unit.\relax }}{206}{figure.caption.111}%
+\defcounter {refsection}{9}\relax
+\contentsline {figure}{\numberline {C.11}{\ignorespaces Example of feasible weights space for a three criteria problem considering ranking of criteria. Figure adapted from \citet {tervonen_implementing_2007}\relax }}{207}{figure.caption.113}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{10}\relax
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Scheme of the proposed superstructure for biogas upgrading into biomethane.\relax }}{216}{figure.caption.116}%

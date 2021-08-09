@@ -1,0 +1,7 @@
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning style file ./ClassicThesis.ist.............................done (29 attributes redefined, 0 ignored).
+Scanning input file ClassicThesis.varbl2....done (246 entries accepted, 0 rejected).
+Sorting entries.....done (2119 comparisons).
+Generating output file ClassicThesis.varchap2....done (332 lines written, 0 warnings).
+Output written in ClassicThesis.varchap2.
+Transcript written in ClassicThesis.glg.
