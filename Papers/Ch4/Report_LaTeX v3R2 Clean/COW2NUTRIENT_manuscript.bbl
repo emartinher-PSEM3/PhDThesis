@@ -1,0 +1,661 @@
+\begin{thebibliography}{72}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Allen and Mallarino(2006)}]{AllenMallarino2006}
+\bibinfo{author}{Allen, B.L.}, \bibinfo{author}{Mallarino, A.P.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Relationships between extractable soil phosphorus and
+  phosphorus saturation after long-term fertilizer or manure application}.
+\newblock \bibinfo{journal}{Soil Sci. Soc. Am. J.} \bibinfo{volume}{70},
+  \bibinfo{pages}{454--463}.
+\newblock \DOIprefix\doi{10.2136/sssaj2005.0031}.
+%Type = Misc
+\bibitem[{{American Society of Civil Engineers (ASCE)}(2013)}]{Pearl10Kcost1}
+\bibinfo{author}{{American Society of Civil Engineers (ASCE)}},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Chicago to Add Nutrient Recovery to Largest Plant}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.asce.org/magazine/20131105-chicago-to-add-nutrient-recovery-to-largest-plant/}}.
+\newblock \bibinfo{note}{[Online; accessed 21-March-2019]}.
+%Type = Book
+\bibitem[{Ansari(2010)}]{ansari_eutrophication_2010}
+\bibinfo{editor}{Ansari, A.A.} (Ed.), \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Eutrophication: causes, consequences and control}.
+\newblock \bibinfo{publisher}{Springer Science+Business Media, 2011},
+  \bibinfo{address}{Dordrecht ; New York}.
+\newblock \bibinfo{note}{OCLC: ocn646114298}.
+%Type = Misc
+\bibitem[{{Australian Meat Processor Corporation}(2018)}]{Pearl2Kcost2}
+\bibinfo{author}{{Australian Meat Processor Corporation}},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{Struvite or Traditional Chemical Phosphorus
+  Precipitation – What Option Rocks?}}
+\newblock
+  \bibinfo{howpublished}{\url{https://www.ampc.com.au/uploads/cgblog/id408/2018-1026_-_Final_Report.pdf}}.
+\newblock \bibinfo{note}{[Online; accessed 20-March-2019]}.
+%Type = Article
+\bibitem[{Bakshi et~al.(2015)Bakshi, Ziv and Lepech}]{TESmetric}
+\bibinfo{author}{Bakshi, B.}, \bibinfo{author}{Ziv, G.},
+  \bibinfo{author}{Lepech, M.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Techno-ecological synergy: A framework for
+  sustainable engineering.}
+\newblock \bibinfo{journal}{Environ. Sci. Technol.} \bibinfo{volume}{49},
+  \bibinfo{pages}{1752--1760}.
+%Type = Article
+\bibitem[{Battistoni et~al.(2001)Battistoni, De~Angelis, Pavan, Prisciandaro
+  and Cecchi}]{Battistoni}
+\bibinfo{author}{Battistoni, P.}, \bibinfo{author}{De~Angelis, A.},
+  \bibinfo{author}{Pavan, P.}, \bibinfo{author}{Prisciandaro, M.},
+  \bibinfo{author}{Cecchi, F.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Phosphorus removal from a real anaerobic supernatant
+  by struvite crystallization}.
+\newblock \bibinfo{journal}{Wat. Res.} \bibinfo{volume}{35},
+  \bibinfo{pages}{2167--2178}.
+%Type = Article
+\bibitem[{Beaulieu et~al.(2019)Beaulieu, DelSontro and
+  Downing}]{beaulieu_eutrophication_2019}
+\bibinfo{author}{Beaulieu, J.J.}, \bibinfo{author}{DelSontro, T.},
+  \bibinfo{author}{Downing, J.A.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Eutrophication will increase methane emissions from
+  lakes and impoundments during the 21st century}.
+\newblock \bibinfo{journal}{Nat Commun} \bibinfo{volume}{10},
+  \bibinfo{pages}{1375}.
+\newblock \URLprefix \url{http://www.nature.com/articles/s41467-019-09100-5},
+  \DOIprefix\doi{10.1038/s41467-019-09100-5}.
+%Type = Techreport
+\bibitem[{Beddoes et~al.(2007)Beddoes, Bracmort, Burns and Lazarus}]{USDA_OM}
+\bibinfo{author}{Beddoes, J.C.}, \bibinfo{author}{Bracmort, K.S.},
+  \bibinfo{author}{Burns, R.T.}, \bibinfo{author}{Lazarus, W.F.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{An Analysis of Energy Production Costs from Anaerobic
+  Digestion Systems on U.S. Livestock Production Facilities}.
+\newblock \bibinfo{type}{Technical Report}. U.S. Department of Agriculture
+  (USDA).
+%Type = Article
+\bibitem[{Belarbi et~al.(2020)Belarbi, Daramola and Trembly}]{belarbi2020bench}
+\bibinfo{author}{Belarbi, Z.}, \bibinfo{author}{Daramola, D.A.},
+  \bibinfo{author}{Trembly, J.P.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Bench-scale demonstration and thermodynamic
+  simulations of electrochemical nutrient reduction in wastewater via recovery
+  as struvite}.
+\newblock \bibinfo{journal}{Journal of the Electrochemical Society}
+  \bibinfo{volume}{167}, \bibinfo{pages}{155524}.
+%Type = Article
+\bibitem[{Berg et~al.(2006)Berg, Donnert, Weidler, Kaschka, Knoll and
+  N{\"u}esch}]{berg2006phosphorus}
+\bibinfo{author}{Berg, U.}, \bibinfo{author}{Donnert, D.},
+  \bibinfo{author}{Weidler, P.}, \bibinfo{author}{Kaschka, E.},
+  \bibinfo{author}{Knoll, G.}, \bibinfo{author}{N{\"u}esch, R.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Phosphorus removal and recovery from wastewaterby
+  tobermorite-seeded crystallisation of calcium phosphate}.
+\newblock \bibinfo{journal}{Water Science and Technology} \bibinfo{volume}{53},
+  \bibinfo{pages}{131--138}.
+%Type = Article
+\bibitem[{Burns and Moody(2002)}]{burns2002phosphorus}
+\bibinfo{author}{Burns, R.T.}, \bibinfo{author}{Moody, L.B.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Phosphorus recovery from animal manures using
+  optimized struvite precipitation}.
+\newblock \bibinfo{journal}{Proceedings of Coagulants and Flocculants: Global
+  Market and Technical Opportunities for Water Treatment Chemicals} .
+%Type = Article
+\bibitem[{Carlson(1977)}]{carlson_trophic_1977}
+\bibinfo{author}{Carlson, R.E.}, \bibinfo{year}{1977}.
+\newblock \bibinfo{title}{A trophic state index for lakes: {Trophic} state
+  index}.
+\newblock \bibinfo{journal}{Limnol. Oceanogr.} \bibinfo{volume}{22},
+  \bibinfo{pages}{361--369}.
+\newblock \URLprefix \url{http://doi.wiley.com/10.4319/lo.1977.22.2.0361},
+  \DOIprefix\doi{10.4319/lo.1977.22.2.0361}.
+%Type = Article
+\bibitem[{Church et~al.(2016)Church, Hristov, Bryant, Kleinman and
+  Fishel}]{church_novel_2016}
+\bibinfo{author}{Church, C.D.}, \bibinfo{author}{Hristov, A.N.},
+  \bibinfo{author}{Bryant, R.B.}, \bibinfo{author}{Kleinman, P.J.A.},
+  \bibinfo{author}{Fishel, S.K.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A {Novel} {Treatment} {System} to {Remove}
+  {Phosphorus} from {Liquid} {Manure}}.
+\newblock \bibinfo{journal}{Appl. Eng. Agric.} \bibinfo{volume}{32},
+  \bibinfo{pages}{103--112}.
+\newblock \URLprefix
+  \url{http://elibrary.asabe.org/abstract.asp?aid=46616&t=3&dabs=Y&redir=&redirType=},
+  \DOIprefix\doi{10.13031/aea.32.10999}.
+%Type = Article
+\bibitem[{Church et~al.(2018)Church, Hristov, Kleinman, Fishel, Reiner and
+  Bryant}]{church_versatility_2018}
+\bibinfo{author}{Church, C.D.}, \bibinfo{author}{Hristov, A.N.},
+  \bibinfo{author}{Kleinman, P.J.}, \bibinfo{author}{Fishel, S.K.},
+  \bibinfo{author}{Reiner, M.R.}, \bibinfo{author}{Bryant, R.B.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Versatility of the {MAnure} {PHosphorus} {EXtraction}
+  ({MAPHEX}) {System} in {Removing} {Phosphorus}, {Odor}, {Microbes}, and
+  {Alkalinity} from {Dairy} {Manures}: {A} {Four}-{Farm} {Case} {Study}}.
+\newblock \bibinfo{journal}{Applied Engineering in Agriculture}
+  \bibinfo{volume}{34}, \bibinfo{pages}{567--572}.
+\newblock \URLprefix
+  \url{http://elibrary.asabe.org/abstract.asp?AID=48976&t=3&dabs=Y&redir=&redirType=},
+  \DOIprefix\doi{10.13031/aea.12632}.
+%Type = Article
+\bibitem[{Cordell et~al.(2009)Cordell, Drangert and White}]{cordell_story_2009}
+\bibinfo{author}{Cordell, D.}, \bibinfo{author}{Drangert, J.O.},
+  \bibinfo{author}{White, S.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{The story of phosphorus: {Global} food security and
+  food for thought}.
+\newblock \bibinfo{journal}{Global Environmental Change} \bibinfo{volume}{19},
+  \bibinfo{pages}{292--305}.
+\newblock \URLprefix
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S095937800800099X},
+  \DOIprefix\doi{10.1016/j.gloenvcha.2008.10.009}.
+%Type = Misc
+\bibitem[{{County of Napa}(2013)}]{Pearl500cost1}
+\bibinfo{author}{{County of Napa}}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Phosphorus recovery}}.
+\newblock
+  \bibinfo{howpublished}{\url{http://services.countyofnapa.org/agendanet/DownloadDocument.aspx?type=NAPASAN&doctype=ATTACHMENT&id=27457}}.
+\newblock \bibinfo{note}{[Online; accessed 20-March-2019]}.
+%Type = Article
+\bibitem[{Dzombak(2011)}]{Dzombak}
+\bibinfo{author}{Dzombak, D.A.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Nutrient Control in Large-Scale U.S. Watersheds}}.
+\newblock \bibinfo{journal}{The Bridge} \bibinfo{volume}{41},
+  \bibinfo{pages}{13--22}.
+%Type = Article
+\bibitem[{Egle et~al.(2016)Egle, Rechberger, Krampe and
+  Zessner}]{egle_phosphorus_2016}
+\bibinfo{author}{Egle, L.}, \bibinfo{author}{Rechberger, H.},
+  \bibinfo{author}{Krampe, J.}, \bibinfo{author}{Zessner, M.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Phosphorus recovery from municipal wastewater: {An}
+  integrated comparative technological, environmental and economic assessment
+  of {P} recovery technologies}.
+\newblock \bibinfo{journal}{Science of The Total Environment}
+  \bibinfo{volume}{571}, \bibinfo{pages}{522--542}.
+\newblock \URLprefix
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0048969716314656},
+  \DOIprefix\doi{10.1016/j.scitotenv.2016.07.019}.
+%Type = Article
+\bibitem[{Ehbrecht et~al.(2011)Ehbrecht, Schönauer, Fuderer and
+  Schuhmann}]{ehbrecht_p-recovery_2011}
+\bibinfo{author}{Ehbrecht, A.}, \bibinfo{author}{Schönauer, S.},
+  \bibinfo{author}{Fuderer, T.}, \bibinfo{author}{Schuhmann, R.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{P-{Recovery} from sewage by seeded crystallisation in
+  a pilot plant in batch mode technology}.
+\newblock \bibinfo{journal}{Water Science and Technology} \bibinfo{volume}{63},
+  \bibinfo{pages}{339--344}.
+\newblock \URLprefix
+  \url{https://iwaponline.com/wst/article/63/2/339/13814/PRecovery-from-sewage-by-seeded-crystallisation-in},
+  \DOIprefix\doi{10.2166/wst.2011.061}.
+%Type = Techreport
+\bibitem[{Espinoza et~al.(2006)Espinoza, Slaton and Mozaffari}]{Espinoza2006}
+\bibinfo{author}{Espinoza, L.}, \bibinfo{author}{Slaton, N.A.},
+  \bibinfo{author}{Mozaffari, M.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Understanding the numbers on your soil test report}.
+\newblock \bibinfo{type}{Technical Report}.
+%Type = Article
+\bibitem[{Gal{\'a}n-Mart{\'\i}n et~al.(2018)Gal{\'a}n-Mart{\'\i}n, Pozo,
+  Azapagic, Grossmann, Mac~Dowell and Guill{\'e}n-Gos{\'a}lbez}]{galan2018time}
+\bibinfo{author}{Gal{\'a}n-Mart{\'\i}n, A.}, \bibinfo{author}{Pozo, C.},
+  \bibinfo{author}{Azapagic, A.}, \bibinfo{author}{Grossmann, I.},
+  \bibinfo{author}{Mac~Dowell, N.}, \bibinfo{author}{Guill{\'e}n-Gos{\'a}lbez,
+  G.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Time for global action: an optimised cooperative
+  approach towards effective climate change mitigation}.
+\newblock \bibinfo{journal}{Energy \& Environmental Science}
+  \bibinfo{volume}{11}, \bibinfo{pages}{572--581}.
+%Type = Article
+\bibitem[{Gasser et~al.(2020)Gasser, Suter, Cinelli, Spada, Burgherr,
+  Hirschberg, Kadzi\'{n}ski and Stojadinovi\'{c}.}]{MarcoCinelli2020}
+\bibinfo{author}{Gasser, P.}, \bibinfo{author}{Suter, J.},
+  \bibinfo{author}{Cinelli, M.}, \bibinfo{author}{Spada, M.},
+  \bibinfo{author}{Burgherr, P.}, \bibinfo{author}{Hirschberg, S.},
+  \bibinfo{author}{Kadzi\'{n}ski, M.}, \bibinfo{author}{Stojadinovi\'{c}., B.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Comprehensive resilience assessment of electricity
+  supply security for 140 countries}.
+\newblock \bibinfo{journal}{Ecological Indicators} \bibinfo{volume}{109}.
+\newblock \DOIprefix\doi{10.1016/j.ecolind.2019.105731}.
+%Type = Article
+\bibitem[{Han et~al.(2012)Han, Allan and Bosch}]{han2012historical}
+\bibinfo{author}{Han, H.}, \bibinfo{author}{Allan, J.D.},
+  \bibinfo{author}{Bosch, N.S.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Historical pattern of phosphorus loading to lake erie
+  watersheds}.
+\newblock \bibinfo{journal}{Journal of Great Lakes Research}
+  \bibinfo{volume}{38}, \bibinfo{pages}{289--298}.
+%Type = Misc
+\bibitem[{{Index Mundi}(2020)}]{fertilizers_price}
+\bibinfo{author}{{Index Mundi}}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{Triple Superphosphate Monthly Price - US Dollars per
+  Metric Ton}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.indexmundi.com/commodities/?commodity=triple-superphosphate&months=60}}.
+\newblock \bibinfo{note}{[Online; accessed 05-May-2020]}.
+%Type = Misc
+\bibitem[{{Indiana Department of Environmental
+  Management}(2019)}]{Indiana_CAFOS}
+\bibinfo{author}{{Indiana Department of Environmental Management}},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{Confined Feeding Operation Facilities (20200402)}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://maps.indiana.edu/previewMaps/Environment/Agribusiness_Confined_Feeding_Operations.html}}.
+\newblock \bibinfo{note}{[Online; accessed 29-July-2019]}.
+%Type = Techreport
+\bibitem[{{International Plant Nutrition Institute (IPNI)}(2012)}]{NuGIS}
+\bibinfo{author}{{International Plant Nutrition Institute (IPNI)}},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{A Nutrient Use Information System (NuGIS) for the
+  U.S.}}
+\newblock \bibinfo{type}{Technical Report}. International Plant Nutrition
+  Institute (IPNI).
+%Type = Techreport
+\bibitem[{Kellogg et~al.(2000)Kellogg, Lander, Moffitt and
+  Gollehon}]{Kellog2010}
+\bibinfo{author}{Kellogg, R.L.}, \bibinfo{author}{Lander, C.H.},
+  \bibinfo{author}{Moffitt, D.C.}, \bibinfo{author}{Gollehon, N.},
+  \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{{Manure Nutrients Relative to the Capacity of
+  Cropland and Pastureland to Assimilate Nutrients: Spatial and Temporal Trends
+  for the United States}}.
+\newblock \bibinfo{type}{Technical Report}. United States Department of
+  Agriculture (USDA).
+%Type = Article
+\bibitem[{Le{\'o}n and Mart{\'i}n(2016)}]{Leon}
+\bibinfo{author}{Le{\'o}n, E.}, \bibinfo{author}{Mart{\'i}n, M.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Optimal production of power in a combined cycle from
+  manure based biogas}.
+\newblock \bibinfo{journal}{Energy Conv. Manage.} \bibinfo{volume}{114},
+  \bibinfo{pages}{89--99}.
+%Type = Article
+\bibitem[{Li et~al.(2021)Li, Dong, Huang, Li, Yu, Wang and
+  Young}]{li2021toward}
+\bibinfo{author}{Li, B.}, \bibinfo{author}{Dong, S.L.}, \bibinfo{author}{Huang,
+  Y.F.}, \bibinfo{author}{Li, P.}, \bibinfo{author}{Yu, W.},
+  \bibinfo{author}{Wang, G.Q.}, \bibinfo{author}{Young, B.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Toward a decision support framework for sustainable
+  phosphorus management: A case study of china}.
+\newblock \bibinfo{journal}{Journal of Cleaner Production}
+  \bibinfo{volume}{279}, \bibinfo{pages}{123441}.
+%Type = Article
+\bibitem[{Li et~al.(2020)Li, Shen, Xu, Guo, Dai and Lu}]{li2020application}
+\bibinfo{author}{Li, X.}, \bibinfo{author}{Shen, S.}, \bibinfo{author}{Xu, Y.},
+  \bibinfo{author}{Guo, T.}, \bibinfo{author}{Dai, H.}, \bibinfo{author}{Lu,
+  X.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Application of membrane separation processes in
+  phosphorus recovery: A review}.
+\newblock \bibinfo{journal}{Science of The Total Environment} ,
+  \bibinfo{pages}{144346}.
+%Type = Article
+\bibitem[{Mart{\'i}n-Hern{\'a}ndez et~al.({2020}a)Mart{\'i}n-Hern{\'a}ndez,
+  Guerras and Mart{\'i}n}]{MartinHernandez2020}
+\bibinfo{author}{Mart{\'i}n-Hern{\'a}ndez, E.}, \bibinfo{author}{Guerras, L.},
+  \bibinfo{author}{Mart{\'i}n, M.}, \bibinfo{year}{{2020}}a.
+\newblock \bibinfo{title}{Optimal technology selection for the biogas upgrading
+  into biomethane}.
+\newblock \bibinfo{journal}{J. Clean Prod} \bibinfo{volume}{267},
+  \bibinfo{pages}{122032}.
+%Type = Article
+\bibitem[{Mart{\'i}n-Hern{\'a}ndez et~al.({2020}b)Mart{\'i}n-Hern{\'a}ndez,
+  Ruiz-Mercado and Mart{\'i}n}]{MartinStruvite}
+\bibinfo{author}{Mart{\'i}n-Hern{\'a}ndez, E.}, \bibinfo{author}{Ruiz-Mercado,
+  G.}, \bibinfo{author}{Mart{\'i}n, M.}, \bibinfo{year}{{2020}}b.
+\newblock \bibinfo{title}{Model-driven spatial evaluation of nutrient recovery
+  from livestock leachate for struvite production}.
+\newblock \bibinfo{journal}{J. Environ. Manage.} \bibinfo{volume}{271},
+  \bibinfo{pages}{110967}.
+%Type = Article
+\bibitem[{Mart{\'i}n-Hern{\'a}ndez et~al.(2018)Mart{\'i}n-Hern{\'a}ndez,
+  Sampat, Zavala and Mart{\'i}n}]{MartinHernandez}
+\bibinfo{author}{Mart{\'i}n-Hern{\'a}ndez, E.}, \bibinfo{author}{Sampat, A.},
+  \bibinfo{author}{Zavala, V.}, \bibinfo{author}{Mart{\'i}n, M.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Optimal integrated facility for waste processing}.
+\newblock \bibinfo{journal}{Chem. Eng. Res. Des.} \bibinfo{volume}{131},
+  \bibinfo{pages}{160--182}.
+%Type = Misc
+\bibitem[{{Michigan Department of Environment, Great Lakes, and
+  Energy}(2019)}]{Michigan_CAFOS}
+\bibinfo{author}{{Michigan Department of Environment, Great Lakes, and
+  Energy}}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{Active NPDES Permits}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.michigan.gov/egle/0,9429,7-135-3313_72753-10780--,00.html}}.
+\newblock \bibinfo{note}{[Online; accessed 29-July-2019]}.
+%Type = Misc
+\bibitem[{{Minnesota Center for Environmental
+  Advocacy}(2019)}]{Minnesota_CAFOS}
+\bibinfo{author}{{Minnesota Center for Environmental Advocacy}},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{Minnesota Confined Animal Feeding Operations}}.
+\newblock
+  \bibinfo{howpublished}{\url{http://www.mncenter.org/agriculture.html}}.
+\newblock \bibinfo{note}{[Online; accessed 29-July-2019]}.
+%Type = Article
+\bibitem[{M{\o}ller et~al.(2000)M{\o}ller, Lund and Sommer}]{MollerSLsep}
+\bibinfo{author}{M{\o}ller, H.}, \bibinfo{author}{Lund, I.},
+  \bibinfo{author}{Sommer, S.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Solid-liquid separation of livestock slurry:
+  effciency and cost}.
+\newblock \bibinfo{journal}{Bioresour. Technol.} \bibinfo{volume}{74},
+  \bibinfo{pages}{223--229}.
+%Type = Book
+\bibitem[{Moran et~al.(2010)Moran, Shapiro, Boettner and
+  Bailey}]{moran2010fundamentals}
+\bibinfo{author}{Moran, M.J.}, \bibinfo{author}{Shapiro, H.N.},
+  \bibinfo{author}{Boettner, D.D.}, \bibinfo{author}{Bailey, M.B.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Fundamentals of engineering thermodynamics}.
+\newblock \bibinfo{publisher}{John Wiley \& Sons}.
+%Type = Article
+\bibitem[{Muhmood et~al.(2019)Muhmood, Lu, Dong and Wu}]{muhmood2019formation}
+\bibinfo{author}{Muhmood, A.}, \bibinfo{author}{Lu, J.}, \bibinfo{author}{Dong,
+  R.}, \bibinfo{author}{Wu, S.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Formation of struvite from agricultural wastewaters
+  and its reuse on farmlands: Status and hindrances to closing the nutrient
+  loop}.
+\newblock \bibinfo{journal}{Journal of environmental management}
+  \bibinfo{volume}{230}, \bibinfo{pages}{1--13}.
+%Type = Book
+\bibitem[{{OECD and European Commission}(2008)}]{HandbookCompositeIndicators}
+\bibinfo{author}{{OECD and European Commission}}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{Handbook on Constructing Composite Indicators.
+  Methology and User Guide}}.
+\newblock \bibinfo{publisher}{OECD}.
+%Type = Misc
+\bibitem[{{Ohio Department of Agriculture}(2019)}]{Ohio_CAFOS}
+\bibinfo{author}{{Ohio Department of Agriculture}}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{Livestock Environmental Permitting}}.
+\newblock \bibinfo{howpublished}{{Personal Communication}}.
+%Type = Article
+\bibitem[{Pearce(2015)}]{pearce2015phosphorus}
+\bibinfo{author}{Pearce, B.J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Phosphorus recovery transition tool (prtt): a
+  transdisciplinary framework for implementing a regenerative urban phosphorus
+  cycle}.
+\newblock \bibinfo{journal}{Journal of Cleaner Production}
+  \bibinfo{volume}{109}, \bibinfo{pages}{203--215}.
+%Type = Misc
+\bibitem[{{Pennsylvania Department of Environmental
+  Protection}(2019)}]{Pennsylvania_CAFOS}
+\bibinfo{author}{{Pennsylvania Department of Environmental Protection}},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{Concentrated Animal Feeding Operations}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.dep.pa.gov/Business/Water/CleanWater/AgriculturalOperations/CAFOs/pages/default.aspx}}.
+\newblock \bibinfo{note}{[Online; accessed 29-July-2019]}.
+%Type = Article
+\bibitem[{Pickard et~al.(2015)Pickard, Daniel, Mehaffey, Jackson and
+  Neale}]{EnviroAtlas}
+\bibinfo{author}{Pickard, B.R.}, \bibinfo{author}{Daniel, J.},
+  \bibinfo{author}{Mehaffey, M.}, \bibinfo{author}{Jackson, L.E.},
+  \bibinfo{author}{Neale, A.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Enviroatlas: A new geospatial tool to foster
+  ecosystem services science and resource management}.
+\newblock \bibinfo{journal}{Ecosyst. Serv.} \bibinfo{volume}{14},
+  \bibinfo{pages}{45--55}.
+%Type = Article
+\bibitem[{Rahaman et~al.(2014)Rahaman, Mavinic, Meikleham and
+  Ellis}]{rahaman_modeling_2014}
+\bibinfo{author}{Rahaman, M.S.}, \bibinfo{author}{Mavinic, D.S.},
+  \bibinfo{author}{Meikleham, A.}, \bibinfo{author}{Ellis, N.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Modeling phosphorus removal and recovery from
+  anaerobic digester supernatant through struvite crystallization in a
+  fluidized bed reactor}.
+\newblock \bibinfo{journal}{Water Research} \bibinfo{volume}{51},
+  \bibinfo{pages}{1 -- 10}.
+%Type = Article
+\bibitem[{Reijnders(2014)}]{reijnders2014phosphorus}
+\bibinfo{author}{Reijnders, L.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Phosphorus resources, their depletion and
+  conservation, a review}.
+\newblock \bibinfo{journal}{Resources, Conservation and Recycling}
+  \bibinfo{volume}{93}, \bibinfo{pages}{32--49}.
+%Type = Article
+\bibitem[{Robles et~al.(2020)Robles, Aguado, Barat, Borr{\'a}s, Bouzas,
+  Gim{\'e}nez, Mart{\'\i}, Ribes, Ruano, Serralta et~al.}]{robles2020new}
+\bibinfo{author}{Robles, {\'A}.}, \bibinfo{author}{Aguado, D.},
+  \bibinfo{author}{Barat, R.}, \bibinfo{author}{Borr{\'a}s, L.},
+  \bibinfo{author}{Bouzas, A.}, \bibinfo{author}{Gim{\'e}nez, J.B.},
+  \bibinfo{author}{Mart{\'\i}, N.}, \bibinfo{author}{Ribes, J.},
+  \bibinfo{author}{Ruano, M.V.}, \bibinfo{author}{Serralta, J.}, et~al.,
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{New frontiers from removal to recycling of nitrogen
+  and phosphorus from wastewater in the circular economy}.
+\newblock \bibinfo{journal}{Bioresource technology} \bibinfo{volume}{300},
+  \bibinfo{pages}{122673}.
+%Type = Techreport
+\bibitem[{van Rossum(1995)}]{Python}
+\bibinfo{author}{van Rossum, G.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Python tutorial}.
+\newblock \bibinfo{type}{Technical Report} \bibinfo{number}{CS-R9526}. Centrum
+  voor Wiskunde en Informatica (CWI). \bibinfo{address}{Amsterdam}.
+%Type = Article
+\bibitem[{Sampat et~al.(2017)Sampat, Mart{\'i}n, Mart{\'i}n and
+  Zavala}]{Sampat2017}
+\bibinfo{author}{Sampat, A.}, \bibinfo{author}{Mart{\'i}n, E.},
+  \bibinfo{author}{Mart{\'i}n, M.}, \bibinfo{author}{Zavala, V.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Optimization formulations for multi-product supply
+  chain networks}.
+\newblock \bibinfo{journal}{Comput. Chem. Eng.} \bibinfo{volume}{104},
+  \bibinfo{pages}{296--310}.
+%Type = Article
+\bibitem[{Sampat et~al.(2021)Sampat, Hicks, Ruiz-Mercado and
+  Zavala}]{sampat2021valuing}
+\bibinfo{author}{Sampat, A.M.}, \bibinfo{author}{Hicks, A.},
+  \bibinfo{author}{Ruiz-Mercado, G.J.}, \bibinfo{author}{Zavala, V.M.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Valuing economic impact reductions of nutrient
+  pollution from livestock waste}.
+\newblock \bibinfo{journal}{Resources, Conservation and Recycling}
+  \bibinfo{volume}{164}, \bibinfo{pages}{105199}.
+%Type = Article
+\bibitem[{Sampat et~al.(2019)Sampat, Hu, Sharara, Aguirre-Villegas,
+  Ruiz-Mercado, Larson and Zavala}]{sampat2019coordinated}
+\bibinfo{author}{Sampat, A.M.}, \bibinfo{author}{Hu, Y.},
+  \bibinfo{author}{Sharara, M.}, \bibinfo{author}{Aguirre-Villegas, H.},
+  \bibinfo{author}{Ruiz-Mercado, G.}, \bibinfo{author}{Larson, R.A.},
+  \bibinfo{author}{Zavala, V.M.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Coordinated management of organic waste and derived
+  products}.
+\newblock \bibinfo{journal}{Computers \& chemical engineering}
+  \bibinfo{volume}{128}, \bibinfo{pages}{352--363}.
+%Type = Article
+\bibitem[{Sampat et~al.(2018)Sampat, Ruiz-Mercado and
+  Zavala}]{sampat_economic_2018}
+\bibinfo{author}{Sampat, A.M.}, \bibinfo{author}{Ruiz-Mercado, G.},
+  \bibinfo{author}{Zavala, V.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Economic and {Environmental} {Analysis} for
+  {Advancing} {Sustainable} {Management} of {Livestock} {Waste}: {A}
+  {Wisconsin} {Case} {Study}}.
+\newblock \bibinfo{journal}{ACS Sustainable Chemistry \& Engineering}
+  \bibinfo{volume}{6}, \bibinfo{pages}{6018--6031}.
+%Type = Article
+\bibitem[{Sampat and Zavala(2019)}]{sampat2019fairness}
+\bibinfo{author}{Sampat, A.M.}, \bibinfo{author}{Zavala, V.M.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Fairness measures for decision-making and conflict
+  resolution}.
+\newblock \bibinfo{journal}{Optimization and Engineering} \bibinfo{volume}{20},
+  \bibinfo{pages}{1249--1272}.
+%Type = Article
+\bibitem[{Sayers et~al.(2019)Sayers, Grimm, Shuchman, Bosse, Fahnenstiel,
+  Ruberg and Leshkevich}]{sayers2019satellite}
+\bibinfo{author}{Sayers, M.J.}, \bibinfo{author}{Grimm, A.G.},
+  \bibinfo{author}{Shuchman, R.A.}, \bibinfo{author}{Bosse, K.R.},
+  \bibinfo{author}{Fahnenstiel, G.L.}, \bibinfo{author}{Ruberg, S.A.},
+  \bibinfo{author}{Leshkevich, G.A.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Satellite monitoring of harmful algal blooms in the
+  western basin of lake erie: A 20-year time-series}.
+\newblock \bibinfo{journal}{Journal of Great Lakes Research}
+  \bibinfo{volume}{45}, \bibinfo{pages}{508--521}.
+%Type = Book
+\bibitem[{Sinnott(2014)}]{sinnott2014chemical}
+\bibinfo{author}{Sinnott, R.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Chemical engineering design}.
+  volume~\bibinfo{volume}{6}.
+\newblock \bibinfo{publisher}{Elsevier}.
+%Type = Techreport
+\bibitem[{Smith et~al.(2013)Smith, Cannon, Woodruff, Solano, Kilburn and
+  Fey}]{SoilsUSGS}
+\bibinfo{author}{Smith, D.B.}, \bibinfo{author}{Cannon, W.F.},
+  \bibinfo{author}{Woodruff, L.G.}, \bibinfo{author}{Solano, F.},
+  \bibinfo{author}{Kilburn, J.E.}, \bibinfo{author}{Fey, D.L.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Geochemical and Mineralogical Data for Soils of the
+  Conterminous United States: U.S. Geological Survey Data Series 801}}.
+\newblock \bibinfo{type}{Technical Report}. U.S. Geological Survey (USGS).
+%Type = Article
+\bibitem[{Tao et~al.(2016)Tao, Fattah and Huchzermeier}]{Tao}
+\bibinfo{author}{Tao, W.}, \bibinfo{author}{Fattah, K.},
+  \bibinfo{author}{Huchzermeier, M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Struvite recovery from anaerobically digested dairy
+  manure: A review of application potential and hindrances}.
+\newblock \bibinfo{journal}{J. Environ. Manage.} \bibinfo{volume}{169},
+  \bibinfo{pages}{46--57}.
+%Type = Article
+\bibitem[{Tervonen and Lahdelma(2007)}]{tervonen_implementing_2007}
+\bibinfo{author}{Tervonen, T.}, \bibinfo{author}{Lahdelma, R.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Implementing stochastic multicriteria acceptability
+  analysis}.
+\newblock \bibinfo{journal}{European Journal of Operational Research}
+  \bibinfo{volume}{178}, \bibinfo{pages}{500--513}.
+\newblock \URLprefix
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0377221706000506},
+  \DOIprefix\doi{10.1016/j.ejor.2005.12.037}.
+%Type = Techreport
+\bibitem[{{United States Department of Agriculture}(2009)}]{USDAHandbook}
+\bibinfo{author}{{United States Department of Agriculture}},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Agricultural Wate Management Field Handbook}}.
+\newblock \bibinfo{type}{Technical Report}. United States Department of
+  Agriculture (USDA).
+%Type = Techreport
+\bibitem[{{United States Department of
+  Agriculture}(2019)}]{2017CensusofAgriculture}
+\bibinfo{author}{{United States Department of Agriculture}},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{2017 Census of Agriculture. United Satates. Summary
+  and State Data}}.
+\newblock \bibinfo{type}{Technical Report}. United States Department of
+  Agriculture.
+%Type = Misc
+\bibitem[{{U.S. Department of Agriculture}(2011)}]{animal_unit_definition}
+\bibinfo{author}{{U.S. Department of Agriculture}}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Animal Feeding Operations (AFO) and Concentrated
+  Animal Feeding Operations (CAFO)}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/plantsanimals/livestock/afo/}}.
+\newblock \bibinfo{note}{[Online; accessed 10-August-2020]}.
+%Type = Techreport
+\bibitem[{{U.S. Environmental Protection Agency}(2003)}]{AgSTAR2003}
+\bibinfo{author}{{U.S. Environmental Protection Agency}}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{AgSTAR Digest}}.
+\newblock \bibinfo{type}{Technical Report}. U.S. Environmental Protection
+  Agency.
+%Type = Techreport
+\bibitem[{{U.S. Environmental Protection Agency}(2004)}]{AgSTARHandbook}
+\bibinfo{author}{{U.S. Environmental Protection Agency}}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{AgSTAR Handbook. A Manual For Developing Biogas
+  Systems at Commercial Farms in the United States}}.
+\newblock \bibinfo{type}{Technical Report}. U.S. Environmental Protection
+  Agency.
+%Type = Techreport
+\bibitem[{{U.S. Environmental Protection Agency}(2007)}]{NLA2007}
+\bibinfo{author}{{U.S. Environmental Protection Agency}}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{{2007 National Lakes Assessment. A Collaborative
+  Survey of the Nation’s Lakes}}.
+\newblock \bibinfo{type}{Technical Report}. {U.S. EPA}.
+%Type = Techreport
+\bibitem[{{U.S. Environmental Protection Agency}(2012a)}]{QAPP2012}
+\bibinfo{author}{{U.S. Environmental Protection Agency}},
+  \bibinfo{year}{2012}a.
+\newblock \bibinfo{title}{{2012 National Lakes Assessment. Quality Assurance
+  Version Project Plan}}.
+\newblock \bibinfo{type}{Technical Report}. {U.S. EPA}.
+%Type = Techreport
+\bibitem[{{U.S. Environmental Protection Agency}(2012b)}]{NLA2012}
+\bibinfo{author}{{U.S. Environmental Protection Agency}},
+  \bibinfo{year}{2012}b.
+\newblock \bibinfo{title}{{National Lakes Assessment 2012. A Collaborative
+  Survey of Lakes in the United States}}.
+\newblock \bibinfo{type}{Technical Report}. {U.S. EPA}.
+%Type = Techreport
+\bibitem[{{U.S. Environmental Protection Agency}(2012c)}]{CAFO_definition}
+\bibinfo{author}{{U.S. Environmental Protection Agency}},
+  \bibinfo{year}{2012}c.
+\newblock \bibinfo{title}{{Regulatory Definitions of Large CAFOs, Medium CAFO,
+  and Small CAFOs}}.
+\newblock \bibinfo{type}{Technical Report}. U.S. EPA).
+%Type = Techreport
+\bibitem[{{U.S. Geological Survey}(2013)}]{HUC8}
+\bibinfo{author}{{U.S. Geological Survey}}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Federal Standards and Procedures for the National
+  Watershaed Boundary Dataset (WBD)}}.
+\newblock \bibinfo{type}{Technical Report}. U.S. Geological Survey.
+%Type = Incollection
+\bibitem[{Vaneeckhaute et~al.(2015)Vaneeckhaute, Janda, Meers and
+  Tack}]{vaneeckhaute2015efficiency}
+\bibinfo{author}{Vaneeckhaute, C.}, \bibinfo{author}{Janda, J.},
+  \bibinfo{author}{Meers, E.}, \bibinfo{author}{Tack, F.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Efficiency of soil and fertilizer phosphorus use in
+  time: A comparison between recovered struvite, fepo 4-sludge, digestate,
+  animal manure, and synthetic fertilizer}, in: \bibinfo{booktitle}{Nutrient
+  Use Efficiency: from Basics to Advances}. \bibinfo{publisher}{Springer}, pp.
+  \bibinfo{pages}{73--85}.
+%Type = Article
+\bibitem[{Wang et~al.(2020)Wang, Xiao, Yang, Yu, Yu, Xu, Wu, Liang, Hu, Hou
+  et~al.}]{wang2020phosphorus}
+\bibinfo{author}{Wang, H.}, \bibinfo{author}{Xiao, K.}, \bibinfo{author}{Yang,
+  J.}, \bibinfo{author}{Yu, Z.}, \bibinfo{author}{Yu, W.}, \bibinfo{author}{Xu,
+  Q.}, \bibinfo{author}{Wu, Q.}, \bibinfo{author}{Liang, S.},
+  \bibinfo{author}{Hu, J.}, \bibinfo{author}{Hou, H.}, et~al.,
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Phosphorus recovery from the liquid phase of
+  anaerobic digestate using biochar derived from iron- rich sludge: A potential
+  phosphorus fertilizer}.
+\newblock \bibinfo{journal}{Water research} \bibinfo{volume}{174},
+  \bibinfo{pages}{115629}.
+%Type = Incollection
+\bibitem[{Werner(2009)}]{Ullmanns}
+\bibinfo{author}{Werner, W.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Fertilizers, 6. {Environmental} {Aspects}}, in:
+  \bibinfo{booktitle}{Ullmann's {Encyclopedia} of {Industrial} {Chemistry}}.
+  \bibinfo{address}{Weinheim, Germany}.
+\newblock \URLprefix \url{http://doi.wiley.com/10.1002/14356007.n10_n05},
+  \DOIprefix\doi{10.1002/14356007.n10_n05}.
+%Type = Misc
+\bibitem[{{Wisconsin Department of Natural Resources}(2019)}]{Wisconsin_CAFOS}
+\bibinfo{author}{{Wisconsin Department of Natural Resources}},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{DNR Runoff Management. CAFO Permittees}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://dnr.wi.gov/topic/AgBusiness/data/CAFO/}}.
+\newblock \bibinfo{note}{[Online; accessed 29-July-2019]}.
+%Type = Article
+\bibitem[{Yan and Shih(2016)}]{Yan2016}
+\bibinfo{author}{Yan, H.}, \bibinfo{author}{Shih, K.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Effects of calcium and ferric ions on struvite
+  precipitation: A new assessment based on quantitative x-ray diffraction
+  analysis}.
+\newblock \bibinfo{journal}{Wat. Res.} \bibinfo{volume}{95},
+  \bibinfo{pages}{310--318}.
+
+\end{thebibliography}

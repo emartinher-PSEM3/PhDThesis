@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: COW2NUTRIENT_manuscript.aux
+The style file: elsarticle-harv.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 708 of file references.bib
+ :   
+ :   year = {2011},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 726 of file references.bib
+ : @article{egle_phosphorus_2016
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 824 of file references.bib
+ : @article{church_versatility_2018
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 869 of file references.bib
+ : @article{tervonen_implementing_2007
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 970 of file references.bib
+ : @article{ehbrecht_p-recovery_2011
+ :                                  ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--missing institution in Espinoza2006
+Warning--empty pages in Ullmanns
+You've used 72 entries,
+            2990 wiz_defined-function locations,
+            1074 strings with 20433 characters,
+and the built_in function-call counts, 45710 in all, are:
+= -- 3377
+> -- 1865
+< -- 39
++ -- 728
+- -- 645
+* -- 4897
+:= -- 6751
+add.period$ -- 236
+call.type$ -- 72
+change.case$ -- 581
+chr.to.int$ -- 69
+cite$ -- 74
+duplicate$ -- 3509
+empty$ -- 3327
+format.name$ -- 813
+if$ -- 8413
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 690
+newline$ -- 395
+num.names$ -- 289
+pop$ -- 1335
+preamble$ -- 1
+purify$ -- 501
+quote$ -- 0
+skip$ -- 970
+stack$ -- 0
+substring$ -- 1673
+swap$ -- 2479
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 636
+warning$ -- 2
+while$ -- 277
+width$ -- 0
+write$ -- 1058
+(There were 5 error messages)
