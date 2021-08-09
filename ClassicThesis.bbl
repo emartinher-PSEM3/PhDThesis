@@ -3052,5 +3052,1484 @@
     \endentry
   \enddatalist
 \endrefsection
+
+\refsection{3}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Alburquerque}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0d43f2e6ea078f987af6d406838ac186}{%
+           family={Alburquerque},
+           familyi={A\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3140d923a5e9144624f7ebc3b05b4d14}{%
+           family={Fuente},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           prefix={de\bibnamedelima la},
+           prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod}}}%
+        {{hash=c95805085ed474a399a456851fb3e128}{%
+           family={Bernal},
+           familyi={B\bibinitperiod},
+           given={M.P.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e3a4e2db0524f3f7ab007dcf1813c8}
+      \strng{fullhash}{f1e3a4e2db0524f3f7ab007dcf1813c8}
+      \strng{bibnamehash}{f1e3a4e2db0524f3f7ab007dcf1813c8}
+      \strng{authorbibnamehash}{f1e3a4e2db0524f3f7ab007dcf1813c8}
+      \strng{authornamehash}{f1e3a4e2db0524f3f7ab007dcf1813c8}
+      \strng{authorfullhash}{f1e3a4e2db0524f3f7ab007dcf1813c8}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agric. Ecosyst. Environ.}
+      \field{title}{Chemical properties of anaerobic digestates affecting C and N dynamics in amended soils}
+      \field{volume}{160}
+      \field{year}{2012}
+      \field{pages}{15\bibrangedash 22}
+      \range{pages}{8}
+    \endentry
+    \entry{AllenMallarino2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2099a3fb77e962bd31034f22c86731f7}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={B.\bibnamedelimi L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a57b6d3ab6fe997657d2e564e85be5fa}{%
+           family={Mallarino},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fbebc862b10621fcfc0f413d3500166}
+      \strng{fullhash}{0fbebc862b10621fcfc0f413d3500166}
+      \strng{bibnamehash}{0fbebc862b10621fcfc0f413d3500166}
+      \strng{authorbibnamehash}{0fbebc862b10621fcfc0f413d3500166}
+      \strng{authornamehash}{0fbebc862b10621fcfc0f413d3500166}
+      \strng{authorfullhash}{0fbebc862b10621fcfc0f413d3500166}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil Sci. Soc. Am. J.}
+      \field{title}{Relationships between Extractable Soil Phosphorus and Phosphorus Saturation after Long-Term Fertilizer or Manure Application}
+      \field{volume}{70}
+      \field{year}{2006}
+      \field{pages}{454\bibrangedash 463}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.2136/sssaj2005.0031
+      \endverb
+    \endentry
+    \entry{Pearl10Kcost1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b418ff84bd568e333e26f343b35889ca}{%
+           family={{American Society of Civil Engineers (ASCE)}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b418ff84bd568e333e26f343b35889ca}
+      \strng{fullhash}{b418ff84bd568e333e26f343b35889ca}
+      \strng{bibnamehash}{b418ff84bd568e333e26f343b35889ca}
+      \strng{authorbibnamehash}{b418ff84bd568e333e26f343b35889ca}
+      \strng{authornamehash}{b418ff84bd568e333e26f343b35889ca}
+      \strng{authorfullhash}{b418ff84bd568e333e26f343b35889ca}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.asce.org/magazine/20131105-chicago-to-add-nutrient-recovery-to-largest-plant/}}
+      \field{note}{[Online; accessed 21-March-2019]}
+      \field{title}{{Chicago to Add Nutrient Recovery to Largest Plant}}
+      \field{year}{2013}
+    \endentry
+    \entry{Pearl2Kcost2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6f7aa1a3471498149d546f8bb6a3998f}{%
+           family={{Australian Meat Processor Corporation}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f7aa1a3471498149d546f8bb6a3998f}
+      \strng{fullhash}{6f7aa1a3471498149d546f8bb6a3998f}
+      \strng{bibnamehash}{6f7aa1a3471498149d546f8bb6a3998f}
+      \strng{authorbibnamehash}{6f7aa1a3471498149d546f8bb6a3998f}
+      \strng{authornamehash}{6f7aa1a3471498149d546f8bb6a3998f}
+      \strng{authorfullhash}{6f7aa1a3471498149d546f8bb6a3998f}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ampc.com.au/uploads/cgblog/id408/2018-1026_-_Final_Report.pdf}}
+      \field{note}{[Online; accessed 20-March-2019]}
+      \field{title}{{Struvite or Traditional Chemical Phosphorus Precipitation – What Option Rocks?}}
+      \field{year}{2018}
+    \endentry
+    \entry{USDA_OM}{report}{}
+      \name{author}{4}{}{%
+        {{hash=eee14c187c58116761d7727023954b6d}{%
+           family={Beddoes},
+           familyi={B\bibinitperiod},
+           given={Jenifer\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d9404e5460d85b2495ef9ed5ec34cfaa}{%
+           family={Bracmort},
+           familyi={B\bibinitperiod},
+           given={Kelsi\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e3144b496e3d1c96efd22aceab5a6241}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=ffa38d74f528ce1945e9e7c3667d3f6c}{%
+           family={Lazarus},
+           familyi={L\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Agriculture (USDA)}%
+      }
+      \strng{namehash}{6a12f97e5e82346c2a48cd61bef0aa4e}
+      \strng{fullhash}{f400581f9a387dcffaead4162815b06f}
+      \strng{bibnamehash}{f400581f9a387dcffaead4162815b06f}
+      \strng{authorbibnamehash}{f400581f9a387dcffaead4162815b06f}
+      \strng{authornamehash}{6a12f97e5e82346c2a48cd61bef0aa4e}
+      \strng{authorfullhash}{f400581f9a387dcffaead4162815b06f}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Analysis of Energy Production Costs from Anaerobic Digestion Systems on U.S. Livestock Production Facilities}
+      \field{type}{techreport}
+      \field{year}{2007}
+    \endentry
+    \entry{carlson_trophic_1977}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4ab3541474741f6e5fe419a28e96a4c9}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4ab3541474741f6e5fe419a28e96a4c9}
+      \strng{fullhash}{4ab3541474741f6e5fe419a28e96a4c9}
+      \strng{bibnamehash}{4ab3541474741f6e5fe419a28e96a4c9}
+      \strng{authorbibnamehash}{4ab3541474741f6e5fe419a28e96a4c9}
+      \strng{authornamehash}{4ab3541474741f6e5fe419a28e96a4c9}
+      \strng{authorfullhash}{4ab3541474741f6e5fe419a28e96a4c9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A numerical trophic state index for lakes has been developed that incorporates most lakes in a scale of 0 to 100. Each major division ( 10, 20, 30, etc. ) represents a doubling in algal biomass. The index number can bc calculated from any of several parameters, including Secchi disk transparency, chlorophyll, and total phosphorus.}
+      \field{issn}{00243590}
+      \field{journaltitle}{Limnol. Oceanogr.}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shorttitle}{A trophic state index for lakes1}
+      \field{title}{A trophic state index for lakes: {Trophic} state index}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{22}
+      \field{year}{1977}
+      \field{urldateera}{ce}
+      \field{pages}{361\bibrangedash 369}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.4319/lo.1977.22.2.0361
+      \endverb
+      \verb{file}
+      \verb Carlson - 1977 - A trophic state index for lakes1 Trophic state in.pdf:/home/emh/Zotero/storage/SNFEMBRD/Carlson - 1977 - A trophic state index for lakes1 Trophic state in.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.4319/lo.1977.22.2.0361
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.4319/lo.1977.22.2.0361
+      \endverb
+    \endentry
+    \entry{church_novel_2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=052e754c4b40095615cf13d618969d5a}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=33186790d6edcf7bca9da2748722d6ac}{%
+           family={Hristov},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=5814ac944e9528aec491165a6130fcd6}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c3d39d08739bc4bbb9a341de9e004c94}{%
+           family={Kleinman},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi J.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ebac6cf2c9857555573611c7bb2436af}{%
+           family={Fishel},
+           familyi={F\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ab490b0ae51650871579b4f06764f605}
+      \strng{fullhash}{5b17de5c0cfe384313819283cb159734}
+      \strng{bibnamehash}{5b17de5c0cfe384313819283cb159734}
+      \strng{authorbibnamehash}{5b17de5c0cfe384313819283cb159734}
+      \strng{authornamehash}{ab490b0ae51650871579b4f06764f605}
+      \strng{authorfullhash}{5b17de5c0cfe384313819283cb159734}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lowering the phosphorus (P) content of animal manure is one approach of addressing concerns over surplus P accumulation in soils resulting from land application of animal manure. We sought to develop a treatment system for liquid manures that conserves manure nitrogen (N) while removing most of the manure P. Initial evaluation of a treatment system involving manure solid separation and precipitation of dissolved P with an alkaline salt (Ca(OH)2) resulted in poor liquid/solid separation and poor dissolved P removal and created conditions promoting ammonia-N (NH3-N) volatilization. As a result, we developed a three-stage system with iterative solid removal and acid salt (ferric sulfate –Fe2(SO4)3) sorption of dissolved P: (1) removal of bulk and intermediate sized solids (>25 μm); (2) chemical treatment to convert dissolved P; and (3) final removal of fine solids and chemically sorbed P. When tested on manure slurries from 150 and 2700 cow dairies, 96\% to 99\% aqua regia extractable P was removed along with 92\% to 94\% of the solids, resulting in liquid manure filtrates with N:P ratios greater than 19:1. While costs of treatment were roughly \$38 kg-1 P removed, equivalent to \$750 cow-1 yr-1, we anticipate that refinement of the process and beneficial uses of the solid materials (bedding, compost, etc.) will improve cost-efficacy considerably.}
+      \field{issn}{08838542, 19437838}
+      \field{journaltitle}{Appl. Eng. Agric.}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{A {Novel} {Treatment} {System} to {Remove} {Phosphorus} from {Liquid} {Manure}}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{32}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{103\bibrangedash 112}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.13031/aea.32.10999
+      \endverb
+      \verb{file}
+      \verb 2016 - A Novel Treatment System to Remove Phosphorus from.pdf:/home/emh/Zotero/storage/GB29WIVD/2016 - A Novel Treatment System to Remove Phosphorus from.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://elibrary.asabe.org/abstract.asp?aid=46616&t=3&dabs=Y&redir=&redirType=
+      \endverb
+      \verb{url}
+      \verb http://elibrary.asabe.org/abstract.asp?aid=46616&t=3&dabs=Y&redir=&redirType=
+      \endverb
+    \endentry
+    \entry{church_versatility_2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=497542ada0fffbaa6bffd604f7893740}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Clinton\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9908282914ffdae6a6273df7ece28058}{%
+           family={Hristov},
+           familyi={H\bibinitperiod},
+           given={Alexander\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f2bb7761f7935cbf6a7c1f60a7694b5e}{%
+           family={Kleinman},
+           familyi={K\bibinitperiod},
+           given={Peter\bibnamedelima J.A.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=45e0b568fb5bddc72f9d2545bce2c80c}{%
+           family={Fishel},
+           familyi={F\bibinitperiod},
+           given={Sarah\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d92e0f1c5435a69eca91eaa825158887}{%
+           family={Reiner},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=10f18e15e612f27d54fd82aa75973a95}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={Ray\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{736186415addd76a0f2af91cd7efb122}
+      \strng{fullhash}{fe8f87287b6d8d932f2d642c45e6e4a2}
+      \strng{bibnamehash}{fe8f87287b6d8d932f2d642c45e6e4a2}
+      \strng{authorbibnamehash}{fe8f87287b6d8d932f2d642c45e6e4a2}
+      \strng{authornamehash}{736186415addd76a0f2af91cd7efb122}
+      \strng{authorfullhash}{fe8f87287b6d8d932f2d642c45e6e4a2}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Animal manure contains nutrients [primarily nitrogen (N) and phosphorus (P)] and organic material that are beneficial to crops. Unfortunately, for economic and logistics reasons, most manure tends to be applied to soils near where it is generated. Over time P concentrations in soils where dairy manure is applied builds up, often in excess of crop demands, and its potential loss in runoff poses a risk to water quality. We previously described, and have subsequently built, a full-scale version of a MAnure PHosphorus EXtraction (MAPHEX) System capable of removing greater than 90\% of the P from manures. While originally designed to remove phosphorus, we postulated that the MAPHEX System was also capable of removing odor and microbes, and of concentrating alkalinity into a solid, economically transported form. In this study the MAPHEX System was shown to be highly versatile at removing greater than 90\% of the phosphorus from a wide range of dairy manures. In addition, the study showed that the System is also capable of concentrating and recovering alkalinity from manures, while also removing over 80\% of microbes and reducing the odor of the effluent applied to fields by half.}
+      \field{issn}{1943-7838}
+      \field{journaltitle}{Applied Engineering in Agriculture}
+      \field{number}{3}
+      \field{shorttitle}{Versatility of the {MAnure} {PHosphorus} {EXtraction} ({MAPHEX}) {System} in {Removing} {Phosphorus}, {Odor}, {Microbes}, and {Alkalinity} from {Dairy} {Manures}}
+      \field{title}{Versatility of the {MAnure} {PHosphorus} {EXtraction} ({MAPHEX}) {System} in {Removing} {Phosphorus}, {Odor}, {Microbes}, and {Alkalinity} from {Dairy} {Manures}: {A} {Four}-{Farm} {Case} {Study}}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{34}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{567\bibrangedash 572}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.13031/aea.12632
+      \endverb
+      \verb{file}
+      \verb Church et al. - 2018 - Versatility of the MAnure PHosphorus EXtraction (M.pdf:/home/emh/Zotero/storage/K753W2EF/Church et al. - 2018 - Versatility of the MAnure PHosphorus EXtraction (M.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://elibrary.asabe.org/abstract.asp?AID=48976&t=3&dabs=Y&redir=&redirType=
+      \endverb
+      \verb{url}
+      \verb http://elibrary.asabe.org/abstract.asp?AID=48976&t=3&dabs=Y&redir=&redirType=
+      \endverb
+    \endentry
+    \entry{Pearl500cost1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8881cceef0a61b9708c209a61ee99905}{%
+           family={{County of Napa}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8881cceef0a61b9708c209a61ee99905}
+      \strng{fullhash}{8881cceef0a61b9708c209a61ee99905}
+      \strng{bibnamehash}{8881cceef0a61b9708c209a61ee99905}
+      \strng{authorbibnamehash}{8881cceef0a61b9708c209a61ee99905}
+      \strng{authornamehash}{8881cceef0a61b9708c209a61ee99905}
+      \strng{authorfullhash}{8881cceef0a61b9708c209a61ee99905}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://services.countyofnapa.org/agendanet/DownloadDocument.aspx?type=NAPASAN&doctype=ATTACHMENT&id=27457}}
+      \field{note}{[Online; accessed 20-March-2019]}
+      \field{title}{{Phosphorus recovery}}
+      \field{year}{2013}
+    \endentry
+    \entry{Walas}{book}{}
+      \name{author}{4}{}{%
+        {{hash=dcc44ce5c48b90dd1357bebb5d234ec4}{%
+           family={Couper},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=87f6dcb1e19e0b22bfdc26ed5d38c756}{%
+           family={Penney},
+           familyi={P\bibinitperiod},
+           given={W.\bibnamedelimi Roy},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4686102ec725dbfb8130fc509b0164d7}{%
+           family={Fair},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bb0e511977c477ae284a1d433f45977b}{%
+           family={Walas},
+           familyi={W\bibinitperiod},
+           given={Stanley\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Butterworth-Heinemann}%
+      }
+      \strng{namehash}{0d491d6e9519b895d270854403e63cb9}
+      \strng{fullhash}{146df78039b46230c8567e8260de3efd}
+      \strng{bibnamehash}{146df78039b46230c8567e8260de3efd}
+      \strng{authorbibnamehash}{146df78039b46230c8567e8260de3efd}
+      \strng{authornamehash}{0d491d6e9519b895d270854403e63cb9}
+      \strng{authorfullhash}{146df78039b46230c8567e8260de3efd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Third Edition}
+      \field{isbn}{978-0-12-396959-0}
+      \field{title}{Chemical Process Equipment (Third Edition)}
+      \field{year}{2012}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-12-396959-0.00032-X
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/B978012396959000032X
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/B978012396959000032X
+      \endverb
+    \endentry
+    \entry{Dzombak}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c727e9e4a1d973fb264c5cee7fac10a}{%
+           family={Dzombak},
+           familyi={D\bibinitperiod},
+           given={David.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c727e9e4a1d973fb264c5cee7fac10a}
+      \strng{fullhash}{0c727e9e4a1d973fb264c5cee7fac10a}
+      \strng{bibnamehash}{0c727e9e4a1d973fb264c5cee7fac10a}
+      \strng{authorbibnamehash}{0c727e9e4a1d973fb264c5cee7fac10a}
+      \strng{authornamehash}{0c727e9e4a1d973fb264c5cee7fac10a}
+      \strng{authorfullhash}{0c727e9e4a1d973fb264c5cee7fac10a}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07376278}
+      \field{journaltitle}{The Bridge}
+      \field{number}{4}
+      \field{title}{{Nutrient Control in Large-Scale U.S. Watersheds}}
+      \field{volume}{41}
+      \field{year}{2011}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
+    \endentry
+    \entry{egle_phosphorus_2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=184950cab41188f6a69728677f482eb1}{%
+           family={Egle},
+           familyi={E\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3ede4b8060bcc75ddad2bf5748665b69}{%
+           family={Rechberger},
+           familyi={R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6ed4c2658d6eb983a66087824a0b68c2}{%
+           family={Krampe},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1a69af2fe2e01a580ff426c24d3f448f}{%
+           family={Zessner},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3f9c505b8d83c0cd5974e3d0dea7a8d6}
+      \strng{fullhash}{9837e56e3645517a91e41053a6c8c5bd}
+      \strng{bibnamehash}{9837e56e3645517a91e41053a6c8c5bd}
+      \strng{authorbibnamehash}{9837e56e3645517a91e41053a6c8c5bd}
+      \strng{authornamehash}{3f9c505b8d83c0cd5974e3d0dea7a8d6}
+      \strng{authorfullhash}{9837e56e3645517a91e41053a6c8c5bd}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00489697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{month}{11}
+      \field{shorttitle}{Phosphorus recovery from municipal wastewater}
+      \field{title}{Phosphorus recovery from municipal wastewater: {An} integrated comparative technological, environmental and economic assessment of {P} recovery technologies}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{571}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{522\bibrangedash 542}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.scitotenv.2016.07.019
+      \endverb
+      \verb{file}
+      \verb Egle et al. - 2016 - Phosphorus recovery from municipal wastewater An .pdf:/home/emh/Zotero/storage/FXQ2CV3R/Egle et al. - 2016 - Phosphorus recovery from municipal wastewater An .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969716314656
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969716314656
+      \endverb
+    \endentry
+    \entry{ehbrecht_p-recovery_2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=51da14fd739dc9b844604ba664716985}{%
+           family={Ehbrecht},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8b28873d32f209415a4333161c866783}{%
+           family={Schönauer},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e17ec32718dc85307c7e149639d5471a}{%
+           family={Fuderer},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0a16b25d7c80863bda4bba3a3b2bee94}{%
+           family={Schuhmann},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{229e4eb2c53f9b5201cbc298bb08407d}
+      \strng{fullhash}{2bb66e40b67edddce6523a5433a60bae}
+      \strng{bibnamehash}{2bb66e40b67edddce6523a5433a60bae}
+      \strng{authorbibnamehash}{2bb66e40b67edddce6523a5433a60bae}
+      \strng{authornamehash}{229e4eb2c53f9b5201cbc298bb08407d}
+      \strng{authorfullhash}{2bb66e40b67edddce6523a5433a60bae}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0273-1223, 1996-9732}
+      \field{journaltitle}{Water Science and Technology}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{P-{Recovery} from sewage by seeded crystallisation in a pilot plant in batch mode technology}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{63}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{339\bibrangedash 344}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.2166/wst.2011.061
+      \endverb
+      \verb{file}
+      \verb Ehbrecht et al. - 2011 - P-Recovery from sewage by seeded crystallisation i.pdf:/home/emh/Zotero/storage/VUIQYTED/Ehbrecht et al. - 2011 - P-Recovery from sewage by seeded crystallisation i.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iwaponline.com/wst/article/63/2/339/13814/PRecovery-from-sewage-by-seeded-crystallisation-in
+      \endverb
+      \verb{url}
+      \verb https://iwaponline.com/wst/article/63/2/339/13814/PRecovery-from-sewage-by-seeded-crystallisation-in
+      \endverb
+    \endentry
+    \entry{Espinoza2006}{report}{}
+      \name{author}{3}{}{%
+        {{hash=2ca33564db8715195efe1ffa4583b138}{%
+           family={Espinoza},
+           familyi={E\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1b6d1385313bfc0c22b348cdc6d2b3ed}{%
+           family={Slaton},
+           familyi={S\bibinitperiod},
+           given={Nathan\bibnamedelima Alan},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a3781f462d31b254c3250de593bf0f79}{%
+           family={Mozaffari},
+           familyi={M\bibinitperiod},
+           given={Morteza},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cooperative Extension Service, University of Arkansas}%
+      }
+      \strng{namehash}{6c9d513e81c26af9611a9b9d58496829}
+      \strng{fullhash}{6c9d513e81c26af9611a9b9d58496829}
+      \strng{bibnamehash}{6c9d513e81c26af9611a9b9d58496829}
+      \strng{authorbibnamehash}{6c9d513e81c26af9611a9b9d58496829}
+      \strng{authornamehash}{6c9d513e81c26af9611a9b9d58496829}
+      \strng{authorfullhash}{6c9d513e81c26af9611a9b9d58496829}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding the numbers on your soil test report}
+      \field{type}{techreport}
+      \field{year}{2006}
+    \endentry
+    \entry{Indiana_CAFOS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=406be2ee5eed61f8e58fe5c6ba33e81c}{%
+           family={{Indiana Department of Environmental Management}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{406be2ee5eed61f8e58fe5c6ba33e81c}
+      \strng{fullhash}{406be2ee5eed61f8e58fe5c6ba33e81c}
+      \strng{bibnamehash}{406be2ee5eed61f8e58fe5c6ba33e81c}
+      \strng{authorbibnamehash}{406be2ee5eed61f8e58fe5c6ba33e81c}
+      \strng{authornamehash}{406be2ee5eed61f8e58fe5c6ba33e81c}
+      \strng{authorfullhash}{406be2ee5eed61f8e58fe5c6ba33e81c}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://maps.indiana.edu/previewMaps/Environment/Agribusiness_Confined_Feeding_Operations.html}}
+      \field{note}{[Online; accessed 29-July-2019]}
+      \field{title}{{Confined Feeding Operation Facilities (20200402)}}
+      \field{year}{2019}
+    \endentry
+    \entry{NuGIS}{report}{}
+      \name{author}{1}{}{%
+        {{hash=536161fdfc9d867613a2b920930d5b8e}{%
+           family={{International Plant Nutrition Institute (IPNI)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Plant Nutrition Institute (IPNI)}%
+      }
+      \strng{namehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{fullhash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{bibnamehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{authorbibnamehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{authornamehash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{authorfullhash}{536161fdfc9d867613a2b920930d5b8e}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A Nutrient Use Information System (NuGIS) for the U.S.}}
+      \field{type}{techreport}
+      \field{year}{2012}
+    \endentry
+    \entry{Kadlec}{article}{}
+      \name{author}{1}{}{%
+        {{hash=43af4ce552c8efbb64ed0334fbca4a75}{%
+           family={Kadlec},
+           familyi={K\bibinitperiod},
+           given={R.H.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{fullhash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{bibnamehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{authorbibnamehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{authornamehash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \strng{authorfullhash}{43af4ce552c8efbb64ed0334fbca4a75}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{title}{Large Constructed Wetlands for Phosphorus Control: A Review}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{243}
+      \range{pages}{1}
+    \endentry
+    \entry{Kellog2010}{report}{}
+      \name{author}{4}{}{%
+        {{hash=beeff8a8527c7fa9b54e76781eb74c63}{%
+           family={Kellogg},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=223cc8ea004897bcc37fb1a33c6e9234}{%
+           family={Lander},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f116436c88dd5fdf4afefa4006c48b27}{%
+           family={Moffitt},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=26e02b83c8db10a6d9581651de068dad}{%
+           family={Gollehon},
+           familyi={G\bibinitperiod},
+           given={Noel},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture (USDA)}%
+      }
+      \strng{namehash}{86ed8a580f39ad12a2959079341747d1}
+      \strng{fullhash}{3a98290e1bd12992462de5274222a0a8}
+      \strng{bibnamehash}{3a98290e1bd12992462de5274222a0a8}
+      \strng{authorbibnamehash}{3a98290e1bd12992462de5274222a0a8}
+      \strng{authornamehash}{86ed8a580f39ad12a2959079341747d1}
+      \strng{authorfullhash}{3a98290e1bd12992462de5274222a0a8}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Manure Nutrients Relative to the Capacity of Cropland and Pastureland to Assimilate Nutrients: Spatial and Temporal Trends for the United States}}
+      \field{type}{techreport}
+      \field{year}{2000}
+    \endentry
+    \entry{Martin2}{report}{}
+      \name{author}{1}{}{%
+        {{hash=b69f16750e1f373654cab08afa9fa64f}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={J.H.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {AgSTAR Program, U.S. Environmental Protection Agency}%
+      }
+      \strng{namehash}{b69f16750e1f373654cab08afa9fa64f}
+      \strng{fullhash}{b69f16750e1f373654cab08afa9fa64f}
+      \strng{bibnamehash}{b69f16750e1f373654cab08afa9fa64f}
+      \strng{authorbibnamehash}{b69f16750e1f373654cab08afa9fa64f}
+      \strng{authornamehash}{b69f16750e1f373654cab08afa9fa64f}
+      \strng{authorfullhash}{b69f16750e1f373654cab08afa9fa64f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comparison of Dairy Cattle Manure Management with and without Anaerobic Digestion and Biogas Utilization}
+      \field{type}{techreport}
+      \field{year}{2003}
+    \endentry
+    \entry{MartinStruvite}{article}{}
+      \name{author}{3}{}{%
+        {{hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
+           family={Martín-Hernández},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1a0eac6d3ec76f0477b43693cb503e38}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d58081baefec46ef3bc7355caed94839}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{fullhash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{bibnamehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{authorbibnamehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{authornamehash}{4bf02950736038efdbf9f1fe034a064f}
+      \strng{authorfullhash}{4bf02950736038efdbf9f1fe034a064f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Environ. Manage.}
+      \field{title}{Model-Driven Spatial Evaluation of Nutrient Recovery from Livestock Leachate for Struvite Production}
+      \field{volume}{271}
+      \field{year}{2020}
+      \field{pages}{110967}
+      \range{pages}{1}
+    \endentry
+    \entry{Matches}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a61bbf7ad0ed153cb6c84fe3c8a9f2bb}{%
+           family={{Matches}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a61bbf7ad0ed153cb6c84fe3c8a9f2bb}
+      \strng{fullhash}{a61bbf7ad0ed153cb6c84fe3c8a9f2bb}
+      \strng{bibnamehash}{a61bbf7ad0ed153cb6c84fe3c8a9f2bb}
+      \strng{authorbibnamehash}{a61bbf7ad0ed153cb6c84fe3c8a9f2bb}
+      \strng{authornamehash}{a61bbf7ad0ed153cb6c84fe3c8a9f2bb}
+      \strng{authorfullhash}{a61bbf7ad0ed153cb6c84fe3c8a9f2bb}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://matche.com/equipcost/Default.html}}
+      \field{note}{[Online; accessed 29-March-2018]}
+      \field{title}{Matches' Process Equipment Cost Estimates}
+      \field{year}{2014}
+    \endentry
+    \entry{Matynia}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1328e96198a3eb7437c7c278a0fef0e5}{%
+           family={Matynia},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=774a00249d6fc41906711607b5f48088}{%
+           family={Wierzbowska},
+           familyi={W\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9705c0d912e1f737ae6ff94af7e4f16f}{%
+           family={Hutnik},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1ff054fe67cf3af76d43409c609cd48a}{%
+           family={Mazienczuk},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=60a157b06c0806c67a0103386c653702}{%
+           family={Kozik},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=451dd13670d53c9b48023073c0715ca2}{%
+           family={Piotrowski},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca31711f855f93038bf52591362626de}
+      \strng{fullhash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \strng{bibnamehash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \strng{authorbibnamehash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \strng{authornamehash}{ca31711f855f93038bf52591362626de}
+      \strng{authorfullhash}{06f71bfe4e61712cbd9b1a5d072e6b1a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia. Environ. Sci.}
+      \field{title}{Separation of struvite from mineral fertilizer industry wastewater}
+      \field{volume}{18}
+      \field{year}{2013}
+      \field{pages}{766\bibrangedash 775}
+      \range{pages}{10}
+    \endentry
+    \entry{Michigan_CAFOS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee72b72970c3f0a67180000feafe3464}{%
+           family={{Michigan Department of Environment, Great Lakes, and Energy}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee72b72970c3f0a67180000feafe3464}
+      \strng{fullhash}{ee72b72970c3f0a67180000feafe3464}
+      \strng{bibnamehash}{ee72b72970c3f0a67180000feafe3464}
+      \strng{authorbibnamehash}{ee72b72970c3f0a67180000feafe3464}
+      \strng{authornamehash}{ee72b72970c3f0a67180000feafe3464}
+      \strng{authorfullhash}{ee72b72970c3f0a67180000feafe3464}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.michigan.gov/egle/0,9429,7-135-3313_72753-10780--,00.html}}
+      \field{note}{[Online; accessed 29-July-2019]}
+      \field{title}{{Active NPDES Permits}}
+      \field{year}{2019}
+    \endentry
+    \entry{Minnesota_CAFOS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=055dd952a7064470943d3dbd28b55573}{%
+           family={{Minnesota Center for Environmental Advocacy}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{055dd952a7064470943d3dbd28b55573}
+      \strng{fullhash}{055dd952a7064470943d3dbd28b55573}
+      \strng{bibnamehash}{055dd952a7064470943d3dbd28b55573}
+      \strng{authorbibnamehash}{055dd952a7064470943d3dbd28b55573}
+      \strng{authornamehash}{055dd952a7064470943d3dbd28b55573}
+      \strng{authorfullhash}{055dd952a7064470943d3dbd28b55573}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.mncenter.org/agriculture.html}}
+      \field{note}{[Online; accessed 29-July-2019]}
+      \field{title}{{Minnesota Confined Animal Feeding Operations}}
+      \field{year}{2019}
+    \endentry
+    \entry{MollerSLsep}{article}{}
+      \name{author}{3}{}{%
+        {{hash=99cb5c368b308947a14c88873ec44dc0}{%
+           family={M{ø}ller},
+           familyi={M\bibinitperiod},
+           given={H.B.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8c93204806ee4e66b6fb640c021eb547}{%
+           family={Lund},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=54e1b143f51177387dff580bea44dd12}{%
+           family={Sommer},
+           familyi={S\bibinitperiod},
+           given={S.G.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{387fd935ce2f2b12e74b410e115316d3}
+      \strng{fullhash}{387fd935ce2f2b12e74b410e115316d3}
+      \strng{bibnamehash}{387fd935ce2f2b12e74b410e115316d3}
+      \strng{authorbibnamehash}{387fd935ce2f2b12e74b410e115316d3}
+      \strng{authornamehash}{387fd935ce2f2b12e74b410e115316d3}
+      \strng{authorfullhash}{387fd935ce2f2b12e74b410e115316d3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioresour. Technol.}
+      \field{title}{Solid-liquid separation of livestock slurry: effciency and cost}
+      \field{volume}{74}
+      \field{year}{2000}
+      \field{pages}{223\bibrangedash 229}
+      \range{pages}{7}
+    \endentry
+    \entry{Ohio_CAFOS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5efdeee9aa354f712dc48929f1d4c2ba}{%
+           family={{Ohio Department of Agriculture}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{5efdeee9aa354f712dc48929f1d4c2ba}
+      \strng{fullhash}{5efdeee9aa354f712dc48929f1d4c2ba}
+      \strng{bibnamehash}{5efdeee9aa354f712dc48929f1d4c2ba}
+      \strng{authorbibnamehash}{5efdeee9aa354f712dc48929f1d4c2ba}
+      \strng{authornamehash}{5efdeee9aa354f712dc48929f1d4c2ba}
+      \strng{authorfullhash}{5efdeee9aa354f712dc48929f1d4c2ba}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{{Personal Communication}}
+      \field{title}{{Livestock Environmental Permitting}}
+      \field{year}{2019}
+    \endentry
+    \entry{Pearl2Kcost1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ab59b41d9e1c9a6c0ece64eddb8a17e0}{%
+           family={{Ohio Water Environment Association}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab59b41d9e1c9a6c0ece64eddb8a17e0}
+      \strng{fullhash}{ab59b41d9e1c9a6c0ece64eddb8a17e0}
+      \strng{bibnamehash}{ab59b41d9e1c9a6c0ece64eddb8a17e0}
+      \strng{authorbibnamehash}{ab59b41d9e1c9a6c0ece64eddb8a17e0}
+      \strng{authornamehash}{ab59b41d9e1c9a6c0ece64eddb8a17e0}
+      \strng{authorfullhash}{ab59b41d9e1c9a6c0ece64eddb8a17e0}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.ohiowea.org/docs/01_EcoAlternative_Nutrient_Recovery.pdf}}
+      \field{note}{[Online; accessed 20-March-2019]}
+      \field{title}{{A Green Alternative for Dissolved Nutrient Recovery in Wastewater Side Streams}}
+      \field{year}{2011}
+    \endentry
+    \entry{Pennsylvania_CAFOS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f7be150a12d7f681a7b9f128d1dabb60}{%
+           family={{Pennsylvania Department of Environmental Protection}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7be150a12d7f681a7b9f128d1dabb60}
+      \strng{fullhash}{f7be150a12d7f681a7b9f128d1dabb60}
+      \strng{bibnamehash}{f7be150a12d7f681a7b9f128d1dabb60}
+      \strng{authorbibnamehash}{f7be150a12d7f681a7b9f128d1dabb60}
+      \strng{authornamehash}{f7be150a12d7f681a7b9f128d1dabb60}
+      \strng{authorfullhash}{f7be150a12d7f681a7b9f128d1dabb60}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.dep.pa.gov/Business/Water/CleanWater/AgriculturalOperations/CAFOs/pages/default.aspx}}
+      \field{note}{[Online; accessed 29-July-2019]}
+      \field{title}{{Concentrated Animal Feeding Operations}}
+      \field{year}{2019}
+    \endentry
+    \entry{Perry}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fc2d4c740af7d5e97b2ab316763fa31c}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={R.H.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4935b0e7a7a40d2891c8d71e82044ec9}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={D.W.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{94c824775ab9764300405d018fd8d4a8}
+      \strng{fullhash}{94c824775ab9764300405d018fd8d4a8}
+      \strng{bibnamehash}{94c824775ab9764300405d018fd8d4a8}
+      \strng{authorbibnamehash}{94c824775ab9764300405d018fd8d4a8}
+      \strng{authornamehash}{94c824775ab9764300405d018fd8d4a8}
+      \strng{authorfullhash}{94c824775ab9764300405d018fd8d4a8}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-07-142294-3}
+      \field{title}{Perry's Chemical Engineers' Handbook}
+      \field{year}{2007}
+    \endentry
+    \entry{EnviroAtlas}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4a6011c802b6678a716dae17a11e06ea}{%
+           family={Pickard},
+           familyi={P\bibinitperiod},
+           given={B.\bibnamedelimi R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=416d5469f540ea3d781e0062665257e8}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=40e6cae643f424f6f57785a9809e147f}{%
+           family={Mehaffey},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bef2a4c927eb075183cce08ad105330f}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={L.\bibnamedelimi E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c002913db5a9fe84835792ba01173b53}{%
+           family={Neale},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4139ce053556676fdb694c8ecda12e08}
+      \strng{fullhash}{84346c1c65ce3cf6a1471f6f84658778}
+      \strng{bibnamehash}{84346c1c65ce3cf6a1471f6f84658778}
+      \strng{authorbibnamehash}{84346c1c65ce3cf6a1471f6f84658778}
+      \strng{authornamehash}{4139ce053556676fdb694c8ecda12e08}
+      \strng{authorfullhash}{84346c1c65ce3cf6a1471f6f84658778}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecosyst. Serv.}
+      \field{title}{EnviroAtlas: A new geospatial tool to foster ecosystem services science and resource management}
+      \field{volume}{14}
+      \field{year}{2015}
+      \field{pages}{45\bibrangedash 55}
+      \range{pages}{11}
+    \endentry
+    \entry{PWTech}{report}{}
+      \name{author}{1}{}{%
+        {{hash=9e6b24f9c9bca0e9ff76c1a25d8b961f}{%
+           family={{PWTech Process Wastewater Technologies LLC.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {PWTech Process Wastewater Technologies LLC.}%
+      }
+      \strng{namehash}{9e6b24f9c9bca0e9ff76c1a25d8b961f}
+      \strng{fullhash}{9e6b24f9c9bca0e9ff76c1a25d8b961f}
+      \strng{bibnamehash}{9e6b24f9c9bca0e9ff76c1a25d8b961f}
+      \strng{authorbibnamehash}{9e6b24f9c9bca0e9ff76c1a25d8b961f}
+      \strng{authornamehash}{9e6b24f9c9bca0e9ff76c1a25d8b961f}
+      \strng{authorfullhash}{9e6b24f9c9bca0e9ff76c1a25d8b961f}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Volute Dewatering Press}}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{SoilsUSGS}{report}{}
+      \name{author}{6}{}{%
+        {{hash=5f30f91d60ccea3900e4f2175f56d54e}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=eeb5f7d0e7fc5b23825bfb16ffe19d48}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f7157384d5fb22fad215f53cba85ebaa}{%
+           family={Woodruff},
+           familyi={W\bibinitperiod},
+           given={Laurel\bibnamedelima G.},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=a61cb769b0a78eaff0683979cb2b9672}{%
+           family={Solano},
+           familyi={S\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f47db93cde4463e95a4dac17b31adcf0}{%
+           family={Kilburn},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fd139cbb32f8d1253e92ffd2b625c853}{%
+           family={Fey},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Geological Survey (USGS)}%
+      }
+      \strng{namehash}{d7eac2ce12dc57556719e49272be5d82}
+      \strng{fullhash}{711e7e06db2588baddc8132420175ef3}
+      \strng{bibnamehash}{711e7e06db2588baddc8132420175ef3}
+      \strng{authorbibnamehash}{711e7e06db2588baddc8132420175ef3}
+      \strng{authornamehash}{d7eac2ce12dc57556719e49272be5d82}
+      \strng{authorfullhash}{711e7e06db2588baddc8132420175ef3}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Geochemical and Mineralogical Data for Soils of the Conterminous United States: U.S. Geological Survey Data Series 801}}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{ADAS}{report}{}
+      \name{author}{5}{}{%
+        {{hash=9232ccab869a1e28b236a776037240ea}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=25774cc4d6196671a32ffaef29013fb8}{%
+           family={Grylls},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4b6f91a84ff5e5127e9e3492e7a2d5be}{%
+           family={Metcalfe},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6a2b00bf02f70b2f261665b44e22013a}{%
+           family={Jeffrey},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=84de9447892878b6e6d053499e8d71b8}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Scottish Executive Environment}%
+        {Rural Affairs Department}%
+      }
+      \strng{namehash}{83e623fa88f23062c4b329577b95a481}
+      \strng{fullhash}{631df9a8b7f8852e36c8867ab6d87ef7}
+      \strng{bibnamehash}{631df9a8b7f8852e36c8867ab6d87ef7}
+      \strng{authorbibnamehash}{631df9a8b7f8852e36c8867ab6d87ef7}
+      \strng{authornamehash}{83e623fa88f23062c4b329577b95a481}
+      \strng{authorfullhash}{631df9a8b7f8852e36c8867ab6d87ef7}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Nutrient Value of Digestate from Farm-Based Biogas Plants in Scotland}}
+      \field{type}{techreport}
+      \field{year}{2007}
+    \endentry
+    \entry{Sorensen}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4afc2cdcc195fcc005e605918187af3e}{%
+           family={S{ø}rensen},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5ebd9a915ae72fefeb235ba703469e22}{%
+           family={Mejnertsen},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=99cb5c368b308947a14c88873ec44dc0}{%
+           family={M{ø}ller},
+           familyi={M\bibinitperiod},
+           given={H.B.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6af0a6248f7be9cf01a2dcf885908adf}
+      \strng{fullhash}{6af0a6248f7be9cf01a2dcf885908adf}
+      \strng{bibnamehash}{6af0a6248f7be9cf01a2dcf885908adf}
+      \strng{authorbibnamehash}{6af0a6248f7be9cf01a2dcf885908adf}
+      \strng{authornamehash}{6af0a6248f7be9cf01a2dcf885908adf}
+      \strng{authorfullhash}{6af0a6248f7be9cf01a2dcf885908adf}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NJF Report}
+      \field{number}{8}
+      \field{title}{Nitrogen fertilizer value of digestates from anaerobic digestion of animal manures and crops}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{pages}{42\bibrangedash 44}
+      \range{pages}{3}
+    \endentry
+    \entry{tervonen_implementing_2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=42561b172b9cf5716a7cf8a284f31053}{%
+           family={Tervonen},
+           familyi={T\bibinitperiod},
+           given={Tommi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3bbac3160935d9ab5a9025fda58ce4f7}{%
+           family={Lahdelma},
+           familyi={L\bibinitperiod},
+           given={Risto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{fullhash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{bibnamehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{authorbibnamehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{authornamehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{authorfullhash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{03772217}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{2}
+      \field{title}{Implementing stochastic multicriteria acceptability analysis}
+      \field{volume}{178}
+      \field{year}{2007}
+      \field{pages}{500\bibrangedash 513}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2005.12.037
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0377221706000506
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0377221706000506
+      \endverb
+    \endentry
+    \entry{CAPCOST}{report}{}
+      \name{author}{1}{}{%
+        {{hash=422b890fc2f278968e602f57a61ce27e}{%
+           family={Turton},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Upper Saddle River, N.J: Prentice Hall PTR.}%
+      }
+      \strng{namehash}{422b890fc2f278968e602f57a61ce27e}
+      \strng{fullhash}{422b890fc2f278968e602f57a61ce27e}
+      \strng{bibnamehash}{422b890fc2f278968e602f57a61ce27e}
+      \strng{authorbibnamehash}{422b890fc2f278968e602f57a61ce27e}
+      \strng{authornamehash}{422b890fc2f278968e602f57a61ce27e}
+      \strng{authorfullhash}{422b890fc2f278968e602f57a61ce27e}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{CAPCOST software to accompany: Analysis, synthesis, and design of chemical processes}}
+      \field{type}{techreport}
+      \field{year}{2010}
+    \endentry
+    \entry{AgSTAR2003}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Environmental Protection Agency}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{AgSTAR Digest}}
+      \field{type}{techreport}
+      \field{year}{2003}
+    \endentry
+    \entry{AgSTARHandbook}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Environmental Protection Agency}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{AgSTAR Handbook. A Manual For Developing Biogas Systems at Commercial Farms in the United States}}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
+    \entry{NLA2007}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. EPA}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{2007 National Lakes Assessment. A Collaborative Survey of the Nation’s Lakes}}
+      \field{type}{techreport}
+      \field{year}{2007}
+    \endentry
+    \entry{QAPP2012}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. EPA}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{4}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{2012 National Lakes Assessment. Quality Assurance Version Project Plan}}
+      \field{type}{techreport}
+      \field{year}{2012}
+    \endentry
+    \entry{NLA2012}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. EPA}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{5}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{National Lakes Assessment 2012. A Collaborative Survey of Lakes in the United States}}
+      \field{type}{techreport}
+      \field{year}{2012}
+    \endentry
+    \entry{USDAHandbook}{report}{}
+      \name{author}{1}{}{%
+        {{hash=80fd38d05f96523b89762870eb63ab35}{%
+           family={{United States Department of Agriculture}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture (USDA)}%
+      }
+      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agricultural Wate Management Field Handbook}}
+      \field{type}{techreport}
+      \field{year}{2009}
+    \endentry
+    \entry{2017CensusofAgriculture}{report}{}
+      \name{author}{1}{}{%
+        {{hash=80fd38d05f96523b89762870eb63ab35}{%
+           family={{United States Department of Agriculture}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture}%
+      }
+      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{2017 Census of Agriculture. United Satates. Summary and State Data}}
+      \field{type}{techreport}
+      \field{year}{2019}
+    \endentry
+    \entry{Wisconsin_CAFOS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0406cb4908fb6faa27dae8dac03cd5a0}{%
+           family={{Wisconsin Department of Natural Resources}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{0406cb4908fb6faa27dae8dac03cd5a0}
+      \strng{fullhash}{0406cb4908fb6faa27dae8dac03cd5a0}
+      \strng{bibnamehash}{0406cb4908fb6faa27dae8dac03cd5a0}
+      \strng{authorbibnamehash}{0406cb4908fb6faa27dae8dac03cd5a0}
+      \strng{authornamehash}{0406cb4908fb6faa27dae8dac03cd5a0}
+      \strng{authorfullhash}{0406cb4908fb6faa27dae8dac03cd5a0}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://dnr.wi.gov/topic/AgBusiness/data/CAFO/}}
+      \field{note}{[Online; accessed 29-July-2019]}
+      \field{title}{{DNR Runoff Management. CAFO Permittees}}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+  \missing{USDAWaste}
+\endrefsection
 \endinput
 

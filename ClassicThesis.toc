@@ -87,5 +87,41 @@
 \contentsline {part}{\numberline {ii}{Appendix}}{39}{part.2}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {A}{Appendix C: Supplementary Information of Chapter 4}}{41}{appendix.Alph1}%
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {A.1}{Biogas production}}{41}{section.Alph1.1}%
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {A.1}{Environmental geographic information model}}{41}{section.Alph1.1}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {A.1.1}{Trophic State Index}}{41}{subsection.Alph1.1.1}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {A.1.2}{Balance of anthropogenic phosphorus releases}}{41}{subsection.Alph1.1.2}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {A.1.3}{Phosphorus in soils}}{43}{subsection.Alph1.1.3}%
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {A.2}{Framework development}}{45}{section.Alph1.2}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {A.2.1}{Data entry}}{45}{subsection.Alph1.2.1}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {A.2.2}{Techno-economic model}}{45}{subsection.Alph1.2.2}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {A.2.2.1}{Manure conditioning model}}{45}{subsubsection.Alph1.2.2.1}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {A.2.2.2}{Anaerobic digestion model}}{46}{subsubsection.Alph1.2.2.2}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {A.2.2.3}{Solid-liquid separation model}}{47}{subsubsection.Alph1.2.2.3}%
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {A.2.2.4}{Nutrient recovery model}}{48}{subsubsection.Alph1.2.2.4}%
+\defcounter {refsection}{3}\relax
+\contentsline {paragraph}{{Phosphorus recovery as struvite in single pass FBR reactor: Multiform Harvest and Crystalactor.}}{49}{paragraph*.37}%
+\defcounter {refsection}{3}\relax
+\contentsline {paragraph}{{Phosphorus recovery as struvite in a FBR reactor with recirculation: Ostara Pearl.}}{51}{paragraph*.38}%
+\defcounter {refsection}{3}\relax
+\contentsline {paragraph}{{Phosphorus recovery as struvite in a CSTR reactor: \newline NuReSys.}}{52}{paragraph*.40}%
+\defcounter {refsection}{3}\relax
+\contentsline {paragraph}{{Phosphorus recovery as calcium precipitates in CSTR a reactor: P-RoC.}}{52}{paragraph*.41}%
+\defcounter {refsection}{3}\relax
+\contentsline {paragraph}{{Phosphorus recovery through a modular phases separation system: MAPHEX.}}{55}{paragraph*.44}%
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {A.3}{Multi-criteria decision model}}{55}{section.Alph1.3}%
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {A.4}{Description of the Great Lakes area}}{55}{section.Alph1.4}%
+\defcounter {refsection}{3}\relax
+\contentsline {section}{Bibliography}{55}{table.caption.46}%
