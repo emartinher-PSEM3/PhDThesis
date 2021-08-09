@@ -10,122 +10,82 @@
 \defcounter {refsection}{0}\relax
 \contentsline {part}{\numberline {i}{Phosphorus management}}{3}{part.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {2}{Assessment of phosphorus recovery through struvite precipitation}}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {2}{Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}}{5}{chapter.2}%
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {2.1}{Introduction}}{5}{section.2.1}%
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {2.2}{Methods}}{7}{section.2.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {2.2.1}{Spatial resolution}}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.1}{Environmental geographic information model}}{8}{subsection.2.2.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {2.2.2}{Assessment of anthropogenic phosphorus from agricultural activities}}{8}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}{Spatial resolution}}{8}{subsubsection.2.2.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.2.1}{Phosphorus releases}}{8}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}{Trophic State Index}}{9}{subsubsection.2.2.1.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.2.2}{Phosphorus uptakes}}{8}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}{Techno-ecological synergy sustainability metric}}{9}{subsubsection.2.2.1.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.2.3}{Phosphorus balance}}{9}{subsubsection.2.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.1.4}{Phosphorus saturation of soils}}{10}{subsubsection.2.2.1.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {2.2.3}{Thermodynamic model for precipitates formation}}{9}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.2}{Techno-economic model}}{11}{subsection.2.2.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.1}{Uncertainty in livestock organic waste composition}}{10}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}{Manure conditioning}}{12}{subsubsection.2.2.2.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.2}{Initial conditions}}{11}{subsubsection.2.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}{Anaerobic digestion}}{12}{subsubsection.2.2.2.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.3}{Activities}}{11}{subsubsection.2.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}{Biogas purification}}{12}{subsubsection.2.2.2.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.4}{Distribution of species in aqueous phase}}{12}{subsubsection.2.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.2.2.4}{Biogas valorization}}{13}{subsubsection.2.2.2.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.5}{Precipitates formation}}{12}{subsubsection.2.2.3.5}%
+\contentsline {paragraph}{{Methane production}}{13}{paragraph*.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.6}{Thermodynamic model algorithm}}{14}{subsubsection.2.2.3.6}%
+\contentsline {paragraph}{{Electricity production}}{13}{paragraph*.8}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.7}{Integration of waste composition uncertainty and precipitates formation thermodynamic models}}{14}{subsubsection.2.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.2.2.5}{Solid-liquid separation}}{13}{subsubsection.2.2.2.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.2.3.8}{Model validation and limitations}}{15}{subsubsection.2.2.3.8}%
+\contentsline {subsubsection}{\numberline {2.2.2.6}{Phosphorus recovery}}{14}{subsubsection.2.2.2.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {2.3}{Results and discussion}}{17}{section.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.2.7}{Incentives for the installation of nutrient recovery systems}}{14}{subsubsection.2.2.2.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {2.3.1}{Surrogate models to estimate the formation of precipitates from livestock organic waste}}{17}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.2.3}{Multi-criteria decision model}}{16}{subsection.2.2.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.3.1.1}{Influence of magnesium}}{17}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}{Data normalization}}{17}{subsubsection.2.2.3.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.3.1.2}{Influence of calcium}}{18}{subsubsection.2.3.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}{Criteria weighting}}{17}{subsubsection.2.2.3.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.3.1.3}{Influence of alkalinity}}{19}{subsubsection.2.3.1.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.3}{Criteria aggregation}}{20}{subsubsection.2.2.3.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.3.1.4}{Interactions between calcium and magnesium to phosphate ratios}}{20}{subsubsection.2.3.1.4}%
+\contentsline {subsection}{\numberline {2.2.4}{Framework limitations}}{20}{subsection.2.2.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {2.3.2}{Phosphorus releases from cattle leachate potentially avoided via struvite formation}}{21}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.2.5}{Case study}}{20}{subsection.2.2.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.3.2.1}{Balance of phosphorus involved in agricultural activities throughout the U.S. watersheds}}{21}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.5.1}{Study region}}{20}{subsubsection.2.2.5.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {2.3.2.2}{Phosphorus recovered from cattle leachate through struvite precipitation}}{22}{subsubsection.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.5.2}{Scenarios description}}{21}{subsubsection.2.2.5.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {2.4}{Conclusions}}{25}{section.2.4}%
+\contentsline {section}{\numberline {2.3}{Results}}{22}{section.2.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Nomenclature}{26}{section.2.4}%
+\contentsline {subsection}{\numberline {2.3.1}{Implementation of phosphorus recovery systems in the Great Lakes area}}{22}{subsection.2.3.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Acknowledgments}{27}{table.2.7}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}{Effect of CAFOs scale on selecting P recovery systems}}{23}{subsubsection.2.3.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{27}{table.2.7}%
+\contentsline {subsubsection}{\numberline {2.3.1.2}{Effect of local eutrophication risk on the selection of P recovery systems}}{24}{subsubsection.2.3.1.2}%
+\defcounter {refsection}{2}\relax
+\contentsline {subsection}{\numberline {2.3.2}{Economic results}}{25}{subsection.2.3.2}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{\numberline {2.4}{Discussion}}{27}{section.2.4}%
+\defcounter {refsection}{2}\relax
+\contentsline {subsection}{\numberline {2.4.1}{Economic implications}}{27}{subsection.2.4.1}%
+\defcounter {refsection}{2}\relax
+\contentsline {subsection}{\numberline {2.4.2}{Phosphorus use efficiency}}{28}{subsection.2.4.2}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{\numberline {2.5}{Conclusion}}{29}{section.2.5}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{Acknowledgments}{30}{section.2.5}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{Bibliography}{30}{section.2.5}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {ii}{Appendix}}{33}{part.2}%
+\contentsline {part}{\numberline {ii}{Appendix}}{39}{part.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}{Appendix A: Supplementary Information of Chapter 2}}{35}{appendix.Alph1}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.1}{Biogas production}}{35}{section.Alph1.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.2}{H\textsubscript {2}S removal}}{38}{section.Alph1.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.3}{CO\textsubscript {2}, NH\textsubscript {3} and H\textsubscript {2}O removal (PSA)}}{39}{section.Alph1.3}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.4}{Brayton cycle}}{39}{section.Alph1.4}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {A.5}{Rankine cycle}}{40}{section.Alph1.5}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{Bibliography}{42}{equation.Alph1.5.34}%
+\contentsline {chapter}{\numberline {A}{Appendix C: Supplementary Information of Chapter 4}}{41}{appendix.Alph1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}{Appendix B: Supplementary Information of Chapter 3}}{45}{appendix.Alph2}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {B.1}{Cattle organic waste composition}}{45}{section.Alph2.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {B.2}{Distribution functions of elements from cattle waste}}{45}{section.Alph2.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {B.3}{Thermodynamic modeling of the carbonates system}}{49}{section.Alph2.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {B.4}{Surrogate models to estimate precipitates formation from livestock waste}}{52}{section.Alph2.4}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {B.4.1}{Influence of magnesium}}{52}{subsection.Alph2.4.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {B.4.1.1}{Influence of calcium}}{53}{subsubsection.Alph2.4.1.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {B.4.1.2}{Influence of alkalinity}}{54}{subsubsection.Alph2.4.1.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{Bibliography}{55}{figure.caption.23}%
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}{Appendix C: Supplementary Information of Chapter 4}}{59}{appendix.Alph3}%
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {C.1}{Biogas production}}{59}{section.Alph3.1}%
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}{Appendix D: Supplementary Information of Chapter 6}}{61}{appendix.Alph4}%
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {D.1}{Biogas production}}{61}{section.Alph4.1}%
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 7}}{63}{appendix.Alph5}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {E.1}{Literature review}}{63}{section.Alph5.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {E.2}{Modelling approach}}{63}{section.Alph5.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {E.2.1}{Amines}}{63}{subsection.Alph5.2.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {E.2.2}{PSA}}{66}{subsection.Alph5.2.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {E.2.3}{Membranes}}{69}{subsection.Alph5.2.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {E.3}{Economic evaluation}}{71}{section.Alph5.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {E.4}{Scaling-up study}}{72}{section.Alph5.4}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{Bibliography}{73}{section.Alph5.4}%
+\contentsline {section}{\numberline {A.1}{Biogas production}}{41}{section.Alph1.1}%

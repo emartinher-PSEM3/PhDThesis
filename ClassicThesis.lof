@@ -24,34 +24,18 @@
 \defcounter {refsection}{0}\relax
 \ttl@tocsep
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Flowchart of the proposed algorithm to solve the thermodynamic model for the formation of precipitates in cattle organic waste.\relax }}{15}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Structure of the COW2NUTRIENT decision support framework for the assessment and selection of phosphorus recovery systems.\relax }}{8}{figure.caption.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.2}{\ignorespaces A solution procedure to evaluate the influence of the cattle waste composition variability in the formation of struvite.\relax }}{16}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Process flowsheet for manure management and phosphorus recovery stages included in COW2NUTRIENT.\relax }}{11}{figure.caption.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Comparison between experimental results reported by \citet {Zeng} and the results provided by the model developed in this work.\relax }}{16}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Flowsheet for the MCDA model.\relax }}{17}{figure.caption.10}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Influence of magnesium and calcium in struvite precipitation.\relax }}{20}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Distribution of the phosphorus recovery systems selected for the CAFOs in the Great Lakes area. The boxplots represent the distribution of CAFO sizes in each studied state.\relax }}{23}{figure.caption.15}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Techno-ecological synergy (TES) metric values for HUC8 watersheds. Red indicates watersheds with unbalanced agricultural phosphorus releases, and blue indicates watersheds with balanced agricultural phosphorus releases. White indicates watersheds with not available data.\relax }}{22}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Capital expenses for deploying phosphorus recovery systems in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{25}{figure.caption.18}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Phosphorus releases avoided through struvite production for the different scenarios considered. Darker colors represent larger phosphorus recovery\relax }}{23}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Operating expenses for deploying phosphorus recovery processes in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{26}{figure.caption.19}%
+\defcounter {refsection}{2}\relax
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Net revenue from the phosphorus recovery processes selected in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{26}{figure.caption.20}%
 \defcounter {refsection}{0}\relax
 \ttl@tocsep
-\defcounter {refsection}{0}\relax
-\ttl@tocsep
-\defcounter {refsection}{4}\relax
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Kernel density estimation (red dashed line) and probability density distribution (blue solid line) for the evaluated components in cattle organic waste.\relax }}{48}{figure.caption.18}%
-\defcounter {refsection}{4}\relax
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Evolution phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates along $\text {Mg}^{2+}/\text {PO}_{4}^{3-}$ molar ratio values considering 50 different composition data sets.\relax }}{52}{figure.caption.21}%
-\defcounter {refsection}{4}\relax
-\contentsline {figure}{\numberline {B.3}{\ignorespaces Evolution of phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates along $\text {Ca}^{2+}/\text {PO}_{4}^{3-}$ molar ratio values considering 50 different composition data sets.\relax }}{53}{figure.caption.22}%
-\defcounter {refsection}{4}\relax
-\contentsline {figure}{\numberline {B.4}{\ignorespaces Evolution of phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates among alkalinity values considering 50 different composition data sets.\relax }}{54}{figure.caption.23}%
-\defcounter {refsection}{0}\relax
-\ttl@tocsep
-\defcounter {refsection}{0}\relax
-\ttl@tocsep
-\defcounter {refsection}{0}\relax
-\ttl@tocsep
-\defcounter {refsection}{5}\relax
-\contentsline {figure}{\numberline {E.1}{\ignorespaces Scheme of the proposed superstructure for biogas upgrading into biomethane.\relax }}{64}{figure.caption.25}%
