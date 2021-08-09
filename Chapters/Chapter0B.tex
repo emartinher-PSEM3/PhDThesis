@@ -9,6 +9,12 @@
 \section{Cattle organic waste composition} \label{ApBcomp_dist}
 To calculate the distribution functions of the different compunds of the cattle organic waste, 37 data sets for cattle organic waste compositions from 20 bibliographic references were evaluated. Table \ref{table:dig_compt_stats} collects the main statistical parameters of the data, and Table \ref{table:refs} shown the data obtained from literature.
 
+\section{Distribution functions of elements from cattle waste}
+
+The kernel density estimation (KDE) method is used to fit the probability function to data distribution and to determine the probability density distributions of calcium, nitrogen, phosphorus, potassium, ammonia/total nitrogen, and phosphate/total phosphorus. As histograms, KDE is a non-parametric way to estimate the probability density function of a random variable. However, in the KDE method, kernels are functions associated with each data set. Thus, the unknown density function can be computed as the weighted sum of these functions \citep{Duong}. 
+
+The calculation procedure is divided into three steps. First, cattle organic waste composition data are collected from the literature. Second, the KDEs of all compounds are estimated, and finally, distribution functions are fitted, using the kernel density estimations to validate the chosen distribution. The probability density distributions which best fit the data distribution are normal distribution functions for the distribution of nitrogen as in Figure \ref{fig:N_KDE}, ammonia/total nitrogen molar ratio as observed in Figure \ref{fig:NH4_frac_KDE}, and phosphorus as shown in Figure \ref{fig:P_KDE}. Lognormal distribution functions are the best fit for phosphate/total phosphorus molar ratio as in Figure \ref{fig:PO4_frac_KDE}, calcium, as shown in Figure \ref{fig:Ca_KDE}, and potassium as observed in Figure \ref{fig:K_KDE}.
+
 \begin{sidewaystable}
 	\centering
 	\caption{Statistical summary of cattle organic waste composition. Data from \protect\citep{Alburquerque,Bolzonella,Seppala,Gell,Normak,Sorensen,Tampere,Moset,Zheng,Xia,Moller,WRAP,ADAS,Risgberg,Ledda,Kirchmann,Moller2,Walsh,Loes,Martin2}.} \label{table:dig_compt_stats}
@@ -80,7 +86,7 @@ To calculate the distribution functions of the different compunds of the cattle 
 
 \newpage
 
-\begin{figure}[h]
+\begin{figure}[p]
 	\centering	
 	\begin{subfigure}[t]{0.45\textwidth}
 		\includegraphics[width=\linewidth]{gfx/AppendixB/N_dist.pdf} 
@@ -121,14 +127,13 @@ To calculate the distribution functions of the different compunds of the cattle 
 	\label{fig:components_distributions}
 \end{figure}
 
-\section{Distribution functions of elements from cattle waste}
+%\section{Distribution functions of elements from cattle waste}
+%
+%The kernel density estimation (KDE) method is used to fit the probability function to data distribution and to determine the probability density distributions of calcium, nitrogen, phosphorus, potassium, ammonia/total nitrogen, and phosphate/total phosphorus. As histograms, KDE is a non-parametric way to estimate the probability density function of a random variable. However, in the KDE method, kernels are functions associated with each data set. Thus, the unknown density function can be computed as the weighted sum of these functions \citep{Duong}. 
+%
+%The calculation procedure is divided into three steps. First, cattle organic waste composition data are collected from the literature. Second, the KDEs of all compounds are estimated, and finally, distribution functions are fitted, using the kernel density estimations to validate the chosen distribution. The probability density distributions which best fit the data distribution are normal distribution functions for the distribution of nitrogen as in Figure \ref{fig:N_KDE}, ammonia/total nitrogen molar ratio as observed in Figure \ref{fig:NH4_frac_KDE}, and phosphorus as shown in Figure \ref{fig:P_KDE}. Lognormal distribution functions are the best fit for phosphate/total phosphorus molar ratio as in Figure \ref{fig:PO4_frac_KDE}, calcium, as shown in Figure \ref{fig:Ca_KDE}, and potassium as observed in Figure \ref{fig:K_KDE}.
 
-
-The kernel density estimation (KDE) method is used to fit the probability function to data distribution and to determine the probability density distributions of calcium, nitrogen, phosphorus, potassium, ammonia/total nitrogen, and phosphate/total phosphorus. As histograms, KDE is a non-parametric way to estimate the probability density function of a random variable. However, in the KDE method, kernels are functions associated with each data set. Thus, the unknown density function can be computed as the weighted sum of these functions \citep{Duong}. 
-
-The calculation procedure is divided into three steps. First, cattle organic waste composition data are collected from the literature. Second, the KDEs of all compounds are estimated, and finally, distribution functions are fitted, using the kernel density estimations to validate the chosen distribution. The probability density distributions which best fit the data distribution are normal distribution functions for the distribution of nitrogen as in Figure \ref{fig:N_KDE}, ammonia/total nitrogen molar ratio as observed in Figure \ref{fig:NH4_frac_KDE}, and phosphorus as shown in Figure \ref{fig:P_KDE}. Lognormal distribution functions are the best fit for phosphate/total phosphorus molar ratio as in Figure \ref{fig:PO4_frac_KDE}, calcium, as shown in Figure \ref{fig:Ca_KDE}, and potassium as observed in Figure \ref{fig:K_KDE}.
-
-\newpage
+\clearpage
 
 \section{Thermodynamic modeling of the carbonates system} \label{Carbonates}
 To calculate the total carbonate content, the concept of defining alkalinity will be used. The formal definition of total alkalinity is the capacity of a solution to buffer changes in pH that would make the solution more acidic.
@@ -148,33 +153,35 @@ The dominant chemical substances for each system at the reference pH of 4.5  are
 		\begin{tabular}{ c c c}
 			\toprule
 			Chemical system	& Proton donors	& Proton acceptors	\\ \midrule
-			Water	& $\left\{ H^{+} \right\}$ & $\left\{ OH^{-} \right\}$	\\ 
-			Carbonic acid	& $\left\{ H^{+} \right\}$ & $\left\{ HCO_{3}^{-} \right\}$, $2 \cdot \left\{CO_{3}^{2-}\right\}$	\\ 
-			Phosphoric acid	& $\left\{ H_{3}PO_{4} \right\}$, $\left\{ H^{+} \right\}$ & $\left\{ HPO_{4}^{2-} \right\}$, $2 \cdot \left\{ PO_{4}^{3-} \right\}$	\\ 
-			Ammonia system	& $\left\{ H^{+} \right\}$ & $\left\{ NH_{3} \right\}$	\\ \bottomrule
+			Water	& $\left\{ \text{H}^{+} \right\}$ & $\left\{ \text{OH}^{-} \right\}$	\\ 
+			Carbonic acid	& $\left\{ \text{H}^{+} \right\}$ & $\left\{ \text{HCO}_{3}^{-} \right\}$, $2 \cdot \left\{\text{CO}_{3}^{2-}\right\}$	\\ 
+			Phosphoric acid	& $\left\{ \text{H}_{3}\text{PO}_{4} \right\}$, $\left\{ \text{H}^{+} \right\}$ & $\left\{ \text{HPO}_{4}^{2-} \right\}$, $2 \cdot \left\{ \text{PO}_{4}^{3-} \right\}$	\\ 
+			Ammonia system	& $\left\{ \text{H}^{+} \right\}$ & $\left\{ \text{NH}_{3} \right\}$	\\ \bottomrule
 		\end{tabular}
 	\end{adjustwidth}
 \end{table}
+
+\clearpage
 
 Therefore, the alkalinity due to carbonates, called carbonate alkalinity ($Alk_{carb}$), as described in Eq. \ref{eq:Alk_carb_def}, can be calculated from total alkalinity value minus the alkalinity contribution of the other compounds, Eq. \ref{eq:Alk_carb}. The activities of the chemical species from water, phosphoric acid, and ammonia systems are obtained by solving the equilibrium and mass balance equations described previously.
 
 The formulation of the alkalinity problem is described next. First, the alkalinity given in milligrams of $\text{CaCO}_{3}$ per liter is transformed into equivalents per liter by Eq. \ref{eq:Alk} and the carbonate alkalinity is calculated through Eq. \ref{eq:Alk_carb}.
 \begin{align}
-&  Alk_{carb}= \left\{HCO_{3}^{-}\right\} + 2\left\{CO_{3}^{2-}\right\} \label{eq:Alk_carb_def}\\
+&  Alk_{carb}= \left\{\text{HCO}_{3}^{-}\right\} + 2\left\{\text{CO}_{3}^{2-}\right\} \label{eq:Alk_carb_def}\\
 \nonumber \\
 & Alk \left(\frac{Eq}{L}\right) = \frac{mg_{CacO_{3}}}{L} \cdot \frac{1 \ g}{1000 \ mg} \cdot \frac{1 Eq}{50 \ g} \label{eq:Alk}
 \end{align}
 \begin{align}
 \begin{split}
-Alk_{carb}=&Alk-\left\{ OH^{-} \right\}-\left\{ HPO_{4}^{2-} \right\}- 2\left\{ PO_{4}^{3-}\right\} \\&-\left\{ NH_{3} \right\}+\left\{ H_{3}PO_{4} \right\}+\left\{ H^{+} \right\} \label{eq:Alk_carb}
+Alk_{carb}=&Alk-\left\{ \text{OH}^{-} \right\}-\left\{ \text{HPO}_{4}^{2-} \right\}- 2\left\{ \text{PO}_{4}^{3-}\right\} \\&-\left\{ \text{NH}_{3} \right\}+\left\{ \text{H}_{3}\text{PO}_{4} \right\}+\left\{ \text{H}^{+} \right\} \label{eq:Alk_carb}
 \end{split}
 \end{align}
 
 To compute the distribution of carbonate species, the fractions of each compound ($\alpha_{CO_2}$, $\alpha_{HCO_{3}^{-}}$ and $\alpha_{CO_{3}^{2-}}$), which only depend on the pH, are calculated by employing Eqs. \ref{eq:carbonates_dist1} - \ref{eq:carbonates_dist3} \citep{WolfGladrow}. As only $HCO_{3}^{-}$, and $CO_{3}^{2-}$ contribute to alkalinity, the first one with one equivalent and the second one with two equivalents, as shown in Eq. \ref{eq:Alk_carb_def}, it is necessary  to add Eq. \ref{eq:carb_aprox}. Because cattle waste has basic pH and the major species are $HCO_{3}^{-}$ and $CO_{3}^{2-}$, it has been considered that total carbonates calculated in Eq. \ref{eq:carb_aprox}, are equal to the sum of all carbonate species in the organic waste.
 \begin{align}
-& \alpha_{CO_2} = \frac{\left\{ H^{+} \right\}^{2}}{\left\{ H^{+} \right\}^{2} + \left\{ H^{+} \right\}K_{sp_{H_{2}CO_{3}}}+K_{sp_{H_{2}CO_{3}}}K_{sp_{HCO_{3}^{-}}}} \label{eq:carbonates_dist1} \\
+& \alpha_{CO_2} = \frac{\left\{ \text{H}^{+} \right\}^{2}}{\left\{ \text{H}^{+} \right\}^{2} + \left\{ \text{H}^{+} \right\}K_{sp_{H_{2}CO_{3}}}+K_{sp_{H_{2}CO_{3}}}K_{sp_{HCO_{3}^{-}}}} \label{eq:carbonates_dist1} \\
 \nonumber \\
-& \alpha_{HCO_{3}^{-}} = \frac{\left\{ H^{+} \right\}K_{sp_{H_{2}CO_{3}}}}{\left\{ H^{+} \right\}^{2} + \left\{ H^{+} \right\}K_{sp_{H_{2}CO_{3}}}+K_{sp_{H_{2}CO_{3}}}K_{sp_{HCO_{3}^{-}}}} \label{eq:carbonates_dist2} \\ 
+& \alpha_{HCO_{3}^{-}} = \frac{\left\{ \text{H}^{+} \right\}K_{sp_{H_{2}CO_{3}}}}{\left\{ \text{H}^{+} \right\}^{2} + \left\{ \text{H}^{+} \right\}K_{sp_{H_{2}CO_{3}}}+K_{sp_{H_{2}CO_{3}}}K_{sp_{HCO_{3}^{-}}}} \label{eq:carbonates_dist2} \\ 
 \nonumber \\
 & \alpha_{CO_{3}^{2-}} = \frac{K_{sp_{H_{2}CO_{3}}}K_{sp_{HCO_{3}^{-}}}}{\left\{ H^{+} \right\}^{2} + \left\{ H^{+} \right\}K_{sp_{H_{2}CO_{3}}}+K_{sp_{H_{2}CO_{3}}}K_{sp_{HCO_{3}^{-}}}} \label{eq:carbonates_dist3} \\
 \nonumber \\
@@ -183,8 +190,8 @@ To compute the distribution of carbonate species, the fractions of each compound
 
 Once the total carbonates concentration is known, the thermodynamic models for carbonate species existing in aqueous phase can be defined for the following species
 \begin{align*}
-& H_{2}CO_{3} \leftrightarrow HCO_{3}^{-} + H^{+} \\ 
-& HCO_{3}^{-} \leftrightarrow CO_{3}^{2-} + H^{+}
+& \text{H}_{2}\text{CO}_{3} \leftrightarrow \text{HCO}_{3}^{-} + \text{H}^{+} \\ 
+& \text{HCO}_{3}^{-} \leftrightarrow \text{CO}_{3}^{2-} + \text{H}^{+}
 \end{align*}
 
 Two elements are necessary to define the thermodynamic models for carbante species, the therodynamic equilibria defined by the Eq. \ref{eq:ApBK_sp}, computed using activity coefficients, and mass balance defined by Eq. \ref{eq:balance2}. Finally, solving the equations 2 to 11 the concentrations of the different carbonate species are determined. $pK_{sp}$ values for all systems evaluated in this work are collected in Table \ref{table:ApBpK}.
@@ -194,51 +201,57 @@ Two elements are necessary to define the thermodynamic models for carbante speci
 \\
 & \left[ i \right]_{initial} =  \sum_{products} \left[i\right]_{products} \label{eq:ApBbalance1}&
 \\
-& i \in \bigl\{{CO_{3}^{2-}} \bigr\}  \nonumber&
+& i \in \bigl\{{\text{CO}_{3}^{2-}} \bigr\}  \nonumber&
 \end{align}
 
 \begin{align} \label{eq:balance2}
-& \text{Total carbonates} = \left[  H_{2}CO_{3}\right] + \left[ HCO_{3}^{-}\right] + \left[ CO_{3}^{2-}\right]
+& \text{Total carbonates} = \left[  \text{H}_{2}\text{CO}_{3}\right] + \left[ \text{HCO}_{3}^{-}\right] + \left[ \text{CO}_{3}^{2-}\right]
 \end{align}
 
 \begin{table}[h] 
-	\begin{adjustwidth}{}{}
+%	\begin{adjustwidth}{}{}
 		\centering
 		\caption{$pK_{{sp}}$ values for the considered aqueous phase chemical systems.} \label{table:ApBpK}
+		\resizebox{0.85\columnwidth}{!}{
 		\begin{tabular}{c c c c}
 			\toprule
 			Name	& Chemical system &${pK}_{{sp}}$	&Source	\\ \midrule
-			Ammonia & $NH_{4}^{+} \leftrightarrow NH_{3} + H^{+}$	&9.2 &\cite{Bates}	\\ 
-			Water & $H_{2}O \leftrightarrow OH^{-} + H^{+}$	&14  &\cite{Skoog}	\\ 
-			\multirow{3}{*}{Phosphoric acid} & $H_{3}PO_{4} \leftrightarrow H_{2}PO_{4}^{-} + H^{+}$	&2.1	&\cite{Ohlinger}	\\ 
-			&$H_{2}PO_{4}^{-} \leftrightarrow HPO_{4}^{2-} + H^{+}$	&7.2  &\cite{Ohlinger}	\\ 
-			&$HPO_{4}^{2-} \leftrightarrow PO_{4}^{3-} + H^{+}$	&12.35 &\cite{Ohlinger}	\\ 
-			\multirow{2}{*}{Carbonic acid} & $H_{2}CO_{3} \leftrightarrow HCO_{3}^{-} + H^{+}$	&6.35	&\cite{Skoog}	\\  
-			&$HCO_{3}^{-} \leftrightarrow CO_{3}^{2-} + H^{+}$	&10.33	&\cite{Skoog}	\\ \bottomrule
+			Ammonia & $\text{NH}_{4}^{+} \leftrightarrow \text{NH}_{3} + \text{H}^{+}$	&9.2 &\cite{Bates}	\\ 
+			Water & $\text{H}_{2}\text{O} \leftrightarrow \text{OH}^{-} + \text{H}^{+}$	&14  &\cite{Skoog}	\\ 
+			\multirow{3}{*}{Phosphoric acid} & $\text{H}_{3}\text{PO}_{4} \leftrightarrow \text{H}_{2}\text{PO}_{4}^{-} + \text{H}^{+}$	&2.1	&\cite{Ohlinger}	\\ 
+			&$\text{H}_{2}\text{PO}_{4}^{-} \leftrightarrow \text{HPO}_{4}^{2-} + \text{H}^{+}$	&7.2  &\cite{Ohlinger}	\\ 
+			&$\text{HPO}_{4}^{2-} \leftrightarrow \text{PO}_{4}^{3-} + \text{H}^{+}$	&12.35 &\cite{Ohlinger}	\\ 
+			\multirow{2}{*}{Carbonic acid} & $\text{H}_{2}\text{CO}_{3} \leftrightarrow \text{HCO}_{3}^{-} + \text{H}^{+}$	&6.35	&\cite{Skoog}	\\  
+			&$\text{HCO}_{3}^{-} \leftrightarrow \text{CO}_{3}^{2-} + \text{H}^{+}$	&10.33	&\cite{Skoog}	\\ \bottomrule
 		\end{tabular}
-	\end{adjustwidth}
+	}
+%	\end{adjustwidth}
 \end{table}
 
-\newpage
+\clearpage
 
-\section{Surrogate models to estimate the formation of precipitates from livestock organic waste}
+\section{Surrogate models to estimate precipitates formation from livestock waste}
 \subsection{Influence of magnesium} 
 %\begin{sidewaysfigure}
 \begin{figure}[h] 
 	\centering
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/plotStrYield_Mg}
 		\caption{$x_{struvite \left(PO_{4}^{3-}\right)}$}
 		\label{fig:estimation_Mg_value}
 	\end{subfigure}
-	%	\quad
-	\begin{subfigure}[t]{0.32\textheight}
+%	\caption{Evolution phosphorus as phosphate fraction recovered as struvite and calcium fraction recovered as precipitates along $\text{Mg}^{2+}/\text{PO}_{4}^{3-}$ molar ratio values considering 50 different composition data sets.}
+%\end{figure}
+%	%	\quad
+%\begin{figure}[h]\ContinuedFloat
+%	\centering
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/x_plotHAPYield_Mg} 
 		\caption{Hydroxyapatite}
 		\label{fig:Mg_influence_HAP}
 	\end{subfigure} 
 	%	\quad
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/x_plotCaCO3Yield_Mg}
 		\caption{Calcium carbonate}
 		\label{fig:Mg_influence_CaCO3}
@@ -249,22 +262,23 @@ Two elements are necessary to define the thermodynamic models for carbante speci
 \end{figure}
 %\end{sidewaysfigure}
 
+\clearpage
 \subsubsection{Influence of calcium}
 \begin{figure}[h] 
 	\centering
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/plotStrYield_Ca}
 		\caption{$x_{struvite \left(PO_{4}^{3-}\right)}$}
 		\label{fig:estimation_Ca_value}
 	\end{subfigure}
 	%	\quad
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/x_plotHAPYield_Ca} 
 		\caption{Hydroxyapatite}
 		\label{fig:estimation_Ca_HAP}
 	\end{subfigure} 
 	%	\quad
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/x_plotCaCO3Yield_Ca}
 		\caption{Calcium carbonate}
 		\label{fig:estimation_Ca_CaCO3}
@@ -274,22 +288,23 @@ Two elements are necessary to define the thermodynamic models for carbante speci
 	\label{fig:estimation_Ca_ca}
 \end{figure}
 
+\clearpage
 \subsubsection{Influence of alkalinity}
 \begin{figure}[h] 
 	\centering
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/plotStrYield_Alk}
 		\caption{$x_{struvite \left(PO_{4}^{3-}\right)}$}
 		\label{fig:estimation_Alk_struviteYield}
 	\end{subfigure}
 	%	\quad
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/x_plotHAPYield_Alk} 
 		\caption{Hydroxyapatite}
 		\label{fig:estimation_Alk_HAP}
 	\end{subfigure} 
 	%	\quad
-	\begin{subfigure}[t]{0.32\textheight}
+	\begin{subfigure}[t]{0.25\textheight}
 		\includegraphics[width=\textwidth]{gfx/AppendixB/x_plotCaCO3Yield_Alk}
 		\caption{Calcium carbonate}
 		\label{fig:estimation_Alk_CaCO3}
@@ -299,7 +314,7 @@ Two elements are necessary to define the thermodynamic models for carbante speci
 	\label{fig:estimation_Alk}
 \end{figure}
 
-\newpage
+\clearpage
 
 \section*{Bibliography}
 \addcontentsline{toc}{section}{Bibliography}

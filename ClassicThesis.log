@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.25)  7 AUG 2021 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.25)  9 AUG 2021 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5952,65 +5952,65 @@ Appendix B.
 \blx@sectionciteorder@4=\count497
 Package biblatex Info: Reference section=4 on input line 8.
 Package biblatex Info: Setting label 'refsection:4' on input line 8.
-\openout4 = `ClassicThesis.mw.mw'.
 
- [45] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [46]
-(./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [47] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-<gfx/AppendixB/N_dist.pdf, id=1009, 433.62pt x 289.08pt>
-File: gfx/AppendixB/N_dist.pdf Graphic file (type pdf)
-<use gfx/AppendixB/N_dist.pdf>
-Package pdftex.def Info: gfx/AppendixB/N_dist.pdf  used on input line 86.
-(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
-<gfx/AppendixB/NH4_frac_dist.pdf, id=1010, 433.62pt x 289.08pt>
-File: gfx/AppendixB/NH4_frac_dist.pdf Graphic file (type pdf)
-<use gfx/AppendixB/NH4_frac_dist.pdf>
-Package pdftex.def Info: gfx/AppendixB/NH4_frac_dist.pdf  used on input line 92
-.
-(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
-<gfx/AppendixB/P_dist.pdf, id=1011, 433.62pt x 289.08pt>
-File: gfx/AppendixB/P_dist.pdf Graphic file (type pdf)
-<use gfx/AppendixB/P_dist.pdf>
-Package pdftex.def Info: gfx/AppendixB/P_dist.pdf  used on input line 98.
-(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
-<gfx/AppendixB/PO4_frac_dist.pdf, id=1012, 433.62pt x 289.08pt>
-File: gfx/AppendixB/PO4_frac_dist.pdf Graphic file (type pdf)
-<use gfx/AppendixB/PO4_frac_dist.pdf>
-Package pdftex.def Info: gfx/AppendixB/PO4_frac_dist.pdf  used on input line 10
-4.
-(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[][]|\T1/pplj/m/n/9 (+20) Phos-phate/phos-pho-rus ra-tio
- []
-
-<gfx/AppendixB/Ca_dist.pdf, id=1013, 433.62pt x 289.08pt>
-File: gfx/AppendixB/Ca_dist.pdf Graphic file (type pdf)
-<use gfx/AppendixB/Ca_dist.pdf>
-Package pdftex.def Info: gfx/AppendixB/Ca_dist.pdf  used on input line 110.
-(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
-<gfx/AppendixB/K_dist.pdf, id=1014, 433.62pt x 289.08pt>
-File: gfx/AppendixB/K_dist.pdf Graphic file (type pdf)
-<use gfx/AppendixB/K_dist.pdf>
-Package pdftex.def Info: gfx/AppendixB/K_dist.pdf  used on input line 116.
-(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
-
-Overfull \hbox (7.44438pt too wide) in paragraph at lines 124--124
+Overfull \hbox (7.44438pt too wide) in paragraph at lines 12--12
 |[]\T1/pplj/m/sc/10.95/80ls (-20) distribution func-tions of el-e-ments from ca
 t-tle waste| 
  []
 
+\openout4 = `ClassicThesis.mw.mw'.
+
+[45] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [46] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [47]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/AppendixB/N_dist.pdf, id=1017, 433.62pt x 289.08pt>
+File: gfx/AppendixB/N_dist.pdf Graphic file (type pdf)
+<use gfx/AppendixB/N_dist.pdf>
+Package pdftex.def Info: gfx/AppendixB/N_dist.pdf  used on input line 92.
+(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
+<gfx/AppendixB/NH4_frac_dist.pdf, id=1018, 433.62pt x 289.08pt>
+File: gfx/AppendixB/NH4_frac_dist.pdf Graphic file (type pdf)
+<use gfx/AppendixB/NH4_frac_dist.pdf>
+Package pdftex.def Info: gfx/AppendixB/NH4_frac_dist.pdf  used on input line 98
+.
+(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
+<gfx/AppendixB/P_dist.pdf, id=1019, 433.62pt x 289.08pt>
+File: gfx/AppendixB/P_dist.pdf Graphic file (type pdf)
+<use gfx/AppendixB/P_dist.pdf>
+Package pdftex.def Info: gfx/AppendixB/P_dist.pdf  used on input line 104.
+(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
+<gfx/AppendixB/PO4_frac_dist.pdf, id=1020, 433.62pt x 289.08pt>
+File: gfx/AppendixB/PO4_frac_dist.pdf Graphic file (type pdf)
+<use gfx/AppendixB/PO4_frac_dist.pdf>
+Package pdftex.def Info: gfx/AppendixB/PO4_frac_dist.pdf  used on input line 11
+0.
+(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[][]|\T1/pplj/m/n/9 (+20) Phos-phate/phos-pho-rus ra-tio
+ []
+
+<gfx/AppendixB/Ca_dist.pdf, id=1021, 433.62pt x 289.08pt>
+File: gfx/AppendixB/Ca_dist.pdf Graphic file (type pdf)
+<use gfx/AppendixB/Ca_dist.pdf>
+Package pdftex.def Info: gfx/AppendixB/Ca_dist.pdf  used on input line 116.
+(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
+<gfx/AppendixB/K_dist.pdf, id=1022, 433.62pt x 289.08pt>
+File: gfx/AppendixB/K_dist.pdf Graphic file (type pdf)
+<use gfx/AppendixB/K_dist.pdf>
+Package pdftex.def Info: gfx/AppendixB/K_dist.pdf  used on input line 122.
+(pdftex.def)             Requested size: 151.19897pt x 100.80016pt.
 \openout4 = `ClassicThesis.mw.mw'.
 
 [48 <./gfx/AppendixB/N_dist.pdf> <./gfx/AppendixB/NH4_frac_dist.pdf
@@ -6038,12 +6038,16 @@ ion: multiple pdfs with page group included in a single page
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [49] (./ClassicThesis.mw.mw)
+ [49
+
+] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [50]
+ [50
+
+]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -6052,138 +6056,29 @@ ion: multiple pdfs with page group included in a single page
  [51] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-\openout4 = `ClassicThesis.mw.mw'.
-
- [52]
-(./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-<gfx/AppendixB/plotStrYield_Mg.pdf, id=1305, 361.35pt x 361.35pt>
+<gfx/AppendixB/plotStrYield_Mg.pdf, id=1301, 361.35pt x 361.35pt>
 File: gfx/AppendixB/plotStrYield_Mg.pdf Graphic file (type pdf)
 <use gfx/AppendixB/plotStrYield_Mg.pdf>
 Package pdftex.def Info: gfx/AppendixB/plotStrYield_Mg.pdf  used on input line 
-230.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-<gfx/AppendixB/x_plotHAPYield_Mg.pdf, id=1306, 361.35pt x 361.35pt>
+239.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+<gfx/AppendixB/x_plotHAPYield_Mg.pdf, id=1302, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotHAPYield_Mg.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotHAPYield_Mg.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Mg.pdf  used on input lin
-e 236.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-<gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf, id=1307, 361.35pt x 361.35pt>
+e 249.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+<gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf, id=1303, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf  used on input l
-ine 242.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-
-
-LaTeX Warning: Float too large for page by 78.64465pt on input line 249.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<gfx/AppendixB/plotStrYield_Ca.pdf, id=1308, 361.35pt x 361.35pt>
-File: gfx/AppendixB/plotStrYield_Ca.pdf Graphic file (type pdf)
-<use gfx/AppendixB/plotStrYield_Ca.pdf>
-Package pdftex.def Info: gfx/AppendixB/plotStrYield_Ca.pdf  used on input line 
-256.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-<gfx/AppendixB/x_plotHAPYield_Ca.pdf, id=1309, 361.35pt x 361.35pt>
-File: gfx/AppendixB/x_plotHAPYield_Ca.pdf Graphic file (type pdf)
-<use gfx/AppendixB/x_plotHAPYield_Ca.pdf>
-Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Ca.pdf  used on input lin
-e 262.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-<gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf, id=1310, 361.35pt x 361.35pt>
-File: gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf Graphic file (type pdf)
-<use gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf>
-Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf  used on input l
-ine 268.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-
-LaTeX Warning: Float too large for page by 91.24469pt on input line 275.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<gfx/AppendixB/plotStrYield_Alk.pdf, id=1311, 361.35pt x 361.35pt>
-File: gfx/AppendixB/plotStrYield_Alk.pdf Graphic file (type pdf)
-<use gfx/AppendixB/plotStrYield_Alk.pdf>
-Package pdftex.def Info: gfx/AppendixB/plotStrYield_Alk.pdf  used on input line
- 281.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-<gfx/AppendixB/x_plotHAPYield_Alk.pdf, id=1312, 361.35pt x 361.35pt>
-File: gfx/AppendixB/x_plotHAPYield_Alk.pdf Graphic file (type pdf)
-<use gfx/AppendixB/x_plotHAPYield_Alk.pdf>
-Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Alk.pdf  used on input li
-ne 287.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-<gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf, id=1313, 361.35pt x 361.35pt>
-File: gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf Graphic file (type pdf)
-<use gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf>
-Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf  used on input 
-line 293.
-(pdftex.def)             Requested size: 213.14087pt x 213.13951pt.
-
-LaTeX Warning: Float too large for page by 78.64465pt on input line 300.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (185.03104pt too wide) has occurred while \output is active
- []|[]|
- []
-
+ine 255.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[53] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
+ [52
 
-\openout4 = `ClassicThesis.mw.mw'.
-
- [54] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-
-Overfull \hbox (5.83604pt too wide) in paragraph at lines 307--307
-[]\T1/pplj/m/n/10.95 (-20) K. Ris-g-berg, H. Ced-er-lund, M. Pell, V. Arthur-so
-n, and A. Schnürer.
- []
-
-
-Overfull \hbox (14.35078pt too wide) in paragraph at lines 307--307
-[]\T1/pplj/m/n/10.95 (-20) M. Sep-pälä, V. Pyykkö-nen, A. Väisä-nen, and J. Rin
--tala. ^^S  Biomethane
- []
-
-
-Overfull \hbox (185.03104pt too wide) has occurred while \output is active
- []|[]|
- []
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[55] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-Package biblatex Info: Reference section=0 on input line 308.
-)
-\openout4 = `ClassicThesis.mw.mw'.
-
- [56] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-
-Overfull \hbox (185.03104pt too wide) has occurred while \output is active
- []|[]|
- []
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[57 <./gfx/AppendixB/plotStrYield_Mg.pdf> <./gfx/AppendixB/x_plotHAPYield_Mg.pd
-f
+ <./gfx/AppendixB/plotStrYield_Mg.pdf> <./gfx/AppendixB/x_plotHAPYield_Mg.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotHAPYield_Mg.pdf):
  PDF inclusion: multiple pdfs with page group included in a single page
@@ -6194,10 +6089,34 @@ pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+<gfx/AppendixB/plotStrYield_Ca.pdf, id=1456, 361.35pt x 361.35pt>
+File: gfx/AppendixB/plotStrYield_Ca.pdf Graphic file (type pdf)
+<use gfx/AppendixB/plotStrYield_Ca.pdf>
+Package pdftex.def Info: gfx/AppendixB/plotStrYield_Ca.pdf  used on input line 
+270.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+<gfx/AppendixB/x_plotHAPYield_Ca.pdf, id=1457, 361.35pt x 361.35pt>
+File: gfx/AppendixB/x_plotHAPYield_Ca.pdf Graphic file (type pdf)
+<use gfx/AppendixB/x_plotHAPYield_Ca.pdf>
+Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Ca.pdf  used on input lin
+e 276.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+<gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf, id=1458, 361.35pt x 361.35pt>
+File: gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf Graphic file (type pdf)
+<use gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf>
+Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf  used on input l
+ine 282.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+
+Overfull \hbox (99.88258pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [58 <./gfx/AppendixB/plotStrYield_Ca.pdf> <./gfx/AppendixB/x_plotHAPYield_Ca.p
-df
+[53
+
+ <./gfx/AppendixB/plotStrYield_Ca.pdf> <./gfx/AppendixB/x_plotHAPYield_Ca.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotHAPYield_Ca.pdf):
  PDF inclusion: multiple pdfs with page group included in a single page
@@ -6208,15 +6127,30 @@ pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-
-Overfull \hbox (185.03104pt too wide) has occurred while \output is active
- []|[]|
- []
-
+<gfx/AppendixB/plotStrYield_Alk.pdf, id=1630, 361.35pt x 361.35pt>
+File: gfx/AppendixB/plotStrYield_Alk.pdf Graphic file (type pdf)
+<use gfx/AppendixB/plotStrYield_Alk.pdf>
+Package pdftex.def Info: gfx/AppendixB/plotStrYield_Alk.pdf  used on input line
+ 296.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+<gfx/AppendixB/x_plotHAPYield_Alk.pdf, id=1631, 361.35pt x 361.35pt>
+File: gfx/AppendixB/x_plotHAPYield_Alk.pdf Graphic file (type pdf)
+<use gfx/AppendixB/x_plotHAPYield_Alk.pdf>
+Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Alk.pdf  used on input li
+ne 302.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
+<gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf, id=1632, 361.35pt x 361.35pt>
+File: gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf Graphic file (type pdf)
+<use gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf>
+Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf  used on input 
+line 308.
+(pdftex.def)             Requested size: 166.51248pt x 166.50974pt.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[59 <./gfx/AppendixB/plotStrYield_Alk.pdf> <./gfx/AppendixB/x_plotHAPYield_Alk.
-pdf
+ [54
+
+ <./gfx/AppendixB/plotStrYield_Alk.pdf> <./gfx/AppendixB/x_plotHAPYield_Alk.pdf
+
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotHAPYield_Alk.pdf)
 : PDF inclusion: multiple pdfs with page group included in a single page
@@ -6227,10 +6161,71 @@ f): PDF inclusion: multiple pdfs with page group included in a single page
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+
+Overfull \hbox (99.88258pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[55
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (5.83604pt too wide) in paragraph at lines 322--322
+[]\T1/pplj/m/n/10.95 (-20) K. Ris-g-berg, H. Ced-er-lund, M. Pell, V. Arthur-so
+n, and A. Schnürer.
+ []
+
+
+Overfull \hbox (14.35078pt too wide) in paragraph at lines 322--322
+[]\T1/pplj/m/n/10.95 (-20) M. Sep-pälä, V. Pyykkö-nen, A. Väisä-nen, and J. Rin
+-tala. ^^S  Biomethane
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[56] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+Package biblatex Info: Reference section=0 on input line 323.
+)
+Overfull \hbox (99.88258pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[57] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
 \openout2 = `Chapters/Chapter0C.aux'.
 
  (./Chapters/Chapter0C.tex
 Appendix C.
+\openout4 = `ClassicThesis.mw.mw'.
+
+[58
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+)
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [59] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout2 = `Chapters/Chapter0D.aux'.
+
+
+(./Chapters/Chapter0D.tex
+Appendix D.
 \openout4 = `ClassicThesis.mw.mw'.
 
 [60
@@ -6247,27 +6242,6 @@ Appendix C.
  [61] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-\openout2 = `Chapters/Chapter0D.aux'.
-
-
-(./Chapters/Chapter0D.tex
-Appendix D.
-\openout4 = `ClassicThesis.mw.mw'.
-
-[62
-
-
-
-
-] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-)
-\openout4 = `ClassicThesis.mw.mw'.
-
- [63] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
 \openout2 = `Chapters/Chapter0E.aux'.
 
 
@@ -6275,7 +6249,7 @@ Appendix D.
 Appendix E.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[64
+[62
 
 
 
@@ -6291,7 +6265,7 @@ Package biblatex Info: Setting label 'refsection:5' on input line 8.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<gfx/Chapter7/Figure2.pdf, id=1853, 1690.29282pt x 1195.44247pt>
+<gfx/Chapter7/Figure2.pdf, id=1844, 1690.29282pt x 1195.44247pt>
 File: gfx/Chapter7/Figure2.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure2.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure2.pdf  used on input line 45.
@@ -6301,18 +6275,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[65] (./ClassicThesis.mw.mw)
+[63] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [66 <./gfx/Chapter7/Figure2.pdf>]
+ [64 <./gfx/Chapter7/Figure2.pdf>]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [67] (./ClassicThesis.mw.mw)
+ [65] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -6323,12 +6297,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `section:BiogasProductionPaperBiogas' on page 68 undef
+LaTeX Warning: Reference `section:BiogasProductionPaperBiogas' on page 66 undef
 ined on input line 144.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[68] (./ClassicThesis.mw.mw)
+[66] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -6338,7 +6312,7 @@ Overfull \hbox (28.38623pt too wide) detected at line 153
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[69] (./ClassicThesis.mw.mw)
+[67] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -6398,7 +6372,7 @@ Missing character: There is no · in font pplr9t!
 Missing character: There is no · in font pplr9t!
 \openout4 = `ClassicThesis.mw.mw'.
 
-[70] (./ClassicThesis.mw.mw)
+[68] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -6407,12 +6381,12 @@ Overfull \hbox (16.69658pt too wide) detected at line 196
  []
 
 
-LaTeX Warning: Reference `section:BiogasProductionPaperBiogas' on page 71 undef
+LaTeX Warning: Reference `section:BiogasProductionPaperBiogas' on page 69 undef
 ined on input line 200.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[71] (./ClassicThesis.mw.mw)
+[69] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -6427,13 +6401,29 @@ Overfull \hbox (16.38681pt too wide) detected at line 257
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[72] (./ClassicThesis.mw.mw)
+[70] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
 
-LaTeX Warning: Reference `section:BiogasProductionPaperBiogas' on page 73 undef
+LaTeX Warning: Reference `section:BiogasProductionPaperBiogas' on page 71 undef
 ined on input line 261.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[71] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [72] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (3.18846pt too wide) in paragraph at lines 293--293
+\T1/pplj/m/n/10.95 (-20) scrub-bing: sol-vent com-par-i-son be-tween MDEA and M
+DEA/MEA
+ []
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -6445,25 +6435,9 @@ ined on input line 261.
  [74] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-
-Overfull \hbox (3.18846pt too wide) in paragraph at lines 293--293
-\T1/pplj/m/n/10.95 (-20) scrub-bing: sol-vent com-par-i-son be-tween MDEA and M
-DEA/MEA
- []
-
 \openout4 = `ClassicThesis.mw.mw'.
 
-[75] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [76] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [77]
+ [75]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -6471,7 +6445,7 @@ Package biblatex Info: Reference section=0 on input line 294.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [78] (./ClassicThesis.mw.mw)
+ [76] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
@@ -7544,11 +7518,11 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37542 strings out of 481239
- 712378 string characters out of 5920377
- 1713233 words of memory out of 5000000
- 50687 multiletter control sequences out of 15000+600000
- 689833 words of font info for 641 fonts, out of 8000000 for 9000
+ 37532 strings out of 481239
+ 712226 string characters out of 5920377
+ 1715227 words of memory out of 5000000
+ 50685 multiletter control sequences out of 15000+600000
+ 689762 words of font info for 640 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  78i,25n,125p,10108b,3432s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -7564,10 +7538,10 @@ zo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb
 f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
 alatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (94 pages, 27404715 bytes).
+Output written on ClassicThesis.pdf (92 pages, 27403478 bytes).
 PDF statistics:
- 2382 PDF objects out of 2487 (max. 8388607)
- 1592 compressed objects within 16 object streams
- 450 named destinations out of 1000 (max. 500000)
+ 2374 PDF objects out of 2487 (max. 8388607)
+ 1586 compressed objects within 16 object streams
+ 448 named destinations out of 1000 (max. 500000)
  91225 words of extra memory for PDF output out of 106986 (max. 10000000)
 
