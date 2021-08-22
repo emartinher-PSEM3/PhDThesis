@@ -386,6 +386,35 @@
       \verb https://doi.org/10.1029/2009GB003576
       \endverb
     \endentry
+    \entry{burns2002phosphorus}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e3144b496e3d1c96efd22aceab5a6241}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima T},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=c2584e72c4441bdb0e6634d97816ab86}{%
+           family={Moody},
+           familyi={M\bibinitperiod},
+           given={Lara\bibnamedelima B},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f241641a5e2d8a84205a1a9d2a337dc5}
+      \strng{fullhash}{f241641a5e2d8a84205a1a9d2a337dc5}
+      \strng{bibnamehash}{f241641a5e2d8a84205a1a9d2a337dc5}
+      \strng{authorbibnamehash}{f241641a5e2d8a84205a1a9d2a337dc5}
+      \strng{authornamehash}{f241641a5e2d8a84205a1a9d2a337dc5}
+      \strng{authorfullhash}{f241641a5e2d8a84205a1a9d2a337dc5}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of Coagulants and Flocculants: Global market and technical opportunities for water treatment chemicals}
+      \field{title}{Phosphorus recovery from animal manures using optimized struvite precipitation}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
     \entry{constable2003century}{book}{}
       \name{author}{2}{}{%
         {{hash=7d7e1373567f6c49859952316416bdb8}{%
@@ -414,6 +443,85 @@
       \field{labeltitlesource}{title}
       \field{title}{{A century of innovation: Twenty engineering achievements that transformed our lives. Chapter 7, Agricultural mechanization}}
       \field{year}{2003}
+    \endentry
+    \entry{cordell2009story}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2aec67b5d23a6fbd8bdf9a1f567ec1dc}{%
+           family={Cordell},
+           familyi={C\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b74278f29eded90a5a9bb54e7a6e5dd3}{%
+           family={Drangert},
+           familyi={D\bibinitperiod},
+           given={Jan-Olof},
+           giveni={J\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=eed894196404376c6b4bec6307ca6611}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{204881e180f25dd022dd866966f2207d}
+      \strng{fullhash}{204881e180f25dd022dd866966f2207d}
+      \strng{bibnamehash}{204881e180f25dd022dd866966f2207d}
+      \strng{authorbibnamehash}{204881e180f25dd022dd866966f2207d}
+      \strng{authornamehash}{204881e180f25dd022dd866966f2207d}
+      \strng{authorfullhash}{204881e180f25dd022dd866966f2207d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global environmental change}
+      \field{number}{2}
+      \field{title}{The story of phosphorus: global food security and food for thought}
+      \field{volume}{19}
+      \field{year}{2009}
+      \field{pages}{292\bibrangedash 305}
+      \range{pages}{14}
+    \endentry
+    \entry{Kellog2010}{report}{}
+      \name{author}{4}{}{%
+        {{hash=beeff8a8527c7fa9b54e76781eb74c63}{%
+           family={Kellogg},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=223cc8ea004897bcc37fb1a33c6e9234}{%
+           family={Lander},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f116436c88dd5fdf4afefa4006c48b27}{%
+           family={Moffitt},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=26e02b83c8db10a6d9581651de068dad}{%
+           family={Gollehon},
+           familyi={G\bibinitperiod},
+           given={Noel},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture (USDA)}%
+      }
+      \strng{namehash}{86ed8a580f39ad12a2959079341747d1}
+      \strng{fullhash}{3a98290e1bd12992462de5274222a0a8}
+      \strng{bibnamehash}{3a98290e1bd12992462de5274222a0a8}
+      \strng{authorbibnamehash}{3a98290e1bd12992462de5274222a0a8}
+      \strng{authornamehash}{86ed8a580f39ad12a2959079341747d1}
+      \strng{authorfullhash}{3a98290e1bd12992462de5274222a0a8}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Manure Nutrients Relative to the Capacity of Cropland and Pastureland to Assimilate Nutrients: Spatial and Temporal Trends for the United States}}
+      \field{type}{techreport}
+      \field{year}{2000}
     \endentry
     \entry{nierenberg2005happier}{book}{}
       \name{author}{2}{}{%
@@ -508,6 +616,71 @@
       \field{pages}{415\bibrangedash 415}
       \range{pages}{1}
     \endentry
+    \entry{tilley2014compendium}{book}{}
+      \name{author}{5}{}{%
+        {{hash=edda61a8a01aa8449ea731532b827c36}{%
+           family={Tilley},
+           familyi={T\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=60954960067635b03962777efcba3093}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Lukas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=988a7336919a572d70450326a2a2248d}{%
+           family={Lüthi},
+           familyi={L\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b5dc4ddcad3466fe53895f450bb32286}{%
+           family={Reymond},
+           familyi={R\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ea5694c071210ed74bff0137925eb897}{%
+           family={Zurbrügg},
+           familyi={Z\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Eawag}%
+      }
+      \strng{namehash}{ec245cce89b8c7867082a942671e900a}
+      \strng{fullhash}{928252da30ea8b324fb40b71fd93f19f}
+      \strng{bibnamehash}{928252da30ea8b324fb40b71fd93f19f}
+      \strng{authorbibnamehash}{928252da30ea8b324fb40b71fd93f19f}
+      \strng{authornamehash}{ec245cce89b8c7867082a942671e900a}
+      \strng{authorfullhash}{928252da30ea8b324fb40b71fd93f19f}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Compendium of sanitation systems and technologies}
+      \field{year}{2014}
+    \endentry
+    \entry{animal_unit_definition}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{U.S. Department of Agriculture}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/plantsanimals/livestock/afo/}}
+      \field{note}{[Online; accessed 10-August-2020]}
+      \field{title}{{Animal Feeding Operations (AFO) and Concentrated Animal Feeding Operations (CAFO)}}
+      \field{year}{2011}
+    \endentry
     \entry{UNPopulationProspects}{misc}{}
       \name{author}{1}{}{%
         {{hash=17613e4b8f4c08a2c9281295e0f23174}{%
@@ -528,6 +701,29 @@
       \field{note}{[Online; accessed 22-August-2021]}
       \field{title}{{World Population Prospects 2019}}
       \field{year}{2019}
+    \endentry
+    \entry{USDAHandbook}{report}{}
+      \name{author}{1}{}{%
+        {{hash=80fd38d05f96523b89762870eb63ab35}{%
+           family={{United States Department of Agriculture}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture (USDA)}%
+      }
+      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agricultural Wate Management Field Handbook}}
+      \field{type}{techreport}
+      \field{year}{2009}
     \endentry
   \enddatalist
 \endrefsection

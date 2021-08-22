@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.25)  22 AUG 2021 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.25)  22 AUG 2021 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1957,6 +1957,12 @@ LaTeX Info: Redefining \% on input line 22.
 \blx@sectionciteorder@1=\count494
 Package biblatex Info: Reference section=1 on input line 31.
 Package biblatex Info: Setting label 'refsection:1' on input line 31.
+
+Overfull \hbox (3.3248pt too wide) in paragraph at lines 33--33
+[]\T1/pplj/m/n/10.95 (-20) E. Martín-Hernández, G.J. Ruiz-Mercado, and M. Martí
+n. ^^S  Model-
+ []
+
 Package biblatex Info: Reference section=0 on input line 34.
 )
 \openout4 = `ClassicThesis.mw.mw'.
@@ -1965,8 +1971,7 @@ Package biblatex Info: Reference section=0 on input line 34.
 
 
 
-]
-(./ClassicThesis.mw.mw)
+] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -2049,79 +2054,79 @@ Package biblatex Info: Setting label 'refsection:2' on input line 4.
 ] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-
-
-LaTeX Warning: Reference `ch:PhosphorusTechs' on page 2 undefined on input line
- 71.
-
-
-Overfull \hbox (1.8282pt too wide) in paragraph at lines 71--72
-[] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - tech-nolo-gies for phos-pho-r
-us re-cov-ery.[] \T1/pplj/m/n/10.95 (-20) This
- []
-
 \openout4 = `ClassicThesis.mw.mw'.
 
-[2] (./ClassicThesis.mw.mw)
+ [2] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
-
-
-
-LaTeX Warning: Reference `ch:Struvite' on page 3 undefined on input line 73.
-
-
-LaTeX Warning: Reference `ch:Tool' on page 3 undefined on input line 75.
-
-
-LaTeX Warning: Reference `ch:Policies' on page 3 undefined on input line 77.
-
-
-LaTeX Warning: Reference `ch:NitrogenTechs' on page 3 undefined on input line 8
-0.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[3] (./ClassicThesis.mw.mw)
+ [3]
+(./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
 
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 4 undefined on input line
- 83.
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 4 undefined on input line
+ 81.
 
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 90
-.
+
+Overfull \hbox (1.8282pt too wide) in paragraph at lines 81--82
+[] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - tech-nolo-gies for phos-pho-r
+us re-cov-ery.[] \T1/pplj/m/n/10.95 (-20) This
+ []
+
+
+LaTeX Warning: Reference `ch:Struvite' on page 4 undefined on input line 83.
+
+
+LaTeX Warning: Reference `ch:Tool' on page 4 undefined on input line 85.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[4] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:Policies' on page 5 undefined on input line 87.
+
+
+LaTeX Warning: Reference `ch:NitrogenTechs' on page 5 undefined on input line 9
+0.
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 5 undefined on input line
+ 93.
+
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 10
+0.
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 90.
+(Font)              scaled to size 9.30756pt on input line 100.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package biblatex Info: Reference section=0 on input line 91.
-)
 \openout4 = `ClassicThesis.mw.mw'.
 
- [4]
+ [5]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-\openout4 = `ClassicThesis.mw.mw'.
 
- [5
+Overfull \hbox (17.05844pt too wide) in paragraph at lines 100--100
+\T1/fvm/m/n/10.95 nrcs . usda . gov / wps / portal / nrcs / main / national / p
+lantsanimals /
+ []
 
-
-
-
-
-] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
+Package biblatex Info: Reference section=0 on input line 101.
+)
 \openout4 = `ClassicThesis.mw.mw'.
 
  [6] (./ClassicThesis.mw.mw)
@@ -2129,7 +2134,8 @@ Package biblatex Info: Reference section=0 on input line 91.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[7
+ [7
+
 
 
 
@@ -2139,7 +2145,8 @@ Package biblatex Info: Reference section=0 on input line 91.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [8] (./ClassicThesis.mw.mw)
+ [8]
+(./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -2149,8 +2156,7 @@ Package biblatex Info: Reference section=0 on input line 91.
 
 
 
-]
-(./ClassicThesis.mw.mw)
+] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -2165,13 +2171,28 @@ Package biblatex Info: Reference section=0 on input line 91.
 
 
 
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [12] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [13
+
+
+
+
 ]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [12] (./ClassicThesis.mw.mw)
+ [14] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -2754,13 +2775,13 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42361 strings out of 481239
- 787361 string characters out of 5920377
- 1641860 words of memory out of 5000000
- 56351 multiletter control sequences out of 15000+600000
- 638932 words of font info for 402 fonts, out of 8000000 for 9000
+ 42416 strings out of 481239
+ 788469 string characters out of 5920377
+ 1644239 words of memory out of 5000000
+ 56368 multiletter control sequences out of 15000+600000
+ 640339 words of font info for 422 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 69i,22n,125p,10108b,2320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,22n,125p,10108b,3295s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fon
@@ -2768,10 +2789,10 @@ ts/type1/public/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (26 pages, 232832 bytes).
+Output written on ClassicThesis.pdf (28 pages, 241617 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 500000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
+ 80 named destinations out of 1000 (max. 500000)
  85166 words of extra memory for PDF output out of 89155 (max. 10000000)
 
