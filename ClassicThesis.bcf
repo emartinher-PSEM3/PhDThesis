@@ -2180,6 +2180,7 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex">MyPublications.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">References/referencesCh1.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">References/referencesCh2.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">References/referencesCh3.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">References/referencesCh4.bib</bcf:datasource>
@@ -2200,6 +2201,22 @@
     <bcf:citekey order="5" nocite="1">martin2020optimal</bcf:citekey>
     <bcf:citekey order="6" nocite="1">Martin</bcf:citekey>
     <bcf:citekey order="7" nocite="1">martin2021logistics</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 2 -->
+  <bcf:bibdata section="2">
+    <bcf:datasource type="file" datatype="bibtex">References/referencesCh1.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="2">
+    <bcf:citekey order="1">biraben1980essay</bcf:citekey>
+    <bcf:citekey order="2">UNPopulationProspects</bcf:citekey>
+    <bcf:citekey order="3">Samreen2019</bcf:citekey>
+    <bcf:citekey order="4">smil1999detonator</bcf:citekey>
+    <bcf:citekey order="5">constable2003century</bcf:citekey>
+    <bcf:citekey order="5">nierenberg2005happier</bcf:citekey>
+    <bcf:citekey order="6">Bouwman2009</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2235,6 +2252,15 @@
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="1"
+                name="nyt/global//global/global"
+                type="entry"
+                sortingtemplatename="nyt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="2"
                 name="nyt/global//global/global"
                 type="entry"
                 sortingtemplatename="nyt"

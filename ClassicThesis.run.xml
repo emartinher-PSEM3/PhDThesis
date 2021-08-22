@@ -86,6 +86,7 @@
     </requires>
     <requires type="editable">
       <file>MyPublications.bib</file>
+      <file>References/referencesCh1.bib</file>
       <file>References/referencesCh2.bib</file>
       <file>References/referencesCh3.bib</file>
       <file>References/referencesCh4.bib</file>
