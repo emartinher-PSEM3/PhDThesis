@@ -320,6 +320,37 @@
 
 \refsection{2}
   \datalist[entry]{nyt/global//global/global}
+    \entry{amery2014agricultural}{book}{}
+      \name{author}{2}{}{%
+        {{hash=54944eedaae3bedc591988f4b6747f91}{%
+           family={Amery},
+           familyi={A\bibinitperiod},
+           given={Fien},
+           giveni={F\bibinitperiod}}}%
+        {{hash=243fd678c9d791472dea5bf78f88696c}{%
+           family={Schoumans},
+           familyi={S\bibinitperiod},
+           given={Oscar\bibnamedelima Frédéric},
+           giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{3}{%
+        {Institute for Agricultural}%
+        {Fisheries Research (ILVO)}%
+        {Alterra Wageningen UR}%
+      }
+      \strng{namehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{fullhash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{bibnamehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{authorbibnamehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{authornamehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{authorfullhash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agricultural phosphorus legislation in Europe}
+      \field{year}{2014}
+    \endentry
     \entry{biraben1980essay}{article}{}
       \name{author}{1}{}{%
         {{hash=aff3f92be967f94ef376adbc26c92903}{%
@@ -415,6 +446,31 @@
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
     \endentry
+    \entry{CircularEconomyActionPlan}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8b8d0eb0f3dee990f414482e2f2fad07}{%
+           family={Comission},
+           familyi={C\bibinitperiod},
+           given={European},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {European Comission}%
+      }
+      \strng{namehash}{8b8d0eb0f3dee990f414482e2f2fad07}
+      \strng{fullhash}{8b8d0eb0f3dee990f414482e2f2fad07}
+      \strng{bibnamehash}{8b8d0eb0f3dee990f414482e2f2fad07}
+      \strng{authorbibnamehash}{8b8d0eb0f3dee990f414482e2f2fad07}
+      \strng{authornamehash}{8b8d0eb0f3dee990f414482e2f2fad07}
+      \strng{authorfullhash}{8b8d0eb0f3dee990f414482e2f2fad07}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A new Circular Economy Action for a cleaner and more competitive Europe}}
+      \field{type}{techreport}
+      \field{year}{2020}
+    \endentry
     \entry{constable2003century}{book}{}
       \name{author}{2}{}{%
         {{hash=7d7e1373567f6c49859952316416bdb8}{%
@@ -483,6 +539,114 @@
       \field{pages}{292\bibrangedash 305}
       \range{pages}{14}
     \endentry
+    \entry{ESSP2021}{report}{}
+      \name{author}{1}{}{%
+        {{hash=62daa7e92a872d528156e44a1a1b4d93}{%
+           family={ESSP},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {European Sustainable Phosphorus Platform}%
+      }
+      \strng{namehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{fullhash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{bibnamehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{authorbibnamehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{authornamehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{authorfullhash}{62daa7e92a872d528156e44a1a1b4d93}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ESPP input for the EU's "Integrated Nutrient Management Action Plan" (INMAP)}}
+      \field{type}{techreport}
+      \field{year}{2021}
+    \endentry
+    \entry{GRIZZETTI2021102281}{article}{}
+      \name{author}{13}{}{%
+        {{hash=3f6f5367a208d405c16d737e58a42ee7}{%
+           family={Grizzetti},
+           familyi={G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=002d280e2726c84c579d71355fa52bfc}{%
+           family={Vigiak},
+           familyi={V\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3ae54c1385ea94b8fa9713ec075e7d36}{%
+           family={Udias},
+           familyi={U\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=58717923465c0c9d72dfb4d8bd8c1f1d}{%
+           family={Aloe},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc71d7403cd7106fd353c9d0f6a104b7}{%
+           family={Zanni},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=74e390ae25581d4bf41d9631e01f3a8f}{%
+           family={Bouraoui},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ee538fbef9be5b7d896eef0fbd9d62dd}{%
+           family={Pistocchi},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=75b248aa6abf00a98376ff24c83c9eed}{%
+           family={Dorati},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=182fb1ae050bd7e1a5bf18dd3ca1200d}{%
+           family={Friedland},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=51a469bba5bb844348ebe9e90aba825f}{%
+           family={{De Roo}},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=42b36e2ac3f38459ba8e604e540dbc57}{%
+           family={{Benitez Sanz}},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=892ada1f93c800d29f0da2e9e69cf658}{%
+           family={Leip},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fb8a0a5d87446ad8e6e5bda667e65d80}{%
+           family={Bielza},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a59397fe68a4ad67166e41fda42012e4}
+      \strng{fullhash}{b9220288d2e7924760a22094ac278f0c}
+      \strng{bibnamehash}{a59397fe68a4ad67166e41fda42012e4}
+      \strng{authorbibnamehash}{a59397fe68a4ad67166e41fda42012e4}
+      \strng{authornamehash}{a59397fe68a4ad67166e41fda42012e4}
+      \strng{authorfullhash}{b9220288d2e7924760a22094ac278f0c}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global Environmental Change}
+      \field{title}{How EU policies could reduce nutrient pollution in European inland and coastal waters}
+      \field{volume}{69}
+      \field{year}{2021}
+      \field{pages}{102281}
+      \range{pages}{1}
+    \endentry
     \entry{Kellog2010}{report}{}
       \name{author}{4}{}{%
         {{hash=beeff8a8527c7fa9b54e76781eb74c63}{%
@@ -507,7 +671,7 @@
            giveni={N\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture (USDA)}%
+        {U.S. Department of Agriculture}%
       }
       \strng{namehash}{86ed8a580f39ad12a2959079341747d1}
       \strng{fullhash}{3a98290e1bd12992462de5274222a0a8}
@@ -552,6 +716,30 @@
       \field{title}{Happier meals: Rethinking the global meat industry}
       \field{volume}{171}
       \field{year}{2005}
+    \endentry
+    \entry{Piot_Lepetit2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=564c3fb08f5586f26ffdd06b3cab5262}{%
+           family={Piot-Lepetit},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bentham Science Publishers}%
+      }
+      \strng{namehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{fullhash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{bibnamehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{authorbibnamehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{authornamehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{authorfullhash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agricultural externalities and environmental regulation: The case od manure management and spreading land allocation}
+      \field{year}{2011}
     \endentry
     \entry{Samreen2019}{inbook}{}
       \name{author}{2}{}{%
@@ -704,19 +892,19 @@
     \endentry
     \entry{USDAHandbook}{report}{}
       \name{author}{1}{}{%
-        {{hash=80fd38d05f96523b89762870eb63ab35}{%
-           family={{United States Department of Agriculture}},
+        {{hash=96b6352f0feb7beef6ead98c27472286}{%
+           family={{USDA}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture (USDA)}%
+        {U.S. Department of Agriculture}%
       }
-      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{namehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{fullhash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{bibnamehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{authorbibnamehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{authornamehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{authorfullhash}{96b6352f0feb7beef6ead98c27472286}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{labelnamesource}{author}
