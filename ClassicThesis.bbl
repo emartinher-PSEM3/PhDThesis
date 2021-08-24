@@ -446,6 +446,29 @@
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
     \endentry
+    \entry{CNP503}{report}{}
+      \name{author}{1}{}{%
+        {{hash=9fda3b6cf463f1c9893ed94684a719fa}{%
+           family={CNP},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {CNP}%
+      }
+      \strng{namehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{fullhash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{bibnamehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{authorbibnamehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{authornamehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{authorfullhash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Review of Applicability of EPA’s Part 503 Biosolids Rule on Phosphorus Minerals recovered at Water Resource Recovery Facilities}}
+      \field{type}{techreport}
+      \field{year}{2021}
+    \endentry
     \entry{CircularEconomyActionPlan}{report}{}
       \name{author}{1}{}{%
         {{hash=8b8d0eb0f3dee990f414482e2f2fad07}{%
@@ -538,6 +561,31 @@
       \field{year}{2009}
       \field{pages}{292\bibrangedash 305}
       \range{pages}{14}
+    \endentry
+    \entry{NPDESforCAFO}{report}{}
+      \name{author}{1}{}{%
+        {{hash=7839a87f8f6a2de1a1372c1a685705a4}{%
+           family={EPA},
+           familyi={E\bibinitperiod},
+           given={US},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Environmental Protection Agency}%
+      }
+      \strng{namehash}{7839a87f8f6a2de1a1372c1a685705a4}
+      \strng{fullhash}{7839a87f8f6a2de1a1372c1a685705a4}
+      \strng{bibnamehash}{7839a87f8f6a2de1a1372c1a685705a4}
+      \strng{authorbibnamehash}{7839a87f8f6a2de1a1372c1a685705a4}
+      \strng{authornamehash}{7839a87f8f6a2de1a1372c1a685705a4}
+      \strng{authorfullhash}{7839a87f8f6a2de1a1372c1a685705a4}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Elements of an NPDES Permit for a CAFO. NPDES Permit Writers' Manual for CAFOs}}
+      \field{type}{techreport}
+      \field{year}{2020}
     \endentry
     \entry{ESSP2021}{report}{}
       \name{author}{1}{}{%
@@ -686,6 +734,29 @@
       \field{title}{{Manure Nutrients Relative to the Capacity of Cropland and Pastureland to Assimilate Nutrients: Spatial and Temporal Trends for the United States}}
       \field{type}{techreport}
       \field{year}{2000}
+    \endentry
+    \entry{NACWA503}{report}{}
+      \name{author}{1}{}{%
+        {{hash=1e8cfbc8448457c7b8ae76c8920885e7}{%
+           family={NACWA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Association of Clean Water Agencies}%
+      }
+      \strng{namehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{fullhash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{bibnamehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{authorbibnamehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{authornamehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{authorfullhash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Issue Outline on Resource Recovery from Wastewater and Coverage of 40 C.F.R. Part 503}}
+      \field{type}{techreport}
+      \field{year}{2014}
     \endentry
     \entry{nierenberg2005happier}{book}{}
       \name{author}{2}{}{%
@@ -848,27 +919,6 @@
       \field{title}{Compendium of sanitation systems and technologies}
       \field{year}{2014}
     \endentry
-    \entry{animal_unit_definition}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=765309feb627b2d368363a0bb1184cb8}{%
-           family={{U.S. Department of Agriculture}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
-      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
-      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
-      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
-      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
-      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
-      \field{sortinit}{U}
-      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/plantsanimals/livestock/afo/}}
-      \field{note}{[Online; accessed 10-August-2020]}
-      \field{title}{{Animal Feeding Operations (AFO) and Concentrated Animal Feeding Operations (CAFO)}}
-      \field{year}{2011}
-    \endentry
     \entry{UNPopulationProspects}{misc}{}
       \name{author}{1}{}{%
         {{hash=17613e4b8f4c08a2c9281295e0f23174}{%
@@ -890,6 +940,27 @@
       \field{title}{{World Population Prospects 2019}}
       \field{year}{2019}
     \endentry
+    \entry{NPDE_basics}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f5627235f7755f36aacdeda188b7ba6f}{%
+           family={{US EPA}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{fullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{bibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authorbibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authornamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authorfullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.epa.gov/npdes/npdes-permit-basics}}
+      \field{note}{[Online; accessed 24-August-2021]}
+      \field{title}{{NPDES Permit Basics}}
+      \field{year}{2020}
+    \endentry
     \entry{USDAHandbook}{report}{}
       \name{author}{1}{}{%
         {{hash=96b6352f0feb7beef6ead98c27472286}{%
@@ -905,6 +976,7 @@
       \strng{authorbibnamehash}{96b6352f0feb7beef6ead98c27472286}
       \strng{authornamehash}{96b6352f0feb7beef6ead98c27472286}
       \strng{authorfullhash}{96b6352f0feb7beef6ead98c27472286}
+      \field{extraname}{1}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{labelnamesource}{author}
@@ -912,6 +984,28 @@
       \field{title}{{Agricultural Wate Management Field Handbook}}
       \field{type}{techreport}
       \field{year}{2009}
+    \endentry
+    \entry{animal_unit_definition}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=96b6352f0feb7beef6ead98c27472286}{%
+           family={{USDA}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{fullhash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{bibnamehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{authorbibnamehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{authornamehash}{96b6352f0feb7beef6ead98c27472286}
+      \strng{authorfullhash}{96b6352f0feb7beef6ead98c27472286}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/plantsanimals/livestock/afo/}}
+      \field{note}{[Online; accessed 10-August-2021]}
+      \field{title}{{Animal Feeding Operations (AFO) and Concentrated Animal Feeding Operations (CAFO)}}
+      \field{year}{2011}
     \endentry
   \enddatalist
 \endrefsection
