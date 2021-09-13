@@ -10,332 +10,48 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {1.1}{Rationale: Overview of the nutrient pullution challenge}}{1}{section.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.2}{Scope and objectives of the thesis}}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.2}{Thesis outline}}{6}{section.1.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Objective I:}}{6}{paragraph*.5}%
+\contentsline {subsection}{\numberline {1.2.1}{Part I - Phosphorus management and recovery}}{6}{subsection.1.2.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Objective II:}}{7}{paragraph*.6}%
+\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{6}{paragraph*.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Objective III:}}{7}{paragraph*.7}%
+\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{7}{paragraph*.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Objective IV:}}{7}{paragraph*.8}%
+\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{7}{paragraph*.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.3}{Thesis outline}}{7}{section.1.3}%
+\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{7}{paragraph*.8}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.3.1}{Part I - Phosphorus management and recovery}}{7}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.2.2}{Part II - Nitrogen management and recovery}}{7}{subsection.1.2.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{7}{paragraph*.9}%
+\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{7}{paragraph*.9}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{7}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.2.3}{Part III - Nitrogen management and recovery}}{8}{subsection.1.2.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{8}{paragraph*.11}%
+\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{8}{paragraph*.10}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{8}{paragraph*.12}%
-\defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.3.2}{Part II - Nitrogen management and recovery}}{8}{subsection.1.3.2}%
-\defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{8}{paragraph*.13}%
-\defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.3.3}{Part III - Nitrogen management and recovery}}{8}{subsection.1.3.3}%
-\defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{8}{paragraph*.14}%
-\defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{9}{paragraph*.14}%
+\contentsline {section}{Bibliography}{8}{paragraph*.10}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {i}{Phosphorus management and recovery}}{11}{part.1}%
+\contentsline {chapter}{\numberline {2}{Objective}}{11}{chapter.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {2}{Technologies for phosphorus recovery}}{13}{chapter.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {2.1}{Introduction}}{13}{section.2.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {2.2}{Process description}}{14}{section.2.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {2.3}{Modelling issues}}{15}{section.2.3}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.3.1}{Biogas production}}{16}{subsection.2.3.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.3.2}{Biogas purification}}{16}{subsection.2.3.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.3.3}{Electricity generation}}{17}{subsection.2.3.3}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.3.3.1}{Brayton cycle}}{17}{subsubsection.2.3.3.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.3.3.2}{Rankine cycle}}{17}{subsubsection.2.3.3.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.3.4}{Digestate conditioning}}{18}{subsection.2.3.4}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.3.4.1}{Filtration}}{18}{subsubsection.2.3.4.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.3.4.2}{Coagulation}}{21}{subsubsection.2.3.4.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.3.4.3}{Centrifugation}}{28}{subsubsection.2.3.4.3}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.3.4.4}{Struvite production}}{30}{subsubsection.2.3.4.4}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.3.5}{Solution procedure}}{36}{subsection.2.3.5}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {2.4}{Results}}{39}{section.2.4}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.4.1}{Mass and energy balances}}{41}{subsection.2.4.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.4.2}{Economic evaluation}}{42}{subsection.2.4.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.4.2.1}{Investment cost}}{42}{subsubsection.2.4.2.1}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsubsection}{\numberline {2.4.2.2}{Production cost}}{44}{subsubsection.2.4.2.2}%
-\defcounter {refsection}{3}\relax
-\contentsline {subsection}{\numberline {2.4.3}{Effect on the power, operating conditions and digestate treatment}}{45}{subsection.2.4.3}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{\numberline {2.5}{Conclusions}}{46}{section.2.5}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{Nomenclature}{47}{section.2.5}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{Acknowledgments}{50}{table.2.10}%
-\defcounter {refsection}{3}\relax
-\contentsline {section}{Bibliography}{50}{table.2.10}%
+\contentsline {section}{\numberline {2.1}{Scope and objectives of the thesis}}{11}{section.2.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {3}{Assessment of phosphorus recovery through the deployment of struvite precipitation systems}}{57}{chapter.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {3.1}{Introduction}}{57}{section.3.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {3.2}{Methods}}{59}{section.3.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {3.2.1}{Spatial resolution}}{59}{subsection.3.2.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {3.2.2}{Assessment of anthropogenic phosphorus from agricultural activities}}{60}{subsection.3.2.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.2.1}{Phosphorus releases}}{60}{subsubsection.3.2.2.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.2.2}{Phosphorus uptakes}}{60}{subsubsection.3.2.2.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.2.3}{Phosphorus balance}}{61}{subsubsection.3.2.2.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {3.2.3}{Thermodynamic model for precipitates formation}}{61}{subsection.3.2.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.1}{Uncertainty in livestock organic waste composition}}{62}{subsubsection.3.2.3.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.2}{Initial conditions}}{63}{subsubsection.3.2.3.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.3}{Activities}}{63}{subsubsection.3.2.3.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.4}{Distribution of species in aqueous phase}}{64}{subsubsection.3.2.3.4}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.5}{Precipitates formation}}{64}{subsubsection.3.2.3.5}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.6}{Thermodynamic model algorithm}}{66}{subsubsection.3.2.3.6}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.7}{Integration of waste composition uncertainty and precipitates formation thermodynamic models}}{66}{subsubsection.3.2.3.7}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.2.3.8}{Model validation and limitations}}{67}{subsubsection.3.2.3.8}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {3.3}{Results and discussion}}{69}{section.3.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {3.3.1}{Surrogate models to estimate the formation of precipitates from livestock organic waste}}{69}{subsection.3.3.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.3.1.1}{Influence of magnesium}}{69}{subsubsection.3.3.1.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.3.1.2}{Influence of calcium}}{70}{subsubsection.3.3.1.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.3.1.3}{Influence of alkalinity}}{71}{subsubsection.3.3.1.3}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.3.1.4}{Interactions between calcium and magnesium to phosphate ratios}}{72}{subsubsection.3.3.1.4}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsection}{\numberline {3.3.2}{Phosphorus releases from cattle leachate potentially avoided via struvite formation}}{73}{subsection.3.3.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.3.2.1}{Balance of phosphorus involved in agricultural activities throughout the U.S. watersheds}}{73}{subsubsection.3.3.2.1}%
-\defcounter {refsection}{4}\relax
-\contentsline {subsubsection}{\numberline {3.3.2.2}{Phosphorus recovered from cattle leachate through struvite precipitation}}{74}{subsubsection.3.3.2.2}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{\numberline {3.4}{Conclusions}}{77}{section.3.4}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{Nomenclature}{78}{section.3.4}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{Acknowledgments}{79}{table.3.7}%
-\defcounter {refsection}{4}\relax
-\contentsline {section}{Bibliography}{79}{table.3.7}%
+\contentsline {section}{\numberline {2.2}{Main objective}}{11}{section.2.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {4}{Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}}{85}{chapter.4}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {4.1}{Introduction}}{85}{section.4.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {4.2}{Methods}}{87}{section.4.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.2.1}{Environmental geographic information model}}{88}{subsection.4.2.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.1.1}{Spatial resolution}}{88}{subsubsection.4.2.1.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.1.2}{Trophic State Index}}{89}{subsubsection.4.2.1.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.1.3}{Techno-ecological synergy sustainability metric}}{89}{subsubsection.4.2.1.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.1.4}{Phosphorus saturation of soils}}{90}{subsubsection.4.2.1.4}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.2.2}{Techno-economic model}}{91}{subsection.4.2.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.1}{Manure conditioning}}{92}{subsubsection.4.2.2.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.2}{Anaerobic digestion}}{92}{subsubsection.4.2.2.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.3}{Biogas purification}}{92}{subsubsection.4.2.2.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.4}{Biogas valorization}}{93}{subsubsection.4.2.2.4}%
-\defcounter {refsection}{5}\relax
-\contentsline {paragraph}{{Methane production}}{93}{paragraph*.51}%
-\defcounter {refsection}{5}\relax
-\contentsline {paragraph}{{Electricity production}}{93}{paragraph*.52}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.5}{Solid-liquid separation}}{93}{subsubsection.4.2.2.5}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.6}{Phosphorus recovery}}{94}{subsubsection.4.2.2.6}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.2.7}{Incentives for the installation of nutrient recovery systems}}{94}{subsubsection.4.2.2.7}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.2.3}{Multi-criteria decision model}}{96}{subsection.4.2.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.3.1}{Data normalization}}{97}{subsubsection.4.2.3.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.3.2}{Criteria weighting}}{97}{subsubsection.4.2.3.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.3.3}{Criteria aggregation}}{100}{subsubsection.4.2.3.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.2.4}{Framework limitations}}{100}{subsection.4.2.4}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.2.5}{Case study}}{100}{subsection.4.2.5}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.5.1}{Study region}}{100}{subsubsection.4.2.5.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.2.5.2}{Scenarios description}}{101}{subsubsection.4.2.5.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {4.3}{Results}}{102}{section.4.3}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.3.1}{Implementation of phosphorus recovery systems in the Great Lakes area}}{102}{subsection.4.3.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.3.1.1}{Effect of CAFOs scale on selecting P recovery systems}}{103}{subsubsection.4.3.1.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {4.3.1.2}{Effect of local eutrophication risk on the selection of P recovery systems}}{104}{subsubsection.4.3.1.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.3.2}{Economic results}}{105}{subsection.4.3.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {4.4}{Discussion}}{107}{section.4.4}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.4.1}{Economic implications}}{107}{subsection.4.4.1}%
-\defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {4.4.2}{Phosphorus use efficiency}}{108}{subsection.4.4.2}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {4.5}{Conclusion}}{109}{section.4.5}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{Acknowledgments}{110}{section.4.5}%
-\defcounter {refsection}{5}\relax
-\contentsline {section}{Bibliography}{110}{section.4.5}%
+\contentsline {section}{\numberline {2.3}{Specific objectives}}{11}{section.2.3}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {5}{Analysis of incentive policies for phosphorus recovery}}{119}{chapter.5}%
-\defcounter {refsection}{6}\relax
-\contentsline {section}{\numberline {5.1}{Introduction}}{119}{section.5.1}%
-\defcounter {refsection}{6}\relax
-\contentsline {section}{\numberline {5.2}{Incentive policy assessment framework}}{120}{section.5.2}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.2.1}{Assessment of nutrient management systems}}{121}{subsection.5.2.1}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {5.2.1.1}{Phosphorus recovery systems}}{122}{subsubsection.5.2.1.1}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {5.2.1.2}{Biogas production and upgrading}}{123}{subsubsection.5.2.1.2}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.2.2}{Environmental vulnerability to nutrient pollution}}{123}{subsection.5.2.2}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.2.3}{Multi-criteria decision analysis model for the assessment of nutrient management systems}}{123}{subsection.5.2.3}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.2.4}{Types of incentives considered}}{124}{subsection.5.2.4}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.2.5}{Scenarios description}}{125}{subsection.5.2.5}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.2.6}{Study Region - The Great Lakes area}}{126}{subsection.5.2.6}%
-\defcounter {refsection}{6}\relax
-\contentsline {section}{\numberline {5.3}{Results and discussion}}{127}{section.5.3}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.3.1}{Single incentives}}{127}{subsection.5.3.1}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {5.3.1.1}{Effect of P credits}}{127}{subsubsection.5.3.1.1}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {5.3.1.2}{Effect of renewable energy certificates}}{128}{subsubsection.5.3.1.2}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.3.2}{Combined effect of incentives for phosphorus and renewable electricity recovery}}{129}{subsection.5.3.2}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.3.3}{Environmental cost-benefit analysis}}{131}{subsection.5.3.3}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {5.3.4}{Fair distribution of incentives}}{133}{subsection.5.3.4}%
-\defcounter {refsection}{6}\relax
-\contentsline {section}{\numberline {5.4}{Conclusions}}{135}{section.5.4}%
-\defcounter {refsection}{6}\relax
-\contentsline {section}{Acknowledgments}{136}{section.5.4}%
-\defcounter {refsection}{6}\relax
-\contentsline {section}{Bibliography}{136}{section.5.4}%
+\contentsline {paragraph}{{Objective I:}}{11}{paragraph*.11}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{141}{part.2}%
+\contentsline {paragraph}{{Objective II:}}{11}{paragraph*.12}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {6}{Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations}}{143}{chapter.6}%
+\contentsline {paragraph}{{Objective III:}}{11}{paragraph*.13}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.1}{Introduction}}{143}{section.6.1}%
+\contentsline {paragraph}{{Objective IV:}}{11}{paragraph*.14}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {iii}{Integration of anaerobic digestion and nutrient management systems}}{145}{part.3}%
+\contentsline {part}{\numberline {i}{Phosphorus management and recovery}}{13}{part.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}{Optimal technology selection for the biogas upgrading to biomethane}}{147}{chapter.7}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{\numberline {7.1}{Introduction}}{147}{section.7.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{\numberline {7.2}{Methodology for process design}}{149}{section.7.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{\numberline {7.3}{Process design}}{150}{section.7.3}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.3.1}{Technology screening}}{150}{subsection.7.3.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.3.2}{Mathematical modelling}}{152}{subsection.7.3.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.2.1}{Biogas production and conditioning}}{152}{subsubsection.7.3.2.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.2.2}{Absorption: amines}}{153}{subsubsection.7.3.2.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.2.3}{PSA}}{153}{subsubsection.7.3.2.3}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.2.4}{Membranes}}{154}{subsubsection.7.3.2.4}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.3.3}{Selection of optimal configurations}}{154}{subsection.7.3.3}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.3.1}{Absorption: amines}}{154}{subsubsection.7.3.3.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.3.2}{PSA}}{155}{subsubsection.7.3.3.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.3.3.3}{Membranes}}{156}{subsubsection.7.3.3.3}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.3.4}{Superstructure configuration}}{156}{subsection.7.3.4}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.3.5}{Economic evaluation}}{157}{subsection.7.3.5}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{\numberline {7.4}{Results}}{157}{section.7.4}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.4.1}{Biogas composition}}{157}{subsection.7.4.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.4.2}{Selection of technology}}{158}{subsection.7.4.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.4.2.1}{Selection of the optimal configuration}}{158}{subsubsection.7.4.2.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.4.2.2}{Selection of the optimal technology and operating conditions}}{158}{subsubsection.7.4.2.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.4.3}{Estimation of production and investment costs}}{158}{subsection.7.4.3}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.4.4}{Comparison with renewable-based hydrogenation processes}}{161}{subsection.7.4.4}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.4.4.1}{Comparison based on feed flowrate}}{162}{subsubsection.7.4.4.1}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsubsection}{\numberline {7.4.4.2}{Comparison based on production capacity}}{162}{subsubsection.7.4.4.2}%
-\defcounter {refsection}{7}\relax
-\contentsline {subsection}{\numberline {7.4.5}{Plant scale-up study}}{163}{subsection.7.4.5}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{\numberline {7.5}{Conclusions}}{164}{section.7.5}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{Nomenclature}{166}{section.7.5}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{Acknowledgments}{169}{table.7.12}%
-\defcounter {refsection}{7}\relax
-\contentsline {section}{Bibliography}{169}{table.7.12}%
+\contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{15}{part.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {iv}{Appendix}}{175}{part.4}%
+\contentsline {part}{\numberline {iii}{Integration of anaerobic digestion and nutrient management systems}}{17}{part.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\numberline {iv}{Appendix}}{19}{part.4}%
