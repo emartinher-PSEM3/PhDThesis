@@ -309,6 +309,35 @@
       \field{title}{Agricultural phosphorus legislation in Europe}
       \field{year}{2014}
     \endentry
+    \entry{belton2002multiple}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f2060ca14fe6fe810ac8b32075fc69d4}{%
+           family={Belton},
+           familyi={B\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+        {{hash=99a50def8119fa9213680c0074b64091}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Theodor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{18e1c1665d29148b02cd8150bebd7bcf}
+      \strng{fullhash}{18e1c1665d29148b02cd8150bebd7bcf}
+      \strng{bibnamehash}{18e1c1665d29148b02cd8150bebd7bcf}
+      \strng{authorbibnamehash}{18e1c1665d29148b02cd8150bebd7bcf}
+      \strng{authornamehash}{18e1c1665d29148b02cd8150bebd7bcf}
+      \strng{authorfullhash}{18e1c1665d29148b02cd8150bebd7bcf}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multiple criteria decision analysis: an integrated approach}
+      \field{year}{2002}
+    \endentry
     \entry{biraben1980essay}{article}{}
       \name{author}{1}{}{%
         {{hash=aff3f92be967f94ef376adbc26c92903}{%
@@ -567,6 +596,67 @@
       \field{title}{{ESPP input for the EU's "Integrated Nutrient Management Action Plan" (INMAP)}}
       \field{type}{techreport}
       \field{year}{2021}
+    \endentry
+    \entry{MarcoCinelli2020}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ac60b32f35de2d3c0008134aa8da4b95}{%
+           family={Gasser},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b6fe8d0d1f14a5fd42a00ef52ba56421}{%
+           family={Suter},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e2d27d181ebafbc719d3b8d88f708c21}{%
+           family={Cinelli},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ded006d39c1bdb789d59b0ee2a6d83b6}{%
+           family={Spada},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a913efcfd42150d3e97549272cf3c76a}{%
+           family={Burgherr},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=455d46392fa074db61de9b8f1a8c759a}{%
+           family={Hirschberg},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a48603b691889822dc6ed80eccff324d}{%
+           family={Kadziński},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=55a68c64c1674891dbb72e2d456c13d5}{%
+           family={Stojadinović.},
+           familyi={S\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{30ebcf962ca74c93819db4fce7a97652}
+      \strng{fullhash}{860daad85fd21bdc30a6f98099d9f676}
+      \strng{bibnamehash}{860daad85fd21bdc30a6f98099d9f676}
+      \strng{authorbibnamehash}{860daad85fd21bdc30a6f98099d9f676}
+      \strng{authornamehash}{30ebcf962ca74c93819db4fce7a97652}
+      \strng{authorfullhash}{860daad85fd21bdc30a6f98099d9f676}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological Indicators}
+      \field{title}{Comprehensive resilience assessment of electricity supply security for 140 countries}
+      \field{volume}{109}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.ecolind.2019.105731
+      \endverb
     \endentry
     \entry{GRIZZETTI2021102281}{article}{}
       \name{author}{13}{}{%
@@ -832,6 +922,50 @@
       \field{year}{1999}
       \field{pages}{415\bibrangedash 415}
       \range{pages}{1}
+    \endentry
+    \entry{tervonen_implementing_2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=42561b172b9cf5716a7cf8a284f31053}{%
+           family={Tervonen},
+           familyi={T\bibinitperiod},
+           given={Tommi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3bbac3160935d9ab5a9025fda58ce4f7}{%
+           family={Lahdelma},
+           familyi={L\bibinitperiod},
+           given={Risto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{fullhash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{bibnamehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{authorbibnamehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{authornamehash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \strng{authorfullhash}{08331c1c6af336bf21d42f73bb6c3a51}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{03772217}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{2}
+      \field{title}{Implementing stochastic multicriteria acceptability analysis}
+      \field{volume}{178}
+      \field{year}{2007}
+      \field{pages}{500\bibrangedash 513}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2005.12.037
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0377221706000506
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0377221706000506
+      \endverb
     \endentry
     \entry{tilley2014compendium}{book}{}
       \name{author}{5}{}{%

@@ -10,48 +10,54 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {1.1}{Rationale: Overview of the nutrient pullution challenge}}{1}{section.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.2}{Thesis outline}}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.2}{Approaches for processes modeling}}{6}{section.1.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.1}{Part I - Phosphorus management and recovery}}{6}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}{Approaches for geospatial environmental assessment}}{6}{section.1.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{6}{paragraph*.5}%
+\contentsline {section}{\numberline {1.4}{Approaches for decision-support systems}}{6}{section.1.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{7}{paragraph*.6}%
+\contentsline {section}{\numberline {1.5}{Thesis outline}}{8}{section.1.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{7}{paragraph*.7}%
+\contentsline {subsection}{\numberline {1.5.1}{Part I - Phosphorus management and recovery}}{8}{subsection.1.5.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{7}{paragraph*.8}%
+\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{8}{paragraph*.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.2}{Part II - Nitrogen management and recovery}}{7}{subsection.1.2.2}%
+\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{8}{paragraph*.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{7}{paragraph*.9}%
+\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{9}{paragraph*.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.3}{Part III - Nitrogen management and recovery}}{8}{subsection.1.2.3}%
+\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{9}{paragraph*.8}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{8}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.5.2}{Part II - Nitrogen management and recovery}}{9}{subsection.1.5.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{8}{paragraph*.10}%
+\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{9}{paragraph*.9}%
+\defcounter {refsection}{2}\relax
+\contentsline {subsection}{\numberline {1.5.3}{Part III - Nitrogen management and recovery}}{9}{subsection.1.5.3}%
+\defcounter {refsection}{2}\relax
+\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{9}{paragraph*.10}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{Bibliography}{10}{paragraph*.10}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {2}{Objective}}{11}{chapter.2}%
+\contentsline {chapter}{\numberline {2}{Objective}}{13}{chapter.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.1}{Scope and objectives of the thesis}}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.1}{Scope and objectives of the thesis}}{13}{section.2.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.2}{Main objective}}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.2}{Main objective}}{13}{section.2.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.3}{Specific objectives}}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.3}{Specific objectives}}{13}{section.2.3}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective I:}}{11}{paragraph*.11}%
+\contentsline {paragraph}{{Objective I:}}{13}{paragraph*.11}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective II:}}{11}{paragraph*.12}%
+\contentsline {paragraph}{{Objective II:}}{13}{paragraph*.12}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective III:}}{11}{paragraph*.13}%
+\contentsline {paragraph}{{Objective III:}}{13}{paragraph*.13}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective IV:}}{11}{paragraph*.14}%
+\contentsline {paragraph}{{Objective IV:}}{13}{paragraph*.14}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {i}{Phosphorus management and recovery}}{13}{part.1}%
+\contentsline {part}{\numberline {i}{Phosphorus management and recovery}}{15}{part.1}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{15}{part.2}%
+\contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{17}{part.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {iii}{Integration of anaerobic digestion and nutrient management systems}}{17}{part.3}%
+\contentsline {part}{\numberline {iii}{Integration of anaerobic digestion and nutrient management systems}}{19}{part.3}%
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {iv}{Appendix}}{19}{part.4}%
+\contentsline {part}{\numberline {iv}{Appendix}}{21}{part.4}%

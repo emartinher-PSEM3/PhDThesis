@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  10 SEP 2021 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  13 SEP 2021 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2043,7 +2043,7 @@ Chapter 1.
 \blx@sectionciteorder@2=\count496
 Package biblatex Info: Reference section=2 on input line 4.
 Package biblatex Info: Setting label 'refsection:2' on input line 4.
-<gfx/Chapter1/IntroFig1.pdf, id=121, 650.43pt x 854.23708pt>
+<gfx/Chapter1/IntroFig1.pdf, id=127, 650.43pt x 854.23708pt>
 File: gfx/Chapter1/IntroFig1.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig1.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig1.pdf  used on input line 61.
@@ -2094,73 +2094,97 @@ Overfull \hbox (3.71693pt too wide) has occurred while \output is active
 [5] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter1/IntroFig2.pdf, id=204, 542.025pt x 578.16pt>
+<gfx/Chapter1/IntroFig2.pdf, id=210, 542.025pt x 578.16pt>
 File: gfx/Chapter1/IntroFig2.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig2.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig2.pdf  used on input line 86.
 (pdftex.def)             Requested size: 235.19897pt x 252.72064pt.
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [6 <./gfx/Chapter1/IntroFig2.pdf>]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [7] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
 
 
-LaTeX Warning: Reference `ch:PhosphorusTechs' on page 6 undefined on input line
- 103.
+
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 8 undefined on input line
+ 114.
 
 
-Overfull \hbox (1.8282pt too wide) in paragraph at lines 103--104
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 8 undefined on input line
+ 114.
+
+
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 8 undefined on input line
+ 122.
+
+
+Overfull \hbox (1.8282pt too wide) in paragraph at lines 122--123
 [] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - tech-nolo-gies for phos-pho-r
 us re-cov-ery.[] \T1/pplj/m/n/10.95 (-20) This
  []
 
-\openout4 = `ClassicThesis.mw.mw'.
 
-[6 <./gfx/Chapter1/IntroFig2.pdf>] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
+LaTeX Warning: Reference `ch:Struvite' on page 8 undefined on input line 124.
 
 
-
-LaTeX Warning: Reference `ch:Struvite' on page 7 undefined on input line 105.
-
-
-LaTeX Warning: Reference `ch:Tool' on page 7 undefined on input line 107.
-
-
-LaTeX Warning: Reference `ch:Policies' on page 7 undefined on input line 109.
-
-
-LaTeX Warning: Reference `ch:NitrogenTechs' on page 7 undefined on input line 1
-12.
-
-
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 7 undefined on input line
- 115.
+LaTeX Warning: Reference `ch:Tool' on page 8 undefined on input line 126.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
-[7] (./ClassicThesis.mw.mw)
+[8] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 12
-2.
+
+
+LaTeX Warning: Reference `ch:Policies' on page 9 undefined on input line 128.
+
+
+LaTeX Warning: Reference `ch:NitrogenTechs' on page 9 undefined on input line 1
+31.
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 9 undefined on input line
+ 134.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[9] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 14
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 122.
+(Font)              scaled to size 9.30756pt on input line 141.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Overfull \hbox (4.1362pt too wide) in paragraph at lines 141--141
+[]\T1/pplj/m/n/10.95 (-20) P. Gasser, J. Suter, M. Cinelli, M. Spada, P. Burghe
+rr, S. Hirschberg,
+ []
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [8]
-(./ClassicThesis.mw.mw)
+[10] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-Package biblatex Info: Reference section=0 on input line 123.
+Package biblatex Info: Reference section=0 on input line 142.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [9] (./ClassicThesis.mw.mw)
+ [11] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout2 = `Chapters/Chapter01_1.aux'.
@@ -2170,7 +2194,7 @@ Package biblatex Info: Reference section=0 on input line 123.
 Chapter 2.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[10
+[12
 
 
 
@@ -2181,12 +2205,12 @@ Chapter 2.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [11] (./ClassicThesis.mw.mw)
+ [13] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [12
+ [14
 
 
 
@@ -2196,23 +2220,7 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [13
-
-
-] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [14]
-(./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
  [15
-
-
 
 
 ] (./ClassicThesis.mw.mw)
@@ -2253,6 +2261,22 @@ Chapter 2.
 \openout4 = `ClassicThesis.mw.mw'.
 
  [20]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [21
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [22]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2518,6 +2542,30 @@ LaTeX Info: Redefining \% on input line 5.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
 )
 (./Chapters/Chapter01_1.aux
 \openout4 = `ClassicThesis.mw.mw'.
@@ -2624,6 +2672,11 @@ LaTeX Info: Redefining \% on input line 5.
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+Package mparhack Warning: Marginpars may have changed.
+(mparhack)                Rerun to get them right.
 
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 182.
@@ -2861,6 +2914,9 @@ Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 \openout1 = `ClassicThesis.run.xml'.
 
@@ -2888,13 +2944,13 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35873 strings out of 481239
- 674795 string characters out of 5920376
- 1646596 words of memory out of 5000000
- 49756 multiletter control sequences out of 15000+600000
- 642050 words of font info for 446 fonts, out of 8000000 for 9000
+ 35907 strings out of 481239
+ 675486 string characters out of 5920376
+ 1646964 words of memory out of 5000000
+ 49770 multiletter control sequences out of 15000+600000
+ 642545 words of font info for 453 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 71i,23n,125p,10108b,3275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,23n,125p,10108b,3305s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fon
@@ -2902,10 +2958,10 @@ ts/type1/public/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (34 pages, 295585 bytes).
+Output written on ClassicThesis.pdf (36 pages, 304084 bytes).
 PDF statistics:
- 422 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 99 named destinations out of 1000 (max. 500000)
- 85212 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 457 PDF objects out of 1000 (max. 8388607)
+ 394 compressed objects within 4 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 85236 words of extra memory for PDF output out of 89155 (max. 10000000)
 
