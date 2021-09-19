@@ -14,29 +14,29 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {1.3}{Approaches for geospatial environmental assessment}}{6}{section.1.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.4}{Approaches for decision-support systems}}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.4}{Approaches for decision-support systems}}{7}{section.1.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.5}{Thesis outline}}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.5}{Thesis outline}}{9}{section.1.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.5.1}{Part I - Phosphorus management and recovery}}{8}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.1}{Part I - Phosphorus management and recovery}}{9}{subsection.1.5.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{8}{paragraph*.5}%
+\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{9}{paragraph*.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{8}{paragraph*.6}%
+\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{9}{paragraph*.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{9}{paragraph*.7}%
+\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{10}{paragraph*.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{9}{paragraph*.8}%
+\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{10}{paragraph*.8}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.5.2}{Part II - Nitrogen management and recovery}}{9}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.2}{Part II - Nitrogen management and recovery}}{10}{subsection.1.5.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{9}{paragraph*.9}%
+\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{10}{paragraph*.9}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.5.3}{Part III - Nitrogen management and recovery}}{9}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}{Part III - Nitrogen management and recovery}}{10}{subsection.1.5.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{9}{paragraph*.10}%
+\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{10}{paragraph*.10}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{10}{paragraph*.10}%
+\contentsline {section}{Bibliography}{11}{paragraph*.10}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {2}{Objective}}{13}{chapter.2}%
 \defcounter {refsection}{0}\relax

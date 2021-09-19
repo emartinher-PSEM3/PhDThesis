@@ -2232,10 +2232,12 @@
     <bcf:citekey order="19">NPDESforCAFO</bcf:citekey>
     <bcf:citekey order="20">NACWA503</bcf:citekey>
     <bcf:citekey order="21">CNP503</bcf:citekey>
-    <bcf:citekey order="22">belton2002multiple</bcf:citekey>
-    <bcf:citekey order="23">tervonen_implementing_2007</bcf:citekey>
-    <bcf:citekey order="24">tervonen_implementing_2007</bcf:citekey>
-    <bcf:citekey order="25">MarcoCinelli2020</bcf:citekey>
+    <bcf:citekey order="22">foster2007environmental</bcf:citekey>
+    <bcf:citekey order="23">di2017can</bcf:citekey>
+    <bcf:citekey order="24">gharehbaghi2018gis</bcf:citekey>
+    <bcf:citekey order="25">belton2002multiple</bcf:citekey>
+    <bcf:citekey order="26">tervonen_implementing_2007</bcf:citekey>
+    <bcf:citekey order="28">MarcoCinelli2020</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
