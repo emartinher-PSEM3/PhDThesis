@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  19 SEP 2021 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  20 SEP 2021 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2103,7 +2103,7 @@ Overfull \hbox (0.39574pt too wide) in paragraph at lines 57--58
 ] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter1/IntroFig1.pdf, id=121, 650.43pt x 854.23708pt>
+<gfx/Chapter1/IntroFig1.pdf, id=135, 650.43pt x 854.23708pt>
 File: gfx/Chapter1/IntroFig1.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig1.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig1.pdf  used on input line 61.
@@ -2202,22 +2202,27 @@ Overfull \hbox (3.71693pt too wide) has occurred while \output is active
 [5] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter1/IntroFig2.pdf, id=161, 542.025pt x 578.16pt>
+<gfx/Chapter1/IntroFig2.pdf, id=175, 542.025pt x 578.16pt>
 File: gfx/Chapter1/IntroFig2.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig2.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig2.pdf  used on input line 86.
 (pdftex.def)             Requested size: 235.19897pt x 252.72064pt.
 
 
-LaTeX Warning: Citation 'foster2007environmental' on page 6 undefined on input 
+LaTeX Warning: Citation 'STEPHANOPOULOS20114272' on page 6 undefined on input l
+ine 100.
+
+
+LaTeX Warning: Citation 'PISTIKOPOULOS2021107252' on page 6 undefined on input 
 line 102.
 
 
-LaTeX Warning: Citation 'di2017can' on page 6 undefined on input line 102.
+LaTeX Warning: Citation 'MARTIN201216' on page 6 undefined on input line 102.
 
 
-LaTeX Warning: Citation 'gharehbaghi2018gis' on page 6 undefined on input line 
-102.
+Overfull \hbox (10.4481pt too wide) in paragraph at lines 102--103
+\T1/pplj/m/n/10.95 (-20) phar-ma-ceu-ti-cal do-mains of en-gi-neer-ing [[]].
+ []
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2226,8 +2231,49 @@ LaTeX Warning: Citation 'gharehbaghi2018gis' on page 6 undefined on input line
 
 
 
-LaTeX Warning: Citation 'belton2002multiple' on page 7 undefined on input line 
-110.
+LaTeX Warning: Citation 'couper2005chemical' on page 7 undefined on input line 
+108.
+
+
+LaTeX Warning: Citation 'hall2012rules' on page 7 undefined on input line 108.
+
+
+LaTeX Warning: Citation 'sadhukhan2014biorefineries' on page 7 undefined on inp
+ut line 108.
+
+
+LaTeX Warning: Citation 'szirtes2007applied' on page 7 undefined on input line 
+111.
+
+
+Overfull \hbox (23.55402pt too wide) in paragraph at lines 111--112
+\T1/pplj/m/n/10.95 (-20) cially use-ful to cap-ture scale-up and scale-down is-
+sues [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'loeppert1995chemical' on page 7 undefined on input lin
+e 114.
+
+
+LaTeX Warning: Citation 'brignole2013phase' on page 7 undefined on input line 1
+14.
+
+
+LaTeX Warning: Citation 'buzzi2009kinetic' on page 7 undefined on input line 11
+4.
+
+
+LaTeX Warning: Citation 'ramkrishna2000population' on page 7 undefined on input
+ line 114.
+
+
+LaTeX Warning: Citation 'anderson1995computational' on page 7 undefined on inpu
+t line 114.
+
+
+LaTeX Warning: Citation 'queipo2005surrogate' on page 7 undefined on input line
+ 117.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2236,12 +2282,20 @@ LaTeX Warning: Citation 'belton2002multiple' on page 7 undefined on input line
 
 
 
-LaTeX Warning: Citation 'tervonen_implementing_2007' on page 8 undefined on inp
-ut line 118.
+LaTeX Warning: Citation 'wilson2017alamo' on page 8 undefined on input line 119
+.
 
 
-LaTeX Warning: Citation 'MarcoCinelli2020' on page 8 undefined on input line 11
-8.
+LaTeX Warning: Citation 'quirante2015rigorous' on page 8 undefined on input lin
+e 119.
+
+
+LaTeX Warning: Citation 'himmelblau2000applications' on page 8 undefined on inp
+ut line 120.
+
+
+LaTeX Warning: Citation 'belton2002multiple' on page 8 undefined on input line 
+126.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2250,28 +2304,25 @@ LaTeX Warning: Citation 'MarcoCinelli2020' on page 8 undefined on input line 11
 
 
 
-LaTeX Warning: Reference `ch:PhosphorusTechs' on page 9 undefined on input line
- 120.
+LaTeX Warning: Citation 'giove2009decision' on page 9 undefined on input line 1
+30.
 
 
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 9 undefined on input line
- 120.
+LaTeX Warning: Citation 'HandbookCompositeIndicators' on page 9 undefined on in
+put line 137.
 
 
-LaTeX Warning: Reference `ch:PhosphorusTechs' on page 9 undefined on input line
- 128.
+LaTeX Warning: Citation 'MarcoCinelli2020' on page 9 undefined on input line 14
+0.
 
 
-Overfull \hbox (1.8282pt too wide) in paragraph at lines 128--129
-[] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - tech-nolo-gies for phos-pho-r
-us re-cov-ery.[] \T1/pplj/m/n/10.95 (-20) This
+LaTeX Warning: Citation 'marichal2000determination' on page 9 undefined on inpu
+t line 140.
+
+
+Overfull \hbox (6.67015pt too wide) in paragraph at lines 137--141
+\T1/pplj/m/n/10.95 (-20) min-max, and tar-get util-ity func-tions [[]].
  []
-
-
-LaTeX Warning: Reference `ch:Struvite' on page 9 undefined on input line 130.
-
-
-LaTeX Warning: Reference `ch:Tool' on page 9 undefined on input line 132.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2280,39 +2331,129 @@ LaTeX Warning: Reference `ch:Tool' on page 9 undefined on input line 132.
 
 
 
-LaTeX Warning: Reference `ch:Policies' on page 10 undefined on input line 134.
+LaTeX Warning: Citation 'tervonen_implementing_2007' on page 10 undefined on in
+put line 143.
 
 
-LaTeX Warning: Reference `ch:NitrogenTechs' on page 10 undefined on input line 
-137.
+LaTeX Warning: Citation 'saaty2000fundamentals' on page 10 undefined on input l
+ine 147.
 
 
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 10 undefined on input lin
-e 140.
+LaTeX Warning: Citation 'hwang1995multi' on page 10 undefined on input line 149
+.
 
 
-LaTeX Warning: Empty bibliography on input line 147.
+LaTeX Warning: Citation 'giove2009decision' on page 10 undefined on input line 
+158.
 
-Package biblatex Info: Reference section=0 on input line 148.
+
+LaTeX Warning: Citation 'roy1968classement' on page 10 undefined on input line 
+158.
+
+
+LaTeX Warning: Citation 'roy1973methode' on page 10 undefined on input line 158
+.
+
+
+LaTeX Warning: Citation 'roy1978electre' on page 10 undefined on input line 158
+.
+
+
+LaTeX Warning: Citation 'vincke1985preference' on page 10 undefined on input li
+ne 158.
+
+
+Overfull \hbox (21.05515pt too wide) in paragraph at lines 158--159
+\T1/pplj/m/n/10.95 (-20) the most pop-u-lar out-rank-ing meth-ods are ELEC-TRE 
+I [[]],
+ []
+
+
+Overfull \hbox (91.7477pt too wide) in paragraph at lines 158--159
+\T1/pplj/m/n/10.95 (-20) II [[]], and III [[]], and PROMETHEE [[]]. 
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[10] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 11 undefined on input lin
+e 160.
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 11 undefined on input lin
+e 160.
+
+
+LaTeX Warning: Citation 'foster2007environmental' on page 11 undefined on input
+ line 163.
+
+
+LaTeX Warning: Citation 'di2017can' on page 11 undefined on input line 163.
+
+
+LaTeX Warning: Citation 'gharehbaghi2018gis' on page 11 undefined on input line
+ 163.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[11] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 12 undefined on input lin
+e 173.
+
+
+Overfull \hbox (1.8282pt too wide) in paragraph at lines 173--174
+[] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - tech-nolo-gies for phos-pho-r
+us re-cov-ery.[] \T1/pplj/m/n/10.95 (-20) This
+ []
+
+
+LaTeX Warning: Reference `ch:Struvite' on page 12 undefined on input line 175.
+
+
+LaTeX Warning: Reference `ch:Tool' on page 12 undefined on input line 177.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[12] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:Policies' on page 13 undefined on input line 179.
+
+
+LaTeX Warning: Reference `ch:NitrogenTechs' on page 13 undefined on input line 
+182.
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 13 undefined on input lin
+e 185.
+
+
+LaTeX Warning: Empty bibliography on input line 192.
+
+Package biblatex Info: Reference section=0 on input line 193.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [10] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [11] (./ClassicThesis.mw.mw)
+ [13] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout2 = `Chapters/Chapter01_1.aux'.
 
-
-(./Chapters/Chapter01_1.tex
+ (./Chapters/Chapter01_1.tex
 Chapter 2.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[12
+[14
 
 
 
@@ -2323,12 +2464,12 @@ Chapter 2.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [13] (./ClassicThesis.mw.mw)
+ [15] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [14
+ [16
 
 
 
@@ -2338,23 +2479,7 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [15
-
-
-] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [16]
-(./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
  [17
-
-
 
 
 ] (./ClassicThesis.mw.mw)
@@ -2395,6 +2520,22 @@ Chapter 2.
 \openout4 = `ClassicThesis.mw.mw'.
 
  [22]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [23
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [24]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2532,6 +2673,78 @@ LaTeX Info: Redefining \% on input line 5.
 \openout4 = `ClassicThesis.mw.mw'.
 
 ) (./Chapters/Chapter01.aux
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -3058,11 +3271,11 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35686 strings out of 481239
- 670087 string characters out of 5920376
- 1647076 words of memory out of 5000000
- 49654 multiletter control sequences out of 15000+600000
- 640728 words of font info for 397 fonts, out of 8000000 for 9000
+ 35718 strings out of 481239
+ 670496 string characters out of 5920376
+ 1647098 words of memory out of 5000000
+ 49666 multiletter control sequences out of 15000+600000
+ 641009 words of font info for 401 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  69i,23n,125p,10108b,2320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -3071,10 +3284,10 @@ exmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (36 pages, 298703 bytes).
+Output written on ClassicThesis.pdf (38 pages, 310084 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
- 76 named destinations out of 1000 (max. 500000)
- 85236 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 428 PDF objects out of 1000 (max. 8388607)
+ 364 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 85292 words of extra memory for PDF output out of 89155 (max. 10000000)
 
