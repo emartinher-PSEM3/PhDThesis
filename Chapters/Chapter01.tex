@@ -133,19 +133,23 @@ Multi-criteria decision-making problems can be divided into Multi-Attribute Deci
 
 In the case of problems consisting of a finite number of alternatives, the suitability of each alternative to the problem given can be measured through its performance according to the multiple criteria considered. A large number of MCDA approaches have been (and are currently being) developed for discrete choice problems, including methods based on value functions (Multi-Attribute Value Theory methods, MAVT) and outranking methods.
 
-\subsubsection{Multi-Attribute Value Theory (MAVT) methods}
-In this approach, the relevant criteria considered in the decision-making process are a normalized to a common scale to allow criteria comparison using a utility or value function. A number of utility functions have been proposed in the literature, including standardization, min-max, and target utility functions \citep{HandbookCompositeIndicators}. 
+\subsubsection{Multi-Attribute Value Theory (MAVT)}
+\paragraph{Indicator-based methods}
+In this approach, an indicator-based methodology is used for alternatives comparison. The relevant criteria considered in the decision-making process are a normalized to a common scale to allow criteria comparison using a utility or value function. A number of utility functions have been proposed in the literature, including standardization, min-max, and target utility functions \citep{HandbookCompositeIndicators}. 
 The normalized criteria 
 %are weighted to set the relative importance of each criterion, prioritizing some criteria over others. In the last step, weighted criteria 
 are weighted and aggregated to build a composite index, prioritizing some criteria over others. Different aggregation schemes denote different degrees of compensability between indicators, i.e. a deficit in one criteria can be fully, partially, or not compensated by a surplus in other criteria \citep{MarcoCinelli2020}. Additive weighting aggregation is a full compensatory method, while geometric and  harmonic aggregation methods are partial  compensation schemes. Other aggregation schemes include geometric averaging, which is a non-compensatory method, and the Choquet integral \citep{marichal2000determination}. The composite index obtained is a single numerical value that can be used to score and rank the proposed alternatives based on their suitability to the criteria considered. 
 
 %Uncertainty can be addressed with MAVT methods using different techniques, such as sensitivity analysis, bayesian approaches, and fuzzy set theory methods. 
-A major source of uncertainty in MAVT methods is the value of criteria weights. This can be addressed using the stochastic multi-criteria acceptability analysis (SMAA) method. SMAA is a sensitivity analysis method that address the uncertainty of criteria weights value exploring the feasible space of weights through the Monte Carlo method. Details about the SMAA approach can be found in \citet{tervonen_implementing_2007}.
+A major source of uncertainty in indicator-based methods is the value of criteria weights. This can be addressed using the stochastic multi-criteria acceptability analysis (SMAA) method. SMAA is a sensitivity analysis method that address the uncertainty of criteria weights value exploring the feasible space of weights through the Monte Carlo method. Details about the SMAA approach can be found in \citet{tervonen_implementing_2007}.
 
-In this thesis, and indicator-based methodology has been used to assess and select phosphorus recovery technologies based on technical, environmental, and economic criteria combined in a composite index.
+%In this thesis, and indicator-based methodology has been used to assess and select phosphorus recovery technologies based on technical, environmental, and economic criteria combined in a composite index.
 
-Another MAVT approaches include Analytic Hierarchy Process (AHP) and the Ideal Point Methods. AHP decomposes the decision problem in multiple simpler sub-problems. These sub-problems are hierarchized are independently analyzed. These sub-problems are solved through the pairwise comparison of the alternatives, obtaing numerical indexes that can be used to compare their performance. Finally a numerical weight (priority) is assigned to each element of the hierarchy, and they are used for aggregating the indexes obtained by each alternative in a final numerical value that can be used to score the overall performance of each alternative accordingly to the set of criteria considered \citep{saaty2000fundamentals}. 
+%Another MAVT approaches include Analytic Hierarchy Process (AHP) and the Ideal Point Methods. 
+\paragraph{Analytic Hierarchy Process (AHP)}
+Analytic Hierarchy Process (AHP) decomposes the decision problem in multiple simpler sub-problems. These sub-problems are hierarchized are independently analyzed. These sub-problems are solved through the pairwise comparison of the alternatives, obtaing numerical indexes that can be used to compare their performance. Finally a numerical weight (priority) is assigned to each element of the hierarchy, and they are used for aggregating the indexes obtained by each alternative in a final numerical value that can be used to score the overall performance of each alternative accordingly to the set of criteria considered \citep{saaty2000fundamentals}. 
 
+\paragraph{Ideal Point methods}
 Ideal Point methods set an optimal solution, that represent a utopia point where all criteria values are optimal. The performance of each alternative is evaluated through a composite index, that can be constructed using the techniques previously described. The alternatives are ranked based on their relative distance relative to the optimal solution. One of the most Ideal Point methods is TOPSIS \citep{hwang1995multi}.
 
 
@@ -155,9 +159,34 @@ Ideal Point methods set an optimal solution, that represent a utopia point where
 %values for the weighting, a stochastic multi-criteria acceptability analysis (SMAA) is used to explore the weights space through the Monte Carlo method. Details about the SMAA approach can be found in \citet{tervonen_implementing_2007}. Finally, weighted criteria are aggregated to build the composite index. Different aggregation schemes denote different degrees of compensability between indicators, i.e. a deficit in one criteria can be fully, partially, or not compensated by a surplus in other criteria \citep{MarcoCinelli2020}.  Similarly to the normalization stage, different aggregation methods, including one full compensation and two partial compensation schemes are evaluated to achieve a robust solution.
 
 \subsubsection{Outranking methods}
-Outranking methods are based on the pairwise comparison of the alternatives for each criterion considered, determining the preferred alternative for each criterion. These methods indicate the dominance of one alternative over another, but they do not quantify the performance gap between the alternatives compared \citep{giove2009decision}. Some of the most popular outranking methods are ELECTRE I \citep{roy1968classement}, II \citep{roy1973methode}, and III \citep{roy1978electre}, and PROMETHEE \citep{vincke1985preference}.
+Outranking methods are based on the pairwise comparison of the alternatives for each criterion considered, determining the preferred alternative for each of the criteria. Preference information about all criteria is aggregated to establish evidence for selecting one alternative over another. These methods indicate the dominance of one alternative over another, but they do not quantify the performance gap between the alternatives compared \citep{giove2009decision}. Some of the most popular outranking methods are ELECTRE I \citep{roy1968classement}, II \citep{roy1973methode}, and III \citep{roy1978electre}, and PROMETHEE \citep{vincke1985preference}.
 
-Alternatively, problems consisting of an infinite number of solutions require multi-objective mathematical programming (optimization) techniques to be solve. These problems are subjected to a number of constraints restricting the solutions that are feasible, and the multiple conflicting criteria are in an objective function that will be minimized or maximized for selecting the best solution. In this thesis, this technique has been employed for selecting the operating conditions of processes for the recovery of nutrient, energy and biomethane from livestock waste, as it is shown in Chapters \ref{ch:PhosphorusTechs} and \ref{ch:BiogasUpgrading}. Other approach for solving multi-objective mathematical programming problems is to set a priory targets for different criteria, or combinations of criteria, that are considered satisfactory, obtaining the problem solution by minimizing the deviations from these goals.
+\subsubsection{Multi-Objective Decision Analysis(MODA)}
+
+%Alternatively, p
+Problems consisting of an infinite number of solutions require multi-objective mathematical programming (optimization) techniques to be solve. These problems are subjected to a number of equality and/or inequality constraints restricting the solutions that are feasible, and the multiple conflicting criteria are combined in an objective function. This objective function represents the improving level of the criteria, and it will be minimized or maximized for selecting the best solution that represents the optimal trade-off between the different conflicting criteria. In this thesis, this technique has been employed for selecting the operating conditions of processes for the recovery of nutrient, energy and biomethane from livestock waste, as it is shown in Chapters \ref{ch:PhosphorusTechs} and \ref{ch:BiogasUpgrading}. Other approach for solving multi-objective mathematical programming problems is to set a priory targets for different criteria, or combinations of criteria, that are considered satisfactory, obtaining the problem solution by minimizing the deviations from these goals. Mathematical programming problems can be also classified according to the use of linear or nonlinear equations, and continuous and/or discrete variables.
+
+\paragraph{Linear programming}
+Linear programming (LP) refers to those mathematical programming problems based on linear equations and continuous variables. A linear programming problem can be expressed as shown in Eq  \ref{eq:IntroEq1},  where $x$ is an n-vector, $A$ is a mxn matrix, $c$ is the n-vector of cost coefficients, and the right-hand side $b$ is an m-vector \citep{grossmann2021advanced}.
+
+\begin{align}
+	\min \quad & Z=c^{T}x \nonumber\\
+	\textrm{s.t.} \quad & Ax=b \label{eq:IntroEq1}\\
+	&x \geq 0  \nonumber  
+\end{align}
+
+The two most widely used methods to solve LP problems are the Simplex algorithm \citep{murty1983linear} and interior-point methods \citep{POTRA2000281}. The Simplex method is more efficient for solving problems with thousands of variables and constraints, while interior-point performs better on very large scale and sparse problems \citep{grossmann2021advanced}. The most representative commercial solvers such as CPLEX, GUROBI, or XPRESS implement both methods.
+
+\paragraph{Nonlinear programming}
+Nonlinear programming (NLP) refers to those mathematical programming problems containing nonlinear equations, either in the constrains or in the objective function, and continuous variables. A nonlinear programming problem can be expressed as shown in Eq  \ref{eq:IntroEq2}, where $x$ is a n-vector, $f(x)$ is the objective function of the problem, $h(x)$ is the set of equality constraints and $g(x)$ is the set of inequality constraints. \citep{floudas1995nonlinear}.
+
+\begin{align}
+\label{eq:IntroEq2}
+\min \quad & f(x) \nonumber\\
+\textrm{s.t.} \quad & h(x)=0\\
+& g(x) \leq 0 \nonumber\\
+&x \in X  \subseteq \Re^{n} \nonumber
+\end{align}
 
 \section{Approaches for geospatial environmental assessment}
 Human actions, from food production\citep{foster2007environmental} to cloud computing \citep{di2017can}, result in harmful impacts endangering and deteriorating the environment. The development of mitigation measures to reduce the environmental footprint of anthropogenic activities requires the previous understanding and quantification of the environmental impacts associated to each sector. This process, called environmental impact assessment (EIA), involves the analysis of multi-disciplinary information, including environmental, physical, geological, ecological, economic, and social data \citep{gharehbaghi2018gis}. Since EIA aims to evaluate the environmental impact of an activity on a particular geographical location, all these data have a common geographic component, becoming geospatial data.
