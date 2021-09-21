@@ -125,9 +125,16 @@ As the surrogate models, experimental correlations are models built using data o
 \section{Approaches for decision-support systems}
 Decision-making activities require to analyze multiple relevant criteria for each course of action. Since criteria often conflict each other, each decision-making process requires the balancing of criteria, prioritizing some criteria over other through the use of some criteria weighting scheme. This procedure requires managing a vast amount of information of conflicting nature, leading to a complex decision-making process. Therefore, different approaches generally called multiple-criteria decision analysis (MCDA) have been developed to explicitly structure and solve decision problems. MDCA aim is to integrate criteria assessment with value judgment to analyze and compare the different available alternatives, identifying the best solution for the decision-making context studied. However, it must be highlighted that a certain grade of subjectivity might exist is several steps of MCDA, such as the choice of the set of criteria that are considered relevant for a particular problem. Therefore, the solution proposed by any MCDA approach must be analyzed considering the assumptions made for building the problem. As a result, MCDA seeks to structure problems with multiple conflicting criteria, and providing justifiable and explainable solutions to guide decision-makers facing such problems. The solution of a multiple-criteria decision-making problem can defined as a unique solution representing the most suitable alternative from the set of potential alternatives for a particular decision-making context, or a subset of satisfactory alternatives \citep{belton2002multiple}.
 
-A MCDA problem can be articulated in different stages, starting with the problem definition and structuring. At this stage, the goals, constraints, and stakeholders comprising the problem are defined, as well as the different solution alternatives. Based on this information, a model can be built for the assessment and comparison of alternatives. This stage includes the definition of the relevant criteria used for alternatives comparison, their relative priority, and the criteria evaluation system. Finally, the information retrieved by the model can be used for making informed decisions. {\color{red}{figure?}}
+A MCDA problem can be articulated in different stages, starting with the problem definition and structuring. At this stage, the goals, constraints, and stakeholders comprising the problem are defined, as well as the different solution alternatives. Based on this information, a model can be built for the assessment and comparison of alternatives. This stage includes the definition of the relevant criteria used for alternatives comparison, their relative priority, and the criteria evaluation system. Finally, the information retrieved by the model can be used for making informed decisions.
 
-Multi-criteria decision-making problems can be divided into Multi-Attribute Decision Analysis (MADA), which are discrete choice problems where the number of alternatives is finite, and Multi-Objective Decision Analysis (MODA), that are mathematical programming problems that consider infinite number of alternatives. However, we note mathematical programming techniques are not limited to formulating and solving problems with infinite alternatives, but they can also be used for dealing with discrete decision-making problems \citep{giove2009decision}. {\color{red}{figure?}}
+Multi-criteria decision-making problems can be divided into Multi-Attribute Decision Analysis (MADA), which are discrete choice problems where the number of alternatives is finite, and Multi-Objective Decision Analysis (MODA), that are mathematical programming problems that consider infinite number of alternatives, as shown in Figure \ref{fig:Ch1MCDA}. However, we note mathematical programming techniques are not limited to formulating and solving problems with infinite alternatives, but they can also be used for dealing with discrete decision-making problems \citep{giove2009decision}. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\linewidth, trim={1cm 1cm 1cm 1cm},clip]{gfx/Chapter1/IntroMCDA.pdf} 
+	\caption{Classification of MCDA methods.}
+	\label{fig:Ch1MCDA}
+\end{figure}
 
 \subsection{Multi-Attribute Decision Analysis (MADA)}
 
@@ -135,7 +142,7 @@ In the case of problems consisting of a finite number of alternatives, the suita
 
 \subsubsection{Multi-Attribute Value Theory (MAVT)}
 \paragraph{Indicator-based methods}
-In this approach, an indicator-based methodology is used for alternatives comparison. The relevant criteria considered in the decision-making process are a normalized to a common scale to allow criteria comparison using a utility or value function. A number of utility functions have been proposed in the literature, including standardization, min-max, and target utility functions \citep{HandbookCompositeIndicators}. 
+Multi-Attribute Value Theory (MAVT) approaches are based on an indicator-based methodology is used for alternatives comparison. The relevant criteria considered in the decision-making process are a normalized to a common scale to allow criteria comparison using a utility or value function. A number of utility functions have been proposed in the literature, including standardization, min-max, and target utility functions \citep{HandbookCompositeIndicators}. 
 The normalized criteria 
 %are weighted to set the relative importance of each criterion, prioritizing some criteria over others. In the last step, weighted criteria 
 are weighted and aggregated to build a composite index, prioritizing some criteria over others. Different aggregation schemes denote different degrees of compensability between indicators, i.e. a deficit in one criteria can be fully, partially, or not compensated by a surplus in other criteria \citep{MarcoCinelli2020}. Additive weighting aggregation is a full compensatory method, while geometric and  harmonic aggregation methods are partial  compensation schemes. Other aggregation schemes include geometric averaging, which is a non-compensatory method, and the Choquet integral \citep{marichal2000determination}. The composite index obtained is a single numerical value that can be used to score and rank the proposed alternatives based on their suitability to the criteria considered. 
@@ -161,13 +168,13 @@ Ideal Point methods set an optimal solution, that represent a utopia point where
 \subsubsection{Outranking methods}
 Outranking methods are based on the pairwise comparison of the alternatives for each criterion considered, determining the preferred alternative for each of the criteria. Preference information about all criteria is aggregated to establish evidence for selecting one alternative over another. These methods indicate the dominance of one alternative over another, but they do not quantify the performance gap between the alternatives compared \citep{giove2009decision}. Some of the most popular outranking methods are ELECTRE I \citep{roy1968classement}, II \citep{roy1973methode}, and III \citep{roy1978electre}, and PROMETHEE \citep{vincke1985preference}.
 
-\subsubsection{Multi-Objective Decision Analysis(MODA)}
+\subsubsection{Multi-Objective Decision Analysis (MODA)}
 
 %Alternatively, p
 Problems consisting of an infinite number of solutions require multi-objective mathematical programming (optimization) techniques to be solve. These problems are subjected to a number of equality and/or inequality constraints restricting the solutions that are feasible, and the multiple conflicting criteria are combined in an objective function. This objective function represents the improving level of the criteria, and it will be minimized or maximized for selecting the best solution that represents the optimal trade-off between the different conflicting criteria. In this thesis, this technique has been employed for selecting the operating conditions of processes for the recovery of nutrient, energy and biomethane from livestock waste, as it is shown in Chapters \ref{ch:PhosphorusTechs} and \ref{ch:BiogasUpgrading}. Other approach for solving multi-objective mathematical programming problems is to set a priory targets for different criteria, or combinations of criteria, that are considered satisfactory, obtaining the problem solution by minimizing the deviations from these goals. Mathematical programming problems can be also classified according to the use of linear or nonlinear equations, and continuous and/or discrete variables.
 
-\paragraph{Linear programming}
-Linear programming (LP) refers to those mathematical programming problems based on linear equations and continuous variables. A linear programming problem can be expressed as shown in Eq  \ref{eq:IntroEq1},  where $x$ is an n-vector, $A$ is a mxn matrix, $c$ is the n-vector of cost coefficients, and the right-hand side $b$ is an m-vector \citep{grossmann2021advanced}.
+\paragraph{Linear programming (LP)}
+Linear programming (LP) refers to those mathematical programming problems based on linear equations and continuous variables. A linear programming problem can be expressed as shown in Eq. \ref{eq:IntroEq1},  where $x$ is an n-vector, $A$ is a mxn matrix, $c$ is the n-vector of cost coefficients, and the right-hand side $b$ is an m-vector \citep{grossmann2021advanced}.
 
 \begin{align}
 	\min \quad & Z=c^{T}x \nonumber\\
@@ -175,10 +182,10 @@ Linear programming (LP) refers to those mathematical programming problems based 
 	&x \geq 0  \nonumber  
 \end{align}
 
-The two most widely used methods to solve LP problems are the Simplex algorithm \citep{murty1983linear} and interior-point methods \citep{POTRA2000281}. The Simplex method is more efficient for solving problems with thousands of variables and constraints, while interior-point performs better on very large scale and sparse problems \citep{grossmann2021advanced}. The most representative commercial solvers such as CPLEX, GUROBI, or XPRESS implement both methods.
+The two most widely used methods to solve LP problems are the Simplex algorithm \citep{murty1983linear} and interior-point methods \citep{POTRA2000281}. The Simplex method is more efficient for solving problems with thousands of variables and constraints, while interior-point performs better on very large scale and sparse problems \citep{grossmann2021advanced}. These methods are implemented in solvers such as CPLEX, GUROBI, or XPRESS.
 
-\paragraph{Nonlinear programming}
-Nonlinear programming (NLP) refers to those mathematical programming problems containing nonlinear equations, either in the constrains or in the objective function, and continuous variables. A nonlinear programming problem can be expressed as shown in Eq  \ref{eq:IntroEq2}, where $x$ is a n-vector, $f(x)$ is the objective function of the problem, $h(x)$ is the set of equality constraints and $g(x)$ is the set of inequality constraints. \citep{floudas1995nonlinear}.
+\paragraph{Nonlinear programming (NLP)}
+Nonlinear programming (NLP) refers to those mathematical programming problems containing nonlinear equations, either in the constrains or in the objective function, and continuous variables. A nonlinear programming problem can be expressed as shown in Eq.  \ref{eq:IntroEq2}, where $x$ is a n-vector, $f(x)$ is the objective function of the problem, $h(x)$ is the set of equality constraints and $g(x)$ is the set of inequality constraints \citep{floudas1995nonlinear}.
 
 \begin{align}
 \label{eq:IntroEq2}
@@ -188,10 +195,56 @@ Nonlinear programming (NLP) refers to those mathematical programming problems co
 &x \in X  \subseteq \Re^{n} \nonumber
 \end{align}
 
+Some of the most common algorithms to solve NLP problems are successive quadratic programming (SQP), reduced gradient algorithms, and interior point methods. 
+
+SQP algorithms are based on the solution of quadratic programming subproblems. Each subproblem optimizes a quadratic model of the objective function subject to linearized constraints. In each of the iterations a search direction is determined reducing some merit function to ensure problem convergence \citep{gill2005snopt}. SNOPT is a solver based on this method.
+
+Reduced gradient methods consider a linear approximation of the constraints and eliminate variables to reduce the dimension of the problem and apply the Newton’s method. In each of the iterations, the reduced gradient is calculated, the search direction is determined, and finally
+a line search is performed minimizing the objective function. MINOS or CONOPT are solvers based on this algorithm.
+
+Interior point methods reformulate the original NLP problem by means of slack variables to replaces inequalities by equalities, and the log-barrier function to handle the non-negativity of the x variables. The new problem is solve applying the Newton's method. IPOPT and KNITRO are solvers based on this approach
+
+\paragraph{Mixed-integer linear programming (MILP)}
+Mixed-integer linear programming (MILP) refers to those mathematical programming problems based on linear equations and containing discrete variables. A mixed-integer linear programming problem can be expressed as shown in Eq. \ref{eq:IntroEq3},where $x$ are continuous variables and $y$ are discrete variables. Typically, discrete variables are binary variables \citep{grossmann2021advanced}.
+
+\begin{align}
+		\min \quad & Z=a^{T}x + b^{T}y \nonumber\\
+		\textrm{s.t.} \quad & Ax+By \leq d \label{eq:IntroEq3}\\
+		& x \geq 0 \quad y \in \lbrace 0,1 \rbrace ^{m} \nonumber
+\end{align}  
+
+A number of methods have been proposed to solve MILP problems, including cutting planes, Benders decomposition, branch and bound search, and branch and cut methods.
+
+Cutting planes consist of a sequence of LP problems in which different cutting planes are generated to cut-off the solution of the relaxed LP. They reduce the feasible region of the linear relaxation of the original problem excluding those solutions that are feasible in the linear relaxation but not in the original MILP problem. 
+
+Benders decomposition is based on the generation of a lower and an upper bound of the solution of the MILP problem in each iteration. The upper bound is calculated from the primal problem, which correspond with the original problem where the binary variables have been fixed. Conversely, the lower bound is determined through a master problem, which is a LP problem derivated from the original problem by means of the duality theory. Branch and bound method structure the problem in form of a binary tree that includes all posible combinations of binary variables. The tree is explored by solving the relaxed versions of the original problem.  If the relaxation does not result in an integer solution (0 or 1), it is necessary to go deeper into the binery tree to explore further combinations of the binery variables. If the result obtained is an integer, the next step is to return to the previous subproblem to explore the alternative branch. However, diverse procedures have been developed to discard certain branches, avoiding the need of exploring the whole tree and reducing the problem \citep{floudas1995nonlinear}.
+
+Branch and cut methods combine branch and bound methods with cutting planes targeting a tighter lower bound. In the different nodes, the relaxation of the problem is solved. If the solution is not integer, the relaxing problem is solved by adding cutting planes in order to strengthen the lower bound \citep{grossmann2021advanced}. Gurobi and CPLEX are solvers based on this approach.
+
+\paragraph{Mixed-integer nonlinear programming (MINLP)}
+Mixed-integer nonlinear programming (MINLP) refers to those mathematical programming problems containing nonlinear equations and discrete variables, typically, binary variables. A mixed-integer nonlinear programming problem can be expressed as shown in Eq \ref{eq:IntroEq4}, where $x$ represents a vector of continuous variables, $y$ is the vector of binary variables, $h(x,y)$ and $g(x,y)$ denote the equality and inequality constraints respectively and, finally, $f(x)$ is the objective function \citep{grossmann2021advanced}.
+
+\begin{align}
+	\min \quad & f(x,y) \nonumber\\
+	\textrm{s.t.} \quad & h(x,y)=0 \nonumber\\
+	& g(x,y) \leq 0 \ref{eq:IntroEq4} \\
+	& x \in X  \subseteq \Re^{n} \nonumber\\ 
+	& y \in \lbrace 0,1 \rbrace ^{m} \nonumber
+\end{align}  
+
+Some algorithms for solving MINLP problems are the generalized Benders decomposition, outer approximation, and generalized cross decomposition. 
+
+Generalized Benders decomposition (GBD) is based on the generation of a lower and an upper bound of the solution of the MINLP problem in each iteration. Similarly to the Benders decomposition, the upper bound is calculated from the primal problem, which correspond with the original problem where the binary variables have been fixed. The lower bound is determined through a master problem, which is a LP problem derivated from the original problem by means of the duality theory.  In addition, the master problem provides
+information about the binary variables to be fixed in the next iteration \citep{floudas1995nonlinear}.
+
+Outer approximation (OA) provides a lower and an upper bound in each iteration. As the previous case, the upper bound is calculated from the primal problem. The lower bound is calculate from a master problem obtained based on an outer approximation, i.e., a linearization of the nonlinear objective and constraints function is performed around the primal solution. Additionally, the master problem provides information about the binary variables to be fixed in the next iteration.
+
+Generalized cross decomposition (GCD) is based on the generation of a primal problem that provides an upper bound of the solution and also Lagrange multipliers for the dual subproblem. The dual problem is used to determine the lower bound of the problem, and provides a vector of binary variables to be fixed in the primal problem. The solution of the primal and dual problems go through convergence tests. If any of these test fails, a master problem is solved, although the computational requirements of the this problem are higher. This procedure is repeated at each iteration of the algorithm \citep{floudas1995nonlinear}.
+
 \section{Approaches for geospatial environmental assessment}
 Human actions, from food production\citep{foster2007environmental} to cloud computing \citep{di2017can}, result in harmful impacts endangering and deteriorating the environment. The development of mitigation measures to reduce the environmental footprint of anthropogenic activities requires the previous understanding and quantification of the environmental impacts associated to each sector. This process, called environmental impact assessment (EIA), involves the analysis of multi-disciplinary information, including environmental, physical, geological, ecological, economic, and social data \citep{gharehbaghi2018gis}. Since EIA aims to evaluate the environmental impact of an activity on a particular geographical location, all these data have a common geographic component, becoming geospatial data.
 
-Geospatial data can be managed and analyzed through specific systems denoted as geographic information system (GIS). GIS is a key tool for EIA that uses the geographic component of geospatial data as an integrative framework that provides the ability to analyze and map descriptive information of the locations studied. The geographic component of data is the key element of GIS systems, since the spatial (or spatio-temporal) location is used as a key to relate other descriptive information. From the perspective of EIA, this information can be analyzed, interpreted, and mapped to determine the vulnerability level of each location to a particular environmental threat, find relationships between human activities and environmental damages, measure the performance of mitigation and remediation processes, etc. {\color{red}{figure?}}
+Geospatial data can be managed and analyzed through specific systems denoted as geographic information system (GIS). GIS is a key tool for EIA that uses the geographic component of geospatial data as an integrative framework that provides the ability to analyze and map descriptive information of the locations studied. The geographic component of data is the key element of GIS systems, since the spatial (or spatio-temporal) location is used as a key to relate other descriptive information. From the perspective of EIA, this information can be analyzed, interpreted, and mapped to determine the vulnerability level of each location to a particular environmental threat, find relationships between human activities and environmental damages, measure the performance of mitigation and remediation processes, etc.
 
 The combination of GIS, EIA, and methods for the analysis of multi-dimensional information, such as MCDA, provides tools for the development of sustainable strategies for the transition to a sustainable paradigm for human growth. In this regard, the development of a sustainable, reliable, and resilient water, energy and food nexus is a major issue for food security and environmental protection.
 
@@ -217,6 +270,5 @@ This dissertation is structured in three parts. Part I is devoted to the study o
 %technic, economic, and environmental dimensions of nutrient recovery at CAFOs have been integrated in a decission support system 
 \section*{Bibliography}
 \addcontentsline{toc}{section}{Bibliography}
-
 \printbibliography[heading=none]
 \end{refsection}

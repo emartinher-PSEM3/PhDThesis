@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  21 SEP 2021 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  21 SEP 2021 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,7 +328,11 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2020/02/01 v9.5 APA biblatex style data model
+)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count308
@@ -367,38 +371,50 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedshortauthor=\count341
 \c@shorteditor=\count342
 \c@savedshorteditor=\count343
-\c@labelname=\count344
-\c@savedlabelname=\count345
-\c@institution=\count346
-\c@savedinstitution=\count347
-\c@lista=\count348
-\c@savedlista=\count349
-\c@listb=\count350
-\c@savedlistb=\count351
-\c@listc=\count352
-\c@savedlistc=\count353
-\c@listd=\count354
-\c@savedlistd=\count355
-\c@liste=\count356
-\c@savedliste=\count357
-\c@listf=\count358
-\c@savedlistf=\count359
-\c@location=\count360
-\c@savedlocation=\count361
-\c@organization=\count362
-\c@savedorganization=\count363
-\c@origlocation=\count364
-\c@savedoriglocation=\count365
-\c@origpublisher=\count366
-\c@savedorigpublisher=\count367
-\c@publisher=\count368
-\c@savedpublisher=\count369
-\c@language=\count370
-\c@savedlanguage=\count371
-\c@origlanguage=\count372
-\c@savedoriglanguage=\count373
-\c@pageref=\count374
-\c@savedpageref=\count375
+\c@groupauthor=\count344
+\c@savedgroupauthor=\count345
+\c@narrator=\count346
+\c@savednarrator=\count347
+\c@execproducer=\count348
+\c@savedexecproducer=\count349
+\c@execdirector=\count350
+\c@savedexecdirector=\count351
+\c@with=\count352
+\c@savedwith=\count353
+\c@labelname=\count354
+\c@savedlabelname=\count355
+\c@institution=\count356
+\c@savedinstitution=\count357
+\c@lista=\count358
+\c@savedlista=\count359
+\c@listb=\count360
+\c@savedlistb=\count361
+\c@listc=\count362
+\c@savedlistc=\count363
+\c@listd=\count364
+\c@savedlistd=\count365
+\c@liste=\count366
+\c@savedliste=\count367
+\c@listf=\count368
+\c@savedlistf=\count369
+\c@location=\count370
+\c@savedlocation=\count371
+\c@organization=\count372
+\c@savedorganization=\count373
+\c@origlocation=\count374
+\c@savedoriglocation=\count375
+\c@origpublisher=\count376
+\c@savedorigpublisher=\count377
+\c@publisher=\count378
+\c@savedpublisher=\count379
+\c@language=\count380
+\c@savedlanguage=\count381
+\c@origlanguage=\count382
+\c@savedoriglanguage=\count383
+\c@citation=\count384
+\c@savedcitation=\count385
+\c@pageref=\count386
+\c@savedpageref=\count387
 \shorthandwidth=\skip72
 \shortjournalwidth=\skip73
 \shortserieswidth=\skip74
@@ -424,19 +440,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count376
-\c@textcitetotal=\count377
-\c@textcitemaxnames=\count378
-\c@biburlbigbreakpenalty=\count379
-\c@biburlbreakpenalty=\count380
-\c@biburlnumpenalty=\count381
-\c@biburlucpenalty=\count382
-\c@biburllcpenalty=\count383
+\c@textcitecount=\count388
+\c@textcitetotal=\count389
+\c@textcitemaxnames=\count390
+\c@biburlbigbreakpenalty=\count391
+\c@biburlbreakpenalty=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count384
+\c@smartand=\count396
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -446,42 +462,43 @@ File: blx-natbib.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
-Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2020/02/01 v9.5 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count385
-\c@bbx:relatedtotal=\count386
-)))
-Package biblatex Info: Trying to load citation style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.cbx' found.
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
+))
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count387
-\c@cbx@tempcntb=\count388
-Package biblatex Info: Redefining '\cite'.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2020/02/01 v9.5 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already 
+defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
 Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\citeauthor'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -509,13 +526,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count389
+\inf@bad=\count399
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count390
-\leftroot@=\count391
+\uproot@=\count400
+\leftroot@=\count401
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count392
-\DOTSCASE@=\count393
+\classnum@=\count402
+\DOTSCASE@=\count403
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -524,15 +541,15 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen138
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count394
-\c@MaxMatrixCols=\count395
+\macc@depth=\count404
+\c@MaxMatrixCols=\count405
 \dotsspace@=\muskip21
-\c@parentequation=\count396
-\dspbrk@lvl=\count397
+\c@parentequation=\count406
+\dspbrk@lvl=\count407
 \tag@help=\toks28
-\row@=\count398
-\column@=\count399
-\maxfields@=\count400
+\row@=\count408
+\column@=\count409
+\maxfields@=\count410
 \andhelp@=\toks29
 \eqnshift@=\dimen139
 \alignsep@=\dimen140
@@ -553,21 +570,21 @@ Package: expl3 2020-02-14 L3 programming layer (loader)
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count401
+\l__kernel_color_stack_int=\count411
 \l__pdf_internal_box=\box49
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/morewrites/primargs.sty
 Package: primargs 2018/12/29 Parsing arguments of primitives
 )
 Package: morewrites 2018/12/29 Always room for a new write
-\g__morewrites_later_int=\count402
-\l__morewrites_user_int=\count403
+\g__morewrites_later_int=\count412
+\l__morewrites_user_int=\count413
 \g__morewrites_iow=\write4
 \g__morewrites_ior=\read4
-\g__morewrites_group_level_int=\count404
+\g__morewrites_group_level_int=\count414
 \g__morewrites_shipout_box=\box50
-\l__morewrites_collect_next_int=\count405
-\g__morewrites_alloc_write_int=\count406
+\l__morewrites_collect_next_int=\count415
+\g__morewrites_alloc_write_int=\count416
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -597,10 +614,10 @@ Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2020-02-14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count407
-\g__xparse_grabber_int=\count408
-\l__xparse_m_args_int=\count409
-\l__xparse_v_nesting_int=\count410
+\l__xparse_current_arg_int=\count417
+\g__xparse_grabber_int=\count418
+\l__xparse_m_args_int=\count419
+\l__xparse_v_nesting_int=\count420
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -613,8 +630,8 @@ Package: suffix 2006/07/15 1.5a Variant command support
 )
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count411
-\decimalpart=\count412
+\integerpart=\count421
+\decimalpart=\count422
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
@@ -626,7 +643,7 @@ Package: relsize 2013/03/29 ver 4.1
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip89
-\multirow@cntb=\count413
+\multirow@cntb=\count423
 \multirow@dima=\skip90
 \bigstrutjot=\dimen147
 )
@@ -640,7 +657,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2020-02-14 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen148
-\l__xtemplate_tmp_int=\count414
+\l__xtemplate_tmp_int=\count424
 \l__xtemplate_tmp_muskip=\muskip22
 \l__xtemplate_tmp_skip=\skip91
 )
@@ -665,12 +682,12 @@ Package: threeparttable 2003/06/13  v 3.0
 )
 (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count415
-\cp@tempcnt=\count416
+\c@cp@cntr=\count425
+\cp@tempcnt=\count426
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count417
+\c@r@tfl@t=\count427
 \rotFPtop=\skip92
 \rotFPbot=\skip93
 \rot@float@box=\box54
@@ -695,13 +712,13 @@ Package caption3 Info: TeX engine: e-TeX on input line 61.
 Package caption Info: KOMA-Script document class detected.
 )
 Package caption Info: KOMA-Script document class.
-\c@caption@flags=\count418
-\c@continuedfloat=\count419
+\c@caption@flags=\count428
+\c@continuedfloat=\count429
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
 )
-\c@subfigure=\count420
-\c@subtable=\count421
+\c@subfigure=\count430
+\c@subtable=\count431
 )
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
@@ -714,7 +731,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
-\XKV@depth=\count422
+\XKV@depth=\count432
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
@@ -748,13 +765,13 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 
 (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count423
+\c@checkoddpage=\count433
 LaTeX Info: Redefining \checkoddpage on input line 45.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box56
-\sift@deathcycles=\count424
+\sift@deathcycles=\count434
 \@vwid@loff=\dimen173
 \@vwid@roff=\dimen174
 ))
@@ -763,15 +780,15 @@ Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count425
-\calc@Bcount=\count426
+\calc@Acount=\count435
+\calc@Bcount=\count436
 \calc@Adimen=\dimen175
 \calc@Bdimen=\dimen176
 \calc@Askip=\skip94
 \calc@Bskip=\skip95
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count427
+\calc@Ccount=\count437
 \calc@Cskip=\skip96
 )
 (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
@@ -781,7 +798,7 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count428
+\g_MT_multlinerow_int=\count438
 \l_MT_multwidth_dim=\dimen177
 \origjot=\skip97
 \l_MT_shortvdotswithinadjustabove_dim=\dimen178
@@ -815,33 +832,33 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \TX@old@col=\dimen188
 \TX@target=\dimen189
 \TX@delta=\dimen190
-\TX@cols=\count429
+\TX@cols=\count439
 \TX@ftn=\toks37
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count430
+\lst@mode=\count440
 \lst@gtempboxa=\box59
 \lst@token=\toks38
-\lst@length=\count431
+\lst@length=\count441
 \lst@currlwidth=\dimen191
-\lst@column=\count432
-\lst@pos=\count433
+\lst@column=\count442
+\lst@pos=\count443
 \lst@lostspace=\dimen192
 \lst@width=\dimen193
-\lst@newlines=\count434
-\lst@lineno=\count435
+\lst@newlines=\count444
+\lst@lineno=\count445
 \lst@maxwidth=\dimen194
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count436
-\lst@skipnumbers=\count437
+\c@lstnumber=\count446
+\lst@skipnumbers=\count447
 \lst@framebox=\box60
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 159.
+Package scrhack Info: loading listings hack on input line 160.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
 File: listings.hak 2020/01/24 v3.29 KOMA-Script scrhack part (hacking package l
@@ -928,11 +945,11 @@ File: ueur.fd 2013/01/14 v3.01 Euler Roman
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
 \MT@toks=\toks39
-\MT@count=\count438
+\MT@count=\count448
 LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen195
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count439
+\MT@listname@count=\count449
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
@@ -979,12 +996,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen259
 \cmidrulekern=\dimen260
 \defaultaddspace=\dimen261
-\@cmidla=\count440
-\@cmidlb=\count441
+\@cmidla=\count450
+\@cmidlb=\count451
 \@aboverulesep=\dimen262
 \@belowrulesep=\dimen263
-\@thisruleclass=\count442
-\@lastruleclass=\count443
+\@thisruleclass=\count452
+\@lastruleclass=\count453
 \@thisrulewidth=\dimen264
 )
 (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
@@ -1106,8 +1123,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip129
 \cftfigindent=\skip130
 \cftfignumwidth=\skip131
-\c@lofdepth=\count444
-\c@lotdepth=\count445
+\c@lofdepth=\count454
+\c@lotdepth=\count455
 \cftbeforelottitleskip=\skip132
 \cftafterlottitleskip=\skip133
 \cftbeforetabskip=\skip134
@@ -1119,11 +1136,11 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \newchnumberwidth=\skip139
 \figurelabelwidth=\skip140
 \tablelabelwidth=\skip141
-\c@listings=\count446
+\c@listings=\count456
 \cftbeforelistingsskip=\skip142
 \cftlistingsindent=\skip143
 \cftlistingsnumwidth=\skip144
-\c@loldepth=\count447
+\c@loldepth=\count457
 \cftbeforeloltitleskip=\skip145
 \cftafterloltitleskip=\skip146
 \listingslabelwidth=\skip147
@@ -1155,8 +1172,8 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen270
-\Hy@linkcounter=\count448
-\Hy@pagecounter=\count449
+\Hy@linkcounter=\count458
+\Hy@pagecounter=\count459
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
@@ -1169,8 +1186,8 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count450
-\pdfmajorversion=\count451
+\Hy@SavedSpaceFactor=\count460
+\pdfmajorversion=\count461
 Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4421.
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
@@ -1179,7 +1196,7 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count452
+\c@Hy@tempcnt=\count462
 LaTeX Info: Redefining \url on input line 5159.
 \XeTeXLinkMargin=\dimen271
 
@@ -1190,7 +1207,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count453
+\Fld@menulength=\count463
 \Field@Width=\dimen272
 \Fld@charsize=\dimen273
 Package hyperref Info: Hyper figures OFF on input line 6430.
@@ -1206,8 +1223,8 @@ LaTeX Info: Redefining \pageref on input line 6504.
 (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count454
-\c@Item=\count455
+\Hy@abspage=\count464
+\c@Item=\count465
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -1217,8 +1234,8 @@ File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count456
-\c@bookmark@seq@number=\count457
+\Fld@listcount=\count466
+\c@bookmark@seq@number=\count467
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -1235,15 +1252,15 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 679.
 Package hyperref Info: Option `linktocpage' set `true' on input line 679.
 Package hyperref Info: Option `breaklinks' set `true' on input line 679.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 212.
-Package hyperref Info: Option `linktocpage' set `true' on input line 212.
-Package hyperref Info: Option `breaklinks' set `true' on input line 212.
-Package hyperref Info: Option `pageanchor' set `true' on input line 212.
-Package hyperref Info: Option `plainpages' set `false' on input line 212.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 212.
+Package hyperref Info: Option `colorlinks' set `true' on input line 213.
+Package hyperref Info: Option `linktocpage' set `true' on input line 213.
+Package hyperref Info: Option `breaklinks' set `true' on input line 213.
+Package hyperref Info: Option `pageanchor' set `true' on input line 213.
+Package hyperref Info: Option `plainpages' set `false' on input line 213.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 213.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 212.
-Package hyperref Info: Option `hypertexnames' set `true' on input line 212.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 213.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 213.
 ) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2020/02/13 v4.45 (NLCT)
 
@@ -1260,7 +1277,7 @@ Package: datatool-base 2019/09/27 v2.32 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count458
+\c@su@anzahl=\count468
 )
 (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
@@ -1271,19 +1288,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count459
+\actioncount=\count469
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count460
-\FP@xia=\count461
-\FP@xib=\count462
-\FP@xfa=\count463
-\FP@xfb=\count464
-\FP@rega=\count465
-\FP@regb=\count466
-\FP@regs=\count467
-\FP@times=\count468
+\FP@xs=\count470
+\FP@xia=\count471
+\FP@xib=\count472
+\FP@xfa=\count473
+\FP@xfb=\count474
+\FP@rega=\count475
+\FP@regb=\count476
+\FP@regs=\count477
+\FP@times=\count478
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1302,7 +1319,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count469
+\FPseed=\count479
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1314,14 +1331,14 @@ Package: fp-upn 1996/10/21
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks43
-\@dtl@tmpcount=\count470
+\@dtl@tmpcount=\count480
 \dtl@tmplength=\skip149
-\dtl@sortresult=\count471
-\@dtl@numgrpsepcount=\count472
-\@dtl@datatype=\count473
-\dtl@codeA=\count474
-\dtl@codeB=\count475
-\@dtl@foreach@level=\count476
+\dtl@sortresult=\count481
+\@dtl@numgrpsepcount=\count482
+\@dtl@datatype=\count483
+\dtl@codeA=\count484
+\dtl@codeB=\count485
+\@dtl@foreach@level=\count486
 )
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
 307.sty
@@ -1347,7 +1364,7 @@ File: glossaries-english.ldf 2014/11/23 v1.0
 f
 File: glossaries-german.ldf 2014/11/23 v1.0
 )
-\gls@level=\count477
+\gls@level=\count487
 \@gls@tmpb=\toks44
 \gls@tmplen=\skip150
 \glskeylisttok=\toks45
@@ -1370,16 +1387,16 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip153
 \LTpre=\skip154
 \LTpost=\skip155
-\LTchunksize=\count478
+\LTchunksize=\count488
 \LTcapwidth=\dimen274
 \LT@head=\box62
 \LT@firsthead=\box63
 \LT@foot=\box64
 \LT@lastfoot=\box65
-\LT@cols=\count479
-\LT@rows=\count480
-\c@LT@tables=\count481
-\c@LT@chunks=\count482
+\LT@cols=\count489
+\LT@rows=\count490
+\c@LT@tables=\count491
+\c@LT@chunks=\count492
 \LT@p@ftn=\toks49
 )
 Class scrreprt Info: longtable captions redefined on input line 43.
@@ -1391,7 +1408,7 @@ Package: glossary-super 2020/02/13 v4.45 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count483
+\c@tracingst=\count493
 \ST@wd=\dimen275
 \ST@rightskip=\skip158
 \ST@leftskip=\skip159
@@ -1500,12 +1517,54 @@ File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 LaTeX Info: Redefining \. on input line 100.
 LaTeX Info: Redefining \% on input line 100.
+Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
+Package biblatex Info: ... file 'spanish-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
+File: spanish-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+File: american-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+File: english-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+File: english-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
 
@@ -1516,30 +1575,44 @@ Package biblatex Info: ... file 'english.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
+)))))
+Package biblatex Info: Trying to load language 'ngerman' -> 'ngerman-apa'...
+Package biblatex Info: ... file 'ngerman-apa.lbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/ngerman-apa.lbx
+File: ngerman-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
 File: ngerman.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
+Package biblatex Info: ... file 'german-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/german-apa.lbx
+File: german-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-)
+)))
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
+Package biblatex Info: ... file 'german-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/german-apa.lbx
+File: german-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-))
+))))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
@@ -1554,16 +1627,16 @@ Package biblatex Info: Reference segment=0 on input line 100.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count484
+\scratchcounter=\count494
 \scratchdimen=\dimen285
 \scratchbox=\box67
-\nofMPsegments=\count485
-\nofMParguments=\count486
+\nofMPsegments=\count495
+\nofMParguments=\count496
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count487
+\MPscratchCnt=\count497
 \MPscratchDim=\dimen286
-\MPnumerator=\count488
-\makeMPintoPDFobject=\count489
+\MPnumerator=\count498
+\makeMPintoPDFobject=\count499
 \everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1584,7 +1657,7 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count490
+\c@lstlisting=\count500
 Package scrhack Info: undefining \float@addtolists on input line 100.
 LaTeX Info: Redefining \microtypecontext on input line 100.
 Package microtype Info: Generating PDF output.
@@ -1613,7 +1686,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count491
+\c@section@level=\count501
 )
 LaTeX Info: Redefining \ref on input line 100.
 LaTeX Info: Redefining \pageref on input line 100.
@@ -1640,7 +1713,7 @@ File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
 Package auxhook Info: \AddLineBeginMainAux comes a little late,
 (auxhook)             because the main .aux file is already opened on input lin
 e 168.
-\BKM@id=\count492
+\BKM@id=\count502
 ))
 \openout2 = `FrontBackmatter/Titlepage.aux'.
 
@@ -1954,32 +2027,10 @@ LaTeX Info: Redefining \% on input line 22.
 \openout2 = `FrontBackmatter/Publications.aux'.
 
  (./FrontBackmatter/Publications.tex
-\blx@maxsegment@1=\count493
-\blx@sectionciteorder@1=\count494
+\blx@maxsegment@1=\count503
+\blx@sectionciteorder@1=\count504
 Package biblatex Info: Reference section=1 on input line 31.
 Package biblatex Info: Setting label 'refsection:1' on input line 31.
-
-
-LaTeX Warning: Citation 'Policies' undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Tool' undefined on input line 32.
-
-
-LaTeX Warning: Citation 'martin2020model' undefined on input line 32.
-
-
-LaTeX Warning: Citation 'martin2020optimal' undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Martin' undefined on input line 32.
-
-
-LaTeX Warning: Citation 'martin2021logistics' undefined on input line 32.
-
-
-LaTeX Warning: Empty bibliography on input line 34.
-
 Package biblatex Info: Reference section=0 on input line 35.
 )
 \openout4 = `ClassicThesis.mw.mw'.
@@ -1988,7 +2039,8 @@ Package biblatex Info: Reference section=0 on input line 35.
 
 
 
-] (./ClassicThesis.mw.mw)
+]
+(./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -2055,42 +2107,10 @@ LaTeX Info: Redefining \% on input line 10.
 
  (./Chapters/Chapter01.tex
 Chapter 1.
-\blx@maxsegment@2=\count495
-\blx@sectionciteorder@2=\count496
+\blx@maxsegment@2=\count505
+\blx@sectionciteorder@2=\count506
 Package biblatex Info: Reference section=2 on input line 4.
 Package biblatex Info: Setting label 'refsection:2' on input line 4.
-
-LaTeX Warning: Citation 'biraben1980essay' on page 1 undefined on input line 53
-.
-
-
-LaTeX Warning: Citation 'UNPopulationProspects' on page 1 undefined on input li
-ne 53.
-
-
-LaTeX Warning: Citation 'Samreen2019' on page 1 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'smil1999detonator' on page 1 undefined on input line 5
-3.
-
-
-LaTeX Warning: Citation 'constable2003century' on page 1 undefined on input lin
-e 53.
-
-
-LaTeX Warning: Citation 'nierenberg2005happier' on page 1 undefined on input li
-ne 53.
-
-
-LaTeX Warning: Citation 'Bouwman2009' on page 1 undefined on input line 57.
-
-
-Overfull \hbox (0.39574pt too wide) in paragraph at lines 57--58
-\T1/pplj/m/n/10.95 (-20) pho-rus and ni-tro-gen have been al-tered these ac-tiv
--i-ties [[]].
- []
-
 \openout4 = `ClassicThesis.mw.mw'.
 
 [1
@@ -2103,43 +2123,16 @@ Overfull \hbox (0.39574pt too wide) in paragraph at lines 57--58
 ] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter1/IntroFig1.pdf, id=135, 650.43pt x 854.23708pt>
+<gfx/Chapter1/IntroFig1.pdf, id=156, 650.43pt x 854.23708pt>
 File: gfx/Chapter1/IntroFig1.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig1.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig1.pdf  used on input line 61.
 (pdftex.def)             Requested size: 285.60205pt x 383.68813pt.
-
-
-LaTeX Warning: Citation 'cordell2009story' on page 2 undefined on input line 66
-.
-
 \openout4 = `ClassicThesis.mw.mw'.
 
-[2 <./gfx/Chapter1/IntroFig1.pdf>] (./ClassicThesis.mw.mw)
+ [2 <./gfx/Chapter1/IntroFig1.pdf>]
+(./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
-
-
-
-LaTeX Warning: Citation 'animal_unit_definition' on page 3 undefined on input l
-ine 70.
-
-
-LaTeX Warning: Citation 'Kellog2010' on page 3 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'USDAHandbook' on page 3 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'tilley2014compendium' on page 3 undefined on input lin
-e 70.
-
-
-LaTeX Warning: Citation 'tilley2014compendium' on page 3 undefined on input lin
-e 70.
-
-
-LaTeX Warning: Citation 'burns2002phosphorus' on page 3 undefined on input line
- 70.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
@@ -2154,43 +2147,10 @@ Overfull \hbox (3.71693pt too wide) has occurred while \output is active
 [3] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-
-
-LaTeX Warning: Citation 'GRIZZETTI2021102281' on page 4 undefined on input line
- 76.
-
-
-LaTeX Warning: Citation 'amery2014agricultural' on page 4 undefined on input li
-ne 76.
-
-
-LaTeX Warning: Citation 'Piot_Lepetit2012' on page 4 undefined on input line 76
-.
-
-
-LaTeX Warning: Citation 'ESSP2021' on page 4 undefined on input line 76.
-
-
-LaTeX Warning: Citation 'CircularEconomyActionPlan' on page 4 undefined on inpu
-t line 76.
-
 \openout4 = `ClassicThesis.mw.mw'.
 
-[4] (./ClassicThesis.mw.mw)
+ [4] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
-
-
-
-LaTeX Warning: Citation 'NPDE_basics' on page 5 undefined on input line 78.
-
-
-LaTeX Warning: Citation 'NPDESforCAFO' on page 5 undefined on input line 78.
-
-
-LaTeX Warning: Citation 'NACWA503' on page 5 undefined on input line 78.
-
-
-LaTeX Warning: Citation 'CNP503' on page 5 undefined on input line 78.
 
 
 Overfull \hbox (3.71693pt too wide) has occurred while \output is active
@@ -2202,194 +2162,64 @@ Overfull \hbox (3.71693pt too wide) has occurred while \output is active
 [5] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter1/IntroFig2.pdf, id=175, 542.025pt x 578.16pt>
+<gfx/Chapter1/IntroFig2.pdf, id=227, 542.025pt x 578.16pt>
 File: gfx/Chapter1/IntroFig2.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig2.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig2.pdf  used on input line 86.
 (pdftex.def)             Requested size: 235.19897pt x 252.72064pt.
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [6 <./gfx/Chapter1/IntroFig2.pdf>]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [7] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [8] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
 
 
-LaTeX Warning: Citation 'STEPHANOPOULOS20114272' on page 6 undefined on input l
-ine 100.
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter1/IntroMCDA.pdf): PDF incl
+usion: found PDF version <1.6>, but at most version <1.5> allowed
+<gfx/Chapter1/IntroMCDA.pdf, id=284, 816.65097pt x 614.295pt>
+File: gfx/Chapter1/IntroMCDA.pdf Graphic file (type pdf)
+<use gfx/Chapter1/IntroMCDA.pdf>
+Package pdftex.def Info: gfx/Chapter1/IntroMCDA.pdf  used on input line 134.
+(pdftex.def)             Requested size: 336.0pt x 246.5109pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation 'PISTIKOPOULOS2021107252' on page 6 undefined on input 
-line 102.
-
-
-LaTeX Warning: Citation 'MARTIN201216' on page 6 undefined on input line 102.
-
-
-Overfull \hbox (10.4481pt too wide) in paragraph at lines 102--103
-\T1/pplj/m/n/10.95 (-20) phar-ma-ceu-ti-cal do-mains of en-gi-neer-ing [[]].
+Overfull \hbox (6.45313pt too wide) in paragraph at lines 145--149
+[] []\T1/pplj/m/sc/10.95/80ls (-20) in-di-ca-tor-based meth-ods[] \T1/pplj/m/n/
+10.95 (-20) Multi-Attribute Value The-ory (MAVT)
  []
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[6 <./gfx/Chapter1/IntroFig2.pdf>] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-
-
-LaTeX Warning: Citation 'couper2005chemical' on page 7 undefined on input line 
-108.
-
-
-LaTeX Warning: Citation 'hall2012rules' on page 7 undefined on input line 108.
-
-
-LaTeX Warning: Citation 'sadhukhan2014biorefineries' on page 7 undefined on inp
-ut line 108.
-
-
-LaTeX Warning: Citation 'szirtes2007applied' on page 7 undefined on input line 
-111.
-
-
-Overfull \hbox (23.55402pt too wide) in paragraph at lines 111--112
-\T1/pplj/m/n/10.95 (-20) cially use-ful to cap-ture scale-up and scale-down is-
-sues [[]]. 
- []
-
-
-LaTeX Warning: Citation 'loeppert1995chemical' on page 7 undefined on input lin
-e 114.
-
-
-LaTeX Warning: Citation 'brignole2013phase' on page 7 undefined on input line 1
-14.
-
-
-LaTeX Warning: Citation 'buzzi2009kinetic' on page 7 undefined on input line 11
-4.
-
-
-LaTeX Warning: Citation 'ramkrishna2000population' on page 7 undefined on input
- line 114.
-
-
-LaTeX Warning: Citation 'anderson1995computational' on page 7 undefined on inpu
-t line 114.
-
-
-LaTeX Warning: Citation 'queipo2005surrogate' on page 7 undefined on input line
- 117.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[7] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-
-
-LaTeX Warning: Citation 'wilson2017alamo' on page 8 undefined on input line 119
-.
-
-
-LaTeX Warning: Citation 'quirante2015rigorous' on page 8 undefined on input lin
-e 119.
-
-
-LaTeX Warning: Citation 'himmelblau2000applications' on page 8 undefined on inp
-ut line 120.
-
-
-LaTeX Warning: Citation 'belton2002multiple' on page 8 undefined on input line 
-126.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[8] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-
-
-LaTeX Warning: Citation 'giove2009decision' on page 9 undefined on input line 1
-30.
-
-
-LaTeX Warning: Citation 'HandbookCompositeIndicators' on page 9 undefined on in
-put line 138.
-
-
-LaTeX Warning: Citation 'MarcoCinelli2020' on page 9 undefined on input line 14
-1.
-
-
-LaTeX Warning: Citation 'marichal2000determination' on page 9 undefined on inpu
-t line 141.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
 [9] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-
-
-LaTeX Warning: Citation 'tervonen_implementing_2007' on page 10 undefined on in
-put line 144.
-
-
-LaTeX Warning: Citation 'saaty2000fundamentals' on page 10 undefined on input l
-ine 150.
-
-
-LaTeX Warning: Citation 'hwang1995multi' on page 10 undefined on input line 153
-.
-
-
-LaTeX Warning: Citation 'giove2009decision' on page 10 undefined on input line 
-162.
-
-
-LaTeX Warning: Citation 'roy1968classement' on page 10 undefined on input line 
-162.
-
-
-LaTeX Warning: Citation 'roy1973methode' on page 10 undefined on input line 162
-.
-
-
-LaTeX Warning: Citation 'roy1978electre' on page 10 undefined on input line 162
-.
-
-
-LaTeX Warning: Citation 'vincke1985preference' on page 10 undefined on input li
-ne 162.
-
-
-Overfull \hbox (82.09584pt too wide) in paragraph at lines 162--163
-\T1/pplj/m/n/10.95 (-20) [[]], and III [[]], and PROMETHEE [[]]. 
- []
-
 \openout4 = `ClassicThesis.mw.mw'.
 
-[10] (./ClassicThesis.mw.mw)
+ [10 <./gfx/Chapter1/IntroMCDA.pdf>]
+(./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
 
 LaTeX Warning: Reference `ch:PhosphorusTechs' on page 11 undefined on input lin
-e 167.
+e 174.
 
 
 LaTeX Warning: Reference `ch:BiogasUpgrading' on page 11 undefined on input lin
-e 167.
-
-
-LaTeX Warning: Citation 'grossmann2021advanced' on page 11 undefined on input l
-ine 170.
-
-
-LaTeX Warning: Citation 'murty1983linear' on page 11 undefined on input line 17
-8.
-
-
-LaTeX Warning: Citation 'POTRA2000281' on page 11 undefined on input line 178.
-
-
-LaTeX Warning: Citation 'grossmann2021advanced' on page 11 undefined on input l
-ine 178.
+e 174.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2397,107 +2227,78 @@ ine 178.
 \openout4 = `ClassicThesis.mw.mw'.
 
 
-
-LaTeX Warning: Citation 'floudas1995nonlinear' on page 12 undefined on input li
-ne 181.
-
-
-Overfull \hbox (0.3071pt too wide) in paragraph at lines 181--182
-[] []\T1/pplj/m/sc/10.95/80ls (-20) non-lin-ear pro-gram-ming[] \T1/pplj/m/n/10
-.95 (-20) Non-lin-ear pro-gram-ming (NLP) refers
+Overfull \hbox (1.96924pt too wide) in paragraph at lines 188--189
+[] []\T1/pplj/m/sc/10.95/80ls (-20) non-lin-ear pro-gram-ming (nlp)[] \T1/pplj/
+m/n/10.95 (-20) Non-lin-ear pro-gram-ming (NLP)
  []
-
-
-LaTeX Warning: Citation 'foster2007environmental' on page 12 undefined on input
- line 192.
-
-
-LaTeX Warning: Citation 'di2017can' on page 12 undefined on input line 192.
-
-
-LaTeX Warning: Citation 'gharehbaghi2018gis' on page 12 undefined on input line
- 192.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
 [12] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [13] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
 
 
-LaTeX Warning: Reference `ch:PhosphorusTechs' on page 13 undefined on input lin
-e 202.
+
+LaTeX Warning: Reference `eq:IntroEq4' on page 14 undefined on input line 225.
 
 
-Overfull \hbox (1.8282pt too wide) in paragraph at lines 202--203
+LaTeX Warning: Reference `eq:IntroEq4' on page 14 undefined on input line 233.
+
+
+LaTeX Warning: Reference `eq:IntroEq4' on page 14 undefined on input line 233.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[14] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [15] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 16 undefined on input lin
+e 255.
+
+
+Overfull \hbox (1.8282pt too wide) in paragraph at lines 255--256
 [] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - tech-nolo-gies for phos-pho-r
 us re-cov-ery.[] \T1/pplj/m/n/10.95 (-20) This
  []
 
 
-LaTeX Warning: Reference `ch:Struvite' on page 13 undefined on input line 204.
+LaTeX Warning: Reference `ch:Struvite' on page 16 undefined on input line 257.
 
 
-LaTeX Warning: Reference `ch:Tool' on page 13 undefined on input line 206.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[13] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
+LaTeX Warning: Reference `ch:Tool' on page 16 undefined on input line 259.
 
 
-
-LaTeX Warning: Reference `ch:Policies' on page 14 undefined on input line 208.
-
-
-LaTeX Warning: Reference `ch:NitrogenTechs' on page 14 undefined on input line 
-211.
-
-
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 14 undefined on input lin
-e 214.
-
-
-LaTeX Warning: Empty bibliography on input line 221.
-
-Package biblatex Info: Reference section=0 on input line 222.
-)
-\openout4 = `ClassicThesis.mw.mw'.
-
- [14] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout2 = `Chapters/Chapter01_1.aux'.
-
- (./Chapters/Chapter01_1.tex
-Chapter 2.
-)
-\openout4 = `ClassicThesis.mw.mw'.
-
- [15
-
-
-
-
-] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
+LaTeX Warning: Reference `ch:Policies' on page 16 undefined on input line 261.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [16
-
-
-
-] (./ClassicThesis.mw.mw)
+[16] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+
+
+LaTeX Warning: Reference `ch:NitrogenTechs' on page 17 undefined on input line 
+264.
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 17 undefined on input lin
+e 267.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [17
-
-
-]
-(./ClassicThesis.mw.mw)
+[17] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -2507,8 +2308,53 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [19
+ [19]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
 
+
+Overfull \hbox (2.9891pt too wide) in paragraph at lines 273--273
+[][]\T1/pplj/m/n/10.95 (-20) Smil, V. (1999). Det-o-na-tor of the pop-u-la-tion
+ ex-plo-sion. \T1/pplj/m/it/10.95 (-20) Na-ture\T1/pplj/m/n/10.95 (-20) , \T1/p
+plj/m/it/10.95 (-20) 400\T1/pplj/m/n/10.95 (-20) (6743),
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[20] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+Package biblatex Info: Reference section=0 on input line 274.
+)
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [21] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout2 = `Chapters/Chapter01_1.aux'.
+
+
+(./Chapters/Chapter01_1.tex
+Chapter 2.
+\openout4 = `ClassicThesis.mw.mw'.
+
+[22
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+)
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [23] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [24
 
 
 
@@ -2518,39 +2364,64 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [20] (./ClassicThesis.mw.mw)
+ [25
+
+
+] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [21
-
-
-
-
-]
+ [26]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [22] (./ClassicThesis.mw.mw)
+ [27
+
+
+
+
+] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [23
-
-
-
-
-]
+ [28]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [24] (./ClassicThesis.mw.mw)
+ [29
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [30]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [31
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [32]
+(./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
@@ -2687,6 +2558,30 @@ LaTeX Info: Redefining \% on input line 5.
 \openout4 = `ClassicThesis.mw.mw'.
 
 ) (./Chapters/Chapter01.aux
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -3107,13 +3002,13 @@ kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
   ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
      url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
   blx-dm.def    2019/12/01 v3.14 biblatex localization (PK/MW)
+     apa.dbx    2020/02/01 v9.5 APA biblatex style data model
 blx-compat.def    2019/12/01 v3.14 biblatex compatibility (PK/MW)
 biblatex.def    2019/12/01 v3.14 biblatex compatibility (PK/MW)
 blx-natbib.def    2019/12/01 v3.14 biblatex compatibility (PK/MW)
 standard.bbx    2019/12/01 v3.14 biblatex bibliography style (PK/MW)
- numeric.bbx    2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-numeric-comp.bbx    2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-numeric-comp.cbx    2019/12/01 v3.14 biblatex citation style (PK/MW)
+     apa.bbx    2020/02/01 v9.5 APA biblatex references style
+     apa.cbx    2020/02/01 v9.5 APA biblatex citation style
 biblatex.cfg    
  amsmath.sty    2020/01/20 v2.17e AMS math features
  amstext.sty    2000/06/29 v2.01 AMS text
@@ -3254,10 +3149,15 @@ supertabular.sty    2020/02/02 v4.1g the supertabular environment
 glossary-tree.sty    2020/02/13 v4.45 (NLCT)
   t1pplj.fd    2004/09/06 font definitions for T1/pplj.
  spanish.lbx    2019/12/01 v3.14 biblatex localization (PK/MW)
+spanish-apa.lbx    2020/02/01 v9.5 APA biblatex localisation
  english.lbx    2019/12/01 v3.14 biblatex localization (PK/MW)
+english-apa.lbx    2020/02/01 v9.5 APA biblatex localisation
 american.lbx    2019/12/01 v3.14 biblatex localization (PK/MW)
+american-apa.lbx    2020/02/01 v9.5 APA biblatex localisation
   german.lbx    2019/12/01 v3.14 biblatex localization (PK/MW)
+german-apa.lbx    2020/02/01 v9.5 APA biblatex localisation
  ngerman.lbx    2019/12/01 v3.14 biblatex localization (PK/MW)
+ngerman-apa.lbx    2020/02/01 v9.5 APA biblatex localisation
 ClassicThesis.bbl
 supp-pdf.mkii
 epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
@@ -3290,6 +3190,7 @@ FrontBackmatter/Contents.tex
 Chapters/Chapter01.tex
 gfx/Chapter1/IntroFig1.pdf
 gfx/Chapter1/IntroFig2.pdf
+gfx/Chapter1/IntroMCDA.pdf
 Chapters/Chapter01_1.tex
  ***********
 
@@ -3300,11 +3201,6 @@ Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                ClassicThesis
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 \openout1 = `ClassicThesis.run.xml'.
@@ -3333,25 +3229,25 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35748 strings out of 481239
- 670830 string characters out of 5920376
- 1648343 words of memory out of 5000000
- 49671 multiletter control sequences out of 15000+600000
- 645561 words of font info for 417 fonts, out of 8000000 for 9000
+ 36929 strings out of 481239
+ 697050 string characters out of 5920376
+ 1752976 words of memory out of 5000000
+ 50616 multiletter control sequences out of 15000+600000
+ 652417 words of font info for 512 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 69i,23n,125p,10108b,2320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,23n,131p,10108b,6910s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (38 pages, 329791 bytes).
+ts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
+b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on ClassicThesis.pdf (46 pages, 365105 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
- 85804 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 653 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 86327 words of extra memory for PDF output out of 89155 (max. 10000000)
 

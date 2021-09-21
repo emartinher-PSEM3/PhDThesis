@@ -1,58 +1,31 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: ClassicThesis.aux
-A level-1 auxiliary file: FrontBackmatter/Titlepage.aux
-A level-1 auxiliary file: FrontBackmatter/Titleback.aux
-A level-1 auxiliary file: FrontBackmatter/Dedication2.aux
-A level-1 auxiliary file: FrontBackmatter/Dedication.aux
-A level-1 auxiliary file: FrontBackmatter/Acknowledgments.aux
-A level-1 auxiliary file: FrontBackmatter/Abstract.aux
-A level-1 auxiliary file: FrontBackmatter/Publications.aux
-A level-1 auxiliary file: FrontBackmatter/Contents.aux
-A level-1 auxiliary file: Chapters/Chapter01.aux
-A level-1 auxiliary file: Chapters/Chapter01_1.aux
-I found no \citation commands---while reading file ClassicThesis.aux
-I found no \bibdata command---while reading file ClassicThesis.aux
-I found no \bibstyle command---while reading file ClassicThesis.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            93 strings with 788 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
-quote$ -- 0
-skip$ -- 0
-stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'ClassicThesis.blg'
+[74] biber:322> INFO - === mar sep 21, 2021, 19:31:28
+[86] Biber.pm:415> INFO - Reading 'ClassicThesis.bcf'
+[157] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[157] Biber.pm:943> INFO - Found 6 citekeys in bib section 1
+[157] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[159] Biber.pm:943> INFO - Found 58 citekeys in bib section 2
+[159] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[180] Biber.pm:4256> INFO - Processing section 1
+[180] Utils.pm:75> INFO - Globbing data source 'MyPublications.bib'
+[181] Utils.pm:91> INFO - Globbed data source 'MyPublications.bib' to MyPublications.bib
+[189] Biber.pm:4455> INFO - Looking for bibtex format file 'MyPublications.bib' for section 1
+[190] bibtex.pm:1653> INFO - LaTeX decoding ...
+[210] bibtex.pm:1471> INFO - Found BibTeX data source 'MyPublications.bib'
+[233] Utils.pm:293> WARN - year field 'Under Review' in entry 'Policies' is not an integer - this will probably not sort properly.
+[279] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[279] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[279] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[286] Biber.pm:4256> INFO - Processing section 2
+[287] Utils.pm:75> INFO - Globbing data source 'References/referencesCh1.bib'
+[287] Utils.pm:91> INFO - Globbed data source 'References/referencesCh1.bib' to References/referencesCh1.bib
+[287] Biber.pm:4455> INFO - Looking for bibtex format file 'References/referencesCh1.bib' for section 2
+[288] bibtex.pm:1653> INFO - LaTeX decoding ...
+[343] bibtex.pm:1471> INFO - Found BibTeX data source 'References/referencesCh1.bib'
+[709] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[709] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[709] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[779] bbl.pm:652> INFO - Writing 'ClassicThesis.bbl' with encoding 'UTF-8'
+[819] bbl.pm:755> INFO - Output to ClassicThesis.bbl
+[819] Biber.pm:128> INFO - WARNINGS: 1
