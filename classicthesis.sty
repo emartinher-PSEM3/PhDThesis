@@ -341,9 +341,9 @@
         {\relax}%
         {\renewcommand{\chaptermark}[1]{\markboth{\spacedlowsmallcaps{#1}}{\spacedlowsmallcaps{#1}}}}
     \renewcommand{\sectionmark}[1]{\markright{\textsc{\thesection}\enspace\spacedlowsmallcaps{#1}}}
-    \lehead{\mbox{\llap{\small\pagemark\kern2em}\headmark\hfil}}
-    \rohead{\mbox{\hfil{\headmark}\rlap{\small\kern2em\pagemark}}}
-    \ofoot[\small\pagemark]{}% only for plain.scrheadings page style (first page of a chapter)
+    \lehead{\mbox{\llap{\small\pagemark\kern1em}\headmark\hfil}}
+    \rohead{\mbox{\hfil{\headmark}\rlap{\small\kern1em\pagemark}}}
+%	\ofoot[\small\pagemark]{}% only for plain.scrheadings page style (first page of a chapter)
     \renewcommand{\headfont}{\small}
 %    \DeclareRobustCommand{\fixBothHeadlines}[2]{} % <--- ToDo
     % hack to get the content headlines right (thanks, Lorenzo!)
@@ -382,7 +382,7 @@
     {\titlerule\vspace*{.9\baselineskip}\raggedright\spacedallcaps}[\normalsize\vspace*{.8\baselineskip}\titlerule]%
 }{% something like Bringhurst
     \titleformat{\chapter}[display]%
-    {\relax}{\mbox{}\oldmarginpar{\vspace*{-3\baselineskip}\color{CTsemi}\chapterNumber\thechapter}}{0pt}%
+    {\relax}{\mbox{}\oldmarginpar{\vspace*{-3\baselineskip}\color{CTsemi}\hspace{-60pt}\chapterNumber\thechapter}}{0pt}%
     {\raggedright\spacedallcaps}[\normalsize\vspace*{.8\baselineskip}\titlerule]%
 }
 % sections \FloatBarrier

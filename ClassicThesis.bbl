@@ -830,6 +830,39 @@
       \field{pages}{514\bibrangedash 526}
       \range{pages}{13}
     \endentry
+    \entry{drud1985conopt}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c80d93a2584c9195f3a2676855d04f4d}{%
+           family={Drud},
+           familyi={D\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c80d93a2584c9195f3a2676855d04f4d}
+      \strng{fullhash}{c80d93a2584c9195f3a2676855d04f4d}
+      \strng{bibnamehash}{c80d93a2584c9195f3a2676855d04f4d}
+      \strng{authorbibnamehash}{c80d93a2584c9195f3a2676855d04f4d}
+      \strng{authornamehash}{c80d93a2584c9195f3a2676855d04f4d}
+      \strng{authorfullhash}{c80d93a2584c9195f3a2676855d04f4d}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical programming}
+      \field{number}{2}
+      \field{title}{CONOPT: A GRG code for large sparse dynamic nonlinear optimization problems}
+      \field{volume}{31}
+      \field{year}{1985}
+      \field{pages}{153\bibrangedash 191}
+      \range{pages}{39}
+    \endentry
     \entry{NPDESforCAFO}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7839a87f8f6a2de1a1372c1a685705a4}{%
@@ -884,6 +917,34 @@
       \field{title}{{ESPP input for the EU's "Integrated Nutrient Management Action Plan" (INMAP)}}
       \field{type}{techreport}
       \field{year}{2021}
+    \endentry
+    \entry{xpress}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55b4335e24c017ae40bbefabaa3f157a}{%
+           family={{FICO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{55b4335e24c017ae40bbefabaa3f157a}
+      \strng{fullhash}{55b4335e24c017ae40bbefabaa3f157a}
+      \strng{bibnamehash}{55b4335e24c017ae40bbefabaa3f157a}
+      \strng{authorbibnamehash}{55b4335e24c017ae40bbefabaa3f157a}
+      \strng{authornamehash}{55b4335e24c017ae40bbefabaa3f157a}
+      \strng{authorfullhash}{55b4335e24c017ae40bbefabaa3f157a}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Xpress-Optimizer Reference manual, 20.0 edition}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://www.fico.com/xpress
+      \endverb
+      \verb{url}
+      \verb http://www.fico.com/xpress
+      \endverb
     \endentry
     \entry{floudas1995nonlinear}{book}{}
       \name{author}{1}{}{%
@@ -1290,6 +1351,34 @@
       \field{title}{Advanced Optimization for Process Systems Engineering}
       \field{year}{2021}
     \endentry
+    \entry{gurobi}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3fb19cc60482639d6ec88ca136745f1}{%
+           family={{Gurobi Optimization, LLC}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{fullhash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{bibnamehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{authorbibnamehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{authornamehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{authorfullhash}{e3fb19cc60482639d6ec88ca136745f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Gurobi Optimizer Reference Manual}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.gurobi.com
+      \endverb
+      \verb{url}
+      \verb https://www.gurobi.com
+      \endverb
+    \endentry
     \entry{hall2012rules}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d5441140411fefe70871c9fba5c9f15b}{%
@@ -1384,6 +1473,29 @@
       \field{labeltitlesource}{title}
       \field{title}{Multi attribute decision making--an introduction}
       \field{year}{1995}
+    \endentry
+    \entry{cplex2009v12}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{V12.1: User’s Manual for CPLEX}
+      \field{type}{techreport}
+      \field{year}{2009}
     \endentry
     \entry{Kellog2010}{report}{}
       \name{author}{4}{}{%
@@ -1564,6 +1676,41 @@
       \field{year}{2012}
       \field{pages}{16\bibrangedash 20}
       \range{pages}{5}
+    \endentry
+    \entry{murtagh1983minos}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=526716673e2774d29fe7664b6d7a68b5}{%
+           family={Murtagh},
+           familyi={M\bibinitperiod},
+           given={Bruce\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a93c1ce8ca06c149de3fef394c5112d2}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Stanford Univ CA Systems Optimization Lab}%
+      }
+      \strng{namehash}{095e7dfff8a697716575f1a13e751440}
+      \strng{fullhash}{095e7dfff8a697716575f1a13e751440}
+      \strng{bibnamehash}{095e7dfff8a697716575f1a13e751440}
+      \strng{authorbibnamehash}{095e7dfff8a697716575f1a13e751440}
+      \strng{authornamehash}{095e7dfff8a697716575f1a13e751440}
+      \strng{authorfullhash}{095e7dfff8a697716575f1a13e751440}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MINOS 5.0 User's Guide.}
+      \field{type}{techreport}
+      \field{year}{1983}
     \endentry
     \entry{murty1983linear}{book}{}
       \name{author}{1}{}{%
@@ -2488,6 +2635,80 @@
       \field{year}{1985}
       \field{pages}{647\bibrangedash 656}
       \range{pages}{10}
+    \endentry
+    \entry{wachter2006implementation}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc724f071bd0fcc1e9eabf5f96209481}{%
+           family={W{ä}chter},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4cf951e494c45f4de462df04ec3b5df}{%
+           family={Biegler},
+           familyi={B\bibinitperiod},
+           given={Lorenz\bibnamedelima T},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{842d46b1a24346d113a0e8274fa09dd0}
+      \strng{fullhash}{842d46b1a24346d113a0e8274fa09dd0}
+      \strng{bibnamehash}{842d46b1a24346d113a0e8274fa09dd0}
+      \strng{authorbibnamehash}{842d46b1a24346d113a0e8274fa09dd0}
+      \strng{authornamehash}{842d46b1a24346d113a0e8274fa09dd0}
+      \strng{authorfullhash}{842d46b1a24346d113a0e8274fa09dd0}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical programming}
+      \field{number}{1}
+      \field{title}{On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming}
+      \field{volume}{106}
+      \field{year}{2006}
+      \field{pages}{25\bibrangedash 57}
+      \range{pages}{33}
+    \endentry
+    \entry{waltz2004knitro}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9bc39163f56faeb2635026d5c0e116f5}{%
+           family={Waltz},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88a342d927bf795b0d92af8a5613da31}{%
+           family={Nocedal},
+           familyi={N\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0782f20e6fad1cb87bfcc7086972fb5c}
+      \strng{fullhash}{0782f20e6fad1cb87bfcc7086972fb5c}
+      \strng{bibnamehash}{0782f20e6fad1cb87bfcc7086972fb5c}
+      \strng{authorbibnamehash}{0782f20e6fad1cb87bfcc7086972fb5c}
+      \strng{authornamehash}{0782f20e6fad1cb87bfcc7086972fb5c}
+      \strng{authorfullhash}{0782f20e6fad1cb87bfcc7086972fb5c}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ziena Optimization, Inc.[en ligne] disponible sur http://www. ziena. com (September, 2010)}
+      \field{title}{KNITRO 2.0 User’s Manual}
+      \field{volume}{7}
+      \field{year}{2004}
+      \field{pages}{33\bibrangedash 34}
+      \range{pages}{2}
     \endentry
     \entry{wilson2017alamo}{article}{}
       \name{author}{2}{}{%

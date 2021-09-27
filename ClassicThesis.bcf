@@ -2641,17 +2641,27 @@
     <bcf:citekey order="50">murty1983linear</bcf:citekey>
     <bcf:citekey order="51">POTRA2000281</bcf:citekey>
     <bcf:citekey order="52">grossmann2021advanced</bcf:citekey>
-    <bcf:citekey order="53">floudas1995nonlinear</bcf:citekey>
-    <bcf:citekey order="54">gill2005snopt</bcf:citekey>
-    <bcf:citekey order="55">grossmann2021advanced</bcf:citekey>
+    <bcf:citekey order="53">cplex2009v12</bcf:citekey>
+    <bcf:citekey order="54">gurobi</bcf:citekey>
+    <bcf:citekey order="55">xpress</bcf:citekey>
     <bcf:citekey order="56">floudas1995nonlinear</bcf:citekey>
-    <bcf:citekey order="57">grossmann2021advanced</bcf:citekey>
-    <bcf:citekey order="58">grossmann2021advanced</bcf:citekey>
-    <bcf:citekey order="59">floudas1995nonlinear</bcf:citekey>
-    <bcf:citekey order="60">floudas1995nonlinear</bcf:citekey>
-    <bcf:citekey order="61">foster2007environmental</bcf:citekey>
-    <bcf:citekey order="62">di2017can</bcf:citekey>
-    <bcf:citekey order="63">gharehbaghi2018gis</bcf:citekey>
+    <bcf:citekey order="57">gill2005snopt</bcf:citekey>
+    <bcf:citekey order="58">gill2005snopt</bcf:citekey>
+    <bcf:citekey order="59">murtagh1983minos</bcf:citekey>
+    <bcf:citekey order="60">drud1985conopt</bcf:citekey>
+    <bcf:citekey order="61">wachter2006implementation</bcf:citekey>
+    <bcf:citekey order="62">waltz2004knitro</bcf:citekey>
+    <bcf:citekey order="63">grossmann2021advanced</bcf:citekey>
+    <bcf:citekey order="64">floudas1995nonlinear</bcf:citekey>
+    <bcf:citekey order="65">grossmann2021advanced</bcf:citekey>
+    <bcf:citekey order="66">gurobi</bcf:citekey>
+    <bcf:citekey order="67">cplex2009v12</bcf:citekey>
+    <bcf:citekey order="68">grossmann2021advanced</bcf:citekey>
+    <bcf:citekey order="69">floudas1995nonlinear</bcf:citekey>
+    <bcf:citekey order="70">floudas1995nonlinear</bcf:citekey>
+    <bcf:citekey order="71">foster2007environmental</bcf:citekey>
+    <bcf:citekey order="72">di2017can</bcf:citekey>
+    <bcf:citekey order="73">gharehbaghi2018gis</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
