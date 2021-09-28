@@ -417,6 +417,30 @@
       \field{title}{Multiple criteria decision analysis: an integrated approach}
       \field{year}{2002}
     \endentry
+    \entry{BIOGAS3PROJECT}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9e9aaa5a380b94f846ae2b1c9e312ae}{%
+           family={{BIOGAS3 PROJECT}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9e9aaa5a380b94f846ae2b1c9e312ae}
+      \strng{fullhash}{f9e9aaa5a380b94f846ae2b1c9e312ae}
+      \strng{bibnamehash}{f9e9aaa5a380b94f846ae2b1c9e312ae}
+      \strng{authorbibnamehash}{f9e9aaa5a380b94f846ae2b1c9e312ae}
+      \strng{authornamehash}{f9e9aaa5a380b94f846ae2b1c9e312ae}
+      \strng{authorfullhash}{f9e9aaa5a380b94f846ae2b1c9e312ae}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.biogas3.eu/eng/index.html}}
+      \field{note}{[Online; accessed 28-September-2021]}
+      \field{title}{{BIOGAS3 PROJECT - Sustainable small-scale biogas from agri-food waste for energy self-sufficiency}}
+      \field{year}{2021}
+    \endentry
     \entry{biraben1980essay}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aff3f92be967f94ef376adbc26c92903}{%
@@ -863,35 +887,6 @@
       \field{pages}{153\bibrangedash 191}
       \range{pages}{39}
     \endentry
-    \entry{NPDESforCAFO}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7839a87f8f6a2de1a1372c1a685705a4}{%
-           family={EPA},
-           familyi={E\bibinitperiod},
-           given={US},
-           giveni={U\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {U.S. Environmental Protection Agency}%
-      }
-      \strng{namehash}{7839a87f8f6a2de1a1372c1a685705a4}
-      \strng{fullhash}{7839a87f8f6a2de1a1372c1a685705a4}
-      \strng{bibnamehash}{7839a87f8f6a2de1a1372c1a685705a4}
-      \strng{authorbibnamehash}{7839a87f8f6a2de1a1372c1a685705a4}
-      \strng{authornamehash}{7839a87f8f6a2de1a1372c1a685705a4}
-      \strng{authorfullhash}{7839a87f8f6a2de1a1372c1a685705a4}
-      \field{sortinit}{E}
-      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Elements of an NPDES Permit for a CAFO. NPDES Permit Writers' Manual for CAFOs}}
-      \field{type}{techreport}
-      \field{year}{2020}
-    \endentry
     \entry{ESSP2021}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=62daa7e92a872d528156e44a1a1b4d93}{%
@@ -916,6 +911,30 @@
       \field{labeltitlesource}{title}
       \field{title}{{ESPP input for the EU's "Integrated Nutrient Management Action Plan" (INMAP)}}
       \field{type}{techreport}
+      \field{year}{2021}
+    \endentry
+    \entry{BiogasAction}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=516d1743b3db5136e2551ce1b0fbad49}{%
+           family={{European Comission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{516d1743b3db5136e2551ce1b0fbad49}
+      \strng{fullhash}{516d1743b3db5136e2551ce1b0fbad49}
+      \strng{bibnamehash}{516d1743b3db5136e2551ce1b0fbad49}
+      \strng{authorbibnamehash}{516d1743b3db5136e2551ce1b0fbad49}
+      \strng{authornamehash}{516d1743b3db5136e2551ce1b0fbad49}
+      \strng{authorfullhash}{516d1743b3db5136e2551ce1b0fbad49}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://ec.europa.eu/inea/en/horizon-2020/projects/h2020-energy/biofuels-market-uptake/biogasaction}}
+      \field{note}{[Online; accessed 28-September-2021]}
+      \field{title}{{BiogasAction}}
       \field{year}{2021}
     \endentry
     \entry{xpress}{misc}{}
@@ -2526,6 +2545,33 @@
       \field{title}{{World Population Prospects 2019}}
       \field{year}{2019}
     \endentry
+    \entry{NPDESforCAFO}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5627235f7755f36aacdeda188b7ba6f}{%
+           family={{US EPA}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Environmental Protection Agency}%
+      }
+      \strng{namehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{fullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{bibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authorbibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authornamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authorfullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Elements of an NPDES Permit for a CAFO. NPDES Permit Writers' Manual for CAFOs}}
+      \field{type}{techreport}
+      \field{year}{2020}
+    \endentry
     \entry{NPDE_basics}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f5627235f7755f36aacdeda188b7ba6f}{%
@@ -2538,17 +2584,42 @@
       \strng{authorbibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
       \strng{authornamehash}{f5627235f7755f36aacdeda188b7ba6f}
       \strng{authorfullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \field{extraname}{2}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.epa.gov/npdes/npdes-permit-basics}}
       \field{note}{[Online; accessed 24-August-2021]}
       \field{title}{{NPDES Permit Basics}}
       \field{year}{2020}
+    \endentry
+    \entry{AgSTARProgram}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5627235f7755f36aacdeda188b7ba6f}{%
+           family={{US EPA}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{fullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{bibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authorbibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authornamehash}{f5627235f7755f36aacdeda188b7ba6f}
+      \strng{authorfullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.epa.gov/agstar}}
+      \field{note}{[Online; accessed 28-September-2021]}
+      \field{title}{{AgSTAR: Biogas Recovery in the Agriculture Sector}}
+      \field{year}{2021}
     \endentry
     \entry{USDAHandbook}{report}{}
       \name{author}{1}{}{%
