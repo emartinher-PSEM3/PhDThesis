@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  28 SEP 2021 18:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  29 SEP 2021 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1519,7 +1519,15 @@ LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
 )
 (./FrontBackmatter/Publications.aux) (./FrontBackmatter/Contents.aux)
-(./Chapters/Chapter01.aux) (./Chapters/Chapter01_1.aux))
+(./Chapters/Chapter01.aux) (./Chapters/Chapter01_1.aux)
+(./Chapters/Chapter03.aux) (./Chapters/Chapter04.aux
+
+LaTeX Warning: Label `ch:Tool' multiply defined.
+
+
+LaTeX Warning: Label `eq:TES' multiply defined.
+
+))
 \openout1 = `ClassicThesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
@@ -1540,8 +1548,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
 LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 1
 06.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplj.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 LaTeX Info: Redefining \. on input line 106.
@@ -2155,10 +2162,26 @@ LaTeX Info: Redefining \% on input line 22.
 Package biblatex Info: Reference section=1 on input line 31.
 Package biblatex Info: Setting label 'refsection:1' on input line 31.
 
-Overfull \hbox (1.11653pt too wide) in paragraph at lines 34--34
-\T1/pplj/m/n/10.95 (-20) driven spa-tial eval-u-a-tion of nu-tri-ent re-cov-ery
- from live-stock leachate
- []
+
+LaTeX Warning: Citation 'Policies' undefined on input line 32.
+
+
+LaTeX Warning: Citation 'Tool' undefined on input line 32.
+
+
+LaTeX Warning: Citation 'martin2020model' undefined on input line 32.
+
+
+LaTeX Warning: Citation 'martin2020optimal' undefined on input line 32.
+
+
+LaTeX Warning: Citation 'Martin' undefined on input line 32.
+
+
+LaTeX Warning: Citation 'martin2021logistics' undefined on input line 32.
+
+
+LaTeX Warning: Empty bibliography on input line 34.
 
 Package biblatex Info: Reference section=0 on input line 35.
 )
@@ -2194,6 +2217,22 @@ LaTeX Info: Redefining \% on input line 6.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [15
+
+
+
+]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (16.00748pt too wide) in paragraph at lines 153--153
+ [][] []\T1/pplj/m/sc/10.95/80ls (-20) geospatial en-vi-ron-men-tal and techno-
+economic frame- 
+ []
+
 )
 \tf@toc=\write30
 \openout4 = `ClassicThesis.toc'.
@@ -2205,11 +2244,7 @@ Package microtype Info: Character `029' is missing
 1: section
 \openout4 = `ClassicThesis.mw.mw'.
 
-[15
-
-
-
-] (./ClassicThesis.mw.mw)
+[16] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 Package tocbasic Info: character protrusion at lof deactivated on input line 29
@@ -2219,6 +2254,26 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
+\blx@sectionciteorder@3=\count508
+
+Overfull \hbox (4.53233pt too wide) in paragraph at lines 43--43
+ \T1/pplj/m/n/10.95 (-20) duc-tion for the dif-fer-ent sce-nar-ios con-sid-ered
+. Darker 
+ []
+
+
+Overfull \hbox (3.8597pt too wide) in paragraph at lines 49--49
+ [][] []\T1/pplj/m/n/10.95 (-20) Process flow-sheet for ma-nure man-age-ment an
+d phos- 
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[17
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
 )
 \tf@lof=\write31
 \openout4 = `ClassicThesis.lof'.
@@ -2226,22 +2281,47 @@ LaTeX Info: Redefining \% on input line 10.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [16
-
-] (./ClassicThesis.mw.mw)
+ [18] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout2 = `Chapters/Chapter01.aux'.
 
- (./Chapters/Chapter01.tex
+
+(./Chapters/Chapter01.tex
 Chapter 1.
-\blx@maxsegment@2=\count508
-\blx@sectionciteorder@2=\count509
+\blx@maxsegment@2=\count509
+\blx@sectionciteorder@2=\count510
 Package biblatex Info: Reference section=2 on input line 4.
 Package biblatex Info: Setting label 'refsection:2' on input line 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\newline' on input line 52.
+
+
+LaTeX Warning: Citation 'biraben1980essay' on page 1 undefined on input line 53
+.
+
+
+LaTeX Warning: Citation 'UNPopulationProspects' on page 1 undefined on input li
+ne 53.
+
+
+LaTeX Warning: Citation 'Samreen2019' on page 1 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'smil1999detonator' on page 1 undefined on input line 5
+5.
+
+
+LaTeX Warning: Citation 'constable2003century' on page 1 undefined on input lin
+e 55.
+
+
+LaTeX Warning: Citation 'nierenberg2005happier' on page 1 undefined on input li
+ne 55.
+
+
+LaTeX Warning: Citation 'Bouwman2009' on page 1 undefined on input line 59.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2255,29 +2335,92 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter1/IntroFig1.pdf, id=186, 650.43pt x 854.23708pt>
+<gfx/Chapter1/IntroFig1.pdf, id=257, 650.43pt x 854.23708pt>
 File: gfx/Chapter1/IntroFig1.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig1.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig1.pdf  used on input line 65.
 (pdftex.def)             Requested size: 286.80492pt x 385.29407pt.
+
+
+LaTeX Warning: Citation 'cordell2009story' on page 2 undefined on input line 70
+.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [2 <./gfx/Chapter1/IntroFig1.pdf>]
-(./ClassicThesis.mw.mw)
+[2 <./gfx/Chapter1/IntroFig1.pdf>] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'animal_unit_definition' on page 3 undefined on input l
+ine 74.
+
+
+LaTeX Warning: Citation 'Kellog2010' on page 3 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'USDAHandbook' on page 3 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'tilley2014compendium' on page 3 undefined on input lin
+e 74.
+
+
+LaTeX Warning: Citation 'tilley2014compendium' on page 3 undefined on input lin
+e 74.
+
+
+LaTeX Warning: Citation 'burns2002phosphorus' on page 3 undefined on input line
+ 74.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 \openout4 = `ClassicThesis.mw.mw'.
 
- [3] (./ClassicThesis.mw.mw)
+[3] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'GRIZZETTI2021102281' on page 4 undefined on input line
+ 95.
+
+
+LaTeX Warning: Citation 'amery2014agricultural' on page 4 undefined on input li
+ne 97.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [4] (./ClassicThesis.mw.mw)
+[4] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Piot_Lepetit2012' on page 5 undefined on input line 99
+.
+
+
+LaTeX Warning: Citation 'ESSP2021' on page 5 undefined on input line 99.
+
+
+LaTeX Warning: Citation 'CircularEconomyActionPlan' on page 5 undefined on inpu
+t line 99.
+
+
+LaTeX Warning: Citation 'NPDE_basics' on page 5 undefined on input line 101.
+
+
+LaTeX Warning: Citation 'NPDESforCAFO' on page 5 undefined on input line 101.
+
+
+LaTeX Warning: Citation 'NACWA503' on page 5 undefined on input line 101.
+
+
+LaTeX Warning: Citation 'CNP503' on page 5 undefined on input line 101.
+
+
+LaTeX Warning: Citation 'CNP503' on page 5 undefined on input line 101.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2286,9 +2429,20 @@ Package microtype Info: Character `029' is missing
 
 
 
+LaTeX Warning: Citation 'AgSTARProgram' on page 6 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'BiogasAction' on page 6 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'BIOGAS3PROJECT' on page 6 undefined on input line 105.
+
+
+
+
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter1/IntroFig2_1.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter1/IntroFig2_1.pdf, id=260, 518.89293pt x 578.16pt>
+<gfx/Chapter1/IntroFig2_1.pdf, id=295, 518.89293pt x 578.16pt>
 File: gfx/Chapter1/IntroFig2_1.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroFig2_1.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroFig2_1.pdf  used on input line 111.
@@ -2296,55 +2450,179 @@ Package pdftex.def Info: gfx/Chapter1/IntroFig2_1.pdf  used on input line 111.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+LaTeX Warning: Citation 'STEPHANOPOULOS20114272' on page 6 undefined on input l
+ine 125.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
 [6] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+
+
+LaTeX Warning: Citation 'PISTIKOPOULOS2021107252' on page 7 undefined on input 
+line 127.
+
+
+LaTeX Warning: Citation 'MARTIN201216' on page 7 undefined on input line 127.
+
+
+LaTeX Warning: Citation 'couper2005chemical' on page 7 undefined on input line 
+133.
+
+
+LaTeX Warning: Citation 'hall2012rules' on page 7 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'sadhukhan2014biorefineries' on page 7 undefined on inp
+ut line 133.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [7 <./gfx/Chapter1/IntroFig2_1.pdf>]
-(./ClassicThesis.mw.mw)
+[7 <./gfx/Chapter1/IntroFig2_1.pdf>] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'szirtes2007applied' on page 8 undefined on input line 
+136.
+
+
+LaTeX Warning: Citation 'loeppert1995chemical' on page 8 undefined on input lin
+e 139.
+
+
+LaTeX Warning: Citation 'brignole2013phase' on page 8 undefined on input line 1
+39.
+
+
+LaTeX Warning: Citation 'buzzi2009kinetic' on page 8 undefined on input line 13
+9.
+
+
+LaTeX Warning: Citation 'ramkrishna2000population' on page 8 undefined on input
+ line 139.
+
+
+LaTeX Warning: Citation 'anderson1995computational' on page 8 undefined on inpu
+t line 139.
+
+
+Overfull \hbox (7.61697pt too wide) in paragraph at lines 139--140
+\T1/pplj/m/n/10.95 (-20) ([]) equi-lib-rium mod-els, ki-netic mod-els ([]),
+ []
+
+
+LaTeX Warning: Citation 'queipo2005surrogate' on page 8 undefined on input line
+ 142.
+
+
+LaTeX Warning: Citation 'wilson2017alamo' on page 8 undefined on input line 144
+.
+
+
+LaTeX Warning: Citation 'quirante2015rigorous' on page 8 undefined on input lin
+e 144.
+
+
+LaTeX Warning: Citation 'himmelblau2000applications' on page 8 undefined on inp
+ut line 145.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [8] (./ClassicThesis.mw.mw)
+[8] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'belton2002multiple' on page 9 undefined on input line 
+153.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [9] (./ClassicThesis.mw.mw)
+[9] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'giove2009decision' on page 10 undefined on input line 
+157.
 
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter1/IntroMCDA.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter1/IntroMCDA.pdf, id=326, 816.65097pt x 614.295pt>
+<gfx/Chapter1/IntroMCDA.pdf, id=324, 816.65097pt x 614.295pt>
 File: gfx/Chapter1/IntroMCDA.pdf Graphic file (type pdf)
 <use gfx/Chapter1/IntroMCDA.pdf>
 Package pdftex.def Info: gfx/Chapter1/IntroMCDA.pdf  used on input line 161.
 (pdftex.def)             Requested size: 322.65211pt x 236.72156pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 \openout4 = `ClassicThesis.mw.mw'.
 
-[10] (./ClassicThesis.mw.mw)
+[10 <./gfx/Chapter1/IntroMCDA.pdf>] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-\openout4 = `ClassicThesis.mw.mw'.
 
- [11 <./gfx/Chapter1/IntroMCDA.pdf>]
-(./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
+
+LaTeX Warning: Citation 'HandbookCompositeIndicators' on page 11 undefined on i
+nput line 172.
+
+
+LaTeX Warning: Citation 'MarcoCinelli2020' on page 11 undefined on input line 1
+75.
+
+
+LaTeX Warning: Citation 'marichal2000determination' on page 11 undefined on inp
+ut line 175.
+
+
+LaTeX Warning: Citation 'tervonen_implementing_2007' on page 11 undefined on in
+put line 178.
+
+
+LaTeX Warning: Citation 'saaty2000fundamentals' on page 11 undefined on input l
+ine 184.
 
 
 Overfull \hbox (5.30132pt too wide) in paragraph at lines 184--185
 \T1/pplj/m/n/10.95 (-20) (AHP) de-com-poses the de-ci-sion prob-lem into mul-ti
 -ple sim-pler sub-problems.
  []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[11] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'hwang1995multi' on page 12 undefined on input line 189
+.
+
+
+LaTeX Warning: Citation 'giove2009decision' on page 12 undefined on input line 
+198.
+
+
+LaTeX Warning: Citation 'roy1968classement' on page 12 undefined on input line 
+198.
+
+
+LaTeX Warning: Citation 'roy1973methode' on page 12 undefined on input line 198
+.
+
+
+LaTeX Warning: Citation 'roy1978electre' on page 12 undefined on input line 198
+.
+
+
+LaTeX Warning: Citation 'vincke1985preference' on page 12 undefined on input li
+ne 198.
+
+
+LaTeX Warning: Citation 'giove2009decision' on page 12 undefined on input line 
+205.
 
 
 LaTeX Warning: Reference `ch:PhosphorusTechs' on page 12 undefined on input lin
@@ -2354,40 +2632,129 @@ e 205.
 LaTeX Warning: Reference `ch:BiogasUpgrading' on page 12 undefined on input lin
 e 205.
 
+
+LaTeX Warning: Citation 'giove2009decision' on page 12 undefined on input line 
+205.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
 [12] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+
+
+LaTeX Warning: Citation 'grossmann2021advanced' on page 13 undefined on input l
+ine 208.
+
+
+LaTeX Warning: Citation 'murty1983linear' on page 13 undefined on input line 21
+6.
+
+
+LaTeX Warning: Citation 'POTRA2000281' on page 13 undefined on input line 216.
+
+
+LaTeX Warning: Citation 'grossmann2021advanced' on page 13 undefined on input l
+ine 218.
+
+
+LaTeX Warning: Citation 'cplex2009v12' on page 13 undefined on input line 218.
+
+
+LaTeX Warning: Citation 'gurobi' on page 13 undefined on input line 218.
+
+
+LaTeX Warning: Citation 'xpress' on page 13 undefined on input line 218.
+
+
+LaTeX Warning: Citation 'floudas1995nonlinear' on page 13 undefined on input li
+ne 221.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [13] (./ClassicThesis.mw.mw)
+[13] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'gill2005snopt' on page 14 undefined on input line 233.
+
+
+
+LaTeX Warning: Citation 'gill2005snopt' on page 14 undefined on input line 233.
+
+
+
+LaTeX Warning: Citation 'murtagh1983minos' on page 14 undefined on input line 2
+35.
+
+
+LaTeX Warning: Citation 'drud1985conopt' on page 14 undefined on input line 235
+.
+
+
+LaTeX Warning: Citation 'wachter2006implementation' on page 14 undefined on inp
+ut line 237.
+
+
+LaTeX Warning: Citation 'waltz2004knitro' on page 14 undefined on input line 23
+7.
+
+
+LaTeX Warning: Citation 'grossmann2021advanced' on page 14 undefined on input l
+ine 240.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [14]
-(./ClassicThesis.mw.mw)
+[14] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'floudas1995nonlinear' on page 15 undefined on input li
+ne 253.
+
+
+LaTeX Warning: Citation 'grossmann2021advanced' on page 15 undefined on input l
+ine 255.
+
+
+LaTeX Warning: Citation 'gurobi' on page 15 undefined on input line 255.
+
+
+LaTeX Warning: Citation 'cplex2009v12' on page 15 undefined on input line 255.
+
+
+LaTeX Warning: Citation 'grossmann2021advanced' on page 15 undefined on input l
+ine 258.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [15] (./ClassicThesis.mw.mw)
+[15] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'floudas1995nonlinear' on page 16 undefined on input li
+ne 271.
+
+
+LaTeX Warning: Citation 'floudas1995nonlinear' on page 16 undefined on input li
+ne 275.
+
+
+LaTeX Warning: Citation 'gharehbaghi2018gis' on page 16 undefined on input line
+ 279.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [16]
-(./ClassicThesis.mw.mw)
+[16] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 
 
 LaTeX Warning: Reference `ch:PhosphorusTechs' on page 17 undefined on input lin
 e 291.
-
-
-LaTeX Warning: Reference `ch:Struvite' on page 17 undefined on input line 293.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -2411,40 +2778,15 @@ e 303.
 [18] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-\openout4 = `ClassicThesis.mw.mw'.
-
- [19] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [20]
-(./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
 
 
-Overfull \hbox (12.56923pt too wide) in paragraph at lines 309--309
-[][]\T1/pplj/m/n/10.95 (-20) Hall, S. M. (2012). \T1/pplj/m/it/10.95 (-20) Rule
-s of thumb for chem-i-cal en-gi-neers\T1/pplj/m/n/10.95 (-20) . Butterworth-Hei
-nemann. 
- []
-
-\openout4 = `ClassicThesis.mw.mw'.
-
-[21] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-\openout4 = `ClassicThesis.mw.mw'.
-
- [22] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
+LaTeX Warning: Empty bibliography on input line 309.
 
 Package biblatex Info: Reference section=0 on input line 310.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [23]
-(./ClassicThesis.mw.mw)
+ [19] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout2 = `Chapters/Chapter01_1.aux'.
@@ -2453,7 +2795,7 @@ Package biblatex Info: Reference section=0 on input line 310.
 Chapter 2.
 \openout4 = `ClassicThesis.mw.mw'.
 
-[24
+[20
 
 
 
@@ -2464,12 +2806,12 @@ Chapter 2.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
- [25] (./ClassicThesis.mw.mw)
+ [21] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [26
+ [22
 
 
 
@@ -2479,7 +2821,7 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [27
+ [23
 
 
 ] (./ClassicThesis.mw.mw)
@@ -2487,13 +2829,4725 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [28]
+ [24]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+\openout2 = `Chapters/Chapter03.aux'.
+
+ (./Chapters/Chapter03.tex
+Chapter 3.
+\blx@maxsegment@3=\count511
+\blx@sectionciteorder@3=\count512
+Package biblatex Info: Reference section=3 on input line 4.
+Package biblatex Info: Setting label 'refsection:3' on input line 4.
+
+LaTeX Warning: Citation 'RUTTENBERG2001401' on page 25 undefined on input line 
+6.
+
+
+LaTeX Warning: Citation 'Sampat2' on page 25 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'Beaulieu' on page 25 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'Cordell' on page 25 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'Dzombak' on page 25 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'USDAWaste' on page 25 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'USDACattle2020' on page 25 undefined on input line 10.
+
+
+
+LaTeX Warning: Citation 'Sampat' on page 25 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'muhmood2019formation' on page 25 undefined on input li
+ne 11.
+
+
+LaTeX Warning: Citation 'Martin' on page 25 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Richards' on page 25 undefined on input line 11.
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [29
+[25
+
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Battistoni' on page 26 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'Matynia' on page 26 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'Shashvatt' on page 26 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'celen_using_2007' on page 26 undefined on input line 1
+3.
+
+
+LaTeX Warning: Citation 'Harada' on page 26 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'ronteltap_struvite_2007' on page 26 undefined on input
+ line 13.
+
+
+LaTeX Warning: Citation 'rahaman_modeling_2014' on page 26 undefined on input l
+ine 13.
+
+
+LaTeX Warning: Citation 'rahaman_modeling_2014' on page 26 undefined on input l
+ine 13.
+
+
+LaTeX Warning: Citation 'mangin2004fluid' on page 26 undefined on input line 13
+.
+
+
+LaTeX Warning: Citation 'Yan' on page 26 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'Tao' on page 26 undefined on input line 13.
+
+
+Overfull \hbox (11.417pt too wide) in paragraph at lines 13--14
+\T1/pplj/m/n/10.95 (-20) ma-nure ([]), hu-man urine ([]; []),
+ []
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[26] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'HUC8' on page 27 undefined on input line 19.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[27] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Dzombak' on page 28 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'Alexander_2008' on page 28 undefined on input line 23.
+
+
+
+LaTeX Warning: Citation 'SPARROW_report_1999' on page 28 undefined on input lin
+e 23.
+
+
+LaTeX Warning: Citation 'NuGIS' on page 28 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'OSU2017' on page 28 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'OSU2005' on page 28 undefined on input line 25.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[28] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'EnviroAtlas' on page 29 undefined on input line 34.
+
+
+LaTeX Warning: Citation '2017CensusofAgriculture' on page 29 undefined on input
+ line 34.
+
+
+LaTeX Warning: Citation 'USDAWaste' on page 29 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'Kadlec' on page 29 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'TESmetric' on page 29 undefined on input line 37.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[29] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Tao' on page 30 undefined on input line 47.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[30] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Thomopoulos' on page 31 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'Tao' on page 31 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'Tao' on page 31 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'Zeng' on page 31 undefined on input line 74.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'Tao' on page 31 undefined on input line 97.
+
+
+LaTeX Warning: Citation 'Metcalf' on page 31 undefined on input line 97.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[31] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[32] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Bates' on page 33 undefined on input line 132.
+
+
+LaTeX Warning: Citation 'Skoog' on page 33 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'Ohlinger' on page 33 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'Ohlinger' on page 33 undefined on input line 135.
+
+
+LaTeX Warning: Citation 'Ohlinger' on page 33 undefined on input line 136.
+
+
+LaTeX Warning: Citation 'Skoog' on page 33 undefined on input line 137.
+
+
+LaTeX Warning: Citation 'Skoog' on page 33 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'Ohlinger' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'TaylorAW' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'Brezonik' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'Morse' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'Fowler' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'Gregory' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'Skoog' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'Skoog' on page 33 undefined on input line 162.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'Tao' on page 33 undefined on input line 167.
+
+
+LaTeX Warning: Citation 'Harada' on page 33 undefined on input line 167.
+
+
+LaTeX Warning: Citation 'gadekar2010validation' on page 33 undefined on input l
+ine 167.
+
+
+LaTeX Warning: Citation 'Tao' on page 33 undefined on input line 174.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[33] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[34] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf, id=525, 1195.0157
+2pt x 1690.09372pt>
+File: gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf Graphic file 
+(type pdf)
+<use gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf>
+Package pdftex.def Info: gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCE
+D.pdf  used on input line 194.
+(pdftex.def)             Requested size: 358.50479pt x 458.88295pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<gfx/Chapter3/procedure.pdf, id=527, 845.01837pt x 597.47943pt>
+File: gfx/Chapter3/procedure.pdf Graphic file (type pdf)
+<use gfx/Chapter3/procedure.pdf>
+Package pdftex.def Info: gfx/Chapter3/procedure.pdf  used on input line 202.
+(pdftex.def)             Requested size: 250.95226pt x 97.16077pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'DunningHuchetteLubin2017' on page 35 undefined on inpu
+t line 209.
+
+
+LaTeX Warning: Citation 'bezanson2017julia' on page 35 undefined on input line 
+209.
+
+
+LaTeX Warning: Citation 'Python' on page 35 undefined on input line 209.
+
+
+LaTeX Warning: Citation 'Numpy' on page 35 undefined on input line 209.
+
+
+LaTeX Warning: Citation 'Matplotlib' on page 35 undefined on input line 209.
+
+
+LaTeX Warning: Citation 'Pandas' on page 35 undefined on input line 209.
+
+
+LaTeX Warning: Citation 'Zeng' on page 35 undefined on input line 212.
+
+<gfx/Chapter3/validation.pdf, id=531, 722.7pt x 505.89pt>
+File: gfx/Chapter3/validation.pdf Graphic file (type pdf)
+<use gfx/Chapter3/validation.pdf>
+Package pdftex.def Info: gfx/Chapter3/validation.pdf  used on input line 215.
+(pdftex.def)             Requested size: 322.65211pt x 206.80318pt.
+
+LaTeX Warning: Citation 'Zeng' on page 35 undefined on input line 216.
+
+
+LaTeX Warning: Citation 'Zeng' on page 35 undefined on input line 216.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[35] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'Ohlinger' on page 36 undefined on input line 219.
+
+
+LaTeX Warning: Citation 'Tao' on page 36 undefined on input line 223.
+
+
+LaTeX Warning: Citation 'Zeng' on page 36 undefined on input line 223.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[36] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Tao' on page 37 undefined on input line 227.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[37] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[38] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [39] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter3/Contour_plot_mod.pdf, id=579, 433.62pt x 289.08pt>
+File: gfx/Chapter3/Contour_plot_mod.pdf Graphic file (type pdf)
+<use gfx/Chapter3/Contour_plot_mod.pdf>
+Package pdftex.def Info: gfx/Chapter3/Contour_plot_mod.pdf  used on input line 
+289.
+(pdftex.def)             Requested size: 215.10506pt x 143.40111pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation '2017CensusofAgriculture' on page 40 undefined on input
+ line 296.
+
+
+LaTeX Warning: Citation 'Martin' on page 40 undefined on input line 296.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[40] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter3/TES_mod.png, id=588, 2943.93971pt x 1590.64853pt>
+File: gfx/Chapter3/TES_mod.png Graphic file (type png)
+<use gfx/Chapter3/TES_mod.png>
+Package pdftex.def Info: gfx/Chapter3/TES_mod.png  used on input line 307.
+(pdftex.def)             Requested size: 358.50479pt x 193.68506pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<gfx/Chapter3/scenario1.png, id=590, 5781.6pt x 3252.15pt>
+File: gfx/Chapter3/scenario1.png Graphic file (type png)
+<use gfx/Chapter3/scenario1.png>
+Package pdftex.def Info: gfx/Chapter3/scenario1.png  used on input line 316.
+(pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
+<gfx/Chapter3/scenario2.png, id=592, 5781.6pt x 3252.15pt>
+File: gfx/Chapter3/scenario2.png Graphic file (type png)
+<use gfx/Chapter3/scenario2.png>
+Package pdftex.def Info: gfx/Chapter3/scenario2.png  used on input line 322.
+(pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
+<gfx/Chapter3/scenario3.png, id=594, 5781.6pt x 3252.15pt>
+File: gfx/Chapter3/scenario3.png Graphic file (type png)
+<use gfx/Chapter3/scenario3.png>
+Package pdftex.def Info: gfx/Chapter3/scenario3.png  used on input line 328.
+(pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
+<gfx/Chapter3/scenario4.png, id=596, 5781.6pt x 3252.15pt>
+File: gfx/Chapter3/scenario4.png Graphic file (type png)
+<use gfx/Chapter3/scenario4.png>
+Package pdftex.def Info: gfx/Chapter3/scenario4.png  used on input line 334.
+(pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
+
+LaTeX Warning: Citation 'NuGIS' on page 41 undefined on input line 343.
+
+
+LaTeX Warning: Citation '2017CensusofAgriculture' on page 41 undefined on input
+ line 343.
+
+
+LaTeX Warning: Citation 'Kellog2000' on page 41 undefined on input line 343.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[41] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (165.29344pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[42] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Sharara' on page 43 undefined on input line 366.
+
+
+LaTeX Warning: Citation 'Sampat3' on page 43 undefined on input line 366.
+
+
+LaTeX Warning: Citation 'hu_logistics_2019' on page 43 undefined on input line 
+366.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[43] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+ (./Nomenclature/NomenCh3.tex
+\@gls@deffile=\write32
+\openout4 = `ClassicThesis.glsdefs'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+)
+(./ClassicThesis.varchap3
+Overfull \hbox (35.66833pt too wide) in alignment at lines 2--84
+[] []
+ []
+
+
+Overfull \hbox (35.66833pt too wide) in alignment at lines 84--104
+[] []
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[44] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+) (./ClassicThesis.Acrochap3
+Underfull \hbox (badness 10000) in alignment at lines 2--32
+[] []
+ []
+
+)
+
+LaTeX Warning: Empty bibliography on input line 409.
+
+Package biblatex Info: Reference section=0 on input line 410.
+)
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [45] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [46] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [47 <./gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf>] (./Classi
+cThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+[48 <./gfx/Chapter3/procedure.pdf> <./gfx/Chapter3/validation.pdf> <./gfx/Chapt
+er3/Contour_plot_mod.pdf>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [49 <./gfx/Chapter3/TES_mod.png>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [50 <./gfx/Chapter3/scenario1.png> <./gfx/Chapter3/scenario2.png> <./gfx/Chapt
+er3/scenario3.png> <./gfx/Chapter3/scenario4.png>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout2 = `Chapters/Chapter04.aux'.
+
+ (./Chapters/Chapter04.tex
+Chapter 4.
+\blx@maxsegment@4=\count513
+\blx@sectionciteorder@4=\count514
+Package biblatex Info: Reference section=4 on input line 4.
+Package biblatex Info: Setting label 'refsection:4' on input line 4.
+
+LaTeX Warning: Citation 'ansari_eutrophication_2010' on page 51 undefined on in
+put line 6.
+
+
+LaTeX Warning: Citation 'sampat_economic_2018' on page 51 undefined on input li
+ne 6.
+
+
+LaTeX Warning: Citation 'Ullmanns' on page 51 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'beaulieu_eutrophication_2019' on page 51 undefined on 
+input line 6.
+
+
+LaTeX Warning: Citation 'cordell_story_2009' on page 51 undefined on input line
+ 6.
+
+
+LaTeX Warning: Citation 'reijnders2014phosphorus' on page 51 undefined on input
+ line 6.
+
+
+LaTeX Warning: Citation 'Dzombak' on page 51 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'Sampat2017' on page 51 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'USDAHandbook' on page 51 undefined on input line 9.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[51
+
+
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'li2021toward' on page 52 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'muhmood2019formation' on page 52 undefined on input li
+ne 12.
+
+
+LaTeX Warning: Citation 'berg2006phosphorus' on page 52 undefined on input line
+ 12.
+
+
+LaTeX Warning: Citation 'church_novel_2016' on page 52 undefined on input line 
+12.
+
+
+LaTeX Warning: Citation 'li2020application' on page 52 undefined on input line 
+12.
+
+
+LaTeX Warning: Citation 'robles2020new' on page 52 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'wang2020phosphorus' on page 52 undefined on input line
+ 12.
+
+
+LaTeX Warning: Citation 'belarbi2020bench' on page 52 undefined on input line 1
+2.
+
+
+LaTeX Warning: Citation 'pearce2015phosphorus' on page 52 undefined on input li
+ne 13.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[52] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Kellog2010' on page 53 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'USDAHandbook' on page 53 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'Python' on page 53 undefined on input line 19.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[53] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter4/tool_diagram_v4color.pdf, id=847, 1195.01572pt x 845.04686pt>
+File: gfx/Chapter4/tool_diagram_v4color.pdf Graphic file (type pdf)
+<use gfx/Chapter4/tool_diagram_v4color.pdf>
+Package pdftex.def Info: gfx/Chapter4/tool_diagram_v4color.pdf  used on input l
+ine 24.
+(pdftex.def)             Requested size: 304.73125pt x 210.69768pt.
+
+
+LaTeX Warning: Citation 'carlson_trophic_1977' on page 54 undefined on input li
+ne 31.
+
+
+LaTeX Warning: Citation 'Espinoza2006' on page 54 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'TESmetric' on page 54 undefined on input line 31.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[54 <./gfx/Chapter4/tool_diagram_v4color.pdf>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'HUC8' on page 55 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'carlson_trophic_1977' on page 55 undefined on input li
+ne 38.
+
+
+LaTeX Warning: Citation 'QAPP2012' on page 55 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'NLA2012' on page 55 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'NLA2007' on page 55 undefined on input line 38.
+
+
+Overfull \hbox (8.1737pt too wide) in paragraph at lines 38--39
+[]\T1/pplj/m/n/10.95 (-20) The Trophic State In-dex (TSI) is a met-ric pro-pose
+d by []
+ []
+
+
+LaTeX Warning: Citation 'TESmetric' on page 55 undefined on input line 54.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[55] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'NuGIS' on page 56 undefined on input line 62.
+
+
+LaTeX Warning: Citation '2017CensusofAgriculture' on page 56 undefined on input
+ line 62.
+
+
+LaTeX Warning: Citation 'USDAHandbook' on page 56 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'EnviroAtlas' on page 56 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'AllenMallarino2006' on page 56 undefined on input line
+ 65.
+
+
+LaTeX Warning: Citation 'SoilsUSGS' on page 56 undefined on input line 65.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[56] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Espinoza2006' on page 57 undefined on input line 71.
+
+
+LaTeX Warning: Citation 'Espinoza2006' on page 57 undefined on input line 75.
+
+
+LaTeX Warning: Citation 'Espinoza2006' on page 57 undefined on input line 75.
+
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/Process_Flowsheet2.pdf):
+ PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<gfx/Chapter4/Process_Flowsheet2.pdf, id=892, 1760.48586pt x 1055.14195pt>
+File: gfx/Chapter4/Process_Flowsheet2.pdf Graphic file (type pdf)
+<use gfx/Chapter4/Process_Flowsheet2.pdf>
+Package pdftex.def Info: gfx/Chapter4/Process_Flowsheet2.pdf  used on input lin
+e 96.
+(pdftex.def)             Requested size: 340.57845pt x 199.5676pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'AgSTARHandbook' on page 57 undefined on input line 102
+.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[57] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Leon' on page 58 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'AgSTAR2003' on page 58 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'USDA_OM' on page 58 undefined on input line 105.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[58 <./gfx/Chapter4/Process_Flowsheet2.pdf>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'Leon' on page 59 undefined on input line 108.
+
+
+LaTeX Warning: Citation 'MartinHernandez' on page 59 undefined on input line 10
+8.
+
+
+LaTeX Warning: Citation 'MartinHernandez2020' on page 59 undefined on input lin
+e 114.
+
+
+LaTeX Warning: Citation 'moran2010fundamentals' on page 59 undefined on input l
+ine 117.
+
+
+LaTeX Warning: Citation 'MartinHernandez' on page 59 undefined on input line 11
+7.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[59] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'MollerSLsep' on page 60 undefined on input line 122.
+
+
+LaTeX Warning: Citation 'rahaman_modeling_2014' on page 60 undefined on input l
+ine 126.
+
+
+LaTeX Warning: Citation 'Battistoni' on page 60 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Yan2016' on page 60 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'Tao' on page 60 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'MartinStruvite' on page 60 undefined on input line 128
+.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[60] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 134.
+
+
+LaTeX Warning: Citation 'Pearl2Kcost2' on page 61 undefined on input line 164.
+
+
+LaTeX Warning: Citation 'egle_phosphorus_2016' on page 61 undefined on input li
+ne 165.
+
+
+LaTeX Warning: Citation 'Pearl500cost1' on page 61 undefined on input line 166.
+
+
+
+LaTeX Warning: Citation 'Pearl10Kcost1' on page 61 undefined on input line 167.
+
+
+
+LaTeX Warning: Citation 'ehbrecht_p-recovery_2011' on page 61 undefined on inpu
+t line 168.
+
+
+LaTeX Warning: Citation 'church_novel_2016' on page 61 undefined on input line 
+169.
+
+
+LaTeX Warning: Citation 'church_versatility_2018' on page 61 undefined on input
+ line 170.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[61] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[62] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/MCDA_SMAA.pdf): PDF incl
+usion: found PDF version <1.6>, but at most version <1.5> allowed
+<gfx/Chapter4/MCDA_SMAA.pdf, id=1011, 614.295pt x 794.97pt>
+File: gfx/Chapter4/MCDA_SMAA.pdf Graphic file (type pdf)
+<use gfx/Chapter4/MCDA_SMAA.pdf>
+Package pdftex.def Info: gfx/Chapter4/MCDA_SMAA.pdf  used on input line 183.
+(pdftex.def)             Requested size: 322.65211pt x 387.65862pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'sinnott2014chemical' on page 63 undefined on input lin
+e 188.
+
+
+LaTeX Warning: Citation 'MarcoCinelli2020' on page 63 undefined on input line 1
+88.
+
+
+LaTeX Warning: Citation 'HandbookCompositeIndicators' on page 63 undefined on i
+nput line 191.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[63] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[64] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [65 <./gfx/Chapter4/MCDA_SMAA.pdf>]
+(./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'tervonen_implementing_2007' on page 66 undefined on in
+put line 221.
+
+
+Overfull \hbox (5.25743pt too wide) in paragraph at lines 221--222
+\T1/pplj/m/n/10.95 (-20) used to ex-plore the weights space ([]). Through
+ []
+
+
+LaTeX Warning: Citation 'tervonen_implementing_2007' on page 66 undefined on in
+put line 232.
+
+
+LaTeX Warning: Citation 'MarcoCinelli2020' on page 66 undefined on input line 2
+36.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[66] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'sayers2019satellite' on page 67 undefined on input lin
+e 245.
+
+
+LaTeX Warning: Citation 'han2012historical' on page 67 undefined on input line 
+245.
+
+
+LaTeX Warning: Citation 'Pennsylvania_CAFOS' on page 67 undefined on input line
+ 245.
+
+
+LaTeX Warning: Citation 'Ohio_CAFOS' on page 67 undefined on input line 245.
+
+
+LaTeX Warning: Citation 'Indiana_CAFOS' on page 67 undefined on input line 245.
+
+
+
+LaTeX Warning: Citation 'Michigan_CAFOS' on page 67 undefined on input line 245
+.
+
+
+LaTeX Warning: Citation 'Wisconsin_CAFOS' on page 67 undefined on input line 24
+5.
+
+
+LaTeX Warning: Citation 'Minnesota_CAFOS' on page 67 undefined on input line 24
+5.
+
+
+Overfull \hbox (82.37965pt too wide) in paragraph at lines 244--248
+\T1/pplj/m/n/10.95 (-20) In-di-ana ([]), Michi-gan ([]), Wis-con-sin ([]),
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[67] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'CAFO_definition' on page 68 undefined on input line 24
+9.
+
+
+LaTeX Warning: Citation 'animal_unit_definition' on page 68 undefined on input 
+line 249.
+
+
+LaTeX Warning: Citation 'sampat_economic_2018' on page 68 undefined on input li
+ne 253.
+
+
+LaTeX Warning: Citation 'sampat2021valuing' on page 68 undefined on input line 
+253.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[68] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[69] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf, id=1079, 471.26062pt x 369
+.93839pt>
+File: gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf Graphic file (type pdf
+)
+<use gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf>
+Package pdftex.def Info: gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf  us
+ed on input line 295.
+(pdftex.def)             Requested size: 175.66931pt x 137.9024pt.
+<gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf, id=1080, 471.26062pt x 36
+9.93839pt>
+File: gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf Graphic file (type pd
+f)
+<use gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf>
+Package pdftex.def Info: gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf  u
+sed on input line 301.
+(pdftex.def)             Requested size: 175.66931pt x 137.9024pt.
+
+Overfull \hbox (6.20378pt too wide) in paragraph at lines 294--305
+[][]  [] 
+ []
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[70 <./gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf> <./gfx/Chapter4/Tech
+sDistribution_Pcredits22_REC60.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/TechsDistribution_Pcredi
+ts22_REC60.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[71] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf, id=1217, 461.16002pt x 
+385.75581pt>
+File: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf Graphic file (type 
+pdf)
+<use gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf>
+Package pdftex.def Info: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf 
+ used on input line 345.
+(pdftex.def)             Requested size: 172.08076pt x 143.93996pt.
+<gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf, id=1218, 456.6902pt x 
+380.41556pt>
+File: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf Graphic file (type
+ pdf)
+<use gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf>
+Package pdftex.def Info: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf
+  used on input line 351.
+(pdftex.def)             Requested size: 172.08076pt x 143.34042pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf, id=1219, 461.16002pt 
+x 380.41556pt>
+File: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf Graphic file (typ
+e pdf)
+<use gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf>
+Package pdftex.def Info: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pd
+f  used on input line 363.
+(pdftex.def)             Requested size: 172.08076pt x 141.94731pt.
+<gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf, id=1220, 461.16002pt
+ x 380.41556pt>
+File: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf Graphic file (ty
+pe pdf)
+<use gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf>
+Package pdftex.def Info: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.p
+df  used on input line 369.
+(pdftex.def)             Requested size: 172.08076pt x 141.94731pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[72] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+<gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf, id=1234, 461.16002pt x 3
+85.75581pt>
+File: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf Graphic file (type p
+df)
+<use gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf>
+Package pdftex.def Info: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf  
+used on input line 384.
+(pdftex.def)             Requested size: 172.08076pt x 143.93996pt.
+<gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf, id=1235, 461.16002pt x 
+385.75581pt>
+File: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf Graphic file (type 
+pdf)
+<use gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf>
+Package pdftex.def Info: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf 
+ used on input line 390.
+(pdftex.def)             Requested size: 172.08076pt x 143.93996pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'sampat2019coordinated' on page 73 undefined on input l
+ine 405.
+
+
+LaTeX Warning: Citation 'galan2018time' on page 73 undefined on input line 405.
+
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[73 <./gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf> <./gfx/Chapter4/C
+apital_TechSelected_Pcredits22_REC60.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/Capital_TechSelected_Pcr
+edits22_REC60.pdf): PDF inclusion: multiple pdfs with page group included in a 
+single page
+>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[74 <./gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf> <./gfx/Chapter4
+/Amortized_TechSelected_Pcredits22_REC60.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/Amortized_TechSelected_P
+credits22_REC60.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'sampat2019fairness' on page 75 undefined on input line
+ 407.
+
+
+LaTeX Warning: Citation 'burns2002phosphorus' on page 75 undefined on input lin
+e 411.
+
+
+LaTeX Warning: Citation 'sampat2019coordinated' on page 75 undefined on input l
+ine 412.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[75 <./gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf> <./gfx/Chapter4/Ne
+tRev_TechSelected_Pcredits22_REC60.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/NetRev_TechSelected_Pcre
+dits22_REC60.pdf): PDF inclusion: multiple pdfs with page group included in a s
+ingle page
+>] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Citation 'vaneeckhaute2015efficiency' on page 76 undefined on in
+put line 415.
+
+
+LaTeX Warning: Citation 'fertilizers_price' on page 76 undefined on input line 
+415.
+
+
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[76] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [77] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Empty bibliography on input line 434.
+
+Package biblatex Info: Reference section=0 on input line 435.
+)
+Overfull \hbox (333.36629pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+[78] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [79
+
 
 
 
@@ -2503,13 +7557,13 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [30]
+ [80]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [31
+ [81
 
 
 
@@ -2519,13 +7573,13 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [32]
+ [82]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [33
+ [83
 
 
 
@@ -2535,19 +7589,13 @@ Chapter 2.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [34]
+ [84]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
-
-
-
-Package glossaries Warning: No \printglossary or \printglossaries found. 
-(Remove \makeglossaries if you don't want any glossaries.) 
-This document will not have a glossary.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
-(./ClassicThesis.aux (./FrontBackmatter/Titlepage.aux)
+ (./ClassicThesis.aux (./FrontBackmatter/Titlepage.aux)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -3044,6 +8092,8 @@ LaTeX Info: Redefining \% on input line 5.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
+
+(./Chapters/Chapter03.aux
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
@@ -3067,6 +8117,669 @@ LaTeX Info: Redefining \% on input line 5.
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+) (./Chapters/Chapter04.aux
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+
+
+Package mparhack Warning: Marginpars may have changed.
+(mparhack)                Rerun to get them right.
 
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
@@ -3305,6 +9018,31 @@ gfx/Chapter1/IntroFig1.pdf
 gfx/Chapter1/IntroFig2_1.pdf
 gfx/Chapter1/IntroMCDA.pdf
 Chapters/Chapter01_1.tex
+Chapters/Chapter03.tex
+gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf
+gfx/Chapter3/procedure.pdf
+gfx/Chapter3/validation.pdf
+gfx/Chapter3/Contour_plot_mod.pdf
+gfx/Chapter3/TES_mod.png
+gfx/Chapter3/scenario1.png
+gfx/Chapter3/scenario2.png
+gfx/Chapter3/scenario3.png
+gfx/Chapter3/scenario4.png
+Nomenclature/NomenCh3.tex
+ClassicThesis.varchap3
+ClassicThesis.Acrochap3
+Chapters/Chapter04.tex
+gfx/Chapter4/tool_diagram_v4color.pdf
+gfx/Chapter4/Process_Flowsheet2.pdf
+gfx/Chapter4/MCDA_SMAA.pdf
+gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf
+gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf
+gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf
+gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf
+gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf
+gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf
+gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf
+gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf
  ***********
 
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
@@ -3314,6 +9052,14 @@ Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                ClassicThesis
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 \openout1 = `ClassicThesis.run.xml'.
@@ -3340,27 +9086,33 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
 \openout4 = `ClassicThesis.lof'.
 
+\openout4 = `ClassicThesis.glsdefs'.
+
  ) 
 Here is how much of TeX's memory you used:
- 44157 strings out of 481239
- 822359 string characters out of 5920376
- 1768886 words of memory out of 5000000
- 57795 multiletter control sequences out of 15000+600000
- 650041 words of font info for 517 fonts, out of 8000000 for 9000
+ 39018 strings out of 481239
+ 733731 string characters out of 5920376
+ 1795997 words of memory out of 5000000
+ 52357 multiletter control sequences out of 15000+600000
+ 670607 words of font info for 547 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 80i,23n,131p,10108b,6910s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,28n,131p,10108b,6910s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
-b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (50 pages, 645248 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/
+fplmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/palatino/uplri8a.pfb>
+Output written on ClassicThesis.pdf (102 pages, 31233485 bytes).
 PDF statistics:
- 721 PDF objects out of 1000 (max. 8388607)
- 623 compressed objects within 7 object streams
- 185 named destinations out of 1000 (max. 500000)
- 85308 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 1920 PDF objects out of 2073 (max. 8388607)
+ 1218 compressed objects within 13 object streams
+ 318 named destinations out of 1000 (max. 500000)
+ 88786 words of extra memory for PDF output out of 89155 (max. 10000000)
 

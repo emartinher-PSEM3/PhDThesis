@@ -24,6 +24,36 @@
 \defcounter {refsection}{2}\relax
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Main topics covered in this work.\relax }}{7}{figure.caption.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Classification of MCDA methods.\relax }}{11}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Classification of MCDA methods.\relax }}{10}{figure.caption.5}%
 \defcounter {refsection}{0}\relax
 \ttl@tocsep
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{3}\relax
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Flowchart of the proposed algorithm to solve the thermodynamic model for the formation of precipitates in cattle organic waste.\relax }}{47}{figure.caption.27}%
+\defcounter {refsection}{3}\relax
+\contentsline {figure}{\numberline {3.2}{\ignorespaces A solution procedure to evaluate the influence of the cattle waste composition variability in the formation of struvite.\relax }}{48}{figure.caption.28}%
+\defcounter {refsection}{3}\relax
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison between experimental results reported by \citet {Zeng} and the results provided by the model developed in this work.\relax }}{48}{figure.caption.29}%
+\defcounter {refsection}{3}\relax
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Influence of magnesium and calcium in struvite precipitation.\relax }}{48}{figure.caption.30}%
+\defcounter {refsection}{3}\relax
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Techno-ecological synergy (TES) metric values for HUC8 watersheds. Red indicates watersheds with unbalanced agricultural phosphorus releases, and blue indicates watersheds with balanced agricultural phosphorus releases. White indicates watersheds with not available data.\relax }}{49}{figure.caption.31}%
+\defcounter {refsection}{3}\relax
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Phosphorus releases avoided through struvite production for the different scenarios considered. Darker colors represent larger phosphorus recovery\relax }}{50}{figure.caption.32}%
+\defcounter {refsection}{0}\relax
+\ttl@tocsep
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Structure of the COW2NUTRIENT decision support framework for the assessment and selection of phosphorus recovery systems.\relax }}{54}{figure.caption.36}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Process flowsheet for manure management and phosphorus recovery stages included in COW2NUTRIENT.\relax }}{58}{figure.caption.39}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Flowsheet for the MCDA model.\relax }}{65}{figure.caption.43}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Distribution of the phosphorus recovery systems selected for the CAFOs in the Great Lakes area. The boxplots represent the distribution of CAFO sizes in each studied state.\relax }}{70}{figure.caption.48}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Capital expenses for deploying phosphorus recovery systems in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{73}{figure.caption.51}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Operating expenses for deploying phosphorus recovery processes in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{74}{figure.caption.52}%
+\defcounter {refsection}{4}\relax
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Net revenue from the phosphorus recovery processes selected in the studied CAFOs. The dots represent the P recovery technologies installed in the studied CAFOs.\relax }}{75}{figure.caption.53}%
