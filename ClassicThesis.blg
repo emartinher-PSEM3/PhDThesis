@@ -1,25 +1,12 @@
 This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: ClassicThesis.aux
-A level-1 auxiliary file: FrontBackmatter/Titlepage.aux
-A level-1 auxiliary file: FrontBackmatter/Titleback.aux
-A level-1 auxiliary file: FrontBackmatter/LetterMariano.aux
-A level-1 auxiliary file: FrontBackmatter/Dedication2.aux
-A level-1 auxiliary file: FrontBackmatter/Dedication.aux
-A level-1 auxiliary file: FrontBackmatter/Acknowledgments.aux
-A level-1 auxiliary file: FrontBackmatter/Abstract.aux
-A level-1 auxiliary file: FrontBackmatter/Publications.aux
-A level-1 auxiliary file: FrontBackmatter/Contents.aux
-A level-1 auxiliary file: Chapters/Chapter01.aux
-A level-1 auxiliary file: Chapters/Chapter01_1.aux
-A level-1 auxiliary file: Chapters/Chapter03.aux
-A level-1 auxiliary file: Chapters/Chapter04.aux
 I found no \citation commands---while reading file ClassicThesis.aux
 I found no \bibdata command---while reading file ClassicThesis.aux
 I found no \bibstyle command---while reading file ClassicThesis.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            96 strings with 865 characters,
+            83 strings with 500 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
