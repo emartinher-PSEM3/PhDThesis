@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="850"
+   height="425"
+   style=""
+   viewBox="0 0 850 425"
+   version="1.1"
+   id="svg122"
+   sodipodi:docname="NitrogenFlow_MULTIFORM_sankey.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview124"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.3240981"
+     inkscape:cx="632.03193"
+     inkscape:cy="293.38302"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg122" />
+  <rect
+     x="0"
+     y="0"
+     width="850"
+     height="425"
+     style="fill:#ffffff;fill-opacity:1"
+     id="rect2" />
+  <defs
+     id="defs-0faa95">
+    <g
+       class="clips"
+       id="g4" />
+    <g
+       class="gradients"
+       id="g6" />
+    <g
+       class="patterns"
+       id="g8" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g11" />
+  <g
+     class="layer-below"
+     id="g17">
+    <g
+       class="imagelayer"
+       id="g13" />
+    <g
+       class="shapelayer"
+       id="g15" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g19" />
+  <g
+     class="polarlayer"
+     id="g21" />
+  <g
+     class="ternarylayer"
+     id="g23" />
+  <g
+     class="geolayer"
+     id="g25" />
+  <g
+     class="funnelarealayer"
+     id="g27" />
+  <g
+     class="pielayer"
+     id="g29" />
+  <g
+     class="iciclelayer"
+     id="g31" />
+  <g
+     class="treemaplayer"
+     id="g33" />
+  <g
+     class="sunburstlayer"
+     id="g35" />
+  <g
+     class="glimages"
+     id="g37" />
+  <g
+     class="sankey"
+     transform="translate(80,100)matrix(1 0 0 1 0 0)"
+     style="box-sizing: content-box; position: absolute; left: 0px; shape-rendering: geometricprecision; pointer-events: auto;"
+     id="g105">
+    <g
+       class="sankey-links"
+       style="fill: none;"
+       id="g53">
+      <path
+         class="sankey-link"
+         d="M8.745928338762216,36.124717570566666C70.7043973941368,36.124717570566666 70.7043973941368,7.404114407430747 132.6628664495114,7.404114407430747L132.6628664495114,134.95049130603192C70.7043973941368,134.95049130603192 70.7043973941368,163.67109446916783 8.745928338762216,163.67109446916783Z"
+         style="stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(211, 211, 211); fill-opacity: 1; stroke-width: 0.5; opacity: 1;"
+         id="path39" />
+      <path
+         class="sankey-link"
+         d="M142.6628664495114,7.40411440743074C205.37052117263843,7.40411440743074 205.37052117263843,7.427143143551518 268.07817589576547,7.427143143551518L268.07817589576547,192.37161093487046C205.37052117263843,192.37161093487046 205.37052117263843,192.34858219874968 142.6628664495114,192.34858219874968Z"
+         style="stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(211, 211, 211); fill-opacity: 1; stroke-width: 0.5; opacity: 1;"
+         id="path41" />
+      <path
+         class="sankey-link"
+         d="M142.6628664495114,192.34858219874968C367.007328990228,192.34858219874968 367.007328990228,227.26335822649486 591.3517915309446,227.26335822649486L591.3517915309446,227.3188904351759C367.007328990228,227.3188904351759 367.007328990228,192.4041144074307 142.6628664495114,192.4041144074307Z"
+         style="stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(250, 128, 114); fill-opacity: 1; stroke-width: 0.5; opacity: 1;"
+         id="path43" />
+      <path
+         class="sankey-link"
+         d="M278.07817589576547,184.59154849865743C433.2166123778502,184.59154849865743 433.2166123778502,208.29411484192744 588.3550488599349,208.29411484192744L588.3550488599349,216.07417727814047C433.2166123778502,216.07417727814047 433.2166123778502,192.37161093487046 278.07817589576547,192.37161093487046Z"
+         style="stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(154, 205, 50); fill-opacity: 1; stroke-width: 0.5; opacity: 1;"
+         id="path45" />
+      <path
+         class="sankey-link"
+         d="M278.07817589576547,7.427143143551518C364.0105863192182,7.427143143551518 364.0105863192182,8.713292973485878 449.94299674267097,8.713292973485878L449.94299674267097,185.8776983285918C364.0105863192182,185.8776983285918 364.0105863192182,184.59154849865743 278.07817589576547,184.59154849865743Z"
+         style="stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(211, 211, 211); fill-opacity: 1; stroke-width: 0.5; opacity: 1;"
+         id="path47" />
+      <path
+         class="sankey-link"
+         d="M459.94299674267097,180.0134970918745C524.1490228013029,180.0134970918745 524.1490228013029,191.16944529955035 588.3550488599349,191.16944529955035L588.3550488599349,197.03364653626764C524.1490228013029,197.03364653626764 524.1490228013029,185.8776983285918 459.94299674267097,185.8776983285918Z"
+         style="stroke:rgb(128, 128, 128);stroke-opacity:1;fill:#881eca;fill-opacity:0.73558497;stroke-width:0.5;opacity:1"
+         id="path49" />
+      <path
+         class="sankey-link"
+         d="M459.94299674267097,8.713292973485878C524.5236156351791,8.713292973485878 524.5236156351791,8.857451151455095 589.1042345276874,8.857451151455095L589.1042345276874,180.15765526984376C524.5236156351791,180.15765526984376 524.5236156351791,180.0134970918745 459.94299674267097,180.0134970918745Z"
+         style="stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(250, 128, 114); fill-opacity: 1; stroke-width: 0.5; opacity: 1;"
+         id="path51" />
+    </g>
+    <g
+       class="sankey-node-set"
+       style="cursor: move;"
+       id="g103">
+      <g
+         class="sankey-node"
+         transform="translate(-1.254,36.125)"
+         style="opacity: 1;"
+         id="g59">
+        <rect
+           class="node-rect"
+           width="10"
+           height="127.5463768986011"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect55" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,67.97318844930055)"
+           style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"
+           id="text57">Waste 68.97 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(132.663,7.404)"
+         style="opacity: 1;"
+         id="g65">
+        <rect
+           class="node-rect"
+           width="10"
+           height="184.9999999999999"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect61" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,96.69999999999995)"
+           style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"
+           id="text63">AD 100.0 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(591.352,227.263)"
+         style="opacity: 1;"
+         id="g71">
+        <rect
+           class="node-rect"
+           width="10"
+           height="0.5"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect67" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="2.75"
+           y="12.45"
+           text-anchor="end"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text69">NH3 emissions 0.03 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(268.078,7.427)"
+         style="opacity: 1;"
+         id="g77">
+        <rect
+           class="node-rect"
+           width="10"
+           height="184.94446779131897"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect73" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,96.67223389565949)"
+           style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"
+           id="text75">Screw Press 95.79 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(588.355,208.294)"
+         style="opacity: 1;"
+         id="g83">
+        <rect
+           class="node-rect"
+           width="10"
+           height="7.780062436213086"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect79" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="13.25"
+           y="4.0900307"
+           text-anchor="start"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text81"><tspan
+             sodipodi:role="line"
+             id="tspan10278"
+             x="13.25"
+             y="4.0900307">N recovered in the organic</tspan><tspan
+             sodipodi:role="line"
+             id="tspan10280"
+             x="13.25"
+             y="19.090031">solid fraction 4.21 %</tspan></text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(449.943,8.713)"
+         style="opacity: 1;"
+         id="g89">
+        <rect
+           class="node-rect"
+           width="10"
+           height="177.164405355106"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect85" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,92.782202677553)"
+           style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"
+           id="text87">Multiform </text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(588.355,191.169)"
+         style="opacity: 1;"
+         id="g95">
+        <rect
+           class="node-rect"
+           width="10"
+           height="5.864201236717236"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect91" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="13.25"
+           y="-6.8678994"
+           text-anchor="start"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text93"><tspan
+             sodipodi:role="line"
+             id="tspan5890"
+             x="13.25"
+             y="-6.8678994">N recovered as struvite</tspan><tspan
+             sodipodi:role="line"
+             x="13.25"
+             y="8.1321011"
+             id="tspan19836">3.17 %</tspan></text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(589.104,8.857)"
+         style="opacity: 1;"
+         id="g101">
+        <rect
+           class="node-rect"
+           width="10"
+           height="171.3002041183886"
+           style="stroke-width: 0.5; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 1;"
+           id="rect97" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="13.25"
+           y="83.850105"
+           text-anchor="start"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text99"><tspan
+             sodipodi:role="line"
+             id="tspan256"
+             x="13.25"
+             y="83.850105">N released as liquid</tspan><tspan
+             sodipodi:role="line"
+             id="tspan258"
+             x="13.25"
+             y="98.850105">effluent 92.62 %</tspan></text>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="topdefs-0faa95">
+    <g
+       class="clips"
+       id="g107" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g114">
+    <g
+       class="imagelayer"
+       id="g110" />
+    <g
+       class="shapelayer"
+       id="g112" />
+  </g>
+  <g
+     class="infolayer"
+     id="g120">
+    <g
+       class="g-gtitle"
+       id="g116" />
+    <g
+       class="first-render"
+       id="g118" />
+  </g>
+</svg>

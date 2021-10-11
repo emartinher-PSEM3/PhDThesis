@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="850"
+   height="425"
+   style=""
+   viewBox="0 0 850 425"
+   version="1.1"
+   id="svg142"
+   sodipodi:docname="NitrogenFlow_AirStrippingPacked_sankey.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview144"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.94117647"
+     inkscape:cx="432.4375"
+     inkscape:cy="195.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg142" />
+  <rect
+     x="0"
+     y="0"
+     width="850"
+     height="425"
+     style="fill:#ffffff;fill-opacity:1"
+     id="rect2" />
+  <defs
+     id="defs-1dab37">
+    <g
+       class="clips"
+       id="g4" />
+    <g
+       class="gradients"
+       id="g6" />
+    <g
+       class="patterns"
+       id="g8" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g11" />
+  <g
+     class="layer-below"
+     id="g17">
+    <g
+       class="imagelayer"
+       id="g13" />
+    <g
+       class="shapelayer"
+       id="g15" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g19" />
+  <g
+     class="polarlayer"
+     id="g21" />
+  <g
+     class="ternarylayer"
+     id="g23" />
+  <g
+     class="geolayer"
+     id="g25" />
+  <g
+     class="funnelarealayer"
+     id="g27" />
+  <g
+     class="pielayer"
+     id="g29" />
+  <g
+     class="iciclelayer"
+     id="g31" />
+  <g
+     class="treemaplayer"
+     id="g33" />
+  <g
+     class="sunburstlayer"
+     id="g35" />
+  <g
+     class="glimages"
+     id="g37" />
+  <g
+     class="sankey"
+     transform="translate(6,100)"
+     id="g125">
+    <g
+       class="sankey-links"
+       style="fill:none"
+       id="g61">
+      <path
+         class="sankey-link"
+         d="m 8.7459283,45.020631 c 48.1297507,0 48.1297507,-28.697701 96.2595017,-28.697701 v 127.54638 c -48.129751,0 -48.129751,28.6977 -96.2595017,28.6977 z"
+         style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path39" />
+      <path
+         class="sankey-link"
+         d="m 115.00543,16.32293 c 48.50434,0 48.50434,-0.798732 97.00869,-0.798732 V 200.46867 c -48.50435,0 -48.50435,0.79873 -97.00869,0.79873 z"
+         style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path41" />
+      <path
+         class="sankey-link"
+         d="m 115.00543,201.2674 c 282.37513,0 282.37513,43.48764 564.75027,43.48764 v 0.0555 c -282.37514,0 -282.37514,-43.48764 -564.75027,-43.48764 z"
+         style="opacity:1;fill:#fa8072;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path43" />
+      <path
+         class="sankey-link"
+         d="m 222.01412,192.6886 c 228.49619,0 228.49619,7.50827 456.99239,7.50827 v 7.78007 c -228.4962,0 -228.4962,-7.50827 -456.99239,-7.50827 z"
+         style="opacity:1;fill:#9acd32;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path45" />
+      <path
+         class="sankey-link"
+         d="m 222.01412,15.524198 c 58.99294,0 58.99294,3.471996 117.98588,3.471996 V 196.1606 c -58.99294,0 -58.99294,-3.472 -117.98588,-3.472 z"
+         style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path47" />
+      <path
+         class="sankey-link"
+         d="m 350,18.996194 c 56.74539,0 56.74539,2.563683 113.49077,2.563683 V 189.00615 c -56.74538,0 -56.74538,-2.56369 -113.49077,-2.56369 z"
+         style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path49" />
+      <path
+         class="sankey-link"
+         d="m 350,186.44246 c 164.50326,0 164.50326,21.53448 329.00651,21.53448 v 9.71813 C 514.50326,217.69507 514.50326,196.1606 350,196.1606 Z"
+         style="opacity:1;fill:#9acd32;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path51" />
+      <path
+         class="sankey-link"
+         d="m 473.49077,21.559877 c 57.11998,0 57.11998,-4.45303 114.23996,-4.45303 V 177.85593 c -57.11998,0 -57.11998,4.45303 -114.23996,4.45303 z"
+         style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path53" />
+      <path
+         class="sankey-link"
+         d="m 473.49077,182.30896 c 100.88491,0 100.88491,0.0538 201.76982,0.0538 v 6.69718 c -100.88491,0 -100.88491,-0.0538 -201.76982,-0.0538 z"
+         style="opacity:1;fill:#fa8072;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path55" />
+      <path
+         class="sankey-link"
+         d="m 597.73073,17.106847 c 39.51411,0 39.51411,-7.7419153 79.02823,-7.7419153 V 163.68339 c -39.51412,0 -39.51412,7.74191 -79.02823,7.74191 z"
+         style="opacity:1;fill:#87ceeb;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path57" />
+      <path
+         class="sankey-link"
+         d="m 597.73073,171.4253 c 38.76493,0 38.76493,4.50684 77.52986,4.50684 v 6.43063 c -38.76493,0 -38.76493,-4.50684 -77.52986,-4.50684 z"
+         style="opacity:1;fill:#fa8072;fill-opacity:1;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+         id="path59" />
+    </g>
+    <g
+       class="sankey-node-set"
+       id="g123">
+      <g
+         class="sankey-node"
+         transform="translate(-1.254,45.021)"
+         style="opacity:1"
+         id="g67">
+        <rect
+           class="node-rect"
+           width="10"
+           height="127.54638"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect63"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,67.973188)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text65">Waste 68.97 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(105.005,16.323)"
+         style="opacity:1"
+         id="g73">
+        <rect
+           class="node-rect"
+           width="10"
+           height="185"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect69"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,96.7)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text71">AD 100.0 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(679.756,244.755)"
+         style="opacity:1"
+         id="g79">
+        <rect
+           class="node-rect"
+           width="10"
+           height="0.5"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect75"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="142.75"
+           y="4.4499998"
+           text-anchor="end"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text77">NH3 emissions 0.03 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(212.014,15.524)"
+         style="opacity:1"
+         id="g85">
+        <rect
+           class="node-rect"
+           width="10"
+           height="184.94447"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect81"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,96.672234)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text83">Screw Press 95.79 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(679.007,200.197)"
+         style="opacity:1"
+         id="g91">
+        <rect
+           class="node-rect"
+           width="10"
+           height="17.498199"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect87"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="13.25"
+           y="10.949099"
+           text-anchor="start"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text89"><tspan
+             sodipodi:role="line"
+             id="tspan5144"
+             x="13.25"
+             y="10.949099">N recovered in the organic</tspan><tspan
+             sodipodi:role="line"
+             id="tspan5146"
+             x="13.25"
+             y="25.949099">solid fraction 9.46 %</tspan></text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(340,18.996)"
+         style="opacity:1"
+         id="g97">
+        <rect
+           class="node-rect"
+           width="10"
+           height="177.1644"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect93"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,92.782203)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text95">Centrifuge 90.54 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(463.491,21.56)"
+         style="opacity:1"
+         id="g103">
+        <rect
+           class="node-rect"
+           width="10"
+           height="167.44627"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect99"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,87.923134)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text101">Stripping 86.92 %</text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(587.731,17.107)"
+         style="opacity:1"
+         id="g109">
+        <rect
+           class="node-rect"
+           width="10"
+           height="160.74908"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect105"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="0"
+           y="0"
+           text-anchor="start"
+           transform="translate(13.25,84.574542)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text107">Scrubbing </text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(676.759,9.365)"
+         style="opacity:1"
+         id="g115">
+        <rect
+           class="node-rect"
+           width="10"
+           height="154.31845"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect111"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="13.25"
+           y="77.35923"
+           text-anchor="start"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text113"><tspan
+             sodipodi:role="line"
+             id="tspan276"
+             x="13.25"
+             y="77.35923">N recovered as ammonium</tspan><tspan
+             sodipodi:role="line"
+             id="tspan278"
+             x="13.25"
+             y="92.35923">sulphate solution 83.44 %</tspan></text>
+      </g>
+      <g
+         class="sankey-node"
+         transform="translate(675.261,175.932)"
+         style="opacity:1"
+         id="g121">
+        <rect
+           class="node-rect"
+           width="10"
+           height="13.127814"
+           style="fill:#00008b;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+           id="rect117"
+           x="0"
+           y="0" />
+        <text
+           class="node-label"
+           data-notex="1"
+           x="13.25"
+           y="0.76390743"
+           text-anchor="start"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text119"><tspan
+             sodipodi:role="line"
+             id="tspan3598"
+             x="13.25"
+             y="0.76390743">N released as liquid</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3600"
+             x="13.25"
+             y="15.763907">effluent 7.1 %</tspan></text>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="topdefs-1dab37">
+    <g
+       class="clips"
+       id="g127" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g134">
+    <g
+       class="imagelayer"
+       id="g130" />
+    <g
+       class="shapelayer"
+       id="g132" />
+  </g>
+  <g
+     class="infolayer"
+     id="g140">
+    <g
+       class="g-gtitle"
+       id="g136" />
+    <g
+       class="first-render"
+       id="g138" />
+  </g>
+</svg>

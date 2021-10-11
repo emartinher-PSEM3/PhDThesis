@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>ClassicThesis.bcf</file>
@@ -96,6 +96,7 @@
       <file>References/referencesCh3.bib</file>
       <file>References/referencesCh4.bib</file>
       <file>References/referencesCh5.bib</file>
+      <file>References/referencesCh6.bib</file>
       <file>References/referencesCh7.bib</file>
     </requires>
   </external>
