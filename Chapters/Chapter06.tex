@@ -291,11 +291,11 @@ The technologies for nitrogen recovery assessed in this work, illustrated in Fig
 %\end{figure}
 \end{sidewaysfigure}
 
-\paragraph{\textbf{Struvite production: Multiform system}}
+%\paragraph{\textbf{Struvite production: Multiform system}}
 %{\color{blue}{Adapt text to nitrogen recovery}}
 
 %Nitrogen can be recovered in the form of struvite.
-Struvite is a mineral comprised by magnesium, ammonium, and phosphate that can be formed from different  organic wastes by the chemical reaction shown in Eq. \ref{eq:struvite}. The formation of struvite is a process that can be used for ammonia and phosphorus recovery by precipitation \citep{martin2020m}. MgCl\textsubscript{2} is supplied to the reactor at a phosphorus to magnesium molar ratio of 2 to increase struvite supersaturation \citep{bhuiyan2008phosphorus}. However, since phosphorus concentration in manure is lower than nitrogen concentration, phosphorus acts as the limiting reactant for struvite formation, and in turn, for nitrogen recovery. In this study, pH is adjusted to 9 for optimal struvite formation using sodium hydroxide \citep{Tao}.
+\textbf{Struvite production (Multiform system):} Struvite is a mineral comprised by magnesium, ammonium, and phosphate that can be formed from different  organic wastes by the chemical reaction shown in Eq. \ref{eq:struvite}. The formation of struvite is a process that can be used for ammonia and phosphorus recovery by precipitation \citep{martin2020m}. MgCl\textsubscript{2} is supplied to the reactor at a phosphorus to magnesium molar ratio of 2 to increase struvite supersaturation \citep{bhuiyan2008phosphorus}. However, since phosphorus concentration in manure is lower than nitrogen concentration, phosphorus acts as the limiting reactant for struvite formation, and in turn, for nitrogen recovery. In this study, pH is adjusted to 9 for optimal struvite formation using sodium hydroxide \citep{Tao}.
 
 \begin{align}
 	& \text{MgNH}_{4}\text{PO}_{4} \cdot 6\text{H}_{2}\text{O} \downarrow \ \xrightleftharpoons[]{} \text{Mg}^{2+} + \text{NH}_{4}^{+} + \text{PO}_{4}^{3-} \label{eq:struvite}
@@ -375,8 +375,8 @@ per day, with an associated capital cost of 625,000 USD per each Multiform unit,
 %15.419 USD per kg of P-PO\textsubscript{4} processed 
 0.012 USD per kg of digestate processed \citep{AMPC}. Revenues by struvite sales of 0.85 USD/kg are also assumed \citep{molinos2011economic}.
 
-\paragraph{\textbf{MAPHEX}}
-MAPHEX is a nutrient recovery system based on physico-chemical separations developed by Penn State University and the USDA, Fig. \ref{fig:MAPHEXscheme}. 
+%\paragraph{\textbf{MAPHEX}}
+\textbf{MAPHEX:} MAPHEX is a nutrient recovery system based on physico-chemical separations developed by Penn State University and the USDA, Fig. \ref{fig:MAPHEXscheme}. 
 %\begin{figure}[H]
 %	\centering
 %	%	\begin{subfigure}[t]{0.5\linewidth}
@@ -410,10 +410,10 @@ with an associated operation cost of
 %110.8 USD per kg of P-PO\textsubscript{4} processed
 0.054 USD per kilogram of manure processed. Capital cost of a MAPHEX unit is 291,000 USD \citep{church_versatility_2018, church_novel_2016}.
 
-\paragraph{\textbf{Transmembrane chemisorption}}
+%\paragraph{\textbf{Transmembrane chemisorption}}
 %{\color{blue}{Currently under development}}
 
-Transmembrane chemisorption is a process based on the separation of gaseous species contained in a liquid stream by using a hydrofobic membrane. An acid stripping solution circulates on the lumen side of the membrane to capture the recovered gaseous components. For the case of ammonia recovery, a solution of sulfuric acid is commonly used, resulting in the formation of ammonium sulfate, Eq \ref{eq:AmmoniumSulfate}. A 10\% acid sulfuric solution is considered in this work as stripping fluid \citep{darestani2017hollow}. Ammonia recovery efficiency is improved by  displacing ammonia-ammonium equilibrium, as shown in Eq. \ref{eq:NH3NH4}, to forming of gaseous ammonia raising the pH level up to 11 by adding sodium hydroxide.
+\textbf{Transmembrane chemisorption:} Transmembrane chemisorption is a process based on the separation of gaseous species contained in a liquid stream by using a hydrofobic membrane. An acid stripping solution circulates on the lumen side of the membrane to capture the recovered gaseous components. For the case of ammonia recovery, a solution of sulfuric acid is commonly used, resulting in the formation of ammonium sulfate, Eq \ref{eq:AmmoniumSulfate}. A 10\% acid sulfuric solution is considered in this work as stripping fluid \citep{darestani2017hollow}. Ammonia recovery efficiency is improved by  displacing ammonia-ammonium equilibrium, as shown in Eq. \ref{eq:NH3NH4}, to forming of gaseous ammonia raising the pH level up to 11 by adding sodium hydroxide.
 
 \begin{align}
 	& \text{NH}_3 + \text{H}^+ \xrightleftharpoons[K_a]{K_b} \text{NH}_4^+\label{eq:NH3NH4}
@@ -457,6 +457,7 @@ n_{\text{parallel}} =
 \begin{table}[h] 
 \centering
 \caption{Liquid-Cel\textsuperscript{\texttrademark} membranes size and cost \protect\citep{LiquidCelData, SGProjects, DPCWaterSolutions}.} \label{table:LiquidCelData}
+\resizebox{\columnwidth}{!}{
 %	\begin{threeparttable}
 \begin{tabular}{@{}ccccc@{}}
 	\toprule
@@ -467,7 +468,7 @@ n_{\text{parallel}} =
 	10x28          & 10 - 48              & 0.279        & 0.683      & 17,000      \\
 	%		14x28          & 16 - 91              & 0.356        & 0.821      & 23,200      \\
 	14x40          & 16 - 125             & 0.356        & 1.129      & 24,300      \\ \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table}
 
 %\begin{table}[h] 
@@ -638,9 +639,11 @@ Additionally, the cost of the pumps needed for driving the digestate and strippi
 \begin{align}
 	& n_{\text{series}} = \ceil*{\frac{z}{L_{\text{module}}}} \label{eq:nserie}
 	\\
-	& CAPEX_{\text{membranes}} \left(\text{2019 USD}\right)= \left(n_{\text{serie}} \cdot n_{\text{parallel}}\right) \cdot Cost_{\text{module}} \left(\frac{\text{USD}}{\text{module}}\right) \cdot \frac{t_{\text{plant}}}{t_{\text{module}}} \label{eq:CAPEXmembrane}
+	& CAPEX_{\text{membranes}} \left(\text{2019 USD}\right)= \left(n_{\text{serie}} \cdot n_{\text{parallel}}\right) \cdot \nonumber \\
+	& Cost_{\text{module}} \left(\frac{\text{USD}}{\text{module}}\right) \cdot \frac{t_{\text{plant}}}{t_{\text{module}}} \label{eq:CAPEXmembrane}
 	\\
-	& OPEX_{\text{membranes}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \frac{\dot{m}_{\text{H}_2 \text{SO}_4} \left(\frac{\text{kg}}{\text{s}}\right)}{\rho_{\text{H}_2 \text{SO}_4} \left(\frac{\text{kg}}{\text{m}^3}\right)} \cdot Price_{\text{H}_2 \text{SO}_4} \left(\frac{\text{USD}}{\text{m}^3}\right) \cdot \frac{1}{1-\frac{c_{\text{cleaning}}}{100}} \label{eq:OPEXmembrane}
+	& OPEX_{\text{membranes}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \nonumber \\
+	& \frac{\dot{m}_{\text{H}_2 \text{SO}_4} \left(\frac{\text{kg}}{\text{s}}\right)}{\rho_{\text{H}_2 \text{SO}_4} \left(\frac{\text{kg}}{\text{m}^3}\right)} \cdot Price_{\text{H}_2 \text{SO}_4} \left(\frac{\text{USD}}{\text{m}^3}\right) \cdot \frac{1}{1-\frac{c_{\text{cleaning}}}{100}} \label{eq:OPEXmembrane}
 \end{align}
 
 %Additionally, pumps to drive the digestate and stripping fluid streams are needed. Their cost is estimated using Eqs. \ref{eq:n_pumps} and \ref{eq:pumpsCAPEX}, assuming that the maximum capacity of one single pump $\left(\dot{V}_{\text{pump}_{\text{max}}}\right)$ is 1 $\sfrac{\text{m}^3}{\text{s}}$ \citep{peters2003plant}. Pumps operating cost are estimated through Eqs. \ref{eq:pumpsH} to \ref{eq:pumpsOPEX}, calculating the energy needed to balance the pressure drop of the shell and lumen sides of the membrane, Table \ref{table:membrane_characteristichs}. Pump efficiencies $\left(\eta_{\text{pump}_i}\right)$ of 0.8 are assumed.
@@ -676,8 +679,9 @@ Total capital and operating expenses for the recovery of nitrogen from livestock
 \end{align}	
 
 
-\paragraph{\textbf{Ammonia evaporation}} \label{section:Digestate dryingNrecovery}
-Nitrogen can be recovered by ammonia evaporation through digestate drying in a belt dryer unit. The operation of a belt dryer unit requires a minimum concentration of solids of 10\% - 12\% \citep{bolzonella2018nutrients}. Therefore, the liquid and solid outlet streams from the solid-liquid separation stage are combined to obtain a stream with the desired solids content. After solids content adjustment, digestate is dried in the belt drier, as shown in Fig \ref{fig:BeltDryerScheme}. This unit drys the digestate over the belt with a stream of hot air crossing the belt through orifices on it. Heat (sensible and latent) is transferred from the hot air to the digestate on the belt
+%\paragraph{\textbf{Ammonia evaporation}} \label{section:Digestate dryingNrecovery}
+
+\textbf{Ammonia evaporation:} Nitrogen can be recovered by ammonia evaporation through digestate drying in a belt dryer unit. The operation of a belt dryer unit requires a minimum concentration of solids of 10\% - 12\% \citep{bolzonella2018nutrients}. Therefore, the liquid and solid outlet streams from the solid-liquid separation stage are combined to obtain a stream with the desired solids content. After solids content adjustment, digestate is dried in the belt drier, as shown in Fig \ref{fig:BeltDryerScheme}. This unit drys the digestate over the belt with a stream of hot air crossing the belt through orifices on it. Heat (sensible and latent) is transferred from the hot air to the digestate on the belt
 %in the form of sensible heat, devoted 
 to increase temperature
 %increase, and latent heat, devoted 
@@ -777,15 +781,16 @@ A drying efficiency $\left(\eta_{\text{belt dryer}}\right)$ of 0.6 has been assu
 \\
 & \dot{Q}_{\text{belt dryer}}^{\text{design}} = \frac{\dot{Q}_{\text{belt dryer}}^{\text{real}}}{n_{\text{belt dryer}}} \label{eq:QeltDryerDesign} 
 \\
-& CAPEX_{\text{belt dryer}} \left(\text{2019 USD}\right) = \left(n_{\text{belt dryer}} \cdot 214,997 \cdot \left(\frac{\dot{Q}_{\text{belt dryer}}^{\text{design}}\left(\text{kW}\right)}{500}\right)^{0.7}\right) \cdot 1.216 \label{eq:CAPEXBeltDryer} 
+& CAPEX_{\text{belt dryer}} \left(\text{2019 USD}\right) = \nonumber \\
+& \left(n_{\text{belt dryer}} \cdot 214,997 \cdot \left(\frac{\dot{Q}_{\text{belt dryer}}^{\text{design}}\left(\text{kW}\right)}{500}\right)^{0.7}\right) \cdot 1.216 \label{eq:CAPEXBeltDryer} 
 \\
 & OPEX_{\text{belt dryer}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = n_{\text{belt dryer}} \cdot \dot{Q}_{\text{belt dryer}}^{\text{design}} \left(\text{kW}\right) \cdot 0.099 \left(\frac{\text{kW}_{\text{e}}}{\text{kW}_{\text{t}}}\right) \cdot \label{eq:BeltDryerOPEX}
 \\ 
 & t_{\text{operation}} \left(\text{s}\right) \cdot 3600 \cdot Price_{\text{electricity}} \left(\frac{\text{USD}}{\text{kWh}}\right)  \nonumber
 \end{align}
 
-\paragraph{\textbf{Stripping in packed tower}} \label{section:StrippingNrecovery}
-Nitrogen recovery by stripping of the liquid digestate is a widely used technique based on the transfer of ammonia from liquid digestate to an air stream. This operation can be performed either in packed towers or in bubble column reactors, see Section \ref{section:bubblestripping}. Gaseous ammonia is further recovered through acidic scrubbing, as described in Section \ref{section:scrubbing}.
+%\paragraph{\textbf{Stripping in packed tower}} \label{section:StrippingNrecovery}
+\textbf{Stripping in packed tower:} Nitrogen recovery by stripping of the liquid digestate is a widely used technique based on the transfer of ammonia from liquid digestate to an air stream. This operation can be performed either in packed towers or in bubble column reactors, see Section \ref{section:bubblestripping}. Gaseous ammonia is further recovered through acidic scrubbing, as described in Section \ref{section:scrubbing}.
 
 Nitrogen recovery using packed tower stripping, illustrated in Figure \ref{fig:ScrubberScheme}, has been modeled using the number of transfer units (NTU) method \citep{Metcalf}. The pressure drop of tower packing is estimated through the correlation proposed by \citet{kister1991predict}, as shown in Eq. \ref{eq:PDrop}. 
 
@@ -825,8 +830,8 @@ where $v_G$ denotes the superficial gas velocity in $\left(\frac{\text{ft}}{\tex
 	%\end{equation}
 
 \begin{align}
-	&Y =  - 0.25 \cdot X + 0.22 \cdot \text{ln}(P) - 0.78\cdot10^{-1} \cdot P^2 + 0.19\cdot10^{-1} \cdot X^3 - 0.39 \cdot X \cdot P \label{eq:FloodingALAMO} \\
-	& \ \ \ \ \ \ + 0.49\cdot10^{-2} \cdot (X\cdot P)^3 + 0.89  \nonumber \\
+	&Y =  - 0.25 \cdot X + 0.22 \cdot \text{ln}(P) - 0.78\cdot10^{-1} \cdot P^2 + 0.19\cdot10^{-1} \cdot X^3 \nonumber \\
+	& - 0.39 \cdot X \cdot P + 0.49\cdot10^{-2} \cdot (X\cdot P)^3 + 0.89 \\
 	&Y = v_G \left(\frac{\rho_G}{\rho_L-\rho_G}\right)^{0.5} F_{P}^{0.5} \nu^{0.05} \\
 	&X = \text{log}_{10} \left(\frac{G_L}{G_G} \left(\frac{\rho_G}{\rho_L}\right)^{0.5}\right) \\
 	&\frac{\dot{V}_G}{\dot{V}_L} = 2688 \ \frac{\text{m}^3_{\text{gas}}}{\text{m}^3_{\text{liquid}}} \label{eq:OpLine}
@@ -915,17 +920,23 @@ The number of stripping units needed $\left( n_{\text{stripping tower}} \right) 
 	& V_{\text{stripping tower}} = \frac{\left(D_{\text{stripping tower}}^{\text{design}}\right)^2 \cdot \pi}{4} \cdot H_{\text{stripping tower}} 
 	\\
 	&
-	CAPEX_{\text{compressor}} \left(\text{2019 USD}\right) = 1.216 \cdot \left(335.27 \cdot \dot{W}_{\text{compressor}} \left(\text{kW}\right) + 36211\right) \label{eq:CAPEXCompressor}
+	CAPEX_{\text{compressor}} \left(\text{2019 USD}\right) = 1.216 \cdot \nonumber \\
+	& \left(335.27 \cdot \dot{W}_{\text{compressor}} \left(\text{kW}\right) + 36211\right) \label{eq:CAPEXCompressor}
 	\\
-	& OPEX_{\text{compressor}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \dot{W}_{\text{compressor}} \left(\text{kW}\right) \cdot t_{\text{operation}} \left(\text{s}\right) \cdot 3600 \cdot Price_{\text{electricity}}\left(\frac{\text{USD}}{\text{kWh}}\right) \label{eq:compressorOPEX}
+	& OPEX_{\text{compressor}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \dot{W}_{\text{compressor}} \left(\text{kW}\right) \cdot t_{\text{operation}} \left(\text{s}\right) \cdot \nonumber \\
+	& 3600 \cdot Price_{\text{electricity}}\left(\frac{\text{USD}}{\text{kWh}}\right) \label{eq:compressorOPEX}
 \end{align}	
 
 %\paragraph{\textbf{{\color{red}{Aerated bubble stripping}}}}\label{section:bubblestripping}
 
-\paragraph{\textbf{Acidic scrubbing}} \label{section:scrubbing}
-Ammonia contained in the gaseous streams from
+%\paragraph{\textbf{Acidic scrubbing}} \label{section:scrubbing}
+\textbf{Acidic scrubbing:} Ammonia contained in the gaseous streams from
 %digestate drying
-ammonia evaporation (described in Section \ref{section:Digestate dryingNrecovery}) and stripping in packed bed (described in Section \ref{section:StrippingNrecovery}) can be recovered in an acidic scrubbing stage using a solution of sulfuric acid in water, as described in Fig. \ref{fig:ScrubberScheme}. Ammonia is trapped by the liquid stream, reacting with the sulfuric acid to form ammonium sulfate.
+ammonia evaporation
+%(described in Section \ref{section:Digestate dryingNrecovery})
+and stripping in packed bed
+%(described in Section \ref{section:StrippingNrecovery})
+can be recovered in an acidic scrubbing stage using a solution of sulfuric acid in water, as described in Fig. \ref{fig:ScrubberScheme}. Ammonia is trapped by the liquid stream, reacting with the sulfuric acid to form ammonium sulfate.
 %{\color{red}{This is a solid element that can be recovered by sedimentation or filtration}}. 
 Mass balances for the scrubber unit consider the water transferred to the gas stream, assuming that saturation is reached, Eq. \ref{eq:SC2}. Ammonia  recovery efficiency ($\eta_{scrubber}^{\text{NH}_3}$) of full-scale ammonia scrubbers has been reported in the range of 40\% to 99\% \citep{melse2005}. A typical $\eta_{scrubber}^{\text{NH}_3}$ of 96\% has been selected based on the work of \citet{melse2005}.
 
@@ -1026,7 +1037,8 @@ Operating expenses of scrubbing are mainly related to the use of sulfuric acid, 
 %\\
 & OPEX_{\text{scrubbers}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \frac{\dot{m}_{\text{H}_2 \text{SO}_4} \left(\frac{\text{kg}}{\text{s}}\right)}{\rho_{\text{H}_2 \text{SO}_4} \left(\frac{\text{kg}}{\text{m}^3}\right)} \cdot Price_{\text{H}_2 \text{SO}_4} \left(\frac{\text{USD}}{\text{m}^3}\right)  \label{eq:OPEXScrubber}
 \\
-& OPEX_{\text{compressor}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \dot{W}_{\text{compressor}} \left(\text{kW}\right) \cdot t_{\text{operation}} \left(\text{s}\right) \cdot 3600 \cdot Price_{\text{electricity}}\left(\frac{\text{USD}}{\text{kWh}}\right) \label{eq:compressorOPEX2}
+& OPEX_{\text{compressor}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \dot{W}_{\text{compressor}} \left(\text{kW}\right) \cdot t_{\text{operation}} \left(\text{s}\right) \cdot \nonumber \\
+& 3600 \cdot Price_{\text{electricity}}\left(\frac{\text{USD}}{\text{kWh}}\right) \label{eq:compressorOPEX2}
 \end{align}	
 
 %Total CAPEX and OPEX for nitrogen recovery though digestate drying are calculated in Eqs. \ref{eq:CAPEXDigDrying} and \ref{eq:OPEXDigDrying}.
@@ -1053,6 +1065,226 @@ Operating expenses of scrubbing are mainly related to the use of sulfuric acid, 
 %
 %\paragraph{Ultrafintration and reverse osmosis}
 %{\color{red}{Under consideration}}
+
+\subsection{Economic assessment}
+
+%{\color{red}{OJO Neither uncertaininty}}
+
+The total costs of nitrogen recovery and waste processing have been estimated for each nitrogen management system evaluated. These are defined in Eqs. \ref{eq:NRecCost} and \ref{eq:WasteProcCost} respectively for each evaluated technology $i$, where $k$ represents the possible products obtained, $i$ denotes the discount rate (assumed to be 7\%), and $n_{\text{plant}}$ represents the process lifetime, which is assumed to be 20 years. Cost estimation includes OPEX and CAPEX amortization of all equipment involved in the processing of swine waste, as well as incomes from the sale of recovered products for those processes producing struvite (Multiform) or ammonium sulphate (digestate drying, stripping in packed tower, and membrane system). 
+%CAPEX and OPEX of the systems evalauted are shown in the {\color{blue}{Supplementary Material, Figure 1S}}. 
+The selling prices considered are 0.85 USD per kilogram of struvite \citep{molinos2011economic}, and 0.12 USD per kilogram of ammonium sulphate \citep{AmmoniumSulphatePrice}. Conversely, the liquid and organic solid effluents containing low concentrations of nitrogen, such as the products obtained from the MAPHEX system, as well as some streams recovered from other systems such as ammonia evaporation or struvite production, are considered products with no market value. This assumption is based in the fact that, although they can be used for nutrient supplementation in croplands, they are too bulky for being economically transported to nutrient deficient areas. Therefore, similarly to manure, they can just be applied locally, hindering their use as a bio-based substitute of synthetic nitrogen fertilizers.
+%The product recovered form MAPHEX system is a solid mainly comprised of organic matter, containing nutrients such as nitrogen and phosphorus. However, since the concentration of nutrients in this material is much lower than struvite or ammonium sulfate, hindering the transportation of this solid, it has been assumed that no incomes can be obtained from this product.
+
+\begin{align}
+& Cost_{j}^{\substack{nitrogen\\recovery}} \left(\frac{\text{USD}}{\text{kg\textsubscript{N recovered}}}\right) = \nonumber \\
+& \frac{OPEX_{j}+CAPEX_{j} \cdot \frac{i \cdot \left( \left(1+i\right)^{n_{\text{plant}}} \right)}{\left( \left( 1+i\right)^{n_{\text{plant}}} -1 \right) } -\sum_{k}{\dot{m}_{j,k} \cdot Price_{k}}}{{\dot{m}_{N_{recovered}}}} \label{eq:NRecCost} \\
+\nonumber \\
+& Cost_{j}^ {\substack{waste\\processing}} \left(\frac{\text{USD}}{\text{kg\textsubscript{Waste processed}}}\right) = \nonumber \\
+& \frac{OPEX_{j}+CAPEX_{j} \cdot \frac{i \cdot \left( \left(1+i\right)^{n_{\text{plant}}} \right)}{\left( \left( 1+i\right)^{n_{\text{plant}}} -1 \right) } -\sum_{k}{\dot{m}_{j,k} \cdot Price_{k}}}{\dot{m}_{Waste_{processed}}} \label{eq:WasteProcCost}
+\end{align}
+
+%\subsection{Nitrogen releases environmental geographic information system framework}
+
+
+\section{Results and discussion}
+\subsection{Nitrogen flows and recovery efficiency}
+%The nitrogen recovery efficiency of the evaluated systems is shown in Figure \ref{fig:N_recovery_techs}. The efficiencies are reported considering both the entire process of waste treatment (including waste pretreatment and N recovery) and the technology for nitrogen recovery only. This approach is used in order to compare not just the technologies used for the recovery of nitrogen, but also the pretreatment stages required by each system for the recovery of nitrogen from swine waste. Therefore, the recovery efficiency considering the whole process represents the actual fraction of nitrogen recovered, while the efficiency of each technology only represents the nitrogen recovered after waste conditioning. 
+%
+%\begin{figure}[H]
+%	\centering
+%	\includegraphics[angle=0, width=0.6\textwidth, trim={0cm 0cm 0cm 0cm}, clip]{N_recovery_techs.pdf}
+%	\caption{Nitrogen recovery efficiency considering only nutrient recovery technologies and the entire waste treatment process. The recovery efficiency considering the whole process represents the actual fraction of nitrogen recovered.}
+%	\label{fig:N_recovery_techs}
+%\end{figure}
+
+The nitrogen flows of the evaluated systems have been analyzed to determine the fraction of nitrogen recovered as inorganic products, either in the form of ammonium sulphate solution or as struvite, the the nitrogen recovered within the organic solid fraction of the waste, and the fraction of nitrogen that it is not recovered and is released into the environment, as shown in Figure \ref{fig:Sankeys}. The nitrogen flows have been analyzed considering the entire recovery systems for waste treatment, including the pretreatment and N recovery processes.
+
+It can be observed that the
+%digestate drying
+ammonia evaporation process
+%is performed through evaporation of the ammonia contained in digestate using a belt dryer. However, this process
+requires a waste stream with a high solids content for the ammonia evaporation in the belt dryer unit.
+% of digestate, 
+Therefore, a solid adjustment must be performed, 
+%resulting in low recovery efficiencies due to the
+discarding a large fraction of the liquid phase of digestate, which contains most of the inorganic nitrogen. As a result, a significant fraction of nitrogen (79 \%) is released in a liquid stream. Nitrogen recovery by stripping in packed tower and membrane systems results in a fraction of nitrogen recovered in the organic solid fraction of the waste as a consequence of liquid-solid separation stages, in addition to the nitrogen recovered as a solution of ammonium sulphate, as illustrated in Figures \ref{fig:NitrogenFlow_StrippingPacked_sankey} and \ref{fig:NitrogenFlow_Membrane_sankey}. 
+
+%On the other hand, the low recovery efficiency of 
+Multiform system show a low efficiency of nitrogen recovered as struvite. This is due to the fact that phosphate is the limiting factor for stuvite production, since this compound is in much lower concentrations than nitrogen in swine waste, as reported in Table \ref{table:SwineWaste}. As a result, a significant fraction of nitrogen is not recovered but released in a liquid stream, similarly to ammonia evaporation process, as observed in \ref{fig:NitrogenFlow_MULTIFORM_sankey}.
+%is mainly due to the struvite precipitation rather than waste pretreatment, as observed in \ref{fig:NitrogenFlow_MULTIFORM_sankey}. The presence of phosphate is the limiting factor for stuvite production, since this compound is in much lower concentrations than nitrogen in swine waste, as reported in Table \ref{table:SwineWaste}. 
+Finally, since MAPHEX is a manure processing system that integrates all the stages from the feed of raw manure to the recovery of the final products, no pretreatment stages are considered for this system. The nitrogen is recovered within a organic solid material, as shown in Figure \ref{fig:NitrogenFlow_MAPHEX_sankey}. 
+
+%\begin{sidewaysfigure}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[t]{0.99\textwidth}
+		\centering
+		\includegraphics[angle=0, width=0.85\linewidth, trim={2cm 2.8cm 2.5cm 2cm}, clip]{gfx/Chapter6/NitrogenFlow_AmmoniaEvaporation_sankey.pdf}
+		\caption{Ammonia evaporation}
+		\label{fig:NitrogenFlow_AmmoniaEvaporation_sankey}
+	\end{subfigure}
+	
+	\bigskip
+	
+	\begin{subfigure}[t]{0.9\textwidth}
+		\centering
+		\includegraphics[angle=0,width=\linewidth, trim={2cm 2.5cm 0.5cm 2.5cm}, clip]{gfx/Chapter6/NitrogenFlow_MULTIFORM_sankey.pdf} 
+		\caption{Multiform}
+		\label{fig:NitrogenFlow_MULTIFORM_sankey}
+	\end{subfigure}
+	
+%	\caption{Relative flows of inorganic nitrogen in the studied processes. Since a fraction of organic nitrogen in swine manure is mineralized after the anaerobic digestion of the waste, the 100\% refers to the inorganic nitrogen in digestate.}
+%\end{figure}
+%\begin{figure}[h!]	\ContinuedFloat 
+%	\centering
+	\bigskip
+	
+	\begin{subfigure}[t]{0.93\textwidth}
+		\centering
+		\includegraphics[angle=0,width=0.7\linewidth, trim={1.9cm 2cm 4.5cm 3cm}, clip]{gfx/Chapter6/NitrogenFlow_MAPHEX_sankey.pdf} 
+		\caption{MAPHEX}
+		\label{fig:NitrogenFlow_MAPHEX_sankey}
+	\end{subfigure}
+	
+	\bigskip
+	
+	\begin{subfigure}[t]{0.97\textwidth}
+		\centering
+		\includegraphics[angle=0,width=\linewidth, trim={0cm 2cm 0cm 3cm}, clip]{gfx/Chapter6/NitrogenFlow_AirStrippingPacked_sankey.pdf} 
+		\caption{Stripping in packed tower}
+		\label{fig:NitrogenFlow_StrippingPacked_sankey}
+	\end{subfigure}
+
+%	\bigskip
+
+	\caption{Relative flows of inorganic nitrogen in the studied processes. Since a fraction of organic nitrogen in swine manure is mineralized after the anaerobic digestion of the waste, the 100\% refers to the inorganic nitrogen in digestate.}
+
+\end{figure}
+\begin{figure}[h!]	\ContinuedFloat 
+\centering
+	
+	\begin{subfigure}[t]{0.99\textwidth}
+		\centering
+		\includegraphics[angle=0,width=\linewidth, trim={0cm 2cm 0cm 2.5cm}, clip]{gfx/Chapter6/NitrogenFlow_Membrane_sankey.pdf} 
+		\caption{Membrane}
+		\label{fig:NitrogenFlow_Membrane_sankey}
+	\end{subfigure}
+	
+	\caption{Relative flows of inorganic nitrogen in the studied processes. Since a fraction of organic nitrogen in swine manure is mineralized after the anaerobic digestion of the waste, the 100\% refers to the inorganic nitrogen in digestate.}
+%	(cont.).
+	\label{fig:Sankeys}
+\end{figure}
+
+%The efficiency and nitrogen flows for each one of the studied processes are shown in Figure \ref{fig:Sankeys}. Since a fraction of organic nitrogen in swine manure is mineralized after the anaerobic digestion of the waste, the 100\% is referred to the inorganic nitrogen in digestate.
+%{\color{red}{
+%It can be observed that low nitrogen recovery efficiencies are achieved for digestate drying and struvite production. On the one hand, the recovery of nitrogen through digestate drying is performed through evaporation of the ammonia contained in digestate using a belt dryer. However, this process requires a high solids content of digestate, resulting in low recovery efficiencies due to the discard of a large fraction of the liquid phase of digestate, which contains the most of inorganic nitrogen. On the other hand, the production of struvite from swine waste is limited by the presence of phosphate, which is much lower concentrations that nitrogen, resulting in a low recovery efficiency as well. However, it must be remarked that the product obtained, struvite, is an efective fertilizer with a known composition and easy to be transported, resulting in valuable product \citep{johnston2003effectiveness}. MAPHEX reach a recovery efficiency of up to 88\% though a  serie of physico-chemical separations, resulting in the release of a stream of purified water free of the most fraction of nitrogen. However, in spite of this high efficiency, one of the major drawbacks of this system is the low value of the organic nutrient-rich solid obtained. This solid has a lower density of nutrients than the products obtained by other systems, such as struvite or ammonium sulfate, making the transportation more difficult and expensive, and decreasing its market value.}}
+
+\subsection{Economic assessment and scale-up}
+
+%{\color{red}{OJO Neither uncertaininty}}
+
+%The total cost of nitrogen recovery and waste processing have been estimated for each nitrogen management system evaluated, as shown in Figure \ref{fig:ScaleUGlobal}. These are defined in Eqs. \ref{eq:NRecCost} and \ref{eq:WasteProcCost} respectively for each evaluated technology $i$, where $k$ represents the possible products obtained, $i$ denotes the discount rate (assumed to be 7\%), and $n_{\text{plant}}$ represents the process lifetime, which is assumed to be 20 years. Cost estimation includes OPEX and CAPEX amortization of all equipment involved in the processing of swine waste, as well as incomes from the sales of recovered products sales for those processes producing struvite (Multiform) or ammonium sulphate (digestate drying, stripping in packed tower, and membrane system). CAPEX and OPEX of the systems evalauted are shown in the {\color{blue}{Supplementary Material, Figure 1S}}. The selling prices considered are 0.85 USD per kilogram of struvite \citep{molinos2011economic}, and 0.12 USD per kilogram of ammonium sulphate \citep{AmmoniumSulphatePrice}. The product recovered form MAPHEX system is an solid mainly comprised by organic matter, containing nutrients such as nitrogen and phosphorus. However, since the concentration of nutrients in this material is much lower than struvite or ammonium sulfate, hindering the transportation of this solid, it has been assumed that no incomes can be obtained from this product.
+
+%\begin{align}
+%	& Cost_{j}^{\substack{nitrogen\\recovery}} = \frac{OPEX_{j}+CAPEX_{j} \cdot \frac{i \cdot \left( \left(1+i\right)^{n_{\text{plant}}} \right)}{\left( \left( 1+i\right)^{n_{\text{plant}}} -1 \right) } -\sum_{k}{\dot{m}_{j,k} \cdot Price_{k}}}{{\dot{m}_{N_{recovered}}}} \label{eq:NRecCost} \\
+%	& Cost_{j}^ {\substack{waste\\processing}} = \frac{OPEX_{j}+CAPEX_{j} \cdot \frac{i \cdot \left( \left(1+i\right)^{n_{\text{plant}}} \right)}{\left( \left( 1+i\right)^{n_{\text{plant}}} -1 \right) } -\sum_{k}{\dot{m}_{j,k} \cdot Price_{k}}}{\dot{m}_{Waste_{processed}}} \label{eq:WasteProcCost}
+%\end{align}
+
+The total costs of nitrogen recovery and waste processing for each nitrogen management system evaluated estimated are through Eqs. \ref{eq:NRecCost} and \ref{eq:WasteProcCost}, and shown in Figure \ref{fig:ScaleUGlobal}.
+%Figure \ref{fig:ScaleUGlobal} shows the processing cost as a function of the process scale. 
+Correlations to estimate the processing cost of the evaluated technologies as a function of animal units are shown in Table \ref{table:ScaleUpCorrelations}. Significant differences on the processing cost of technologies are observed depending on the reference considered for comparison. Considering the cost per kilogram of swine waste, illustrated in Figure \ref{fig:ScaleUp2WasteProcCost}, we observe that Multiform and membrane systems are the processes with the lowest processing cost, 0.13 to 0.02 USD per kg of swine waste processed. 
+
+This approach accounts for operating and amortized capital expenses, as well as for the incomes from the sales of recovered products, as shown in Eq. \ref{eq:WasteProcCost}.
+This is a common metric used to measure and compare the processing costs of nitrogen recovery processes \citep{de2019resource, bolzonella2018nutrients}.
+However, it does not include the nitrogen recovery efficiency of each process, which can lead to the selection of processes with low waste treatment cost, and low nitrogen recovery efficiency. Therefore, we consider that measuring the processing cost as a function of the recovered nitrogen, as shown in Figure \ref{fig:ScaleUp2}, is a more accurate metric for comparing different systems. Accordingly to this approach, the economic performance of Multiform dramatically decreases as a result of the low nitrogen recovery efficiency of this technology. Conversely, MAPHEX is revealed as more competitive process when the nitrogen recovered is considered. Since MAPHEX is a single size modular technology, its recovery cost shows a linear behavior, slightly affected by adding extra in-parallel modules to process large amounts of waste. Membrane system is the process with the lowest nitrogen recovery cost, from 10.4 to 3.4 USD per kilogram of nitrogen recovered, depending on the waste processing capacity of the system.
+
+We note that the cost of anaerobic digestion stage represents a large fraction of capital expenses. However, this technology might be already implemented in some swine operations. Therefore, the impact of AD in the CAPEX, OPEX and processing costs has been analyzed. Figures \ref{fig:ScaleUGlobal} and {\color{blue}{1S}} show these costs including AD stages, and {\color{blue}{Figures 2S and 3S}} illustrate the costs of nitrogen recovery systems excluding AD. It can be observed that CAPEX costs are significantly higher when AD is considered. This turns into a decrease of processing costs when AD is not considered. Additional correlations for cost estimation
+%for this case
+are reported in {\color{blue}{Table 1S.}}
+
+%It can be observed in Figure \ref{fig:ScaleUGlobal} that the economies of scale have a large influence in the cost for all the technologies considered. Multiform is the processes that shows the largest cost as a consequence of its low nitrogen recovery efficiency, while digestate drying reveals to be an inexpensive alternative, in spite of the fact that this processes has a relatively low recovery efficient as well. 
+
+\begin{figure}[h]
+	\centering 
+	\begin{subfigure}[t]{0.455\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter6/ScaleUp2WasteProcCost.pdf} 
+		\caption{Waste processing cost}
+		\label{fig:ScaleUp2WasteProcCost}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.47\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter6/ScaleUp2.pdf} 
+		\caption{Nitrogen recovery cost}
+		\label{fig:ScaleUp2}
+	\end{subfigure}
+	
+	\caption{Processing cost for different livestock facility sizes, including the cost of pretreatment and AD stages.} \label{fig:ScaleUGlobal}
+\end{figure}
+
+\begin{table}[h] 
+	\centering
+	\caption{Correlations to estimate the processing cost of the evaluated technologies as a function of animal units ($AU$), including the cost of AD stage.} \label{table:ScaleUpCorrelations}
+	\resizebox{\columnwidth}{!}{
+	\begin{tabular}{@{}cccc@{}}
+		\toprule
+		\multirow{2}{*}{System} & &\multicolumn{1}{c}{\begin{tabular}[c]{@{}c@{}}Waste processing cost\\  $\left(\sfrac{\text{USD}}{\text{kg}_{\text{waste processed}}}\right)$\end{tabular}} & \multicolumn{1}{c}{\begin{tabular}[c]{@{}c@{}}Total nitrogen recovery cost\\  $\left(\sfrac{\text{USD}}{\text{kg}_{\text{N recovered}}}\right)$\end{tabular}} \\ \cmidrule(l){3-3}\cmidrule(l){4-4} 
+		& Correlation                           & Parameters                &                           Parameters                      \\  \midrule
+		%		\cmidrule(l){2-3}
+		%		\cmidrule(r){1-1}
+		%		Digestate drying 
+		Ammonia evaporation 
+		& \multirow{13}{*}{$C = a \cdot AU^{b}$}               
+		& \begin{tabular}[c]{@{}c@{}}$a$=0.326\\ $b$=-0.0233\end{tabular}  
+		& \begin{tabular}[c]{@{}c@{}}$a$=221.805\\ $b$=-0.0233\end{tabular}            \\\\
+		Multiform         
+		&                                       
+		& \begin{tabular}[c]{@{}c@{}}$a$=3.308\\ $b$=-0.648\end{tabular}         
+		& \begin{tabular}[c]{@{}c@{}}$a$=12837.477\\ $b$=-0.648\end{tabular}       \\\\
+		MAPHEX            
+		&                                       
+		& \begin{tabular}[c]{@{}c@{}}$a$=0.177 \\ $b$=-0.0372   \end{tabular}       
+		& \begin{tabular}[c]{@{}c@{}}$a$=22.240 \\ $b$=-0.0372   \end{tabular}                                             \\ \\ 
+		\begin{tabular}[c]{@{}c@{}}Stripping in \\ packed tower  \end{tabular}             &                                       
+		& \begin{tabular}[c]{@{}c@{}}$a$=0.271 \\ $b$=-0.0298  \end{tabular}        & \begin{tabular}[c]{@{}c@{}}$a$=36.181 \\ $b$=-0.0298  \end{tabular} \\ \\ 
+		Membrane            
+		&                                       
+		& \begin{tabular}[c]{@{}c@{}}$a$=0.188 \\ $b$=-0.290  \end{tabular}        
+		& \begin{tabular}[c]{@{}c@{}}$a$=33.612 \\ $b$=-0.284  \end{tabular}  \\
+		\bottomrule 
+	\end{tabular}
+	}
+\end{table}
+
+Additionally, the cost of releasing nitrogen to the environment is illustrated in Figure \ref{fig:ScaleUp2} in order to determine the processes for which nitrogen recovery is more economically beneficial than nitrogen release. The releasing cost of nitrogen is estimated based on the environmental and social cost of atmospheric NH\textsubscript{3} releases, and land, freshwater, and groundwater nitrogen loading. The cost of nitrogen release considering these damages reported by \citet{sobota2015cost} and \citet{compton2017assessing} are 32.5 and 35.15 USD/kg\textsubscript{N released} respectively. We note that the recovery of nitrogen by using membrane systems, MAPHEX, and stripping in packed tower result in economic savings with respect to nitrogen release to the environment. This information can be a driver for the deployment of swine waste treatment processes for nitrogen recovery. However, a debate can be raised regarding what stakeholders should cover the cost of nitrogen recovery from swine industry. 
+%The environmental impact from nitrogen releases, and the need of implementing systems for the recovery of nitrogen has been discussed in the introduction section.
+%{\color{red}{COMPLETAR ESTO EN LA INTRO}}. 
+On the one hand, if nitrogen recovery is not performed at swine facilities, nitrogen releases result in environmental remediation costs in the long-term. These costs are usually covered by national and regional governments, which are ultimately funded by taxpayers. As a result, the environmental impact is covered by all citizens, whether or not they benefit from such businesses. On the other hand, the implementation of nutrient recovery systems could impact the economy of swine farms, which in turn could result in the raise of swine products cost, impacting the final consumers. This approach might seem fairer, since it only involves producers and consumers of swine products. However, it would lead to comparative disadvantages between different swine farms as a result of the savings in nitrogen recovery costs due to the economies of scale, as shown in Figure \ref{fig:ScaleUp2WasteProcCost}. Consequently, small facilities would be more affected by nitrogen recovery than large farms. Therefore, alternative economic schemes should be developed to mitigate the economic impact of the implementation of nitrogen recovery systems at swine facilities. In this regard, previous efforts developed for phosphorus recovery at livestock facilities can be adapted for nitrogen recovery. For instance, the development of a market for trading emissions allowances has been proposed for phosphorus releases from livestock farms \citep{Sampat2}. This scheme can also be explored for nitrogen releases. Additionally, {\color{red}{OJO ACTUALIZAR REFERENCIA!!! \citet{Policies}}} have studied several incentive policies for the implementation of phosphorus recovery systems in livestock facilities, including the fair allocation of limited incentive budgets, which could be adapted to the case of nitrogen recovery.
+
+%{\color{red}{DISCUTIR PRECIOS OBTENIDOS VAN AL REVES QUE EN Nutrients recovery from anaerobic digestate of agro-waste:Techno-economic assessment of full scale applications CUANDPO SE CONSIDERA PRECIO POR KG N RECUPÈRADO EN LUGAR DE JG DE DISGESTATE TRATADO}}
+
+%{\color{red}{INFLUENCE AD IN SUPPLEMENTARY MAT}}
+
+%{\color{red}{CAPEX and OPEX SUPPLEMENTARY MAT}}
+
+%{\color{red}{AU definition}}
+
+%{\color{red}{COMPLETAR ESTO EN LA INTRO}}
+
+
+%\subsection{Influence of environmental indicators on technology selection}
+
+\section{Conclusions}
+%\subsection{Selection of optimal nitrogen management systems}
+%\subsection{Assessing the deployment of nitrogen management systems in Castilla y Le\'{o}n}
+Intensive swine operations generate  vast amounts of organic waste that it is a source of nitrogen releases into the environment. Since these releases are a significant contributor to the eutrophication of waterbodies, and they can result in harmful environmental impacts such as algal bloom episodes, the recovery of nitrogen at livestock facilities is a desirable measure to reduce the environmental footprint of the food production system.
+
+Several processes have been developed for nitrogen recovery from organic waste, and therefore the selection of the most suitable process has to be addressed considering multiple dimensions, including the nitrogen recovery efficiency, the capital and operating expenses, and the impact of the economies of scale in the final cost of nitrogen recovery. A multi-scale techno-economic study has been performed in order to determine the most suitable nitrogen recovery system based on the waste treatment capacity.
+The mass flows throughout all stages from manure collection to the final treatments have been analyzed in order to determine the nitrogen flows throughout each studied system.
+%We found that the pretreatment stages, typically liquid-solid separation units, might lead to important losses of nitrogen, and therefore significant losses in nitrogen recovery efficiency. This reduction is specially significant for the recovery of nitrogen by digested drying.
+Two metrics have been considered to measure the operating cost of each technology, the waste treatment cost (USD/kg\textsubscript{waste processed}), that it is a metric widely used in literature, and the nitrogen recovery cost (USD/kg\textsubscript{N recovered}). Since the first metric does not account for the nitrogen recovery efficiency of each system, significant differences on the relative performance among the different technologies are found. This is because some technologies that result in low waste treatment costs show low nitrogen recovery efficiencies, resulting in comparatively large nitrogen recovery costs. However, transmembrane chemisorption is revealed as the most cost-effective nitrogen recovery technology, resulting in costs of 0.02-0.06 USD/kg\textsubscript{waste processed}, and 3.4-10.4 USD/kg\textsubscript{N recovered}. Moreover, comparing the negative economic impact of nitrogen releases into the environment, estimated between 32.5 and 35.15 USD/kg\textsubscript{N released} with the cost of nitrogen recovery, three technologies reveal to be economically advantageous, transmembrane chemisorption, MAPHEX, and stripping in packed bed.
+
+Future research is needed to discuss what stakeholders in the production and consumption cycle should assume the costs associated with nitrogen recovery. Additionally, further studies have to be addressed to design and evaluate incentive policies for the effective deployment of nitrogen recovery systems at intensive swine operations.
 
 \section*{Acknowledgments} \label{section:Acknowledgments}
 \addcontentsline{toc}{section}{Acknowledgments}

@@ -55,20 +55,18 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
-      <file>standard.bbx</file>
       <file>apa.bbx</file>
+      <file>standard.bbx</file>
       <file>apa.cbx</file>
       <file>biblatex.cfg</file>
-      <file>spanish.lbx</file>
       <file>spanish-apa.lbx</file>
-      <file>english.lbx</file>
-      <file>english-apa.lbx</file>
-      <file>american.lbx</file>
+      <file>spanish.lbx</file>
       <file>american-apa.lbx</file>
-      <file>german.lbx</file>
-      <file>german-apa.lbx</file>
-      <file>ngerman.lbx</file>
+      <file>american.lbx</file>
+      <file>english.lbx</file>
       <file>ngerman-apa.lbx</file>
+      <file>ngerman.lbx</file>
+      <file>german.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
@@ -98,6 +96,7 @@
       <file>References/referencesCh5.bib</file>
       <file>References/referencesCh6.bib</file>
       <file>References/referencesCh7.bib</file>
+      <file>References/referencesApD.bib</file>
     </requires>
   </external>
 </requests>
