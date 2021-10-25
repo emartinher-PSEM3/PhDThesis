@@ -56,7 +56,7 @@
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{17}{paragraph*.13}
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Assessment of phosphorus recovery through struvite precipitation.}}{18}{paragraph*.14}
+\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Geospatial assessment of phosphorus recovery through struvite precipitation.}}{18}{paragraph*.14}
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{18}{paragraph*.15}
 \defcounter {refsection}{2}\relax
@@ -98,6 +98,6 @@
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {3.1}{Contributions}}{33}{section.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.2}{Directions for future work}}{33}{section.3.2}
+\contentsline {section}{\numberline {3.2}{Directions for future work}}{34}{section.3.2}
 \defcounter {refsection}{0}\relax
 \contentsline {part}{\numberline {iv}{Appendix}}{35}{part.4}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.27)  25 OCT 2021 12:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.27)  25 OCT 2021 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2311,15 +2311,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ClassicThesis.bbl' found.
- (./ClassicThesis.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 4):
-(biblatex)                rongwong2020modeling
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./ClassicThesis.bbl)
 Package biblatex Info: Reference section=0 on input line 110.
 Package biblatex Info: Reference segment=0 on input line 110.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -3080,10 +3072,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
+
+
+LaTeX Warning: Reference `ch:Tool' on page 11 undefined on input line 180.
+
 \openout5 = `ClassicThesis.mw.mw'.
 
- [11 <./gfx/Chapter1/IntroMCDA.pdf>]
-(./ClassicThesis.mw.mw)
+[11 <./gfx/Chapter1/IntroMCDA.pdf>] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 
@@ -3136,9 +3131,6 @@ e 205.
 LaTeX Warning: Reference `ch:PhosphorusTechs' on page 17 undefined on input lin
 e 291.
 
-
-LaTeX Warning: Reference `ch:Struvite' on page 17 undefined on input line 293.
-
 \openout5 = `ClassicThesis.mw.mw'.
 
 [17] (./ClassicThesis.mw.mw)
@@ -3154,11 +3146,23 @@ LaTeX Warning: Reference `ch:Struvite' on page 17 undefined on input line 293.
 
 
 
+LaTeX Warning: Reference `ch:Struvite' on page 18 undefined on input line 293.
+
+
+LaTeX Warning: Reference `ch:Tool' on page 18 undefined on input line 295.
+
+
+Overfull \hbox (0.59917pt too wide) in paragraph at lines 295--296
+[] []\T1/pplj/m/sc/10.95/80ls (-20) chap-ter [] - geospa-tial en-vi-ron-men-tal
+ and tech-no-e-co-nomic
+ []
+
+
 LaTeX Warning: Reference `ch:Policies' on page 18 undefined on input line 297.
 
 
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 18 undefined on input lin
-e 303.
+LaTeX Warning: Reference `ch:NitrogenTechs' on page 18 undefined on input line 
+300.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
@@ -3169,17 +3173,27 @@ e 303.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
-\openout5 = `ClassicThesis.mw.mw'.
 
- [19] (./ClassicThesis.mw.mw)
-\openout5 = `ClassicThesis.mw.mw'.
 
-\openout5 = `ClassicThesis.mw.mw'.
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 19 undefined on input lin
+e 303.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
+[19] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+ [20] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 
@@ -3191,31 +3205,25 @@ humb for chem-i-cal en-gi-neers\T1/pplj/m/n/10.95 (-20) . Butterworth-Heinemann
 
 \openout5 = `ClassicThesis.mw.mw'.
 
-[20] (./ClassicThesis.mw.mw)
+[21] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
- [21] (./ClassicThesis.mw.mw)
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
- [22]
-(./ClassicThesis.mw.mw)
+ [22] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 Package biblatex Info: Reference section=0 on input line 310.
 )
 \openout5 = `ClassicThesis.mw.mw'.
 
- [23] (./ClassicThesis.mw.mw)
+ [23]
+(./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 \openout2 = `Chapters/Chapter01_1.aux'.
 
-
-(./Chapters/Chapter01_1.tex
+ (./Chapters/Chapter01_1.tex
 Chapter 2.
 \openout5 = `ClassicThesis.mw.mw'.
 
@@ -3321,37 +3329,55 @@ Chapter 2.
 
  (./Chapters/Conclusions.tex
 Chapter 3.
+
+LaTeX Warning: Reference `ch:PhosphorusTechs' on page 33 undefined on input lin
+e 9.
+
+
+LaTeX Warning: Reference `ch:Tool' on page 33 undefined on input line 11.
+
+
+LaTeX Warning: Reference `ch:NitrogenTechs' on page 33 undefined on input line 
+13.
+
+
+LaTeX Warning: Reference `ch:Struvite' on page 33 undefined on input line 15.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+[33
+
+
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 34 undefined on input lin
+e 25.
+
+
+LaTeX Warning: Reference `ch:Policies' on page 34 undefined on input line 25.
+
 )
 \openout5 = `ClassicThesis.mw.mw'.
 
- [33
-
-
-
-
-
-] (./ClassicThesis.mw.mw)
+ [34] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
- [34
-
-
-
-] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 \openout5 = `ClassicThesis.mw.mw'.
@@ -3359,17 +3385,20 @@ Chapter 3.
  [35
 
 
-]
+
+
+
+] (./ClassicThesis.mw.mw)
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+ [36]
 (./ClassicThesis.mw.mw)
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
-\openout5 = `ClassicThesis.mw.mw'.
-
- [36] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 
@@ -4225,13 +4254,13 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44024 strings out of 492982
- 825774 string characters out of 6134896
- 1559525 words of memory out of 5000000
- 46081 multiletter control sequences out of 15000+600000
- 642171 words of font info for 434 fonts, out of 8000000 for 9000
+ 43915 strings out of 492982
+ 820931 string characters out of 6134896
+ 1554994 words of memory out of 5000000
+ 45978 multiletter control sequences out of 15000+600000
+ 641815 words of font info for 429 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 69i,23n,122p,10418b,3444s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,23n,122p,10418b,3443s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
@@ -4241,10 +4270,10 @@ ic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (52 pages, 636366 bytes).
+Output written on ClassicThesis.pdf (52 pages, 639911 bytes).
 PDF statistics:
- 767 PDF objects out of 1000 (max. 8388607)
- 666 compressed objects within 7 object streams
+ 765 PDF objects out of 1000 (max. 8388607)
+ 664 compressed objects within 7 object streams
  195 named destinations out of 1000 (max. 500000)
  83284 words of extra memory for PDF output out of 89155 (max. 10000000)
 
