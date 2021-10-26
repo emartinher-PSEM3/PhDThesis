@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.27)  25 OCT 2021 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.27)  26 OCT 2021 16:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3364,28 +3364,67 @@ LaTeX Warning: Reference `ch:Struvite' on page 33 undefined on input line 15.
 
 
 
-LaTeX Warning: Reference `ch:BiogasUpgrading' on page 34 undefined on input lin
-e 25.
+LaTeX Warning: Reference `ch:Tool' on page 34 undefined on input line 19.
 
 
-LaTeX Warning: Reference `ch:Policies' on page 34 undefined on input line 25.
+Overfull \hbox (6.4767pt too wide) in paragraph at lines 19--29
+[]\T1/pplj/m/n/10.95 (-20) , we present a decision-making sup-port tool called 
+COW2NUTRIENT
+ []
+
+
+LaTeX Warning: Reference `ch:Policies' on page 34 undefined on input line 31.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+[34] (./ClassicThesis.mw.mw)
+\openout5 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:BiogasUpgrading' on page 35 undefined on input lin
+e 37.
+
+
+LaTeX Warning: Reference `ch:Policies' on page 35 undefined on input line 37.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+[35] (./ClassicThesis.mw.mw)
+\openout5 = `ClassicThesis.mw.mw'.
+
+
+
+LaTeX Warning: Reference `ch:Policies' on page 36 undefined on input line 45.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+[36] (./ClassicThesis.mw.mw)
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
+
+\openout5 = `ClassicThesis.mw.mw'.
 
 )
 \openout5 = `ClassicThesis.mw.mw'.
 
- [34] (./ClassicThesis.mw.mw)
+ [37] (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
+ [38
+
+
+
+]
+(./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
- [35
-
-
-
+ [39
 
 
 ] (./ClassicThesis.mw.mw)
@@ -3397,7 +3436,7 @@ LaTeX Warning: Reference `ch:Policies' on page 34 undefined on input line 25.
 
 \openout5 = `ClassicThesis.mw.mw'.
 
- [36]
+ [40]
 (./ClassicThesis.mw.mw)
 \openout5 = `ClassicThesis.mw.mw'.
 
@@ -4254,10 +4293,10 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43915 strings out of 492982
- 820931 string characters out of 6134896
- 1554994 words of memory out of 5000000
- 45978 multiletter control sequences out of 15000+600000
+ 43934 strings out of 492982
+ 821183 string characters out of 6134896
+ 1556006 words of memory out of 5000000
+ 45981 multiletter control sequences out of 15000+600000
  641815 words of font info for 429 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  69i,23n,122p,10418b,3443s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -4270,10 +4309,10 @@ ic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (52 pages, 639911 bytes).
+Output written on ClassicThesis.pdf (56 pages, 647678 bytes).
 PDF statistics:
- 765 PDF objects out of 1000 (max. 8388607)
- 664 compressed objects within 7 object streams
- 195 named destinations out of 1000 (max. 500000)
+ 787 PDF objects out of 1000 (max. 8388607)
+ 682 compressed objects within 7 object streams
+ 203 named destinations out of 1000 (max. 500000)
  83284 words of extra memory for PDF output out of 89155 (max. 10000000)
 

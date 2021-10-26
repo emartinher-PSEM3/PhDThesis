@@ -1,27 +1,27 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'ClassicThesis.blg'
-[22] biber:313> INFO - === Mon Oct 25, 2021, 15:45:07
-[43] Biber.pm:371> INFO - Reading 'ClassicThesis.bcf'
-[107] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[108] Biber.pm:857> INFO - Found 6 citekeys in bib section 1
-[108] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[109] Biber.pm:857> INFO - Found 66 citekeys in bib section 2
-[109] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[137] Biber.pm:3981> INFO - Processing section 1
-[148] Biber.pm:4154> INFO - Looking for bibtex format file 'MyPublications.bib' for section 1
-[150] bibtex.pm:1468> INFO - LaTeX decoding ...
-[172] bibtex.pm:1294> INFO - Found BibTeX data source 'MyPublications.bib'
-[186] Utils.pm:169> WARN - year field 'Under Review' in entry 'Policies' is not an integer - this will probably not sort properly.
-[244] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[244] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[245] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[254] Biber.pm:3981> INFO - Processing section 2
-[255] Biber.pm:4154> INFO - Looking for bibtex format file 'References/referencesCh1.bib' for section 2
-[257] bibtex.pm:1468> INFO - LaTeX decoding ...
-[324] bibtex.pm:1294> INFO - Found BibTeX data source 'References/referencesCh1.bib'
-[715] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[715] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[715] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[781] bbl.pm:617> INFO - Writing 'ClassicThesis.bbl' with encoding 'UTF-8'
-[833] bbl.pm:720> INFO - Output to ClassicThesis.bbl
-[833] Biber.pm:110> INFO - WARNINGS: 1
+[24] biber:313> INFO - === Tue Oct 26, 2021, 15:06:41
+[45] Biber.pm:371> INFO - Reading 'ClassicThesis.bcf'
+[105] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[105] Biber.pm:857> INFO - Found 6 citekeys in bib section 1
+[105] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[106] Biber.pm:857> INFO - Found 66 citekeys in bib section 2
+[106] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[132] Biber.pm:3981> INFO - Processing section 1
+[142] Biber.pm:4154> INFO - Looking for bibtex format file 'MyPublications.bib' for section 1
+[143] bibtex.pm:1468> INFO - LaTeX decoding ...
+[163] bibtex.pm:1294> INFO - Found BibTeX data source 'MyPublications.bib'
+[173] Utils.pm:169> WARN - year field 'Under Review' in entry 'Policies' is not an integer - this will probably not sort properly.
+[222] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[222] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[222] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[230] Biber.pm:3981> INFO - Processing section 2
+[230] Biber.pm:4154> INFO - Looking for bibtex format file 'References/referencesCh1.bib' for section 2
+[232] bibtex.pm:1468> INFO - LaTeX decoding ...
+[294] bibtex.pm:1294> INFO - Found BibTeX data source 'References/referencesCh1.bib'
+[686] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[686] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[686] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[755] bbl.pm:617> INFO - Writing 'ClassicThesis.bbl' with encoding 'UTF-8'
+[806] bbl.pm:720> INFO - Output to ClassicThesis.bbl
+[806] Biber.pm:110> INFO - WARNINGS: 1
