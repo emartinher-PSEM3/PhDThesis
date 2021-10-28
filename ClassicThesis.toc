@@ -90,14 +90,68 @@
 \defcounter {refsection}{0}\relax
 \contentsline {part}{\numberline {i}{Phosphorus management and recovery}}{27}{part.1}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{29}{part.2}
+\contentsline {chapter}{\numberline {3}{Assessment of phosphorus recovery through the deployment of struvite precipitation systems}}{29}{chapter.3}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {3.1}{Introduction}}{29}{section.3.1}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {3.2}{Methods}}{32}{section.3.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {3.2.1}{Spatial resolution}}{32}{subsection.3.2.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {3.2.2}{Assessment of anthropogenic phosphorus from agricultural activities}}{32}{subsection.3.2.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.2.1}{Phosphorus releases}}{32}{subsubsection.3.2.2.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.2.2}{Phosphorus uptakes}}{33}{subsubsection.3.2.2.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.2.3}{Phosphorus balance}}{34}{subsubsection.3.2.2.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {3.2.3}{Thermodynamic model for precipitates formation}}{34}{subsection.3.2.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.1}{Uncertainty in livestock organic waste composition}}{34}{subsubsection.3.2.3.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.2}{Initial conditions}}{35}{subsubsection.3.2.3.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.3}{Activities}}{36}{subsubsection.3.2.3.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.4}{Distribution of species in aqueous phase}}{36}{subsubsection.3.2.3.4}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.5}{Precipitates formation}}{37}{subsubsection.3.2.3.5}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.6}{Thermodynamic model algorithm}}{39}{subsubsection.3.2.3.6}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.7}{Integration of waste composition uncertainty and precipitates formation thermodynamic models}}{39}{subsubsection.3.2.3.7}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.2.3.8}{Model validation and limitations}}{40}{subsubsection.3.2.3.8}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {3.3}{Results and discussion}}{41}{section.3.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {3.3.1}{Surrogate models to estimate the formation of precipitates from livestock organic waste}}{41}{subsection.3.3.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.3.1.1}{Influence of magnesium}}{41}{subsubsection.3.3.1.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.3.1.2}{Influence of calcium}}{42}{subsubsection.3.3.1.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.3.1.3}{Influence of alkalinity}}{43}{subsubsection.3.3.1.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.3.1.4}{Interactions between calcium and magnesium to phosphate ratios}}{44}{subsubsection.3.3.1.4}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {3.3.2}{Phosphorus releases from cattle leachate potentially avoided via struvite formation}}{44}{subsection.3.3.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.3.2.1}{Balance of phosphorus involved in agricultural activities throughout the U.S. watersheds}}{45}{subsubsection.3.3.2.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsubsection}{\numberline {3.3.2.2}{Phosphorus recovered from cattle leachate through struvite precipitation}}{45}{subsubsection.3.3.2.2}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {3.4}{Conclusions}}{47}{section.3.4}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{Nomenclature}{48}{section.3.4}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{Acknowledgments}{50}{table.3.7}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{Bibliography}{50}{table.3.7}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {iii}{Integration of anaerobic digestion and nutrient management systems}}{31}{part.3}
+\contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{59}{part.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {3}{Conclusions and future directions}}{33}{chapter.3}
+\contentsline {part}{\numberline {iii}{Integration of anaerobic digestion and nutrient management systems}}{61}{part.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.1}{Contributions}}{33}{section.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.2}{Directions for future work}}{36}{section.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {part}{\numberline {iv}{Appendix}}{39}{part.4}
+\contentsline {part}{\numberline {iv}{Appendix}}{63}{part.4}

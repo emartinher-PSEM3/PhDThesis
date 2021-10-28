@@ -1,0 +1,990 @@
+\ifglsentryexists{Ch3var1}{}%
+{%
+\gls@defglossaryentry{Ch3var1}%
+{%
+name={$A$},%
+sort={$A$},%
+type={VarCh3},%
+first={$A$},%
+firstplural={$A$s},%
+text={$A$},%
+plural={$A$s},%
+description={parameter of the Debye-H\"{u}ckel relationship},%
+descriptionplural={parameter of the Debye-H\"{u}ckel relationship},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var2}{}%
+{%
+\gls@defglossaryentry{Ch3var2}%
+{%
+name={$E_{x}$},%
+sort={$E_{x}$},%
+type={VarCh3},%
+first={$E_{x}$},%
+firstplural={$E_{x}$s},%
+text={$E_{x}$},%
+plural={$E_{x}$s},%
+description={emissions of component $x$},%
+descriptionplural={emissions of component $x$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var3}{}%
+{%
+\gls@defglossaryentry{Ch3var3}%
+{%
+name={$EC$},%
+sort={$EC$},%
+type={VarCh3},%
+first={$EC$},%
+firstplural={$EC$s},%
+text={$EC$},%
+plural={$EC$s},%
+description={electrical conductivity $\left (\frac {\mu \text {S}}{\text {cm}}\right )$},%
+descriptionplural={electrical conductivity $\left (\frac {\mu \text {S}}{\text {cm}}\right )$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var4}{}%
+{%
+\gls@defglossaryentry{Ch3var4}%
+{%
+name={$I$},%
+sort={$I$},%
+type={VarCh3},%
+first={$I$},%
+firstplural={$I$s},%
+text={$I$},%
+plural={$I$s},%
+description={ionic strength (M)},%
+descriptionplural={ionic strength (M)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var5}{}%
+{%
+\gls@defglossaryentry{Ch3var5}%
+{%
+name={$K$},%
+sort={$K$},%
+type={VarCh3},%
+first={$K$},%
+firstplural={$K$s},%
+text={$K$},%
+plural={$K$s},%
+description={thermodynamic equilibrium constant},%
+descriptionplural={thermodynamic equilibrium constant},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var6}{}%
+{%
+\gls@defglossaryentry{Ch3var6}%
+{%
+name={$K_{sp}$},%
+sort={$K_{sp}$},%
+type={VarCh3},%
+first={$K_{sp}$},%
+firstplural={$K_{sp}$s},%
+text={$K_{sp}$},%
+plural={$K_{sp}$s},%
+description={solubility product},%
+descriptionplural={solubility product},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var7}{}%
+{%
+\gls@defglossaryentry{Ch3var7}%
+{%
+name={$M$},%
+sort={$M$},%
+type={VarCh3},%
+first={$M$},%
+firstplural={$M$s},%
+text={$M$},%
+plural={$M$s},%
+description={equal to $e^{\mu }$},%
+descriptionplural={equal to $e^{\mu }$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var8}{}%
+{%
+\gls@defglossaryentry{Ch3var8}%
+{%
+name={$m$},%
+sort={$m$},%
+type={VarCh3},%
+first={$m$},%
+firstplural={$m$s},%
+text={$m$},%
+plural={$m$s},%
+description={stoichiometric coefficient},%
+descriptionplural={stoichiometric coefficient},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var9}{}%
+{%
+\gls@defglossaryentry{Ch3var9}%
+{%
+name={$n$},%
+sort={$n$},%
+type={VarCh3},%
+first={$n$},%
+firstplural={$n$s},%
+text={$n$},%
+plural={$n$s},%
+description={stoichiometric coefficient},%
+descriptionplural={stoichiometric coefficient},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var10}{}%
+{%
+\gls@defglossaryentry{Ch3var10}%
+{%
+name={$T$},%
+sort={$T$},%
+type={VarCh3},%
+first={$T$},%
+firstplural={$T$s},%
+text={$T$},%
+plural={$T$s},%
+description={temperature (K)},%
+descriptionplural={temperature (K)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var11}{}%
+{%
+\gls@defglossaryentry{Ch3var11}%
+{%
+name={$U_{x}$},%
+sort={$U_{x}$},%
+type={VarCh3},%
+first={$U_{x}$},%
+firstplural={$U_{x}$s},%
+text={$U_{x}$},%
+plural={$U_{x}$s},%
+description={uptakes of component $x$},%
+descriptionplural={uptakes of component $x$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var12}{}%
+{%
+\gls@defglossaryentry{Ch3var12}%
+{%
+name={$V_{x}$},%
+sort={$V_{x}$},%
+type={VarCh3},%
+first={$V_{x}$},%
+firstplural={$V_{x}$s},%
+text={$V_{x}$},%
+plural={$V_{x}$s},%
+description={techno-ecological synergy sustainability metric for component $x$},%
+descriptionplural={techno-ecological synergy sustainability metric for component $x$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var13}{}%
+{%
+\gls@defglossaryentry{Ch3var13}%
+{%
+name={$x_{Alk}$},%
+sort={$x_{Alk}$},%
+type={VarCh3},%
+first={$x_{Alk}$},%
+firstplural={$x_{Alk}$s},%
+text={$x_{Alk}$},%
+plural={$x_{Alk}$s},%
+description={alkalinity $\left ( \text {mg } CaCO_{3}\right )$},%
+descriptionplural={alkalinity $\left ( \text {mg } CaCO_{3}\right )$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var14}{}%
+{%
+\gls@defglossaryentry{Ch3var14}%
+{%
+name={$x_{CaCO_{3}}$},%
+sort={$x_{CaCO_{3}}$},%
+type={VarCh3},%
+first={$x_{CaCO_{3}}$},%
+firstplural={$x_{CaCO_{3}}$s},%
+text={$x_{CaCO_{3}}$},%
+plural={$x_{CaCO_{3}}$s},%
+description={fraction of calcium recovered as calcium carbonate},%
+descriptionplural={fraction of calcium recovered as calcium carbonate},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var15}{}%
+{%
+\gls@defglossaryentry{Ch3var15}%
+{%
+name={$x_{Ca^{2+}:PO_{4}^{3-}}$},%
+sort={$x_{Ca^{2+}:PO_{4}^{3-}}$},%
+type={VarCh3},%
+first={$x_{Ca^{2+}:PO_{4}^{3-}}$},%
+firstplural={$x_{Ca^{2+}:PO_{4}^{3-}}$s},%
+text={$x_{Ca^{2+}:PO_{4}^{3-}}$},%
+plural={$x_{Ca^{2+}:PO_{4}^{3-}}$s},%
+description={$Ca^{2+}/PO_{4}^{3-}$ molar ratio},%
+descriptionplural={$Ca^{2+}/PO_{4}^{3-}$ molar ratio},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var16}{}%
+{%
+\gls@defglossaryentry{Ch3var16}%
+{%
+name={$x_{hydroxyapatite \left (Ca^{2+}\right )}$},%
+sort={$x_{hydroxyapatite \left (Ca^{2+}\right )}$},%
+type={VarCh3},%
+first={$x_{hydroxyapatite \left (Ca^{2+}\right )}$},%
+firstplural={$x_{hydroxyapatite \left (Ca^{2+}\right )}$s},%
+text={$x_{hydroxyapatite \left (Ca^{2+}\right )}$},%
+plural={$x_{hydroxyapatite \left (Ca^{2+}\right )}$s},%
+description={fraction of calcium recovered as hydroxyapatite},%
+descriptionplural={fraction of calcium recovered as hydroxyapatite},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var17}{}%
+{%
+\gls@defglossaryentry{Ch3var17}%
+{%
+name={$x_{Mg^{2+}:PO_{4}^{3-}}$},%
+sort={$x_{Mg^{2+}:PO_{4}^{3-}}$},%
+type={VarCh3},%
+first={$x_{Mg^{2+}:PO_{4}^{3-}}$},%
+firstplural={$x_{Mg^{2+}:PO_{4}^{3-}}$s},%
+text={$x_{Mg^{2+}:PO_{4}^{3-}}$},%
+plural={$x_{Mg^{2+}:PO_{4}^{3-}}$s},%
+description={$Mg^{2+}/PO_{4}^{3-}$ molar ratio},%
+descriptionplural={$Mg^{2+}/PO_{4}^{3-}$ molar ratio},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var18}{}%
+{%
+\gls@defglossaryentry{Ch3var18}%
+{%
+name={$x_{struvite \left (PO_{4}^{3-}\right )}$},%
+sort={$x_{struvite \left (PO_{4}^{3-}\right )}$},%
+type={VarCh3},%
+first={$x_{struvite \left (PO_{4}^{3-}\right )}$},%
+firstplural={$x_{struvite \left (PO_{4}^{3-}\right )}$s},%
+text={$x_{struvite \left (PO_{4}^{3-}\right )}$},%
+plural={$x_{struvite \left (PO_{4}^{3-}\right )}$s},%
+description={fraction of phosphorus as phosphate recovered as struvite},%
+descriptionplural={fraction of phosphorus as phosphate recovered as struvite},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var19}{}%
+{%
+\gls@defglossaryentry{Ch3var19}%
+{%
+name={$z_{x}$},%
+sort={$z_{x}$},%
+type={VarCh3},%
+first={$z_{x}$},%
+firstplural={$z_{x}$s},%
+text={$z_{x}$},%
+plural={$z_{x}$s},%
+description={integer charge of ion $x$},%
+descriptionplural={integer charge of ion $x$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var20}{}%
+{%
+\gls@defglossaryentry{Ch3var20}%
+{%
+name={$\gamma $},%
+sort={$\gamma $},%
+type={VarCh3},%
+first={$\gamma $},%
+firstplural={$\gamma $s},%
+text={$\gamma $},%
+plural={$\gamma $s},%
+description={displacement parameter},%
+descriptionplural={displacement parameter},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var21}{}%
+{%
+\gls@defglossaryentry{Ch3var21}%
+{%
+name={$\gamma _{x}$},%
+sort={$\gamma _{x}$},%
+type={VarCh3},%
+first={$\gamma _{x}$},%
+firstplural={$\gamma _{x}$s},%
+text={$\gamma _{x}$},%
+plural={$\gamma _{x}$s},%
+description={activity coefficient for a element $x$},%
+descriptionplural={activity coefficient for a element $x$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var22}{}%
+{%
+\gls@defglossaryentry{Ch3var22}%
+{%
+name={$\mu $},%
+sort={$\mu $},%
+type={VarCh3},%
+first={$\mu $},%
+firstplural={$\mu $s},%
+text={$\mu $},%
+plural={$\mu $s},%
+description={mean of the distribution},%
+descriptionplural={mean of the distribution},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var23}{}%
+{%
+\gls@defglossaryentry{Ch3var23}%
+{%
+name={$\sigma $},%
+sort={$\sigma $},%
+type={VarCh3},%
+first={$\sigma $},%
+firstplural={$\sigma $s},%
+text={$\sigma $},%
+plural={$\sigma $s},%
+description={standard deviation},%
+descriptionplural={standard deviation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var24}{}%
+{%
+\gls@defglossaryentry{Ch3var24}%
+{%
+name={$\sigma ^2$},%
+sort={$\sigma ^2$},%
+type={VarCh3},%
+first={$\sigma ^2$},%
+firstplural={$\sigma ^2$s},%
+text={$\sigma ^2$},%
+plural={$\sigma ^2$s},%
+description={variance},%
+descriptionplural={variance},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3var25}{}%
+{%
+\gls@defglossaryentry{Ch3var25}%
+{%
+name={$\Omega $},%
+sort={$\Omega $},%
+type={VarCh3},%
+first={$\Omega $},%
+firstplural={$\Omega $s},%
+text={$\Omega $},%
+plural={$\Omega $s},%
+description={supersaturation ratio},%
+descriptionplural={supersaturation ratio},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro1}{}%
+{%
+\gls@defglossaryentry{Ch3acro1}%
+{%
+name={AAPFCO},%
+sort={AAPFCO},%
+type={AcroCh3},%
+first={AAPFCO},%
+firstplural={AAPFCOs},%
+text={AAPFCO},%
+plural={AAPFCOs},%
+description={Association of American Plant Food Control Officials},%
+descriptionplural={Association of American Plant Food Control Officials},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro2}{}%
+{%
+\gls@defglossaryentry{Ch3acro2}%
+{%
+name={CAFO},%
+sort={CAFO},%
+type={AcroCh3},%
+first={CAFO},%
+firstplural={CAFOs},%
+text={CAFO},%
+plural={CAFOs},%
+description={Concentrated Animal Feeding Operation},%
+descriptionplural={Concentrated Animal Feeding Operation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro3}{}%
+{%
+\gls@defglossaryentry{Ch3acro3}%
+{%
+name={HAB},%
+sort={HAB},%
+type={AcroCh3},%
+first={HAB},%
+firstplural={HABs},%
+text={HAB},%
+plural={HABs},%
+description={Harmful Algal Bloom},%
+descriptionplural={Harmful Algal Bloom},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro4}{}%
+{%
+\gls@defglossaryentry{Ch3acro4}%
+{%
+name={HUC},%
+sort={HUC},%
+type={AcroCh3},%
+first={HUC},%
+firstplural={HUCs},%
+text={HUC},%
+plural={HUCs},%
+description={Hydrologic Unit Code},%
+descriptionplural={Hydrologic Unit Code},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro5}{}%
+{%
+\gls@defglossaryentry{Ch3acro5}%
+{%
+name={KDE},%
+sort={KDE},%
+type={AcroCh3},%
+first={KDE},%
+firstplural={KDEs},%
+text={KDE},%
+plural={KDEs},%
+description={Kernel Density Estimation},%
+descriptionplural={Kernel Density Estimation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro6}{}%
+{%
+\gls@defglossaryentry{Ch3acro6}%
+{%
+name={USDA},%
+sort={USDA},%
+type={AcroCh3},%
+first={USDA},%
+firstplural={USDAs},%
+text={USDA},%
+plural={USDAs},%
+description={United States Department of Agriculture},%
+descriptionplural={United States Department of Agriculture},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro6}{}%
+{%
+\gls@defglossaryentry{Ch3acro6}%
+{%
+name={USDA},%
+sort={USDA},%
+type={AcroCh3},%
+first={USDA},%
+firstplural={USDAs},%
+text={USDA},%
+plural={USDAs},%
+description={United States Department of Agriculture},%
+descriptionplural={United States Department of Agriculture},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ch3acro6}{}%
+{%
+\gls@defglossaryentry{Ch3acro6}%
+{%
+name={USDA},%
+sort={USDA},%
+type={AcroCh3},%
+first={USDA},%
+firstplural={USDAs},%
+text={USDA},%
+plural={USDAs},%
+description={United States Department of Agriculture},%
+descriptionplural={United States Department of Agriculture},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

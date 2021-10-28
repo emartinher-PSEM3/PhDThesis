@@ -14,9 +14,12 @@
 %    \printbibliography[heading=none]
 %\end{refsection}
 
-This thesis is presented as a compendium of publications, where each of the chapters corresponds to a formal manuscript published in a scientific journal, or currently under review, and book chapters. The relation of
-%the chapter of this dissertation and the 
-manuscripts published or under review, and book chapters that comprise this dissertation is detailed below:
+%This thesis is presented as a compendium of publications, where each of the chapters corresponds to a formal manuscript published in a scientific journal, or currently under review, and book chapters.
+This thesis is based on the following publications:
+%, where each of the chapters corresponds to a formal manuscript published in a scientific journal, or currently under review, and book chapters.
+%The relation of
+%%the chapter of this dissertation and the 
+%manuscripts published or under review, and book chapters that comprise this dissertation is detailed below:
 
 %\section*{Introduction}
 %{\color{red}{This chapter provides a general overview of the negative effects of nutrient pollution, and the role of agricultural systems. This section is not based in any publication.}}
@@ -29,9 +32,10 @@ manuscripts published or under review, and book chapters that comprise this diss
 %\end{refsection}
 
 \begin{refsection}[ownpubs]
-	\nocite{Policies, Tool, martin2020model, martin2020optimal, Martin, martin2021logistics}
+%	\forcsvlist{\listadd\boldnames}{{ Mart{\'i}n Hern{\'a}ndez, E.}, { Mart{\'i}n Hern{\'a}ndez, Edgar}}
+	\nocite{Policies, Tool, martin2020model, martin2020optimal, Martin} %martin2021logistics
 %	mohammadi2021modeling
+	\newrefcontext[sorting=ynt]
 	\printbibliography[heading=none]%[heading=subbibliography, title=Peer-reviewed articles]
 \end{refsection}
-
 %\emph{Attention}: This requires a separate run of \texttt{bibtex} for your \texttt{refsection}, \eg, \texttt{ClassicThesis1-blx} for this file. You might also use \texttt{biber} as the backend for \texttt{biblatex}. See also \url{http://tex.stackexchange.com/questions/128196/problem-with-refsection}.

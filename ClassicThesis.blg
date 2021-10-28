@@ -1,27 +1,45 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'ClassicThesis.blg'
-[22] biber:313> INFO - === Wed Oct 27, 2021, 12:55:42
-[43] Biber.pm:371> INFO - Reading 'ClassicThesis.bcf'
-[99] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[100] Biber.pm:857> INFO - Found 6 citekeys in bib section 1
-[100] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[100] Biber.pm:857> INFO - Found 66 citekeys in bib section 2
-[100] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[123] Biber.pm:3981> INFO - Processing section 1
-[133] Biber.pm:4154> INFO - Looking for bibtex format file 'MyPublications.bib' for section 1
-[134] bibtex.pm:1468> INFO - LaTeX decoding ...
-[152] bibtex.pm:1294> INFO - Found BibTeX data source 'MyPublications.bib'
-[164] Utils.pm:169> WARN - year field 'Under Review' in entry 'Policies' is not an integer - this will probably not sort properly.
-[208] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[208] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[208] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[219] Biber.pm:3981> INFO - Processing section 2
-[220] Biber.pm:4154> INFO - Looking for bibtex format file 'References/referencesCh1.bib' for section 2
-[222] bibtex.pm:1468> INFO - LaTeX decoding ...
-[278] bibtex.pm:1294> INFO - Found BibTeX data source 'References/referencesCh1.bib'
-[648] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[649] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[649] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[715] bbl.pm:617> INFO - Writing 'ClassicThesis.bbl' with encoding 'UTF-8'
-[763] bbl.pm:720> INFO - Output to ClassicThesis.bbl
-[763] Biber.pm:110> INFO - WARNINGS: 1
+[22] biber:313> INFO - === Thu Oct 28, 2021, 17:12:22
+[42] Biber.pm:371> INFO - Reading 'ClassicThesis.bcf'
+[127] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[127] Biber.pm:857> INFO - Found 5 citekeys in bib section 1
+[127] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[128] Biber.pm:857> INFO - Found 66 citekeys in bib section 2
+[128] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[128] Biber.pm:857> INFO - Found 53 citekeys in bib section 3
+[128] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[192] Biber.pm:3981> INFO - Processing section 1
+[206] Biber.pm:4154> INFO - Looking for bibtex format file 'MyPublications.bib' for section 1
+[208] bibtex.pm:1468> INFO - LaTeX decoding ...
+[235] bibtex.pm:1294> INFO - Found BibTeX data source 'MyPublications.bib'
+[291] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[291] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[291] Biber.pm:3809> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[307] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[307] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[307] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[314] Biber.pm:3981> INFO - Processing section 2
+[314] Biber.pm:4154> INFO - Looking for bibtex format file 'References/referencesCh1.bib' for section 2
+[316] bibtex.pm:1468> INFO - LaTeX decoding ...
+[389] bibtex.pm:1294> INFO - Found BibTeX data source 'References/referencesCh1.bib'
+[770] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[771] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[771] Biber.pm:3809> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[884] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[885] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[885] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[947] Biber.pm:3981> INFO - Processing section 3
+[947] Biber.pm:4154> INFO - Looking for bibtex format file 'References/referencesCh3.bib' for section 3
+[951] bibtex.pm:1468> INFO - LaTeX decoding ...
+[1044] bibtex.pm:1294> INFO - Found BibTeX data source 'References/referencesCh3.bib'
+[1261] Utils.pm:169> WARN - month field 'May' in entry 'Python' is not an integer - this will probably not sort properly.
+[1380] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1380] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1380] Biber.pm:3809> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[1478] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1478] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1478] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[1530] bbl.pm:617> INFO - Writing 'ClassicThesis.bbl' with encoding 'UTF-8'
+[1703] bbl.pm:720> INFO - Output to ClassicThesis.bbl
+[1704] Biber.pm:110> INFO - WARNINGS: 1

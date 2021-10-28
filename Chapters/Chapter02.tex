@@ -194,21 +194,21 @@ The cost of each alternative has been estimated according to the number of filte
 	F_{design}^{{filter}}\left( {\frac{\text{ft}^3}{\text{min}}} \right) = \min \left( {F_{max}^{{filter}},F_{total}^{{filter}}} \right) \label{eq:Eq10}
 \end{align}
 
-In fact, since the maximum ﬂow for a cartridge filter is 1,300 ft\textsuperscript{3}/min, for this facility the number of ﬁlters considered in this work will always be one and the design ﬂow is equal to the ﬂow provided by mass balances.
+In fact, since the maximum flow for a cartridge filter is 1,300 ft\textsuperscript{3}/min, for this facility the number of filters considered in this work will always be one and the design flow is equal to the flow provided by mass balances.
 
-The correlation used to calculate the ﬁlter cost, Eq. \ref{eq:Eq11}, is obtained from data reported in \citet{loh2002process}. This correlation provides the price in 1998 dollars, so we use the Chemical Engineering Index to update it.
+The correlation used to calculate the filter cost, Eq. \ref{eq:Eq11}, is obtained from data reported in \citet{loh2002process}. This correlation provides the price in 1998 dollars, so we use the Chemical Engineering Index to update it.
 
 \begin{align}
 	FC_{filtration}\left( \text{USD}  \right) = 4.7436\cdot F_{design}^{{filter}} + 807.6923 \label{eq:Eq11}
 \end{align}
 
-The operating cost is estimated using a simple correlation, Eq. \ref{eq:Eq14}, where we assume that the utilities contribute 20\% of the total \citep{vian1975pronostico}. The other economical contributions considered are chemicals, estimated as in Eq. \ref{eq:Eq12}, labour, as per Eq. \ref{eq:Eq13}, and the contribution of the investment cost of the units given by Eqs. \ref{eq:Eq10} and \ref{eq:Eq11}. The ﬁlter media are considered as chemicals that will be replaces annually.
+The operating cost is estimated using a simple correlation, Eq. \ref{eq:Eq14}, where we assume that the utilities contribute 20\% of the total \citep{vian1975pronostico}. The other economical contributions considered are chemicals, estimated as in Eq. \ref{eq:Eq12}, labour, as per Eq. \ref{eq:Eq13}, and the contribution of the investment cost of the units given by Eqs. \ref{eq:Eq10} and \ref{eq:Eq11}. The filter media are considered as chemicals that will be replaces annually.
 
 \begin{align}
 	{ChemC}_{filtration}\left(\frac{\text{EUR}}{\text{year}}\right) = 	\frac{F_{P}^{in} \cdot 3600 \cdot h \cdot d}{\frac{kg_P}{kg_{{filter \ media}}}} \cdot {Price}_{{filter \ media}} \label{eq:Eq12}
 \end{align}
 
-In Eq. \ref{eq:Eq12}, $kg_{{filter \ media}}$ are calculated as the P content in the inlet stream divided by the ﬁlter media P adsorption capacity.
+In Eq. \ref{eq:Eq12}, $kg_{{filter \ media}}$ are calculated as the P content in the inlet stream divided by the filter media P adsorption capacity.
 
 \begin{align}
 	& {{Labour \ cost}}\left( \frac{\text{EUR}}{\text{year}} \right) = \label{eq:Eq13} \\
@@ -222,7 +222,7 @@ The number of operations considered, $n_{OP}$ , is equal to 1.
 	&\frac{{{{ChemC}} + 1.5\cdot{{Labour \ cost}} + 0.3 \cdot Fixed \ Cost\cdot{f_i}\cdot{f_j}}}{{(1 - Utilities)}} \nonumber 
 \end{align}
 
-Finally the credit obtained from the cake is computed as the weighted sum of each nutrient value, Eq. \ref{eq:Eq15}, \citep{hernandez2017bio}, and the beneﬁts (or losses) are computed as the difference between the credit obtained from the cake and the operating costs of the facility, Eq. \ref{eq:Eq16}.
+Finally the credit obtained from the cake is computed as the weighted sum of each nutrient value, Eq. \ref{eq:Eq15}, \citep{hernandez2017bio}, and the benefits (or losses) are computed as the difference between the credit obtained from the cake and the operating costs of the facility, Eq. \ref{eq:Eq16}.
 
 \begin{align}
 	& Cost_{cake} \left( \frac{\text{EUR}}{\text{year}} \right) = \label{eq:Eq15} \\ 
@@ -244,7 +244,7 @@ Finally the credit obtained from the cake is computed as the weighted sum of eac
 
 Coagulation is a chemical treatment to process the digestate. The goal of this process is to destabilize colloidal suspensions by reducing the attractive forces, followed by a flocculation process to form flocs from the previously destabilized colloids and to subsequently precipitate them. The nutrients are then recovered with other sedimented solids by clarification. Both N and P can be removed from the influent through coagulation–flocculation, where phosphorus is removed primarily in the form of metal hydroxides, which is the dominant process at typical plant pH values \citep{szabo2008significance}. Nitrogen elimination is related to the removal of the colloidal matter \citep{aguilar2002nutrient}. Different coagulation agents are considered aiming at selecting the optimal one: FeCl\textsubscript{3}, Fe\textsubscript{2}(SO\textsubscript{4})\textsubscript{3}, Al\textsubscript{2}(SO\textsubscript{4})\textsubscript{3}, and AlCl\textsubscript{3}. The flowsheet for the process of coagulation is presented in Fig. \ref{fig:CoagScheme}.
 
-The removal efficiency achieved is similar for the different coagulant agents, with values up to 99\% for phosphorus and 57\% for nitrogen \citep{aguilar2002nutrient}. The main variables which inﬂuence the coagulation–ﬂocculation process are the initial ratio of metal to phosphorus, pH, and chemical oxygen demand (COD). The initial metal-phosphorus molar ratio must be between 1.5 and 2.0, and the recommended pH range is from 5.5 to 7. COD has a negative impact on the removal efficiency when its value is increased \citep{szabo2008significance}.
+The removal efficiency achieved is similar for the different coagulant agents, with values up to 99\% for phosphorus and 57\% for nitrogen \citep{aguilar2002nutrient}. The main variables which influence the coagulation–flocculation process are the initial ratio of metal to phosphorus, pH, and chemical oxygen demand (COD). The initial metal-phosphorus molar ratio must be between 1.5 and 2.0, and the recommended pH range is from 5.5 to 7. COD has a negative impact on the removal efficiency when its value is increased \citep{szabo2008significance}.
 
 To determine the amount of coagulant agent to be added to the system, it has been considered that a metal/phosphorus molar ratio of 1.75 must be achieved \citep{szabo2008significance}. Given the relationship between the P in the raw material stream, the metal added, and the metal concentration in the commercial presentation of the coagulant agent, we are able to compute the coagulant agent amount that should be added. In the coagulation and flocculation tanks the flocs are formed and nutrients are recovered in the sediment together with coagulation agents and organic solids contained in the raw material. In the decanter, it has been considered that the stream with solids has a water content of 50\% $\left(C^{sedimentator}_{Wa}\right)$ \citep{williams2011digestates} and the water content of the centrifuge outlet solids stream is 60\% $\left(C^{centrifuge}_{Wa}\right)$ \citep{wakeman2007separation}.
 
@@ -305,7 +305,7 @@ where $MeP$ is the metal/phosphorus ratio and M is a large value to formulate th
 	{F}_{Wa}^{sink2} = F_{Wa}^{centrifuge} - F_{Wa}^{cake} \label{eq:Eq28}
 \end{align}
 
-The estimation of the size and cost of both the coagulation and ﬂocculation tanks has been carried out using a correlation developed by \citet{almena2016technoeconomic} as a function of the weight of the vessels. To simplify the mass balances it is considered that the volume provided by the coagulant agents is negligible with respect to the processed stream of the digestate. The vessel size is computed from the residence time. The hydraulic retention time considered in the coagulation tank is 4 min \citep{zhou2008enhanced}. The vessel size is computed from the residence time, Eq. \ref{eq:Eq29}. Using these data, the diameter and length are computed using rules of thumb, Eqs. \ref{eq:Eq30} and \ref{eq:Eq31}. Finally, a correlation for the thickness as a function of the diameters allows determining the mass of metal required for the vessel and its weight, Eqs. \ref{eq:Eq32} and \ref{eq:Eq33}. Vessel cost estimation is provided by Eq. \ref{eq:Eq34}.
+The estimation of the size and cost of both the coagulation and flocculation tanks has been carried out using a correlation developed by \citet{almena2016technoeconomic} as a function of the weight of the vessels. To simplify the mass balances it is considered that the volume provided by the coagulant agents is negligible with respect to the processed stream of the digestate. The vessel size is computed from the residence time. The hydraulic retention time considered in the coagulation tank is 4 min \citep{zhou2008enhanced}. The vessel size is computed from the residence time, Eq. \ref{eq:Eq29}. Using these data, the diameter and length are computed using rules of thumb, Eqs. \ref{eq:Eq30} and \ref{eq:Eq31}. Finally, a correlation for the thickness as a function of the diameters allows determining the mass of metal required for the vessel and its weight, Eqs. \ref{eq:Eq32} and \ref{eq:Eq33}. Vessel cost estimation is provided by Eq. \ref{eq:Eq34}.
 
 \begin{align}
 	{V}_{Coag tank}\left( \text{m}^{3} \right) = HR{T_{Coag \ tank}} \cdot \frac{F_{digestate}^{in}}{\rho_{digestate}} \label{eq:Eq29}
@@ -363,13 +363,13 @@ The decanter is assumed to be circular because of its lower operating and mainte
 	D_{clarifier} \left( \text{m} \right) = \left( \frac{4 \cdot A_{clarifier}}{\pi} \right)^{1/2} \label{eq:Eq39}
 \end{align}
 
-The number of clariﬁers is an integer value that is computed as the minimum integer from the ratio between the clariﬁer diameter calculated before and the maximum clariﬁer diameter, $D_{max}^{clarifier}$, Eq. \ref{eq:Eq40}. The maximum clariﬁer diameter value considered is 40 m \citep{green2008perry}.
+The number of clarifiers is an integer value that is computed as the minimum integer from the ratio between the clarifier diameter calculated before and the maximum clarifier diameter, $D_{max}^{clarifier}$, Eq. \ref{eq:Eq40}. The maximum clarifier diameter value considered is 40 m \citep{green2008perry}.
 
 \begin{align}
 	{n}_{clarifiers} \ge \frac{D^{clarifier}}{D_{max}^{clarifier}} \label{eq:Eq40}
 \end{align}
 
-The diameter used in the ﬁnal design will be the smallest between $D^{clarifier}$ and $D_{max}^{clarifier}$, Eq. \ref{eq:Eq41}.
+The diameter used in the final design will be the smallest between $D^{clarifier}$ and $D_{max}^{clarifier}$, Eq. \ref{eq:Eq41}.
 
 \begin{align}
 	D_{design}^{clarifier} \left( \text{m} \right) = \text{min}(D_{max}^{clarifier},D^{clarifier}) \label{eq:Eq41}
@@ -393,7 +393,7 @@ Centrifuge sizing and costing is based on the data by \citet{green2008perry}. We
 	D_{Centrifuge}\left( \text{in} \right) = 0.3308 \cdot \frac{F_{digestate}^{in}}{1000}\cdot 3600 + 9.5092 \label{eq:Eq44}
 \end{align}
 
-The number of centrifuges is calculated taking into account the maximum centrifuge diameter, Eq. \ref{eq:Eq45}, and the diameter used in the ﬁnal design will be the minimum value between D Centrifuge and D Centrifuge max , Eq. \ref{eq:Eq46}.
+The number of centrifuges is calculated taking into account the maximum centrifuge diameter, Eq. \ref{eq:Eq45}, and the diameter used in the final design will be the minimum value between D Centrifuge and D Centrifuge max , Eq. \ref{eq:Eq46}.
 
 \begin{align}
 	{n}_{centrifuges} \ge \frac{D^{centrifuge}}{D_{max}^{centrifuge}} \label{eq:Eq45}
