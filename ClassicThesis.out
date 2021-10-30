@@ -29,19 +29,152 @@
 \BOOKMARK [1][-]{section.2.2}{2.2 Main objective}{chapter.2}% 29
 \BOOKMARK [1][-]{section.2.3}{2.3 Specific objectives}{chapter.2}% 30
 \BOOKMARK [-1][]{part.1}{ Phosphorus management and recovery}{}% 31
-\BOOKMARK [0][]{chapter.3}{3 Assessment of phosphorus recovery through the deployment of struvite precipitation systems}{part.1}% 32
+\BOOKMARK [0][]{chapter.3}{3 Technologies for phosphorus recovery}{part.1}% 32
 \BOOKMARK [1][-]{section.3.1}{3.1 Introduction}{chapter.3}% 33
-\BOOKMARK [1][-]{section.3.2}{3.2 Methods}{chapter.3}% 34
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Spatial resolution}{section.3.2}% 35
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Assessment of anthropogenic phosphorus from agricultural activities}{section.3.2}% 36
-\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Thermodynamic model for precipitates formation}{section.3.2}% 37
-\BOOKMARK [1][-]{section.3.3}{3.3 Results and discussion}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Surrogate models to estimate the formation of precipitates from livestock organic waste}{section.3.3}% 39
-\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Phosphorus releases from cattle leachate potentially avoided via struvite formation}{section.3.3}% 40
-\BOOKMARK [1][-]{section.3.4}{3.4 Conclusions}{chapter.3}% 41
-\BOOKMARK [1][-]{section.3.4}{Nomenclature}{chapter.3}% 42
-\BOOKMARK [1][-]{table.3.7}{Acknowledgments}{chapter.3}% 43
-\BOOKMARK [1][-]{table.3.7}{Bibliography}{chapter.3}% 44
-\BOOKMARK [-1][]{part.2}{ Nitrogen management and recovery}{}% 45
-\BOOKMARK [-1][]{part.3}{ Integration of anaerobic digestion and nutrient management systems}{}% 46
-\BOOKMARK [-1][]{part.4}{ Appendix}{}% 47
+\BOOKMARK [1][-]{section.3.2}{3.2 Process description}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.3}{3.3 Modelling issues}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Biogas production}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Biogas purification}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Electricity generation}{section.3.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Digestate conditioning}{section.3.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.5}{3.3.5 Solution procedure}{section.3.3}% 40
+\BOOKMARK [1][-]{section.3.4}{3.4 Results}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Mass and energy balances}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Economic evaluation}{section.3.4}% 43
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 Effect on the power, operating conditions and digestate treatment}{section.3.4}% 44
+\BOOKMARK [1][-]{section.3.5}{3.5 Conclusions}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.5}{Nomenclature}{chapter.3}% 46
+\BOOKMARK [1][-]{table.3.10}{Acknowledgments}{chapter.3}% 47
+\BOOKMARK [1][-]{table.3.10}{Bibliography}{chapter.3}% 48
+\BOOKMARK [0][]{chapter.4}{4 Geospatial assessment of phosphorus recovery through the deployment of struvite precipitation systems}{part.1}% 49
+\BOOKMARK [1][-]{section.4.1}{4.1 Introduction}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.2}{4.2 Methods}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Spatial resolution}{section.4.2}% 52
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Assessment of anthropogenic phosphorus from agricultural activities}{section.4.2}% 53
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Thermodynamic model for precipitates formation}{section.4.2}% 54
+\BOOKMARK [1][-]{section.4.3}{4.3 Results and discussion}{chapter.4}% 55
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Surrogate models to estimate the formation of precipitates from livestock organic waste}{section.4.3}% 56
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 Phosphorus releases from cattle leachate potentially avoided via struvite formation}{section.4.3}% 57
+\BOOKMARK [1][-]{section.4.4}{4.4 Conclusions}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.4}{Nomenclature}{chapter.4}% 59
+\BOOKMARK [1][-]{table.4.7}{Acknowledgments}{chapter.4}% 60
+\BOOKMARK [1][-]{table.4.7}{Bibliography}{chapter.4}% 61
+\BOOKMARK [0][]{chapter.5}{5 Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}{part.1}% 62
+\BOOKMARK [1][-]{section.5.1}{5.1 Introduction}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.2}{5.2 Methods}{chapter.5}% 64
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Environmental geographic information model}{section.5.2}% 65
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Techno-economic model}{section.5.2}% 66
+\BOOKMARK [2][-]{subsection.5.2.3}{5.2.3 Multi-criteria decision model}{section.5.2}% 67
+\BOOKMARK [2][-]{subsection.5.2.4}{5.2.4 Framework limitations}{section.5.2}% 68
+\BOOKMARK [2][-]{subsection.5.2.5}{5.2.5 Case study}{section.5.2}% 69
+\BOOKMARK [1][-]{section.5.3}{5.3 Results}{chapter.5}% 70
+\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1 Implementation of phosphorus recovery systems in the Great Lakes area}{section.5.3}% 71
+\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 Economic results}{section.5.3}% 72
+\BOOKMARK [1][-]{section.5.4}{5.4 Discussion}{chapter.5}% 73
+\BOOKMARK [2][-]{subsection.5.4.1}{5.4.1 Economic implications}{section.5.4}% 74
+\BOOKMARK [2][-]{subsection.5.4.2}{5.4.2 Phosphorus use efficiency}{section.5.4}% 75
+\BOOKMARK [1][-]{section.5.5}{5.5 Conclusion}{chapter.5}% 76
+\BOOKMARK [1][-]{section.5.5}{Acknowledgments}{chapter.5}% 77
+\BOOKMARK [1][-]{section.5.5}{Bibliography}{chapter.5}% 78
+\BOOKMARK [0][]{chapter.6}{6 Analysis of incentive policies for phosphorus recovery}{part.1}% 79
+\BOOKMARK [1][-]{section.6.1}{6.1 Introduction}{chapter.6}% 80
+\BOOKMARK [1][-]{section.6.2}{6.2 Incentive policy assessment framework}{chapter.6}% 81
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Assessment of nutrient management systems}{section.6.2}% 82
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Environmental vulnerability to nutrient pollution}{section.6.2}% 83
+\BOOKMARK [2][-]{subsection.6.2.3}{6.2.3 Multi-criteria decision analysis model for the assessment of nutrient management systems}{section.6.2}% 84
+\BOOKMARK [2][-]{subsection.6.2.4}{6.2.4 Types of incentives considered}{section.6.2}% 85
+\BOOKMARK [2][-]{subsection.6.2.5}{6.2.5 Scenarios description}{section.6.2}% 86
+\BOOKMARK [2][-]{subsection.6.2.6}{6.2.6 Study Region - The Great Lakes area}{section.6.2}% 87
+\BOOKMARK [1][-]{section.6.3}{6.3 Results and discussion}{chapter.6}% 88
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Single incentives}{section.6.3}% 89
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Combined effect of incentives for phosphorus and renewable electricity recovery}{section.6.3}% 90
+\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 Environmental cost-benefit analysis}{section.6.3}% 91
+\BOOKMARK [2][-]{subsection.6.3.4}{6.3.4 Fair distribution of incentives}{section.6.3}% 92
+\BOOKMARK [1][-]{section.6.4}{6.4 Conclusions}{chapter.6}% 93
+\BOOKMARK [1][-]{section.6.4}{Acknowledgments}{chapter.6}% 94
+\BOOKMARK [1][-]{section.6.4}{Bibliography}{chapter.6}% 95
+\BOOKMARK [-1][]{part.2}{ Nitrogen management and recovery}{}% 96
+\BOOKMARK [0][]{chapter.7}{7 Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations }{part.2}% 97
+\BOOKMARK [1][-]{section.7.1}{7.1 Introduction}{chapter.7}% 98
+\BOOKMARK [1][-]{section.7.2}{7.2 Methods}{chapter.7}% 99
+\BOOKMARK [2][-]{subsection.7.2.1}{7.2.1 Livestock waste}{section.7.2}% 100
+\BOOKMARK [2][-]{subsection.7.2.2}{7.2.2 Nitrogen management systems assessment framework}{section.7.2}% 101
+\BOOKMARK [2][-]{subsection.7.2.3}{7.2.3 Economic assessment}{section.7.2}% 102
+\BOOKMARK [1][-]{section.7.3}{7.3 Results and discussion}{chapter.7}% 103
+\BOOKMARK [2][-]{subsection.7.3.1}{7.3.1 Nitrogen flows and recovery efficiency}{section.7.3}% 104
+\BOOKMARK [2][-]{subsection.7.3.2}{7.3.2 Economic assessment and scale-up}{section.7.3}% 105
+\BOOKMARK [1][-]{section.7.4}{7.4 Conclusions}{chapter.7}% 106
+\BOOKMARK [1][-]{section.7.4}{Acknowledgments}{chapter.7}% 107
+\BOOKMARK [1][-]{section.7.4}{Bibliography}{chapter.7}% 108
+\BOOKMARK [-1][]{part.3}{ Integration of anaerobic digestion and nutrient management systems}{}% 109
+\BOOKMARK [0][]{chapter.8}{8 Optimal technology selection for the biogas upgrading to biomethane}{part.3}% 110
+\BOOKMARK [1][-]{section.8.1}{8.1 Introduction}{chapter.8}% 111
+\BOOKMARK [1][-]{section.8.2}{8.2 Methodology for process design}{chapter.8}% 112
+\BOOKMARK [1][-]{section.8.3}{8.3 Process design}{chapter.8}% 113
+\BOOKMARK [2][-]{subsection.8.3.1}{8.3.1 Technology screening}{section.8.3}% 114
+\BOOKMARK [2][-]{subsection.8.3.2}{8.3.2 Mathematical modelling}{section.8.3}% 115
+\BOOKMARK [2][-]{subsection.8.3.3}{8.3.3 Selection of optimal configurations}{section.8.3}% 116
+\BOOKMARK [2][-]{subsection.8.3.4}{8.3.4 Superstructure configuration}{section.8.3}% 117
+\BOOKMARK [2][-]{subsection.8.3.5}{8.3.5 Economic evaluation}{section.8.3}% 118
+\BOOKMARK [1][-]{section.8.4}{8.4 Results}{chapter.8}% 119
+\BOOKMARK [2][-]{subsection.8.4.1}{8.4.1 Biogas composition}{section.8.4}% 120
+\BOOKMARK [2][-]{subsection.8.4.2}{8.4.2 Selection of technology}{section.8.4}% 121
+\BOOKMARK [2][-]{subsection.8.4.3}{8.4.3 Estimation of production and investment costs}{section.8.4}% 122
+\BOOKMARK [2][-]{subsection.8.4.4}{8.4.4 Comparison with renewable-based hydrogenation processes}{section.8.4}% 123
+\BOOKMARK [2][-]{subsection.8.4.5}{8.4.5 Plant scale-up study}{section.8.4}% 124
+\BOOKMARK [1][-]{section.8.5}{8.5 Conclusions}{chapter.8}% 125
+\BOOKMARK [1][-]{section.8.5}{Nomenclature}{chapter.8}% 126
+\BOOKMARK [1][-]{table.8.12}{Acknowledgments}{chapter.8}% 127
+\BOOKMARK [1][-]{table.8.12}{Bibliography}{chapter.8}% 128
+\BOOKMARK [0][]{chapter.9}{9 Conclusions and future directions}{part.3}% 129
+\BOOKMARK [1][-]{section.9.1}{9.1 Contributions}{chapter.9}% 130
+\BOOKMARK [1][-]{section.9.2}{9.2 Directions for future work}{chapter.9}% 131
+\BOOKMARK [-1][]{part.4}{ Appendix}{}% 132
+\BOOKMARK [0][]{appendix.Alph1}{A Appendix A: Supplementary Information of Chapter 2}{part.4}% 133
+\BOOKMARK [1][-]{section.Alph1.1}{A.1 Biogas production}{appendix.Alph1}% 134
+\BOOKMARK [1][-]{section.Alph1.2}{A.2 H2S removal}{appendix.Alph1}% 135
+\BOOKMARK [1][-]{section.Alph1.3}{A.3 CO2, NH3 and H2O removal \(PSA\)}{appendix.Alph1}% 136
+\BOOKMARK [1][-]{section.Alph1.4}{A.4 Brayton cycle}{appendix.Alph1}% 137
+\BOOKMARK [1][-]{section.Alph1.5}{A.5 Rankine cycle}{appendix.Alph1}% 138
+\BOOKMARK [1][-]{equation.Alph1.5.34}{Bibliography}{appendix.Alph1}% 139
+\BOOKMARK [0][]{appendix.Alph2}{B Appendix B: Supplementary Information of Chapter 3}{part.4}% 140
+\BOOKMARK [1][-]{section.Alph2.1}{B.1 Cattle organic waste composition}{appendix.Alph2}% 141
+\BOOKMARK [1][-]{section.Alph2.2}{B.2 Distribution functions of elements from cattle waste}{appendix.Alph2}% 142
+\BOOKMARK [1][-]{section.Alph2.3}{B.3 Thermodynamic modeling of the carbonates system}{appendix.Alph2}% 143
+\BOOKMARK [1][-]{section.Alph2.4}{B.4 Surrogate models to estimate precipitates formation from livestock waste}{appendix.Alph2}% 144
+\BOOKMARK [2][-]{subsection.Alph2.4.1}{B.4.1 Influence of magnesium}{section.Alph2.4}% 145
+\BOOKMARK [1][-]{figure.caption.120}{Bibliography}{appendix.Alph2}% 146
+\BOOKMARK [0][]{appendix.Alph3}{C Appendix C: Supplementary Information of Chapter 4}{part.4}% 147
+\BOOKMARK [1][-]{section.Alph3.1}{C.1 Environmental geographic information model}{appendix.Alph3}% 148
+\BOOKMARK [2][-]{subsection.Alph3.1.1}{C.1.1 Trophic State Index}{section.Alph3.1}% 149
+\BOOKMARK [2][-]{subsection.Alph3.1.2}{C.1.2 Balance of anthropogenic phosphorus releases}{section.Alph3.1}% 150
+\BOOKMARK [2][-]{subsection.Alph3.1.3}{C.1.3 Phosphorus in soils}{section.Alph3.1}% 151
+\BOOKMARK [1][-]{section.Alph3.2}{C.2 Framework development}{appendix.Alph3}% 152
+\BOOKMARK [2][-]{subsection.Alph3.2.1}{C.2.1 Data entry}{section.Alph3.2}% 153
+\BOOKMARK [2][-]{subsection.Alph3.2.2}{C.2.2 Techno-economic model}{section.Alph3.2}% 154
+\BOOKMARK [1][-]{section.Alph3.3}{C.3 Multi-criteria decision model}{appendix.Alph3}% 155
+\BOOKMARK [1][-]{section.Alph3.4}{C.4 Description of the Great Lakes area}{appendix.Alph3}% 156
+\BOOKMARK [1][-]{table.caption.146}{Bibliography}{appendix.Alph3}% 157
+\BOOKMARK [0][]{appendix.Alph4}{D Appendix D: Supplementary Information of Chapter 6}{part.4}% 158
+\BOOKMARK [1][-]{section.Alph4.1}{D.1 Modeling details of nutrient recovery processes}{appendix.Alph4}% 159
+\BOOKMARK [2][-]{subsection.Alph4.1.1}{D.1.1 Anaerobic digestion}{section.Alph4.1}% 160
+\BOOKMARK [2][-]{subsection.Alph4.1.2}{D.1.2 Biogas conditioning}{section.Alph4.1}% 161
+\BOOKMARK [2][-]{subsection.Alph4.1.3}{D.1.3 Digestate solid-liquid separation}{section.Alph4.1}% 162
+\BOOKMARK [2][-]{subsection.Alph4.1.4}{D.1.4 Struvite production: Multiform system}{section.Alph4.1}% 163
+\BOOKMARK [2][-]{subsection.Alph4.1.5}{D.1.5 MAPHEX}{section.Alph4.1}% 164
+\BOOKMARK [2][-]{subsection.Alph4.1.6}{D.1.6 Transmembrane chemisorption}{section.Alph4.1}% 165
+\BOOKMARK [2][-]{subsection.Alph4.1.7}{D.1.7 Ammonia evaporation}{section.Alph4.1}% 166
+\BOOKMARK [2][-]{subsection.Alph4.1.8}{D.1.8 Stripping in packed tower}{section.Alph4.1}% 167
+\BOOKMARK [2][-]{subsection.Alph4.1.9}{D.1.9 Acidic scrubbing}{section.Alph4.1}% 168
+\BOOKMARK [1][-]{section.Alph4.2}{D.2 Capital and operating expenses}{appendix.Alph4}% 169
+\BOOKMARK [1][-]{section.Alph4.3}{D.3 Processing cost}{appendix.Alph4}% 170
+\BOOKMARK [1][-]{table.caption.160}{Bibliography}{appendix.Alph4}% 171
+\BOOKMARK [0][]{appendix.Alph5}{E Appendix E: Supplementary Information of Chapter 7}{part.4}% 172
+\BOOKMARK [1][-]{section.Alph5.1}{E.1 Literature review}{appendix.Alph5}% 173
+\BOOKMARK [1][-]{section.Alph5.2}{E.2 Modelling approach}{appendix.Alph5}% 174
+\BOOKMARK [2][-]{subsection.Alph5.2.1}{E.2.1 Amines}{section.Alph5.2}% 175
+\BOOKMARK [2][-]{subsection.Alph5.2.2}{E.2.2 PSA}{section.Alph5.2}% 176
+\BOOKMARK [2][-]{subsection.Alph5.2.3}{E.2.3 Membranes}{section.Alph5.2}% 177
+\BOOKMARK [1][-]{section.Alph5.3}{E.3 Economic evaluation}{appendix.Alph5}% 178
+\BOOKMARK [1][-]{section.Alph5.4}{E.4 Scaling-up study}{appendix.Alph5}% 179
+\BOOKMARK [1][-]{section.Alph5.4}{Bibliography}{appendix.Alph5}% 180

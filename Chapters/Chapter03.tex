@@ -1,6 +1,23 @@
 %*****************************************
-\chapter{Assessment of phosphorus recovery through the deployment of struvite precipitation systems}\label{ch:Struvite}
+\chapter{Geospatial assessment of phosphorus recovery through the deployment of struvite precipitation systems}\label{ch:Struvite}
+\chaptermark{Geospatial assessment of P recovery by struvite precipitation}
 %*****************************************
+\section*{Abstract}
+Nutrient pollution is one of the major worldwide water quality problems, resulting in environmental and public health issues. Agricultural activities are the main source of nutrient release emissions, and the livestock industry has been proven to be directly related to the presence of high concentrations of phosphorus in the soil, which potentially can reach waterbodies by runoff. To mitigate the phosphorus pollution of aquatic systems, the implementation of nutrient recovery processes allows the capture of phosphorus, preventing its release into the environment. Particularly, the use of struvite precipitation produces a phosphorus-based mineral that is easy to transport, enabling redistribution of phosphorus to deficient locations. However, livestock leachate presents some characteristics that hinder struvite precipitation, preventing extrapolation of the results obtained from wastewater studies to cattle waste. Consideration of these elements is essential to determine the optimal operating conditions for struvite formation, and for predicting the amount of struvite recovered. In this work, a detailed thermodynamic model for precipitates formation from cattle waste is used to develop surrogate models to predict the formation of struvite and calcium precipitates from cattle waste. The variability in the organic waste composition, and how it affects the production of struvite, is captured through a probability framework based on the Monte Carlo method embedded in the model. Consistent with the developed surrogate models, the potential of struvite production to reduce the phosphorus releases from the cattle industry to watersheds in the United States has been assessed. Also, the more vulnerable locations to nutrient pollution were determined using the techno-ecological synergy sustainability metric (TES) by evaluating the spatial distribution and balance of phosphorus from agricultural activities. Although only struvite formation from cattle operations is considered, reductions between 22\% and 36\% of the total phosphorus releases from the agricultural sector, including manure releases and fertilizer application, can be achieved.
+
+%\smallskip
+Keywords: Organic waste; Phosphorus; Nutrient pollution; Struvite; Thermodynamics
+
+\newpage
+
+\section*{Resumen}
+La contaminación por nutrientes es uno de los principales problemas de calidad del agua en todo el mundo, lo que provoca problemas medioambientales y de salud pública. Las actividades agrícolas son la principal fuente de emisión de nutrientes, y se ha demostrado que la industria ganadera está directamente relacionada con la presencia de altas concentraciones de fósforo en el suelo, que potencialmente pueden llegar a las masas de agua por escorrentía. Para mitigar la contaminación por fósforo de los sistemas acuáticos, la implementación de procesos de recuperación de nutrientes permite la captura de fósforo, evitando su liberación al medio ambiente. En particular, el uso de la precipitación de estruvita produce un mineral a base de fósforo que es fácil de transportar, lo que permite la redistribución del fósforo a lugares deficientes. Sin embargo, los lixiviados ganaderos presentan algunas características que dificultan la precipitación de estruvita, impidiendo la extrapolación de los resultados obtenidos en los estudios de aguas residuales a los residuos ganaderos. La consideración de estos elementos es esencial para determinar las condiciones óptimas de operación para la formación de estruvita, y para predecir la cantidad de estruvita recuperada. En este trabajo, se utiliza un modelo termodinámico detallado para la formación de precipitados a partir de residuos ganaderos con el fin de desarrollar modelos sustitutos para predecir la formación de estruvita y precipitados de calcio a partir de residuos ganaderos. La variabilidad en la composición de los residuos orgánicos, y cómo afecta a la producción de estruvita, se capta a través de un marco probabilístico basado en el método de Monte Carlo integrado en el modelo. En consonancia con los modelos sustitutos desarrollados, se ha evaluado el potencial de la producción de estruvita para reducir las emisiones de fósforo de la industria ganadera a las cuencas hidrográficas de Estados Unidos. Asimismo, se determinaron los lugares más vulnerables a la contaminación por nutrientes utilizando la métrica de sostenibilidad de la sinergia tecno-ecológica (TES) mediante la evaluación de la distribución espacial y el equilibrio del fósforo procedente de las actividades agrícolas. Aunque sólo se tiene en cuenta la formación de estruvita procedente de las explotaciones ganaderas, se pueden conseguir reducciones de entre el 22\% y el 36\% del total de las emisiones de fósforo procedentes del sector agrícola, incluidas las emisiones de estiércol y la aplicación de fertilizantes.
+
+\medskip
+Palabras clave: Residuos orgánicos; Fósforo; Contaminación por nutrientes; Estruvita; Termodinámica
+
+\newpage
+
 \begin{refsection}[referencesCh3]
 \section{Introduction}
 Livestock farming and other agricultural activities have altered the natural nutrient cycles. Phosphorus, one of the three plant-grow macronutrients, enters to the global cycle as phosphate rock, which through erosion and chemical weathering is transferred to soils and waterbodies. Also, phosphorus deposited in soils will reach fresh and marine waterbodies by runoff. Phosphorus in rivers is transported to stagnant waterbodies (such as lakes) and oceans, reaching the bottom of lakes and oceans as sediments. The cycle is closed when the buried phosphorus is uplifted again by tectonic processes. Along the cycle, phosphorus can be taken by plants and algae, but after the death of living organisms it returns to the cycle \citep{RUTTENBERG2001401}. This global natural cycle is largely altered by human activities through the mining and shipping of phosphate rock, mainly for fertilizer production, resulting in unbalanced phosphorus releases to the environment.
@@ -189,14 +206,14 @@ Figure \ref{fig:alg_flow} shows a flowchart describing the proposed algorithm to
 
 The iterative process runs  until each component saturation index is equal or less than one, and the formation of the precipitates stops.
 
-\begin{figure}[h] 
+\begin{figure}[h!] 
 	\centering
 	\includegraphics[width=\textwidth, trim=6cm 15cm 6cm 6cm, clip]{gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf} 
 	\caption{Flowchart of the proposed algorithm to solve the thermodynamic model for the formation of precipitates in cattle organic waste.} \label{fig:alg_flow}
 \end{figure}
 
 \subsubsection{Integration of waste composition uncertainty and precipitates formation thermodynamic models}
-\begin{figure}[h]
+\begin{figure}[h!]
 	\begin{adjustwidth}{}{} 
 		\centering
 		\includegraphics[width=0.7\textwidth, trim=0 4.5cm 0 5cm, clip]{gfx/Chapter3/procedure} 
@@ -283,7 +300,7 @@ Pseudo-sigmoidal fits are shown in Eq. \ref{eq:sigmoidal_Alk_StrYield} for $x_{s
 \subsubsection{Interactions between calcium and magnesium to phosphate ratios}
 Interactions between calcium and magnesium to phosphate ratios were evaluated to determine a target operational area for optimal struvite production performance. In Fig. \ref{fig:struvite_precipitation} the formation of struvite as function of $\text{Mg}^{2+}/\text{PO}_{4}^{3-}$ and $\text{Ca}^{2+}/\text{PO}_{4}^{3-}$ molar ratios is shown, where the area with the highest phosphate recovery in form of struvite has been shaded. It can be observed that struvite formation depends strongly on the $\text{Ca}^{2+}/\text{PO}_{4}^{3-}$ molar ratio. For $\text{Ca}^{2+}/\text{PO}_{4}^{3-}$ values less than 3 struvite formation reaches the maximum values, even for low $\text{Mg}^{2+}/\text{PO}_{4}^{3-}$ molar ratio values. For high calcium/phosphate ratios, struvite formation decreases abruptly, obtaining low increases in struvite formation  even for large supplies of magnesium.
 
-\begin{figure}[h] 
+\begin{figure}[h!] 
 	\begin{adjustwidth}{}{}
 		\centering
 		\includegraphics[width=0.6\linewidth, trim=0.5cm 0cm 1cm 1cm, clip]{gfx/Chapter3/Contour_plot_mod.pdf} 
@@ -301,7 +318,7 @@ To reach environmental sustainability and reduce the impact over the original ec
 
 For studies requiring higher spatial resolution, more accurate values for the TES metric can be stimated through the use of local inventories for phosphorus releases and uptakes. A dataset with the phosphorus releases and uptakes, the phosphorus balance, and the TES metric computed for each watershed are available in the Supplementary Material. A dataset with the phosphorus releases and uptakes, the phosphorus balance, and the TES metric computed for each watershed are available in the Supplementary Material.
 
-\begin{figure}[h] 
+\begin{figure}[h!] 
 	\begin{adjustwidth}{}{}
 		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter3/TES_mod.png} 

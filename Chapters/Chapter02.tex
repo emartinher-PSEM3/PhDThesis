@@ -2,18 +2,36 @@
 \chapter{Technologies for phosphorus recovery}\label{ch:PhosphorusTechs}
 %*****************************************
 \begin{refsection}[referencesCh2]
+\section*{Abstract}
+A mixed-integer nonlinear programming strategy is proposed to design integrated facilities to simultaneously recover power and nutrients from organic waste. The facilities consider anaerobic digestion of different types of manure (cattle, pig, poultry, and sheep). The products from this step are biogas and a nutrient-rich effluent. The biogas produced is cleaned and used in a gas turbine to produce power while the hot flue gas obtained from combustion produces steam that is fed to a steam turbine to produce additional power. The nutrient-rich effluent is processed to recover the nutrients using different technologies that include filtration, coagulation, centrifugation, and struvite precipitation in stirred and fluidized bed reactors. This processing step provides a mechanism to prevent phosphorus or nitrogen release to the environment and to avoid the development of eutrophication processes. It is found that struvite production in fluidized beds is the technology of choice to recover nutrients from all manure sources. Furthermore, power production depends strongly on manure composition and exhibits high cost variability (from 4,000 €/kW in the case of poultry manure to 25,000 €/kW in the case of cattle and pig manure).
+
+%\textbf{}
+\bigskip
+Keywords: Biogas; Digestate; Anaerobic digestion; Manure; Power production; Mathematical optimization
+
+\newpage
+
+\section*{Resumen}
+Se propone una estrategia de programación mixta entera no lineal para diseñar instalaciones integradas de recuperación simultánea de energía y nutrientes contenidos en residuos orgánicos. Las instalaciones propuestas consideran la digestión anaeróbica de diferentes tipos de deyecciones ganaderas (vacuno, porcino, avícola y ovino). Los productos de este proceso son biogás y un efluente rico en nutrientes. El biogás producido es purificado y es utilizado en una turbina de gas para producir energía eléctrica, mientras que los gases de combustión calientes resultantes de la combustión se emplean en la generación de vapor que se alimenta a una turbina de vapor para producir energía adicional. El efluente rico en nutrientes se procesa para recuperar los nutrientes utilizando diferentes tecnologías que incluyen filtración, coagulación, centrifugación y precipitación de estruvita en reactores de mezcla completa y en reactores de lecho fluidizad. Este tratamiento proporciona un mecanismo para prevenir la liberación de fósforo o nitrógeno al medio ambiente y evitar el desarrollo de procesos de eutrofización. Se ha comprobado que la producción de estruvita en reactores de lecho fluidizado es la tecnología seleccionada para recuperar los nutrientes de todas las fuentes de estiércol. Además, la producción de energía depende en gran medida de la composición del estiércol y presenta una gran variabilidad de costes (desde 4.000 euros/kW en el caso del estiércol de aves de corral hasta 25.000 euros/kW en el caso del estiércol de vacuno y de cerdo).
+
+\bigskip
+Palabras clave: Biogás; Digestato; Digestión anaerobia; Deyecciones ganaderas; Producción de electricidad; Optimización matemproduccióntica
+
+
+\newpage
+
 \section{Introduction}
 Countries across the globe generate large amounts of organic waste that include urban residues and sludge and manure from livestock activities. While many of these waste streams can be used as a source for power and chemical products, identifying suitable cost-effective technologies
 is challenging. Anaerobic digestion (AD) is a promising technology to treat these residues to produce biogas, which can be used as a source for thermal energy and electrical power \citep{Leon} or chemicals \citep{hernandez2016optimal}. However, AD technologies also generate a nutrient-rich residual stream called digestate, that must be further processed to prevent waste and soil contamination. In particular, nutrient management is needed to prevent losses of phosphorous and nitrogen to surface and underground water bodies which leads to eutrophication processes \citep{Sampat2017, GarciaSerrano}. There are a number of technologies that can be used to process the digestate that range from simple mechanical separations such as filters \citep{gustafsson2008phosphate} and centrifugation units \citep{meixner2015effect} to chemical processing such as struvite precipitation \citep{bhuiyan2008phosphorus}. Recent studies have analyzed the production of highly concentrated nutrient products such as struvite \citep{lin2015phosphorus}. The variability in the recovered product quality, selling price, and production cost presents complex trade-offs for the optimal use of the digestate. Existing studies have only addressed the performance of various treatment mechanisms and lack a systematic design perspective that evaluates the performance of coupled biogas and nutrient recovery technologies \citep{drosg2015nutrient}. This is necessary, for instance, to assess economic performance of nutrient recovery in the face of strong variations in the digestate content obtained from AD \citep{AlSeadi2008}.
 
 In this work we propose a systematic design framework to optimize the simultaneous production of energy from the biogas obtained by anaerobic digestion of cattle, sheep, poultry and pig manure, along with the recovery of nitrogen and phosphorous from the digestate. The proposed framework determines the optimal technology configuration, equipment sizing, and operational conditions for various compositions of manure and digestate and revenues for biogas, electricity, and fertilizer. 
 
-The {\color{red}{section}} is organized as follows. In Section \ref{section:ProcessDescription} we present a brief description of the process and the flowsheet. In Section \ref{section:ModellingIssues} we focus on the modelling of the digestate processing technologies and costing. Section \ref{section:Results} presents the results for various feedstocks, and Section \ref{section:Conclusions} draws conclusions.
+The paper is organized as follows. In Section \ref{section:ProcessDescription} we present a brief description of the process and the flowsheet. In Section \ref{section:ModellingIssues} we focus on the modelling of the digestate processing technologies and costing. Section \ref{section:Results} presents the results for various feedstocks, and Section \ref{section:Conclusions} draws conclusions.
 
 \section{Process description} \label{section:ProcessDescription}
 The proposed process consists of four sections: biogas production, biogas purification (biogas generation), electrical power generation, and nutrient recovery from digestate. This is illustrated in Figure \ref{fig:Flowsheet}.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\linewidth, trim={6.5cm 0.1cm 11.5cm 0.3cm},clip]{gfx/Chapter2/superstructure3bloquesCOMPATIBILIDAD-Layout3.pdf} 
 	\caption{Flowsheet for the production of power and fertilizers.}
@@ -112,7 +130,7 @@ Four different alternatives are considered to process the digestate including fi
 Filtration is a low-cost technology that is appropriate for small installations where the amount of P to be removed is moderate. This technology consists of a filter that contains a reactive medium to help remove phosphorus. P removal using reactive filtration takes place through various mechanisms depending on the characteristics of the filter media. For instance, filter media made of compounds rich in cations under basic environments (usually containing calcium silicates at pH values above 9) form orthophosphate precipitates in the form of calcium phosphates, principally as hydroxyapatite \citep{pratt2012biologically}. Metallurgical slag captures P by adsorption over metal at pH close to 7 \citep{pratt2012biologically}. In this work we consider the use of five different types of filter media. Among them, we have studied wollastonite as a filter media rich in alkaline calcium silicates, dolomite Polonite\textsuperscript{\textregistered} as calcium carbonate based components, and Filtra P as calcium hydroxide based product \citep{osterberg2012removal, vohla2011filter}. For the metallurgical slag, we have considered the blast furnace slag described by \citet{cucarella2008effect}. These filters are used in wastewater treatment facilities \citep{gustafsson2008phosphate} and further analysis can be found in \citet{shilton2006phosphorus}. Details on Ca-rich filters can be found in \citet{koiv2010phosphorus}. The removal yield of P and N for the different filter media is shown in Table 3. It is possible to combine this filter medium with nitrogen-philic filters to simultaneously remove nitrogen and phosphorous. An advantage of this technology is that the cake produced can be used as soil fertilizer \citep{hylander2006phosphorus}. The removal yield of nitrogen for Filtra P\textsuperscript{\textregistered} has been considered similar to the limestone nitrogen removal yield, as Filtra P\textsuperscript{\textregistered} is a limestone derived product.
 
 The model for the filtration is based on the removal efficiency per filter media, see Fig. \ref{fig:FilterScheme}. It has been considered that materials such as total solids, carbon and potassium are forming solid compounds, so they will be retained by the filter media, Eqs. \ref{eq:Eq4}–\ref{eq:Eq7}.
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.6\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig2.pdf} 
 	\caption{Scheme of the filter.}
@@ -235,7 +253,7 @@ Finally the credit obtained from the cake is computed as the weighted sum of eac
 \end{align}
 
 \subsubsection{Coagulation}
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig3.pdf} 
 	\caption{Scheme of the coagulation process.}
@@ -437,7 +455,7 @@ Finally, the economic benefits or losses of operating this system are calculated
 \subsubsection{Centrifugation}
 Centrifugation is a pretreatment that separates solid and liquid phases and that can be used to recover nutrients from the digestate. The advantage of this system is the simple equipment used. Precipitant agents can be added to improve the removal efficiency significantly. Previous studies show that an appropriate mixture of CaCO\textsubscript{3} and FeCl\textsubscript{3} promotes nutrients recovery. In particular, a ratio of 0.61 kg CaCO\textsubscript{3} per kilogram of total solids in the raw material inlet stream, and 0.44 kg of FeCl\textsubscript{3} per kilogram of total solids in the raw material inlet stream, achieves a removal efficiency up to 95\% and 47\% for P and N respectively \citep{meixner2015effect}. Fig. \ref{fig:CentrifScheme} presents a scheme of the process.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig4.pdf} 
 	\caption{Scheme for the centrifugation treatment.}
@@ -525,14 +543,14 @@ Since the formation of struvite is favored over the formation of K-Struvite, it 
 
 Two different types of reactors can be used to obtain struvite, either a stirred tank (CSTR) or a fluidized bed reactor (FBR). Figs. \ref{fig:FBRScheme} and \ref{fig:CSTRScheme} provide detailed flowsheets of each case. In case of the FBR, struvite is recovered from the bottoms and the liquid must be processed in a hydrocyclone to avoid discharging fines. In the case of CSTR tanks, we need to use a centrifuge to recover the struvite. We can help the crystal growth by seeding \citep{doyle2002struvite, kumashiro2001pilot}. Due to the substantial increase in the struvite formation yield, we consider the addition of struvite seeds in both cases. The reaction takes place at about 27 \textdegree C, with the addition of MgCl\textsubscript{2} at a concentration of 57.5 mg/dm\textsuperscript{3} \citep{zhang2014phosphate}. A Mg:P molar ratio of 2 \citep{bhuiyan2008phosphorus} is used.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig5.pdf} 
 	\caption{Scheme for the FBR system.}
 	\label{fig:FBRScheme}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig6.pdf} 
 	\caption{Scheme for the CSTR based struvite production system.}
@@ -737,7 +755,7 @@ As before, ${a}_{Centrifugation}$ is approximated as follows, Eq. \ref{eq:Eq92}:
 	{a}_{Centrifugation} = \frac{1}{1 + e^{\left( { - F_{digestate}^{in} + 0.068} \right) \cdot 863}} \label{eq:Eq92}
 \end{align}
 
-Finally, to include the operating costs for the production of struvite, we again develop surrogate models for the FBR, Eq. \ref{eq:Eq93} and for the CSRT Eq. \ref{eq:Eq95}, where a smooth approximation is proposed for the fixed term, aFBR and aCSTR respectively, Eqs. \ref{eq:Eq94} and \ref{eq:Eq96}.
+Finally, to include the operating costs for the production of struvite, we again develop surrogate models for the FBR, Eq. \ref{eq:Eq93} and for the CSRT Eq. \ref{eq:Eq95}, where a smooth approximation is proposed for the fixed term, $a_{FBR}$ and $a_{CSTR}$ respectively, Eqs. \ref{eq:Eq94} and \ref{eq:Eq96}.
 
 \begin{align}
 	{Operating \ Cost}_{FBR} \left( \frac{\text{EUR}}{\text{year}} \right) = 245,008 \cdot F_{digestate}^{in} +  1 \cdot {10^6} \cdot {a}_{FBR} \label{eq:Eq93}
@@ -789,10 +807,10 @@ The main decision variables are related to the selection of the digestate proces
 	\centering
 	\caption{Operating data of the optimal configuration for each raw material.}
 	\label{table:Table4}
-	%		\resizebox{\columnwidth}{!}{
+	\resizebox{0.75\columnwidth}{!}{
 	\begin{tabular}{@{}lllll@{}}
 		\toprule
-		&               & T (◦C)      & P (bar)    & Extractions  \\ \midrule
+		&               & T (\textdegree C)      & P (bar)    & Extractions  \\ \midrule
 		Cattle  & Bioreactor    & 55          & 1          & –            \\
 		& Gas turbine   & 2430 (in)   & 8.2 (in)   & –            \\
 		&               & 1205 (out)  & 1 (out)    &              \\
@@ -826,7 +844,7 @@ The main decision variables are related to the selection of the digestate proces
 		&               & 73.0 (T4 )  & 0.35 (P4 ) &              \\
 		& FBR           & 25          & 1          & –            \\ \bottomrule
 	\end{tabular}
-	%			}
+	}
 \end{table}
 
 \section{Results} \label{section:Results}
@@ -836,7 +854,7 @@ Following the optimization procedure presented in Section 3.4 we first decide on
 \subsection{Mass and energy balances} \label{section:Balanaces}
 Table \ref{table:Table4} shows the main operating conditions of major units for the four different manure types. Cattle, pig, and poultry show similar values among them and to previous work \citep{Leon}. The gas in the gas turbine reaches a temperature of 2400 \textdegree C and a pressure of 8.2 bar before expansion for cattle, pig and poultry manure. However, sheep manure shows different values. While the temperature is similar, the pressure is 15.6 bar, almost twice the value found for the rest of the raw materials. Furthermore the flue gas exits the turbine 300 \textdegree C below that when the rest of the manure types are used. Furthermore while the high pressure of the steam turbine is 125 bar for cattle, pig, and poultry manure, in case of sheep manure the steam turbine operates at 95 bar at the high pressure section of the turbine. This is related to the lower gas temperature from the gas turbine since the overheated steam needs to be produced using that stream. Intermediate and low pressures are the same in the steam turbine using any of the manure types, but the exhaust pressure of the steam is higher in case of sheep manure. Table \ref{table:Table5} shows the products obtained from the various manure types, power, biogas, and digestate. Poultry is the waste that is more efficient towards power production due to its higher concentration. In all cases an FBR reactor for the production of struvite is the selected technology to recover N and P. In the table we also see the effect of the fact that cattle and pig manure are mostly liquids, since most of the product is digestate, almost 98\%, while the use of poultry or sheep manure reduces the production of digestate to 75\% and 88\% respectively, increasing the production of biogas and power. Finally in Table \ref{table:Table6} the biogas composition for each manure considered are presented. The main purpose of the facility is the production of power. However, the biogas composition is typically within a range of values per component that have been imposed as bounds. As a result of maximizing the electricity production for all studied cases, the same biogas composition is obtained, 67.5\% molar in CH\textsubscript{4} and the rest is mostly CO\textsubscript{2}.
 
-\begin{table}[h]
+\begin{table}[h!]
 	\centering
 	\caption{Process optimization results for considered manures.}
 	\label{table:Table5}
@@ -852,7 +870,7 @@ Table \ref{table:Table4} shows the main operating conditions of major units for 
 				}
 \end{table}
 
-\begin{table}[h]
+\begin{table}[h!]
 	\centering
 	\caption{Process optimization results for considered manures.}
 	\label{table:Table6}
@@ -900,7 +918,7 @@ The Net Profit Value has also been calculated as a measure of the project profit
 
 
 
-\begin{table}[h]
+\begin{table}[h!]
 	\centering
 	\caption{Electricity production cost and NPV for the facility considering different raw materials.}
 	\label{table:Table7}
@@ -916,7 +934,7 @@ The Net Profit Value has also been calculated as a measure of the project profit
 	}
 \end{table}
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.9\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig8.pdf} 
 	\caption{Operation cost distribution for cattle, pig, poultry and sheep manure treatment.}

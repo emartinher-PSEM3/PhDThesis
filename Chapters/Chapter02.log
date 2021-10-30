@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  22 SEP 2021 21:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.27)  30 OCT 2021 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Chapter02.tex
 (./Chapter02.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 ! Undefined control sequence.
 l.2 \chapter
             {Technologies for phosphorus recovery}\label{ch:PhosphorusTechs}
@@ -5237,7 +5237,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 29--45
  []
 
 
-Overfull \hbox (66.27179pt too wide) in paragraph at lines 29--45
+Overfull \hbox (66.27156pt too wide) in paragraph at lines 29--45
 []
  []
 
@@ -5776,7 +5776,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 46--69
  []
 
 
-Overfull \hbox (31.40309pt too wide) in paragraph at lines 46--69
+Overfull \hbox (31.40291pt too wide) in paragraph at lines 46--69
 []
  []
 
@@ -5966,6 +5966,9 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no q in font nullfont!
@@ -6246,11 +6249,6 @@ Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 71--73
 []
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 71--73
-\OT1/cmr/m/n/10 {
  []
 
 
@@ -7138,6 +7136,9 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ô in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -7373,11 +7374,6 @@ Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 76--77
 []
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 76--77
-\OT1/cmr/m/n/10 '
  []
 
 ! Undefined control sequence.
@@ -8066,6 +8062,15 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+! Undefined control sequence.
+l.80 ...ed. The reactor operates at 55 \textdegree
+                                                   C. We refer the reader to...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no W in font nullfont!
@@ -8172,11 +8177,6 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 79--81
 
 Overfull \hbox (10.86105pt too wide) in paragraph at lines 79--81
 []
- []
-
-
-Overfull \hbox (3.33252pt too wide) in paragraph at lines 79--81
-\TS1/cmr/m/n/10 ∞
  []
 
 ! Undefined control sequence.
@@ -8476,8 +8476,20 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.85 ...t{3}, that operates at 25‚Äì50 \textdegree
+                                                   C producing Fe\textsubscr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -8569,16 +8581,6 @@ Overfull \hbox (4.48613pt too wide) in paragraph at lines 85--87
 
 Overfull \hbox (8.97226pt too wide) in paragraph at lines 85--87
 []$$[]$
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 85--87
-\OT1/cmr/m/n/10 {
- []
-
-
-Overfull \hbox (3.33252pt too wide) in paragraph at lines 85--87
-\TS1/cmr/m/n/10 ∞
  []
 
 
@@ -8705,6 +8707,15 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+! Undefined control sequence.
+l.88 ...ystems are low temperature (25 \textdegree
+                                                   C) and moderate pressure ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -8887,11 +8898,6 @@ Missing character: There is no . in font nullfont!
 
 Overfull \hbox (24.48613pt too wide) in paragraph at lines 88--89
 []$[]$
- []
-
-
-Overfull \hbox (3.33252pt too wide) in paragraph at lines 88--89
-\TS1/cmr/m/n/10 ∞
  []
 
 
@@ -10351,6 +10357,13 @@ Missing character: There is no M in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no D in font nullfont!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 103.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
 Missing character: There is no , in font nullfont!
 Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -10373,6 +10386,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no % in font nullfont!
+
 ! Undefined control sequence.
 l.103 ...tered}, with an efficiency of 85\% \citep
                                                   {Moran2003}. Finally, the ...
@@ -10491,7 +10505,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 103--104
  []
 
 
-Overfull \hbox (9.2201pt too wide) in paragraph at lines 103--104
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 103--104
 []$
  []
 
@@ -11649,6 +11663,15 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+! Undefined control sequence.
+l.109 ...K) are assumed as follows: 0.45 \texteuro
+                                                  /kg for N, 0.24 \texteuro/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no / in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no g in font nullfont!
@@ -11661,6 +11684,15 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
+! Undefined control sequence.
+l.109 ...: 0.45 \texteuro/kg for N, 0.24 \texteuro
+                                                  /kg for K and 0.32 \texteu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no / in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no g in font nullfont!
@@ -11675,6 +11707,15 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 2 in font nullfont!
+! Undefined control sequence.
+l.109 ....24 \texteuro/kg for K and 0.32 \texteuro
+                                                  /kg for P \citep{hernandez...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no / in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no g in font nullfont!
@@ -11711,21 +11752,6 @@ Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 108--110
 []
- []
-
-
-Overfull \hbox (7.77588pt too wide) in paragraph at lines 108--110
-\TS1/cmr/m/n/10 ø
- []
-
-
-Overfull \hbox (7.77588pt too wide) in paragraph at lines 108--110
-\TS1/cmr/m/n/10 ø
- []
-
-
-Overfull \hbox (7.77588pt too wide) in paragraph at lines 108--110
-\TS1/cmr/m/n/10 ø
  []
 
 ! Undefined control sequence.
@@ -13384,17 +13410,17 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 111--113
  []
 
 
-Overfull \hbox (9.2201pt too wide) in paragraph at lines 111--113
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 111--113
 []$
  []
 
 
-Overfull \hbox (9.2201pt too wide) in paragraph at lines 111--113
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 111--113
 []$
  []
 
 
-Overfull \hbox (9.2201pt too wide) in paragraph at lines 111--113
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 111--113
 []$
  []
 
@@ -13650,6 +13676,9 @@ and I'll forget about whatever was undefined.
 
 LaTeX Warning: Reference `eq:Eq4' on page  undefined on input line 114.
 
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 ! Undefined control sequence.
 <write> ...g: Reference `eq:Eq7' on page \thepage 
                                                   \space undefined\on@line .
@@ -13810,8 +13839,8 @@ Overfull \hbox (10.86105pt too wide) in paragraph at lines 114--121
  []
 
 
-Overfull \hbox (26.72212pt too wide) in paragraph at lines 114--121
-[]\OT1/cmr/m/n/10 {[]
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 114--121
+[][]
  []
 
 
@@ -14197,7 +14226,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 130--148
  []
 
 
-Overfull \hbox (9.83342pt too wide) in paragraph at lines 130--148
+Overfull \hbox (9.83337pt too wide) in paragraph at lines 130--148
  [] 
  []
 
@@ -15666,6 +15695,9 @@ and I'll forget about whatever was undefined.
 
 LaTeX Warning: Reference `eq:Eq8' on page  undefined on input line 183.
 
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 ! Undefined control sequence.
 <write> ...: Reference `eq:Eq10' on page \thepage 
                                                   \space undefined\on@line .
@@ -15697,8 +15729,8 @@ Overfull \hbox (4.48613pt too wide) in paragraph at lines 183--184
  []
 
 
-Overfull \hbox (26.72212pt too wide) in paragraph at lines 183--184
-[]\OT1/cmr/m/n/10 {[] 
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 183--184
+[][] 
  []
 
 
@@ -15960,7 +15992,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.197 I
-       n fact, since the maximum Ô¨Çow for a cartridge filter is 1,300 ft\te...
+       n fact, since the maximum flow for a cartridge filter is 1,300 ft\tex...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -16165,7 +16197,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.199 T
-       he correlation used to calculate the Ô¨Ålter cost, Eq. \ref{eq:Eq11},...
+       he correlation used to calculate the filter cost, Eq. \ref{eq:Eq11}, ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -16219,7 +16251,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <write> ...: Reference `eq:Eq11' on page \thepage 
                                                   \space undefined\on@line .
-l.199 ...ulate the Ô¨Ålter cost, Eq. \ref{eq:Eq11}
+l.199 ...culate the filter cost, Eq. \ref{eq:Eq11}
                                                   , is obtained from data re...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16811,7 +16843,7 @@ Missing character: There is no . in font nullfont!
 <write> ...: Reference `eq:Eq10' on page \thepage 
                                                   \space undefined\on@line .
 l.205 ... of the units given by Eqs. \ref{eq:Eq10}
-                                                   and \ref{eq:Eq11}. The Ô¨...
+                                                   and \ref{eq:Eq11}. The fi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -16828,7 +16860,7 @@ Missing character: There is no d in font nullfont!
 <write> ...: Reference `eq:Eq11' on page \thepage 
                                                   \space undefined\on@line .
 l.205 ...n by Eqs. \ref{eq:Eq10} and \ref{eq:Eq11}
-                                                  . The Ô¨Ålter media are co...
+                                                  . The filter media are con...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -17516,336 +17548,6 @@ Overfull \hbox (166.29613pt too wide) in paragraph at lines 221--224
  []
 
 
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
-! Undefined control sequence.
-<write> \newlabel{ch:PhosphorusTechs}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{ch:PhosphorusTechs}{{}{}}
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-! Undefined control sequence.
-<write> ...ection:ProcessDescription}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:ProcessDescription}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:Flowsheet}{{}{\thepage 
-                                             }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:Flowsheet}{{}{}}
-! Undefined control sequence.
-<write> ...l{table:techs_description}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{table:techs_description}{{}{}}
-! Undefined control sequence.
-<write> ...label{table:SetComponents}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{table:SetComponents}{{}{}}
-! Undefined control sequence.
-<write> ...l{section:ModellingIssues}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:ModellingIssues}{{}{}}
-! Undefined control sequence.
-<write> ...{section:BiogasProduction}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:BiogasProduction}{{}{}}
-! Undefined control sequence.
-<write> ...ection:BiogasPurification}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:BiogasPurification}{{}{}}
-! Undefined control sequence.
-<write> ...ion:ElectricityGeneration}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:ElectricityGeneration}{{}{}}
-! Undefined control sequence.
-<write> ...abel{section:BraytonCycle}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:BraytonCycle}{{}{}}
-! Undefined control sequence.
-<write> ...abel{section:RankineCycle}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:RankineCycle}{{}{}}
-! Undefined control sequence.
-<write> ...ion:DigestateConditioning}{{}{\thepage 
-                                                  }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{section:DigestateConditioning}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:FilterScheme}{{}{\thepage 
-                                                }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:FilterScheme}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq2}{{1}{\thepage 
-                                       }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq2}{{1}{}}
-! Undefined control sequence.
-<write> \newlabel{table:Table3}{{}{\thepage 
-                                            }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{table:Table3}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq3}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq3}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq4}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq4}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq5}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq5}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq6}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq6}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq7}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq7}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq8}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq8}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq9}{{}{\thepage 
-                                      }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq9}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq10}{{}{\thepage 
-                                       }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq10}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq11}{{}{\thepage 
-                                       }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq11}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq12}{{}{\thepage 
-                                       }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq12}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq:Eq13}{{}{\thepage 
-                                       }}
-l.225 F
-       inally the credit obtained from the cake is computed as the weighted ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:Eq13}{{}{}}
-]
-
 ! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -18288,6 +17990,359 @@ Overfull \hbox (5.20486pt too wide) in paragraph at lines 228--232
 \OML/cmm/m/it/10 d$ 
  []
 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+! Undefined control sequence.
+<write> \newlabel{ch:PhosphorusTechs}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{ch:PhosphorusTechs}{{}{}}
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+! Undefined control sequence.
+<write> ...ection:ProcessDescription}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:ProcessDescription}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Flowsheet}{{}{\thepage 
+                                             }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Flowsheet}{{}{}}
+! Undefined control sequence.
+<write> ...l{table:techs_description}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{table:techs_description}{{}{}}
+! Undefined control sequence.
+<write> ...label{table:SetComponents}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{table:SetComponents}{{}{}}
+! Undefined control sequence.
+<write> ...l{section:ModellingIssues}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:ModellingIssues}{{}{}}
+! Undefined control sequence.
+<write> ...{section:BiogasProduction}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:BiogasProduction}{{}{}}
+! Undefined control sequence.
+<write> ...ection:BiogasPurification}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:BiogasPurification}{{}{}}
+! Undefined control sequence.
+<write> ...ion:ElectricityGeneration}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:ElectricityGeneration}{{}{}}
+! Undefined control sequence.
+<write> ...abel{section:BraytonCycle}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:BraytonCycle}{{}{}}
+! Undefined control sequence.
+<write> ...abel{section:RankineCycle}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:RankineCycle}{{}{}}
+! Undefined control sequence.
+<write> ...ion:DigestateConditioning}{{}{\thepage 
+                                                  }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{section:DigestateConditioning}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:FilterScheme}{{}{\thepage 
+                                                }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:FilterScheme}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq2}{{1}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq2}{{1}{}}
+! Undefined control sequence.
+<write> \newlabel{table:Table3}{{}{\thepage 
+                                            }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{table:Table3}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq3}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq3}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq4}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq4}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq5}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq5}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq6}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq6}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq7}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq7}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq8}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq8}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq9}{{}{\thepage 
+                                      }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq9}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq10}{{}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq10}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq11}{{}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq11}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq12}{{}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq12}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq13}{{}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq13}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq14}{{}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq14}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq:Eq15}{{}{\thepage 
+                                       }}
+l.232 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:Eq15}{{}{}}
+]
 
 ! LaTeX Error: Environment align undefined.
 
@@ -18957,6 +19012,9 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -19371,11 +19429,6 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 245--246
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 245--246
-\OT1/cmr/m/n/10 {
- []
-
-
 Overfull \hbox (4.48613pt too wide) in paragraph at lines 245--246
 []$
  []
@@ -19601,6 +19654,9 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -19886,11 +19942,6 @@ Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 247--248
 []
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 247--248
-\OT1/cmr/m/n/10 {
  []
 
 
@@ -21511,6 +21562,9 @@ and I'll forget about whatever was undefined.
 
 LaTeX Warning: Reference `eq:Eq19' on page  undefined on input line 262.
 
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 ! Undefined control sequence.
 <write> ...: Reference `eq:Eq28' on page \thepage 
                                                   \space undefined\on@line .
@@ -21537,8 +21591,8 @@ Overfull \hbox (23.25696pt too wide) in paragraph at lines 262--263
  []
 
 
-Overfull \hbox (26.72212pt too wide) in paragraph at lines 262--263
-[]\OT1/cmr/m/n/10 {[] 
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 262--263
+[][] 
  []
 
 
@@ -22477,7 +22531,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.308 T
-       he estimation of the size and cost of both the coagulation and Ô¨Çocc...
+       he estimation of the size and cost of both the coagulation and floccu...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -25234,6 +25288,9 @@ and I'll forget about whatever was undefined.
 
 LaTeX Warning: Reference `eq:Eq29' on page  undefined on input line 354.
 
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 ! Undefined control sequence.
 <write> ...: Reference `eq:Eq37' on page \thepage 
                                                   \space undefined\on@line .
@@ -25324,8 +25381,8 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 354--355
  []
 
 
-Overfull \hbox (26.72212pt too wide) in paragraph at lines 354--355
-[]\OT1/cmr/m/n/10 {[]
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 354--355
+[][]
  []
 
 
@@ -25911,7 +25968,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.366 T
-       he number of clariÔ¨Åers is an integer value that is computed as the ...
+       he number of clarifiers is an integer value that is computed as the m...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -26080,7 +26137,7 @@ Missing character: There is no . in font nullfont!
 <write> ...: Reference `eq:Eq40' on page \thepage 
                                                   \space undefined\on@line .
 l.366 ... $D_{max}^{clarifier}$, Eq. \ref{eq:Eq40}
-                                                  . The maximum clariÔ¨Åer d...
+                                                  . The maximum clarifier di...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -26254,7 +26311,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.372 T
-       he diameter used in the Ô¨Ånal design will be the smallest between $D...
+       he diameter used in the final design will be the smallest between $D^...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -34210,6 +34267,8 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no O in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no O in font nullfont!
@@ -34572,8 +34631,8 @@ Overfull \hbox (8.97226pt too wide) in paragraph at lines 511--513
  []
 
 
-Overfull \hbox (7.26323pt too wide) in paragraph at lines 511--513
-\TS1/cmr/m/n/10 ∑$[]$
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 511--513
+[]$
  []
 
 
@@ -36065,6 +36124,15 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.526 ...ction takes place at about 27 \textdegree
+                                                   C, with the addition of M...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no w in font nullfont!
@@ -36211,11 +36279,6 @@ Overfull \hbox (10.86105pt too wide) in paragraph at lines 526--527
 
 Overfull \hbox (10.86105pt too wide) in paragraph at lines 526--527
 []
- []
-
-
-Overfull \hbox (3.33252pt too wide) in paragraph at lines 526--527
-\TS1/cmr/m/n/10 ∞
  []
 
 
@@ -38491,8 +38554,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \over #2}
-                                               
+\frac #1#2->{\begingroup #1\endgroup \over #2}
+                                              
 l.565 	\frac{{-dC}}{{dt}}
                           = k \left({C - {C_{eq}}} \right) \label{eq:Eq65}
 I've deleted a group-closing symbol because it seems to be
@@ -41085,8 +41148,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \over #2}
-                                               
+\frac #1#2->{\begingroup #1\endgroup \over #2}
+                                              
 l.628 ...ht) - \ln \left( C - {C_{eq}} \right)}{k}
                                                    \label{eq:Eq77}
 I've deleted a group-closing symbol because it seems to be
@@ -51934,6 +51997,9 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no T in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no ¶ in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no P in font nullfont!
@@ -51983,6 +52049,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -52008,6 +52077,9 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no ) in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -52106,6 +52178,9 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no g in font nullfont!
@@ -52122,6 +52197,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -52147,6 +52225,9 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no ) in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -52245,6 +52326,9 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -52265,6 +52349,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -52290,6 +52377,9 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no ) in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -52388,6 +52478,9 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -52406,6 +52499,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -52432,6 +52528,9 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no ) in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 6 in font nullfont!
@@ -52533,6 +52632,9 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ì in font nullfont!
 ! Undefined control sequence.
 <recently read> \bottomrule 
                             
@@ -52559,11 +52661,6 @@ or  <return>  to continue without it.
 
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 788--831
-[]
- []
-
-
-Overfull \hbox (9.99887pt too wide) in paragraph at lines 788--831
 []
  []
 
@@ -54099,6 +54196,15 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.837 ...reaches a temperature of 2400 \textdegree
+                                                   C and a pressure of 8.2 b...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -54346,6 +54452,15 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.837 ...lue gas exits the turbine 300 \textdegree
+                                                   C below that when the res...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -55704,16 +55819,6 @@ Overfull \hbox (10.86105pt too wide) in paragraph at lines 836--838
  []
 
 
-Overfull \hbox (3.33252pt too wide) in paragraph at lines 836--838
-\TS1/cmr/m/n/10 ∞
- []
-
-
-Overfull \hbox (3.33252pt too wide) in paragraph at lines 836--838
-\TS1/cmr/m/n/10 ∞
- []
-
-
 Overfull \hbox (10.86105pt too wide) in paragraph at lines 836--838
 []
  []
@@ -56211,7 +56316,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 839--854
  []
 
 
-Overfull \hbox (10.86118pt too wide) in paragraph at lines 839--854
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 839--854
 []
  []
 
@@ -56548,7 +56653,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 855--870
  []
 
 
-Overfull \hbox (24.31953pt too wide) in paragraph at lines 855--870
+Overfull \hbox (24.31944pt too wide) in paragraph at lines 855--870
 []
  []
 
@@ -62236,7 +62341,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 903--918
  []
 
 
-Overfull \hbox (47.264pt too wide) in paragraph at lines 903--918
+Overfull \hbox (47.26392pt too wide) in paragraph at lines 903--918
 []
  []
 
@@ -65514,11 +65619,11 @@ l.943 \input{Nomenclature/NomenCh2}
 
  
 Here is how much of TeX's memory you used:
- 154 strings out of 481239
- 1979 string characters out of 5920376
- 301562 words of memory out of 5000000
- 15515 multiletter control sequences out of 15000+600000
- 533320 words of font info for 27 fonts, out of 8000000 for 9000
+ 156 strings out of 492982
+ 1929 string characters out of 6134896
+ 120166 words of memory out of 5000000
+ 3814 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 20i,20n,16p,2286b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 22i,20n,19p,2286b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

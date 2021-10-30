@@ -147,9 +147,10 @@ Note that the distribution of different species for various systems, such as car
 A zero level of protons is a reference system defined by choosing a certain chemical compound for each system at a certain pH selected arbitrarily. This reference chemical is the dominant species at the selected pH. The chemical species above this zero level of protons will be proton acceptors while species below this level will be proton donors in a determined chemical system. There is a standard defined by \citet{Dickson}, where the reference pH value is set to 4.5 and chosen as  the zero level of protons. For a more detailed discussion about alkalinity, we refer to \citet{WolfGladrow}.
 The dominant chemical substances for each system at the reference pH of 4.5  are $H_{2}O, \ H_{2}CO_{3}, \ H_{2}PO_{4}^{-}$ and $NH_{4}^{+}$. With these considerations, the proton donors and acceptors for each system are collected in Table \ref{table:donors_and_aceptors}:
 \begin{table}[h] 
-	\begin{adjustwidth}{}{}
+%	\begin{adjustwidth}{}{}
 		\centering
 		\caption{Proton donors and acceptors for each chemical system.} \label{table:donors_and_aceptors}
+		\resizebox{0.75\columnwidth}{!}{
 		\begin{tabular}{ c c c}
 			\toprule
 			Chemical system	& Proton donors	& Proton acceptors	\\ \midrule
@@ -158,10 +159,11 @@ The dominant chemical substances for each system at the reference pH of 4.5  are
 			Phosphoric acid	& $\left\{ \text{H}_{3}\text{PO}_{4} \right\}$, $\left\{ \text{H}^{+} \right\}$ & $\left\{ \text{HPO}_{4}^{2-} \right\}$, $2 \cdot \left\{ \text{PO}_{4}^{3-} \right\}$	\\ 
 			Ammonia system	& $\left\{ \text{H}^{+} \right\}$ & $\left\{ \text{NH}_{3} \right\}$	\\ \bottomrule
 		\end{tabular}
-	\end{adjustwidth}
+%	\end{adjustwidth}
+	}
 \end{table}
 
-\clearpage
+%\clearpage
 
 Therefore, the alkalinity due to carbonates, called carbonate alkalinity ($Alk_{carb}$), as described in Eq. \ref{eq:Alk_carb_def}, can be calculated from total alkalinity value minus the alkalinity contribution of the other compounds, Eq. \ref{eq:Alk_carb}. The activities of the chemical species from water, phosphoric acid, and ammonia systems are obtained by solving the equilibrium and mass balance equations described previously.
 
@@ -212,7 +214,7 @@ Two elements are necessary to define the thermodynamic models for carbante speci
 %	\begin{adjustwidth}{}{}
 		\centering
 		\caption{$pK_{{sp}}$ values for the considered aqueous phase chemical systems.} \label{table:ApBpK}
-		\resizebox{0.85\columnwidth}{!}{
+		\resizebox{0.9\columnwidth}{!}{
 		\begin{tabular}{c c c c}
 			\toprule
 			Name	& Chemical system &${pK}_{{sp}}$	&Source	\\ \midrule
@@ -231,6 +233,7 @@ Two elements are necessary to define the thermodynamic models for carbante speci
 \clearpage
 
 \section{Surrogate models to estimate precipitates formation from livestock waste}
+\sectionmark{Surrogate models to estimate precipitates formation}
 \subsection{Influence of magnesium} 
 %\begin{sidewaysfigure}
 \begin{figure}[h] 
