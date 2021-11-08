@@ -3,10 +3,10 @@
 %*******************************************************
 % If problems with the headers: get headings in appendix etc. right
 %\markboth{\spacedlowsmallcaps{Appendix}}{\spacedlowsmallcaps{Appendix}}
-\chapter{Appendix D: Supplementary Information of Chapter 6}
+\chapter{Appendix D: Supplementary Information of Chapter 7}
 \begin{refsection}[referencesApD]
 	
-\section{Modeling details of nutrient recovery processes}
+\section{Modeling details of nitrogen recovery processes}
 \subsection{Anaerobic digestion}
 The energy requirements of AD unit, described in Eq  \ref{eq:general1}, comprise the energy required for substrate warming from ambient temperature (considered equal to central Spain average annual temperature, 12 \textdegree C) to the digestion temperature (40 \textdegree C), Eq. \ref{eq:Qwaste}, and the energy supplied to offset the digester heat losses, Eq. \ref{eq:Qlosses}. The global heat transfer coefficients ($U$) for the different digester surfaces are collected in Table \ref{table:AD_U}. 
 The area of different surfaces is estimated through preliminar equipment design, Eqs. \ref{eq:Vdigester1} to \ref{eq:Aroof}, assuming a maximum digester of 6000 m\textsuperscript{3} \citep{6000AD}. The installation of multiple digestion units is considered if the waste flow exceeds this capacity.
@@ -14,13 +14,14 @@ The area of different surfaces is estimated through preliminar equipment design,
 \begin{align}
 	& Q_{\text{digester}} = Q_{\text{waste}} + Q_{\text{losses}} \label{eq:general1}\\
 	& Q_{\text{waste}} = \dot{m}_{\text{waste}} \cdot c_{p} \cdot \left(T_{\text{digestion}} - T_{\text{ambient}}\right) \label{eq:Qwaste} \\
-	& Q_{\text{losses}} = \sum_{i} U_{i} A_{i} \left(T_{\text{digestion}} - T_{\text{ambient}}\right)\label{eq:Qlosses}, \forall i  \in \{\text{roof, walls, floor}\}
+	& Q_{\text{losses}} = \sum_{i} U_{i} A_{i} \left(T_{\text{digestion}} - T_{\text{ambient}}\right)\label{eq:Qlosses}, \\
+	& \forall i  \in \{\text{roof, walls, floor}\} \nonumber
 \end{align}
 
 \begin{table}[h] 
 	\centering
 	\caption{Anaerobic digester design parameters. \protect\citep{ADPennState}.} \label{table:AD_U}
-	%	\begin{threeparttable}
+	\resizebox{0.5\columnwidth}{!}{
 	\begin{tabular}{@{}ccc@{}}
 		\toprule
 		\multicolumn{1}{c}{Parameter} & Unit  & \multicolumn{1}{c}{Value} \\ \midrule
@@ -32,7 +33,7 @@ The area of different surfaces is estimated through preliminar equipment design,
 		$HRT$                           & days  & 21                        \\
 		$D_{\text{digester}}$:$H_{\text{digester}}$                           & ratio & 1.1                       \\
 		$A_{\text{roof}}$:$A_{\text{floor}}$                  & ratio & 1.62                      \\ \bottomrule
-	\end{tabular} 
+	\end{tabular} }
 	%		\begin{tablenotes}
 	%			\item TS: Total solids.
 	%			\item VS: Volatile solids.
@@ -51,13 +52,13 @@ The area of different surfaces is estimated through preliminar equipment design,
 CAPEX and OPEX estimation as a function of animal units based on data reported by the USDA \citep{USDA_OM} is shown in Figure \ref{fig:AD_size_2cost}.
 \begin{figure}[h!]
 	\centering
-	\begin{subfigure}[t]{0.48\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\includegraphics[width=\textwidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/AD_SizeCost_Swine.pdf}
 		\caption{Cost of AD units as a function of animal units.}
 		\label{fig:AD_SizeCost_Swine}
 	\end{subfigure}
-	\quad
-	\begin{subfigure}[t]{0.47\textwidth}
+	\bigskip
+	\begin{subfigure}[t]{0.7\textwidth}
 		\includegraphics[width=\textwidth]{gfx/AppendixD/AD_size_OM_Unit_cost.pdf} 
 		\caption{O\&M costs as a function of animal units.}
 		\label{fig:AD_size_OM_Unit_cost}
@@ -93,9 +94,10 @@ Nutrients contained in organic waste (manure or digestate, depending on whether 
 Based on the evaluation reported by \citet{MollerSLsep}, a screw press is the technology selected to carry out the solid-liquid separation stage since it is the most cost efficient solid-liquid separation equipment. The experimental results reported in this study are used to determine the partition coefficients for the different elements, as shown in Table \ref{table:part_coef}.
 
 \begin{table}[h!] 
-	\begin{adjustwidth}{}{}
+%	\begin{adjustwidth}{}{}
 		\centering
 		\caption{Partition coefficients for solid-liquid manure separation using a screw press unit \protect\citep{MollerSLsep}} \label{table:part_coef}
+		\resizebox{0.6\columnwidth}{!}{
 		\begin{tabular}{c c c}
 			\toprule
 			Element 	& Solid fraction & Liquid fraction	\\ \midrule
@@ -103,15 +105,15 @@ Based on the evaluation reported by \citet{MollerSLsep}, a screw press is the te
 			Dry matter 	& 0.31		& 0.69 \\
 			Org. N 		& 0.09		& 0.91 \\
 			Org. P		& 0.22	 	& 0.78 \\ \bottomrule
-		\end{tabular}
-	\end{adjustwidth}
+		\end{tabular}}
+%	\end{adjustwidth}
 \end{table}
 
 To determine the commercial sizes and number of units necessary as a function of the flow to be treated, data from commercial manufacturers is considered \citep{PWTech}. The feasible configurations in terms of screw press diameter and number of units as a function of the waste flow treated are shown in Table 4 of the Supplementary Material. Data reported by \citet{Matches} for this type of equipment is used to relate the unit diameter and cost, while the operating costs are calculated assuming power consumption reported by the manufacturer for each model, as shown in Fig. \ref{fig:screwpress_investment_costs} and Tables \ref{table:ScrewPress_units} and \ref{table:ScrewPress_power}.
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.6\linewidth, trim={0.5cm 0cm 0cm 0cm},clip]{gfx/AppendixD/screwpress_cost_m} 
+	\includegraphics[width=0.8\linewidth, trim={0.5cm 0cm 0cm 0cm},clip]{gfx/AppendixD/screwpress_cost_m} 
 	\caption{Estimated screw press investment costs (USD) as a function of the size.}
 	\label{fig:screwpress_investment_costs}
 \end{figure}
@@ -143,6 +145,7 @@ To determine the commercial sizes and number of units necessary as a function of
 %	\begin{adjustwidth}{}{}
 		\centering
 		\caption{Electrical power of screw press units \protect\citep{PWTech}} \label{table:ScrewPress_power}
+		\resizebox{0.85\columnwidth}{!}{
 		\begin{tabular}{c c c c c}
 			\toprule
 			\multicolumn{1}{c}{Number of units } &\multicolumn{4}{c}{Electrical power (kW)}\\
@@ -153,7 +156,7 @@ To determine the commercial sizes and number of units necessary as a function of
 			3	& -						& - 					& 2.01 & 6.34 	\\
 			4 	& -						& - 					& - & 7.83 \\
 			\bottomrule
-		\end{tabular}
+		\end{tabular}}
 %	\end{adjustwidth}
 \end{table}
 
@@ -170,13 +173,13 @@ Struvite production from livestock waste has been estimated based on a detailed 
 		\begin{tabular}{c c c c}
 			\toprule
 			Name	& Chemical system &${pK}$	&Source	\\ \midrule
-			Ammonia & $\text{NH}_{4}^{+} \leftrightarrow \text{NH}_{3} + \text{H}^{+}$	&9.2 &\citep{Bates}	\\ 
-			Water & $\text{H}_{2}\text{O} \leftrightarrow \text{OH}^{-} + \text{H}^{+}$	&14  &\citep{Skoog}	\\ 
-			\multirow{3}{*}{Phosphoric acid} & $\text{H}_{3}\text{PO}_{4} \leftrightarrow \text{H}_{2}\text{PO}_{4}^{-} + \text{H}^{+}$	&2.1	&\citep{Ohlinger}	\\ 
-			&$\text{H}_{2}\text{PO}_{4}^{-} \leftrightarrow \text{HPO}_{4}^{2-} + \text{H}^{+}$	&7.2  &\citep{Ohlinger}	\\ 
-			&$\text{HPO}_{4}^{2-} \leftrightarrow \text{PO}_{4}^{3-} + \text{H}^{+}$	&12.35 &\citep{Ohlinger}	\\ 
-			\multirow{2}{*}{Carbonic acid} & $\text{H}_{2}\text{CO}_{3} \leftrightarrow \text{HCO}_{3}^{-} + \text{H}^{+}$	&6.35	&\citep{Skoog}	\\  
-			&$\text{HCO}_{3}^{-} \leftrightarrow \text{CO}_{3}^{2-} + \text{H}^{+}$	&10.33	&\citep{Skoog}	\\ \bottomrule
+			Ammonia & $\text{NH}_{4}^{+} \leftrightarrow \text{NH}_{3} + \text{H}^{+}$	&9.2 &\citet{Bates}	\\ 
+			Water & $\text{H}_{2}\text{O} \leftrightarrow \text{OH}^{-} + \text{H}^{+}$	&14  &\citet{Skoog}	\\ 
+			\multirow{3}{*}{Phosphoric acid} & $\text{H}_{3}\text{PO}_{4} \leftrightarrow \text{H}_{2}\text{PO}_{4}^{-} + \text{H}^{+}$	&2.1	&\citet{Ohlinger}	\\ 
+			&$\text{H}_{2}\text{PO}_{4}^{-} \leftrightarrow \text{HPO}_{4}^{2-} + \text{H}^{+}$	&7.2  &\citet{Ohlinger}	\\ 
+			&$\text{HPO}_{4}^{2-} \leftrightarrow \text{PO}_{4}^{3-} + \text{H}^{+}$	&12.35 &\citet{Ohlinger}	\\ 
+			\multirow{2}{*}{Carbonic acid} & $\text{H}_{2}\text{CO}_{3} \leftrightarrow \text{HCO}_{3}^{-} + \text{H}^{+}$	&6.35	&\citet{Skoog}	\\  
+			&$\text{HCO}_{3}^{-} \leftrightarrow \text{CO}_{3}^{2-} + \text{H}^{+}$	&10.33	&\citet{Skoog}	\\ \bottomrule
 		\end{tabular}}
 %	\end{adjustwidth}
 \end{table}
@@ -189,14 +192,14 @@ Struvite production from livestock waste has been estimated based on a detailed 
 		\begin{tabular}{c c c c}
 			\toprule
 			Name	& Chemical system &${pK}_{{sp}}$	&Source	\\ \midrule
-			Struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgNH}_{4}\text{PO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$\\ $\text{Mg}^{2+} + \text{NH}_{4}^{+} + \text{PO}_{4}^{3-}$\end{tabular} &13.26 &\citep{Ohlinger} 	\\
-			K-struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgKPO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$ \\ $\text{Mg}^{2+} + \text{K}^{+} + \text{PO}_{4}^{3-}$\end{tabular} & 10.6 & \citep{TaylorAW}  	\\ 
-			Hydroxyapatite	& \begin{tabular}[c]{@{}c@{}}$\text{Ca}_{5} \left( \text{PO}_{4} \right)_{3}\text{OH} \leftrightarrow$\\ $5\text{Ca}^{2+} + 3\text{PO}_{4}^{3-}+\text{OH}^{-}$\end{tabular} &44.33 &\citep{Brezonik}  \\ 
-			Calcium carbonate	& $\text{CaCO}_{3} \leftrightarrow \text{Ca}^{2+} + \text{CO}_{3}^{2-}$ &8.48	&\citep{Morse} \\ 
-			Tricalcium phosphate	& $\text{Ca}_{3} \left( \text{PO}_{4} \right)_{2} \leftrightarrow 3\text{Ca}^{2+} + 2\text{PO}_{4}^{3-}$ &25.50 &\citep{Fowler} 	\\
-			Dicalcium phosphate	& $\text{CaHPO}_{4} \leftrightarrow \text{Ca}^{2+} + \text{HPO}_{4}^{2-}$ &6.57	&\citep{Gregory} 	\\
-			Calcium hydroxide	& $\text{Ca} \left( \text{OH} \right)_{2} \leftrightarrow \text{Ca}^{2+} + 2\text{OH}^{-}$ &5.19  &\citep{Skoog}  \\
-			Magnesium hydroxide	& $\text{Mg(OH)}_{2} \leftrightarrow \text{Mg}^{2+} + 2\text{OH}^{-}$&11.15  &\citep{Skoog} 	\\  \bottomrule 
+			Struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgNH}_{4}\text{PO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$\\ $\text{Mg}^{2+} + \text{NH}_{4}^{+} + \text{PO}_{4}^{3-}$\end{tabular} &13.26 &\citet{Ohlinger} 	\\
+			K-struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgKPO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$ \\ $\text{Mg}^{2+} + \text{K}^{+} + \text{PO}_{4}^{3-}$\end{tabular} & 10.6 & \citet{TaylorAW}  	\\ 
+			Hydroxyapatite	& \begin{tabular}[c]{@{}c@{}}$\text{Ca}_{5} \left( \text{PO}_{4} \right)_{3}\text{OH} \leftrightarrow$\\ $5\text{Ca}^{2+} + 3\text{PO}_{4}^{3-}+\text{OH}^{-}$\end{tabular} &44.33 &\citet{Brezonik}  \\ 
+			Calcium carbonate	& $\text{CaCO}_{3} \leftrightarrow \text{Ca}^{2+} + \text{CO}_{3}^{2-}$ &8.48	&\citet{Morse} \\ 
+			Tricalcium phosphate	& $\text{Ca}_{3} \left( \text{PO}_{4} \right)_{2} \leftrightarrow 3\text{Ca}^{2+} + 2\text{PO}_{4}^{3-}$ &25.50 &\citet{Fowler} 	\\
+			Dicalcium phosphate	& $\text{CaHPO}_{4} \leftrightarrow \text{Ca}^{2+} + \text{HPO}_{4}^{2-}$ &6.57	&\citet{Gregory} 	\\
+			Calcium hydroxide	& $\text{Ca} \left( \text{OH} \right)_{2} \leftrightarrow \text{Ca}^{2+} + 2\text{OH}^{-}$ &5.19  &\citet{Skoog}  \\
+			Magnesium hydroxide	& $\text{Mg(OH)}_{2} \leftrightarrow \text{Mg}^{2+} + 2\text{OH}^{-}$&11.15  &\citet{Skoog} 	\\  \bottomrule 
 		\end{tabular}
 %	\end{adjustwidth}
 }
@@ -222,10 +225,11 @@ Based on the correlation shown in Eq. \ref{eq:sigmoidal_Ca_StrYield}, the amount
 The mass balances of MAPHEX process are shown in Eqs. \ref{eq:MAPHEX1}-\ref{eq:MAPHEX5}, based on experimental data for full-scale modular units reported by \citet{church_versatility2018}.
 
 \begin{align}
-& \dot{m}_{nutrients_\text{recovered}} = \dot{m}_{nutrients, \ in} \cdot \eta_{\text{MAPHEX}}^{{nutrients}} \ \forall \ nutrients \ \in \ \{\text{P}, \ \text{N}\} \label{eq:MAPHEX1}
+& \dot{m}_{nutrients_\text{recovered}} = \dot{m}_{nutrients, \ in} \cdot \eta_{\text{MAPHEX}}^{{nutrients}}, \label{eq:MAPHEX1} \\
+& \forall \ nutrients \ \in \ \{\text{P}, \ \text{N}\} \nonumber
 \\
-& \dot{m}_{nutrients_\text{released}} = \dot{m}_{nutrients, \ in} \cdot \left(1- \eta_{\text{MAPHEX}}^{{nutrients}}\right) \ \forall \ nutrients \ \in \ \{\text{P}, \ \text{N}\} 
-\label{eq:MAPHEX2}
+& \dot{m}_{nutrients_\text{released}} = \dot{m}_{nutrients, \ in} \cdot \left(1- \eta_{\text{MAPHEX}}^{{nutrients}}\right), \label{eq:MAPHEX2} \\
+& \forall \ nutrients \ \in \ \{\text{P}, \ \text{N}\}  \nonumber
 %	\nonumber
 \\
 & \dot{m}_{\text{TS\textsubscript{recovered}}} = \dot{m}_{\text{TS}, in} \cdot 0.93 \label{eq:MAPHEX3}
@@ -242,6 +246,7 @@ Characteristics of Liquid-Cel\textsuperscript{\texttrademark} Extra Flow membran
 	\centering
 	\caption{Main characteristics of Liquid-Cel \textsuperscript{\texttrademark} membrane \protect\citep{rongwong2020modelin, ulbricht2013ammoni}.} \label{table:membrane_characteristichs}
 	%	\begin{threeparttable}
+	\resizebox{0.8\columnwidth}{!}{
 	\begin{tabular}{@{}cccc@{}}
 		\toprule
 		Membrane parameters  & Unit & Variable & Values  \\ \midrule
@@ -254,13 +259,13 @@ Characteristics of Liquid-Cel\textsuperscript{\texttrademark} Extra Flow membran
 		Pressure drop shell side    & bar    & $\Delta P_{\text{shell side}}$      & 0.3     \\
 		Pressure drop lumen side    & bar    & $\Delta P_{\text{lumen side}}$      & 2     \\
 		\bottomrule
-	\end{tabular}
+	\end{tabular}}
 \end{table}
 
 \begin{figure}[h!]
 	\centering
 	%	\begin{subfigure}[t]{0.5\linewidth}
-	\includegraphics[width=0.6\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/MembranesCost.pdf} 
+	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/MembranesCost.pdf} 
 	\caption{Estimation of Liquid-Cel\textsuperscript{\texttrademark} 14x40 membrane module cost.}
 	\label{fig:MembranesCostNitrogenSM}
 \end{figure}
@@ -338,7 +343,8 @@ A modified Henry's constant considering the speciation of ammonia is used in the
 
 The mass transfer coefficient of the digestate flowing in the tube side, $k_{\text{digestate}}$, is calculated through the Sherwood number of this stream, Eq. \ref{eq:Mem14}.
 \begin{align}
-&  \text{Sh}_{\text{digestate}} = \frac{k_{\text{digestate}} \cdot d_i}{D_{\text{NH}_{3_\text{water}}}} = 1.62 \cdot \left(\frac{d_i}{L} \cdot \text{Re}_{\text{digestate}} \cdot \text{Sc}_{\text{digestate}}\right)^{\sfrac{1}{3}} \label{eq:Mem14}
+&  \text{Sh}_{\text{digestate}} = \frac{k_{\text{digestate}} \cdot d_i}{D_{\text{NH}_{3_\text{water}}}} = \label{eq:Mem14} \\
+& 1.62 \cdot \left(\frac{d_i}{L} \cdot \text{Re}_{\text{digestate}} \cdot \text{Sc}_{\text{digestate}}\right)^{\sfrac{1}{3}} \nonumber
 \\
 &  \text{Re}_{\text{digestate}} = \frac{d_i \cdot \rho_{\text{digestate}} \cdot V_{\text{digestate}}}{\mu_{\text{digestate}}} \label{eq:Mem15}
 \\
@@ -401,9 +407,7 @@ n_{\text{pump}_i} = \ceil*{\frac{\dot{V}_i}{\dot{V}_{\text{pump}_{\text{max}}}}}
 & \dot{W}_{\text{pump}_i} \left(\text{kW}\right) = \frac{g\left(\frac{\text{m}}{\text{s}^2}\right) \cdot H_i \left(\text{m}\right) \cdot \rho \left(\frac{\text{kg}}{\text{m}^3}\right) \cdot \dot{V}_i \left(\frac{\text{m}^3}{\text{s}}\right)}{\eta_{\text{pump}_i}} \label{eq:pumpsPower}
 \\
 & OPEX_{\text{pumps}} \left(\frac{\text{2019 USD}}{\text{year}}\right) = \sum_{i} \dot{W}_{\text{pump}_i} \left(\text{kW}\right) \cdot t_{\text{operation}} \left(\text{s}\right) \cdot 3600 \nonumber \\
-& \cdot Price_{\text{electricity}}\left(\frac{\text{USD}}{\text{kWh}}\right) \label{eq:pumpsOPEX}
-\\
-& \forall \ i  \in \{\text{shellside, lumenside}\} \nonumber 
+& \cdot Price_{\text{electricity}}\left(\frac{\text{USD}}{\text{kWh}}\right) \forall \ i  \in \{\text{shellside, lumenside}\} \label{eq:pumpsOPEX} 
 \end{align}
 
 \subsection{Ammonia evaporation}\label{section:DigDryingNRecoveryPaper}
@@ -449,7 +453,8 @@ The mass and energy balances for digestate drying in a belt dryer unit are shown
 \\	
 & \dot{H}_{\text{air}_{\text{in}}} = \dot{m}_{\text{air}} \cdot c_{p_{\text{air}}} \cdot \Delta T_{\text{air}_\text{in}} \label{eq:BD8} 
 \\	
-& \dot{H}_{\text{air}_{\text{out}}} = \left(\dot{m}_{\text{air}} \cdot c_{p_{\text{air}}} + \dot{m}_{\text{water}_\text{evap}} \cdot c_{p_{\text{water (gas)}}} + \dot{m}_{\text{NH}_{3_\text{evap}}} \cdot c_{p_{\text{NH\textsubscript{3} (gas)}}} \right) \cdot \Delta T_{\text{air}_\text{out}} \label{eq:BD9} 
+& \dot{H}_{\text{air}_{\text{out}}} = \label{eq:BD9} \\
+& \left(\dot{m}_{\text{air}} \cdot c_{p_{\text{air}}} + \dot{m}_{\text{water}_\text{evap}} \cdot c_{p_{\text{water (gas)}}} + \dot{m}_{\text{NH}_{3_\text{evap}}} \cdot c_{p_{\text{NH\textsubscript{3} (gas)}}} \right) \cdot \Delta T_{\text{air}_\text{out}} \nonumber 
 \\	
 & \Delta T_i = T_i - T_\text{ref} \ \forall \ i \ \in \ \{\text{air}_\text{in}, \ \text{air}_\text{out},  \ \text{digestate}_\text{in}, \ \text{digestate}_\text{out} \} \label{eq:BD10}
 \end{align}
@@ -480,6 +485,7 @@ D_{\text{stripping tower}} & \text{if } 	D_{\text{stripping tower}} \leq 1.2 \te
 
 The height of the stripping packed towers is estimated through the height and number of transfer units, Eq. \ref{eq:HTUStripping} and \ref{eq:NTUStripping} respectively \citep{Metcalf2014}. The liquid overall mass transfer coefficient value assumed for the ammonia air system is 2 h\textsuperscript{-1} \citep{larsen2013so}. The design restriction shown in Eq. \ref{eq:ZRestriction} is considered to compute the design height of the stripping towers, and the number of units that must be installed in series, Eq. \ref{eq:nStrippersSerie}.
 
+\allowdisplaybreaks
 \begin{align}
 & HTU = \frac{\frac{\dot{m}_L}{n_{\text{stripping tower}}^{\text{parallel}} \cdot\rho_{\text{digestate}}}}{K_{L}a \cdot \pi \cdot \left(\frac{D_{\text{stripping tower}}}{2}\right)^2} \label{eq:HTUStripping} \\
 & NTU = \frac{S}{S-1} \text{ln}\left(\frac{\frac{1}{1-\sfrac{\eta_{\text{stripping tower}}}{100}} \cdot \left(S-1\right) + 1}{S}\right) \label{eq:NTUStripping} \\
@@ -539,6 +545,7 @@ The height of scrubbing units is estimated through the height and number of tran
 The scrubbing operation involves the use of compressors for pumping the stripping gas stream. The energy required for compression is estimated though Eq. \ref{eq:CompressorEnergy}, assuming a compressor efficiency $\left(\eta_{\text{compressor}}\right)$ of 0.85 and a polytropic coefficient $\left(k\right)$ of 1.4. The pressure drop of a typical scrubber for ammonia capture assumed is 200 Pa \citep{melse2005air}.
 %  Fig. \ref{fig:vessel_investment_cost}.
 
+\allowdisplaybreaks
 \begin{align}	
 %	&
 %	x_{\text{NH}_{3 in}}^{\text{gas stream}} = \frac{\dot{n}_{\text{NH}_{3 in}}^{\text{gas stream}}}{\dot{n}^{\text{gas stream}}}
@@ -548,7 +555,8 @@ The scrubbing operation involves the use of compressors for pumping the strippin
 %	\\
 & H_{\text{scrubber}} = NTU \cdot HTU \label{eq:Hscrubber}
 \\
-& NTU = \frac{\text{ln}\left(\left(1-m \cdot \frac{\dot{n}^{\text{gas stream}}}{\dot{n}^{\text{liquid stream}}} \right) \frac{x_{\text{NH}_{3 in}}^{\text{gas stream}} - x^*_{\text{NH}_{3}}}{x_{\text{NH}_{3 out}}^{\text{gas stream}} - x^*_{\text{NH}_{3}}} + m \cdot\frac{\dot{n}^{\text{gas stream}}}{\dot{n}^{\text{liquid stream}}}\right)}{\text{ln}\left(m \cdot \frac{L}{V}\right)}\label{eq:Kremser}
+& NTU = \label{eq:Kremser}\\
+& \frac{\text{ln}\left(\left(1-m \cdot \frac{\dot{n}^{\text{gas stream}}}{\dot{n}^{\text{liquid stream}}} \right) \frac{x_{\text{NH}_{3 in}}^{\text{gas stream}} - x^*_{\text{NH}_{3}}}{x_{\text{NH}_{3 out}}^{\text{gas stream}} - x^*_{\text{NH}_{3}}} + m \cdot\frac{\dot{n}^{\text{gas stream}}}{\dot{n}^{\text{liquid stream}}}\right)}{\text{ln}\left(m \cdot \frac{L}{V}\right)} \nonumber
 \\
 &
 x_{\text{NH}_{3 k}}^{\text{gas stream}} = \frac{\dot{n}_{\text{NH}_{3 k}}^{\text{gas stream}}}{\dot{n}^{\text{gas stream}}}, \ \forall \ k \ \in \ \{in, out\}
@@ -567,10 +575,12 @@ m = \frac{P_{\text{NH}_3}}{P}
 &\left(\left(\frac{P_{in}^{\text{gas stream}}}{P_{out}^{\text{gas stream}}}\right)^{\frac{k-1}{k}}-1\right) \label{eq:CompressorEnergy}
 \end{align}
 
+\newpage
+
 \section{Capital and operating expenses}
 \begin{figure}[h!]
 	\centering 
-	\begin{subfigure}[t]{0.8\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\centering
 		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/EquipCost.pdf} 
 		\caption{CAPEX}
@@ -579,7 +589,7 @@ m = \frac{P_{\text{NH}_3}}{P}
 
 	\bigskip
 
-	\begin{subfigure}[t]{0.8\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\centering
 		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/OpCost.pdf} 
 		\caption{OPEX}
@@ -589,9 +599,11 @@ m = \frac{P_{\text{NH}_3}}{P}
 	\caption{CAPEX and OPEX of the assesed nitrogen recovery technologies, including the cost of anaerobic digestion stage.} \label{fig:CAPEXOPEX}
 \end{figure}
 
+\newpage
+
 \begin{figure}[h!]
 	\centering 
-	\begin{subfigure}[t]{0.8\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\centering
 		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/EquipCost_NoAD.pdf} 
 		\caption{CAPEX}
@@ -600,7 +612,7 @@ m = \frac{P_{\text{NH}_3}}{P}
 
 	\bigskip
 
-	\begin{subfigure}[t]{0.8\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\centering
 		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/OpCost_NoAD.pdf} 
 		\caption{OPEX}
@@ -610,10 +622,12 @@ m = \frac{P_{\text{NH}_3}}{P}
 	\caption{CAPEX and OPEX of the assesed nitrogen recovery technologies, excluding the cost of anaerobic digestion stage.} \label{fig:CAPEXOPEX_NoAD}
 \end{figure}
 
+\newpage
+
 \section{Processing cost}
 \begin{figure}[h!]
 	\centering 
-	\begin{subfigure}[t]{0.8\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\centering
 		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/ScaleUp2WasteProcCost_NoAD.pdf} 
 		\caption{Waste processing cost}
@@ -622,7 +636,7 @@ m = \frac{P_{\text{NH}_3}}{P}
 
 	\bigskip
 
-	\begin{subfigure}[t]{0.8\textwidth}
+	\begin{subfigure}[t]{0.7\textwidth}
 		\centering
 		\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixD/ScaleUp2_NoAD.pdf} 
 		\caption{Nitrogen recovery cost}
@@ -631,6 +645,8 @@ m = \frac{P_{\text{NH}_3}}{P}
 	
 	\caption{Processing cost for different livestock facility sizes, excluding the cost of anaerobic digestion stage.} \label{fig:ScaleUGlobal_NoAD}
 \end{figure}
+
+\newpage
 
 \begin{table}[h!] 
 	\centering

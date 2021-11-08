@@ -194,7 +194,7 @@ The model for the filtration is based on the removal efficiency per filter media
 	F_{Wa}^{{{liquid \ effluent}}} = F_{Wa}^{{in}} - F_{Wa}^{{cake}} \label{eq:Eq7}
 \end{align}
 
-To select among the five filter media, we use a Big M formulation to select one of them assigning a binary variable {\color{red}{$y^{\text{filter media}}$}} for each filter media, Eqs. \ref{eq:Eq2} and \ref{eq:Eq3}. This variable takes a value of 1 for the selected filter media and 0 for the rest, so that we are able to evaluate one filter media per time.
+To select among the five filter media, we use a Big M formulation to select one of them assigning a binary variable $y^{\text{filter media}}$ for each filter media, Eqs. \ref{eq:Eq2} and \ref{eq:Eq3}. This variable takes a value of 1 for the selected filter media and 0 for the rest, so that we are able to evaluate one filter media per time.
 
 It is assumed that the cake obtained contains moisture with a value of 55\% in weight basis $\left(C_{Wa}^{cake}\right)$. The optimal filter media among the evaluated compounds is metal slag \citep{li2015study}.
 
@@ -430,7 +430,8 @@ As in the clarifier, we develop a smooth approximation, Eq. \ref{eq:Eq47}, to co
 The cost for the centrifuge is estimated based on the data by \citet{green2008perry} as a function of its diameter, Eq. \ref{eq:Eq48}. Since the cost correlation is based on 2004 values, the Chemical Engineering Index it used to update the equipment cost.
 
 \begin{align}
-	Cost_{centrifuge}\left( \text{USD}_{2004}  \right) = \left( {10272 \cdot D_{design}^{centrifuge} - 24512} \right) \cdot {n}_{centrifuges} \label{eq:Eq48}
+	& Cost_{centrifuge}\left( \text{USD}_{2004}  \right) = \label{eq:Eq48} \\
+	& \left( {10272 \cdot D_{design}^{centrifuge} - 24512} \right) \cdot {n}_{centrifuges} \nonumber
 \end{align}
 
 We estimate the operating cost of this system by accounting for the annualized equipment cost (fixed cost), chemicals and labor cost. A similar procedure as before is followed \citep{vian1975pronostico} but for the clarifier fixed costs as the correlation to estimate its costs already includes the operating cost, Eq. \ref{eq:Eq49}.
@@ -457,7 +458,7 @@ Centrifugation is a pretreatment that separates solid and liquid phases and that
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig4.pdf} 
+	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig4.pdf} 
 	\caption{Scheme for the centrifugation treatment.}
 	\label{fig:CentrifScheme}
 \end{figure}
@@ -545,14 +546,14 @@ Two different types of reactors can be used to obtain struvite, either a stirred
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig5.pdf} 
+	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig5.pdf} 
 	\caption{Scheme for the FBR system.}
 	\label{fig:FBRScheme}
 \end{figure}
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=1\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig6.pdf} 
+	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter2/Fig6.pdf} 
 	\caption{Scheme for the CSTR based struvite production system.}
 	\label{fig:CSTRScheme}
 \end{figure}
@@ -621,7 +622,7 @@ where the parameter $\eta$ is given by Eq. \ref{eq:Eq72}:
 	\eta  = g\left( {\rho _{struvite} - {\rho _{digestate}}} \right) \label{eq:Eq72}
 \end{align}
 
-Finally, the fluid velocity $u_0$ must be between $u_{mf}$ and $u_t$. {\color{red}{A superficial velocity equal to five times the minimum fluidization velocity is selected \citep{tejero2004optimization}}}, Eqs. \ref{eq:Eq73} and \ref{eq:Eq74}.
+Finally, the fluid velocity $u_0$ must be between $u_{mf}$ and $u_t$. A superficial velocity equal to five times the minimum fluidization velocity is selected \citep{tejero2004optimization}, Eqs. \ref{eq:Eq73} and \ref{eq:Eq74}.
 
 \begin{align}
 	{u_{mf}} < {u_0} < {u_t} \label{eq:Eq73}
@@ -668,7 +669,7 @@ Finally, to estimate the cost of the hydrocyclone, a surrogate model using data 
 	{n}_{hydrocyclone} \ge \frac{D^{hydrocyclone}}{D_{max}^{hydrocyclone}} \label{eq:Eq81}
 \end{align}
 
-where ${n}_{hydrocyclone}$ is an integer. The maximum diameter for a hydrocyclone, $D_{max}^{hydrocyclone}$,  is 30 inch based on standard sizes (\url{www.matche.com}).  Thus, the design diameter is the lower diameter between $D^{hydrocyclone}$ and $D_{max}^{hydrocyclone}$, \ref{eq:Eq82}.
+where ${n}_{hydrocyclone}$ is an integer. The maximum diameter for a hydrocyclone, $D_{max}^{hydrocyclone}$,  is 30 inch based on standard sizes (\url{www.matche.com}).  Thus, the design diameter is the lower diameter between $D^{hydrocyclone}$ and $D_{max}^{hydrocyclone}$, Eq. \ref{eq:Eq82}.
 
 \begin{align}
 	D_{design}^{hydrocyclone} = \min (D_{total}^{hydrocyclone}, \ D_{max}^{hydrocyclone}) \label{eq:Eq82}
@@ -721,7 +722,8 @@ Finally, the benefits or losses for CSTR and FBR are calculated as the differenc
 The detailed models for each of the alternatives such as the five filter media or the number of different coagulants result in a large and complex MINLP when cost estimation is involved. We use a two-stage procedure to select the best technology. In the first stage we develop MINLP subproblems to select the appropriate filter media or coagulant. Next, using the detailed models for the best option, surrogate cost models are developed for the five alternative technologies used to process the digestate. However, there are still binary decisions to account for the cost of the active alternative in the superstructure. Thus, the surrogate models are in the form of linear equations. For instance, the surrogate model for the filter to be implemented in the superstructure is given by a linear function as given by Eq. \ref{eq:Eq87}.
 
 \begin{align}
-	{Operating \ cost} \left( \frac{\text{EUR}}{\text{year}} \right) = 20,521 \cdot F_{design} \left( \frac{\text{ft}{^3}}{\text{min}} \right) { -33,488} \cdot {a}_{Filter} \label{eq:Eq87}
+	&{Operating \ cost} \left( \frac{\text{EUR}}{\text{year}} \right) =  \label{eq:Eq87} \\
+	& 20,521 \cdot F_{design} \left( \frac{\text{ft}{^3}}{\text{min}} \right) { -33,488} \cdot {a}_{Filter} \nonumber
 \end{align}
 
 We avoid the use of binary variables within the formulation (due to highly non linear model of the entire superstructure) by using smooth approximations. We define $a_{Filter}$ as a parameter that takes a value of 0 when $F_{design}^{Filter}$ is 0 and 1 if $F_{design}^{Filter}$ is not equal to 0. The smooth approximation for $a_{Filter}$ is defined as follows, Eq. \ref{eq:Eq88}:
@@ -746,7 +748,8 @@ where the smooth approximation for the term ${a}_{Coag}$ is given by Eq. \ref{eq
 Similar to previous cases we develop a surrogate model to estimate the operating cost for the centrifugation as a function of the flowrate of digestate, Eq. \ref{eq:Eq91}:
 
 \begin{align}
-	{Operating \ cost} \left( \frac{\text{EUR}}{\text{year}} \right) = 458,498.29 \cdot F_{digestate}^{in} +  24,924.67 \cdot {a}_{Centrifugation} \label{eq:Eq91}
+	& {Operating \ cost} \left( \frac{\text{EUR}}{\text{year}} \right) = \label{eq:Eq91} \\
+	& 458,498.29 \cdot F_{digestate}^{in} +  24,924.67 \cdot {a}_{Centrifugation} \nonumber
 \end{align}
 
 As before, ${a}_{Centrifugation}$ is approximated as follows, Eq. \ref{eq:Eq92}:
@@ -766,7 +769,8 @@ Finally, to include the operating costs for the production of struvite, we again
 \end{align}
 
 \begin{align}
-	{Operating \ Cost}_{CSTR} \left( \frac{\text{EUR}}{\text{year}} \right) = 277,051 \cdot F_{digestate}^{in} +  1 \cdot {10^6} \cdot {a}_{CSTR} \label{eq:Eq95}
+	&{Operating \ Cost}_{CSTR} \left( \frac{\text{EUR}}{\text{year}} \right) = \label{eq:Eq95} \\
+	& 277,051 \cdot F_{digestate}^{in} +  1 \cdot {10^6} \cdot {a}_{CSTR} \nonumber
 \end{align}
 
 \begin{align}
@@ -786,7 +790,7 @@ Finally, the whole superstructure is built (see Fig. \ref{fig:Flowsheet}). This 
 The total energy obtained in the system to be optimized is the sum of the one generated at the three sections of the turbine, high, medium and low pressure and that of the gas turbine. We use part of the energy produced to power the compressors used across the facility. The economic benefits or losses of each digestate treatment process are added to the energy benefits.
 
 \begin{align}
-	&Z = \Bigg[ \left( \sum\limits_{i \in Turbines} {W}_{\left( {Turbine} \right)}  + W_{Gas Turbine} - \sum\limits_{j \in Compressors} W_{Compressors}  \right) \label{eq:Eq98} \\ 
+	&Z = \Bigg[ \left( \sum\limits_{i \in Turbines} {W}_{ {Turbine} }  + W_{Gas \ Turbine} - \sum\limits_{j \in Compressors} W_{Compressors}  \right) \label{eq:Eq98} \\ 
 	& \cdot 3600\cdot h \cdot d \cdot {C_{Electricity}} \Bigg]+ Benefits_{Filtration} + {Benefits}_{Centrif} + \nonumber \\
 	& {Benefits}_{Coagulation} + {Benefits}_{FBR} + {Benefits}_{CSTR} \nonumber
 \end{align}
@@ -858,7 +862,7 @@ Table \ref{table:Table4} shows the main operating conditions of major units for 
 	\centering
 	\caption{Process optimization results for considered manures.}
 	\label{table:Table5}
-			\resizebox{\columnwidth}{!}{
+			\resizebox{0.95\columnwidth}{!}{
 		\begin{tabular}{@{}ccccccc@{}}
 			\toprule
 			Manure  & \begin{tabular}[c]{@{}c@{}}Power\\ (kW)\end{tabular} & \begin{tabular}[c]{@{}c@{}}Comp. biogas\\ (CH\textsubscript{4}/CO\textsubscript{2}\\ratio)\end{tabular} & \begin{tabular}[c]{@{}c@{}}Digestate \\treatment \\ technology\end{tabular} & \begin{tabular}[c]{@{}c@{}}Product\\ recovered\end{tabular} & \begin{tabular}[c]{@{}c@{}}Biogas/\\manure\\ ratio\end{tabular} & \begin{tabular}[c]{@{}c@{}}Digestate/\\manure\\ ratio\end{tabular} \\ \midrule
@@ -874,7 +878,7 @@ Table \ref{table:Table4} shows the main operating conditions of major units for 
 	\centering
 	\caption{Process optimization results for considered manures.}
 	\label{table:Table6}
-	\resizebox{\columnwidth}{!}{
+	\resizebox{0.9\columnwidth}{!}{
 		\begin{tabular}{@{}cccccc@{}}
 			\toprule
 			Manure  & CH\textsubscript{4} (\%wt) & CO\textsubscript{2} (\%wt) & Water (\%wt) & O\textsubscript{2} (\%wt) & N\textsubscript{2} (\%wt) \\ \midrule
@@ -922,7 +926,7 @@ The Net Profit Value has also been calculated as a measure of the project profit
 	\centering
 	\caption{Electricity production cost and NPV for the facility considering different raw materials.}
 	\label{table:Table7}
-	\resizebox{\columnwidth}{!}{
+	\resizebox{0.95\columnwidth}{!}{
 		\begin{tabular}{@{}cccc@{}}
 			\toprule
 			Raw material   & \begin{tabular}[c]{@{}c@{}}Annual production costs \\ (M EUR /year)\end{tabular} & \begin{tabular}[c]{@{}c@{}}Electricity production\\ cost (EUR/kWh)\end{tabular} & \begin{tabular}[c]{@{}c@{}}NPV\\ (EUR /year)\end{tabular} \\ \midrule
@@ -953,7 +957,6 @@ per kW installed depending on the manure concentration. Competitive values of 4,
 \section*{Nomenclature}
 \addcontentsline{toc}{section}{Nomenclature}
 
-{\color{red}{CHECK IF ALL THESE VARIABLES APPEAR IN THE CHAPTER}}
 \vspace{-0.8cm}
 \begingroup     
 \let\clearpage\relax

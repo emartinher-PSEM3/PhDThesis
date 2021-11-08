@@ -40,7 +40,7 @@ This process will be evaluated for four waste sources: cattle and swine manure, 
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure1.pdf} 
+	\includegraphics[width=0.7\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure1.pdf} 
 	\caption{Scheme of the methodology followed to determine the optimal biogas	upgrading technology.}
 	\label{fig:Fig1}
 \end{figure}
@@ -52,7 +52,7 @@ This process will be evaluated for four waste sources: cattle and swine manure, 
 	\resizebox{0.9\columnwidth}{!}{
 		\begin{tabular}{@{}lcccc@{}}
 			\toprule
-			& \begin{tabular}[c]{@{}c@{}}Cattle \\ manure\\ \protect\citep{EuropeanCommission4953_2_11768_1}\end{tabular} & \begin{tabular}[c]{@{}c@{}}Pig\\ manure \\ \protect\citep{EuropeanCommission4953_2_11768_1,DanishEnvironmentalProtectionAgency2018}\end{tabular} & \begin{tabular}[c]{@{}c@{}}Sludge \\ (wastewater)\\ \protect\citep{EuropeanCommission4953_2_11768_1}\end{tabular} & \begin{tabular}[c]{@{}c@{}}Urban \\ food waste\\ \protect\citep{EuropeanCommission4953_2_11768_1}\end{tabular} \\ \midrule
+			& \begin{tabular}[c]{@{}c@{}}Cattle \\ manure \textsuperscript{1} \end{tabular} & \begin{tabular}[c]{@{}c@{}}Pig \\ manure \textsuperscript{1,2}\end{tabular} & \begin{tabular}[c]{@{}c@{}}Sludge \\ (wastewater) \textsuperscript{1}\end{tabular} & \begin{tabular}[c]{@{}c@{}}Urban \\ food waste \textsuperscript{1}\end{tabular} \\ \midrule
 			V\textsubscript{biogas} (m\textsuperscript{3}/kg)  & 0.25                                                                                & 0.38                                                                                            & 0.35                                                                                      & 0.44                                                                                   \\
 			w\textsubscript{DM} (\% wt)       & 0.25                                                                                & 0.25                                                                                            & 0.17                                                                                      & 0.31                                                                                   \\
 			w\textsubscript{VS} (\% dry wt)   & 0.80                                                                                & 0.75                                                                                            & 0.4                                                                                       & 0.85                                                                                   \\
@@ -63,6 +63,11 @@ This process will be evaluated for four waste sources: cattle and swine manure, 
 			R\textsubscript{CN}               & 20                                                                                  & 15                                                                                              & 15                                                                                        & 15                                                                                     \\ \bottomrule
 		\end{tabular}
 	}
+\begin{tablenotes}
+	\footnotesize
+	\item \textsuperscript{1} \protect\citet{EuropeanCommission4953_2_11768_1}
+	\item \textsuperscript{2} \protect\citet{DanishEnvironmentalProtectionAgency2018}
+\end{tablenotes}
 \end{table}
 
 
@@ -134,7 +139,7 @@ The process model is formulated as an NLP problem, including the models describe
 
 \subsection{Selection of optimal configurations}
 \subsubsection{Absorption: amines}
-Eq. \ref{eq:Ch7Eq1} and the objective function shown in Eq. \ref{eq:Ch7Eq2} are added to the model described in section \ref{section:MathModAbsorptionAmines} for determining the optimal amine for biogas upgrading. The first term, BioCH4, presents the profit from the biomethane generated using the price of the natural gas given by \citet{EIAPrices}, and the second term corresponds to the operation considering the amortization of the investment costs of the amines purification systems, calculated in Eq. \ref{eq:Ch7Eq2}, where the investment cost is annualized with K equal to 3 \citep{douglas1988conceptual}.
+Eq. \ref{eq:Ch7Eq1} and the objective function shown in Eq. \ref{eq:Ch7Eq2} are added to the model described in section \ref{section:MathModAbsorptionAmines} for determining the optimal amine for biogas upgrading. The first term, BioCH4, presents the profit from the biomethane generated using the price of the natural gas given by the \citet{EIAPrices}, and the second term corresponds to the operation considering the amortization of the investment costs of the amines purification systems, calculated in Eq. \ref{eq:Ch7Eq2}, where the investment cost is annualized with K equal to 3 \citep{douglas1988conceptual}.
 
 \begin{align}
 	& Profit_{{Amine \ system}} = BioCH_{4} - Cost_{{Amine \ system}} \label{eq:Ch7Eq1}\\
@@ -205,7 +210,7 @@ The amount of each component of biogas is not fixed, but limited by upper and lo
 	\centering
 	\caption{Raw biogas composition.}
 	\label{table:Ch7Table3}
-	\resizebox{\columnwidth}{!}{
+	\resizebox{0.9\columnwidth}{!}{
 		\begin{tabular}{@{}cccccccc@{}}
 			\toprule
 			& CH\textsubscript{4}  & CO\textsubscript{2}  & H\textsubscript{4}S  & NH\textsubscript{3}        & N\textsubscript{2}  & O\textsubscript{2}  & H\textsubscript{2}O  \\ \midrule
@@ -287,7 +292,7 @@ For the most promising waste towards biomethane production, food municipal waste
 	\resizebox{0.85\columnwidth}{!}{
 		\begin{tabular}{@{}cccc@{}}
 			\toprule
-			& \multicolumn{3}{c}{Food Waste}                                                                                                                                                                                        \\ \midrule
+			Food Waste    & & &                                                                                                                                                                                     \\ \midrule
 			& PSA                                                                   & Membranes                                                             & Amines                                                                \\
 			Waste flow (kg/s)                        & 9.795                                                                 & 9.795                                                                 & 9.795                                                                 \\
 			Kg Methane/kg feed                       & 0.0355                                                                & 0.0355                                                                & 0.0355                                                                \\
@@ -328,7 +333,7 @@ Therefore, the recommendation among biogas upgrading via CO\textsubscript{2} cap
 	\resizebox{0.55\columnwidth}{!}{
 		\begin{tabular}{@{}cc@{}}
 			\toprule
-			& Food Waste                                                            \\ \midrule
+			Food Waste &                                                              \\ \midrule
 			kg Methane/kg feed                                                               & 0.72/20                                                               \\
 			N\textdegree of digesters                                                                  & 12                                                                    \\
 			Investment cost (M EUR)                                                          & 124.5                                                                 \\
@@ -343,9 +348,9 @@ Therefore, the recommendation among biogas upgrading via CO\textsubscript{2} cap
 \subsection{Plant scale-up study}
 Economies of scale play an important role in the chemical industry, reducing the cost as the facilities are larger. Because of the distributed availability of the residues and the difficulty of transport, it is relevant to evaluate the effect of the scale on the process economics. Two of the four residues, food waste and cattle manure, are considered for further analysis due to the large amounts of wastes produced and the environmental concerns involved. In the first case the aim is to evaluate the cost for the biomethane for different city sizes as a function of the residues that they collect. Cities from 50 k to 5 million habitants are considered using the waste production rates of Spain, as shown in Fig. \ref{fig:Ch7Fig4}. Similar relationship between population and food waste generated can be expected for other countries or regions with a similar development level, although the results can be slightly affected by variations of some parameters, such as the amount of waste generated per person per year and the distribution of the population between urban and rural areas. The second case of study corresponds to cattle manure, assessing the biomethane production cost as a function of the size of concentrated animal feeding operations (CAFOs), considering facilities up to 16.000 cows. For a detailed description of the procedure followed in the scale-up study we refer the reader to the section S4 of the Supplementary Material. The cost of each unit is modelled as a function of the size, which is related to the mass or energy flow, as presented in the section \ref{section:SuppMatPaperCO2Section4} of the Supplementary Material. The investment and production costs are estimated as described in section \ref{section:Ch7Economicevaluation}. Fig. \ref{fig:Ch7Fig5} shows the production and investment costs as a function of the city size, and Fig. \ref{fig:Ch7Fig6} shows the scale-up for cattle manure.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure4.pdf} 
+	\includegraphics[width=0.7\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure4.pdf} 
 	\caption{Relation between population and food waste produced in Spain.}
 	\label{fig:Ch7Fig4}
 \end{figure}
@@ -354,14 +359,14 @@ The results show that large cities above 1 million inhabitants are able to produ
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.9\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure5.pdf} 
+	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure5.pdf} 
 	\caption{Scale-up in the investment costs for municipal food waste.}
 	\label{fig:Ch7Fig5}
 \end{figure}
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.9\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure6.pdf} 
+	\includegraphics[width=0.8\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/Chapter7/Figure6.pdf} 
 	\caption{Scale-up in the investment costs for cattle manure.}
 	\label{fig:Ch7Fig6}
 \end{figure}

@@ -3,7 +3,7 @@
 %*******************************************************
 % If problems with the headers: get headings in appendix etc. right
 %\markboth{\spacedlowsmallcaps{Appendix}}{\spacedlowsmallcaps{Appendix}}
-\chapter{Appendix E: Supplementary Information of Chapter 7}
+\chapter{Appendix E: Supplementary Information of Chapter 8}
 
 \begin{refsection}[referencesCh7]
 
@@ -107,7 +107,7 @@ Three different amines are selected aiming a high selectivity, MEA, DEA, and MDE
 	\centering
 	\caption{Amine properties for CO\textsubscript{2} capture \protect\citet{2012gpsa, 2004gpsa}.}
 	\label{table:ChETable2}
-%	\resizebox{\columnwidth}{!}{
+	\resizebox{0.7\columnwidth}{!}{
 		\begin{tabular}{@{}cccc@{}}
 			\toprule
 			& MEA     & DEA       & MDEA     \\ \midrule
@@ -122,14 +122,14 @@ Three different amines are selected aiming a high selectivity, MEA, DEA, and MDE
 %		\begin{tablenotes}
 %			\item[a] \\Insert footnote here
 %		\end{tablenotes}
-%	}
+	}
 \end{table}
 
 \begin{table}[h]
 	\centering
 	\caption{Amine regeneration heat loads \protect\citet{2004gpsa}.}
 	\label{table:ChETable3}
-	%	\resizebox{\columnwidth}{!}{
+		\resizebox{0.5\columnwidth}{!}{
 	\begin{tabular}{@{}cc@{}}
 		\toprule
 		& Duty (BTU/hr) \\ \midrule
@@ -138,7 +138,7 @@ Three different amines are selected aiming a high selectivity, MEA, DEA, and MDE
 		Amine feed to distillation & 45000 GPM     \\
 		Amine cooler               & 15000 GPM     \\ \bottomrule
 	\end{tabular}
-	%	}
+		}
 \end{table}
 
 The biomethane production model through amines scrubbing includes the units described in sections \ref{section:BiogasProductionPaperBiogas} and \ref{section:SuppMatAmines}. The NLP problem consists of 288 equations and 953 variables per amine evaluated and is solved using a multistart initialization approach with CONOPT as the preferred solver where the main decision variable are the pressures temperatures and flow rates.
@@ -149,7 +149,8 @@ The stream of gases passes through the bed of zeolites and the carbon dioxide is
 The adsorption capacity of the zeolites is directly related to the partial pressure of the CO\textsubscript{2}. Therefore, a system of compressors with intermediate cooling is implemented to determine the optimal operating pressure. As it is described previously, the compressors are modelled assuming polytropic behavior, with a polytropic coefficient $z$ of 1.4 and an efficiency of the compression stages of 0.85, Eq. \ref{eq:ChEEq9}. 
 
 \begin{align}
-\begin{array}{l}{T_{out/compresor}} = {T_{in/compressor}} + {T_{in/compressor}}\left( {{{\left( {\frac{{{P_{out/compressor}}}}{{{P_{in/compressor}}}}} \right)}^{\frac{{z - 1}}{z}}} - 1} \right)\frac{1}{{{\eta _c}}}\\{{{W}}_{\left( {Compressor} \right)}} = \left( F \right)\cdot\frac{{R\cdot z\cdot\left( {{{{T}}_{in/compressor}}} \right)}}{{\left( {\left( {{{M}}w} \right)\cdot\left( {z - {{1}}} \right)} \right)}}\frac{1}{{{\eta _c}}}\left( {{{\left( {\frac{{{P_{out/compressor}}}}{{{P_{in/compressor}}}}} \right)}^{\frac{{z - 1}}{z}}} - {{1}}} \right)\end{array} \label{eq:ChEEq9}
+&{T_{out/compresor}} = {T_{in/compressor}} + {T_{in/compressor}}\left( {{{\left( {\frac{{{P_{out/compressor}}}}{{{P_{in/compressor}}}}} \right)}^{\frac{{z - 1}}{z}}} - 1} \right)\frac{1}{{{\eta _c}}}\\
+&{{{W}}_{compressor}} = \left( F \right)\cdot\frac{{R\cdot z\cdot\left( {{{{T}}_{in/compressor}}} \right)}}{{\left( {\left( {{{M}}w} \right)\cdot\left( {z - {{1}}} \right)} \right)}}\frac{1}{{{\eta _c}}}\left( {{{\left( {\frac{{{P_{out/compressor}}}}{{{P_{in/compressor}}}}} \right)}^{\frac{{z - 1}}{z}}} - {{1}}} \right) \label{eq:ChEEq9}
 \end{align}
 
 The removal ratio is given by the breakthrough curve of the adsorbent bed. Based on experimental data \citep{hauchhum2014carbon} for adsorption stages below 20 min, the CO\textsubscript{2} removal yield of the PSA system is assumed to be 98\%, containing below 2\% CO\textsubscript{2} at the outlet stream, \citep{ferella2017separation}. The mass balance at the bed is as shown in Eq. \ref{eq:ChEEq10}.
@@ -192,7 +193,8 @@ Profit = BioCH_{4} - Cost_{Zeolite \ system} \label{eq:ChEEq14}
 \end{align}
 
 \begin{align}
-Cost_{Zeolite \ system} = C_{Electricity} \cdot W_{Compressor} + \frac{1}{K}{M_{Zeolite}} \cdot {C_{Zeolite}}\cdot{N_{Cycle}} \label{eq:ChEEq15}
+&Cost_{Zeolite \ system} = \label{eq:ChEEq15}\\
+&C_{Electricity} \cdot W_{Compressor} + \frac{1}{K}{M_{Zeolite}} \cdot {C_{Zeolite}}\cdot{N_{Cycle}} \nonumber
 \end{align}
 
 The cost of the zeolites considered is 5 USD/kg for both zeolite 13 X and zeolite 4A \citep{Xiao2013}. 
@@ -211,7 +213,8 @@ F{}_{feed}\cdot{y_{i,feed}} = {F_{permeate}}\cdot{y_{i,permeate}} + {F_{retentat
 \end{align}
 
 \begin{align}
-{J_i} = \frac{{{F_{permeate}}\cdot{y_{i,permeate}}}}{{{A_{membrane}}}};\ i \in (CO_{2},CH_{4}) \label{eq:ChEEq18}
+&{J_i} = \frac{{{F_{permeate}}\cdot{y_{i,permeate}}}}{{{A_{membrane}}}}; \label{eq:ChEEq18} \\
+&i \in (CO_{2},CH_{4}) \nonumber
 \end{align}
 
 \begin{align}
@@ -232,7 +235,7 @@ Where $\delta$is the membrane thickness, and ${Perm_{i}}$ the permeability of th
 	\centering
 	\caption{Gases permeability \protect\citet{vrbova2017upgrading}.}
 	\label{table:ChETable4}
-	%	\resizebox{\columnwidth}{!}{
+		\resizebox{0.5\columnwidth}{!}{
 	\begin{tabular}{@{}ccc@{}}
 		\toprule
 		& \multicolumn{2}{c}{Permeability (Barrer)} \\ \midrule
@@ -241,7 +244,7 @@ Where $\delta$is the membrane thickness, and ${Perm_{i}}$ the permeability of th
 		Polycarbonate     & 0.13                & 4.23                \\
 		Polyimide         & 0.25                & 10.7                \\ \bottomrule
 	\end{tabular}
-	%	}
+		}
 \end{table}
 
 Finally, the simplified profit objective function for the membrane separation system, Eq. \ref{eq:ChEEq22}, considers cost of the gas compression and the amortization of the investment costs of the membranes, Eq. \ref{eq:ChEEq23}. 
@@ -250,10 +253,9 @@ Finally, the simplified profit objective function for the membrane separation sy
 Profit = BioCH_{4} - Cost_{{{Membrane \ system}}} \label{eq:ChEEq22}
 \end{align}
 
-Eq21
 \begin{align}
-& Cost_{{{Membrane \ system}}} = \nonumber \\
-& {{{C}}_{Electricity}}\cdot W_{Compressor} + \frac{1}{K}\cdot{C_{Membrane}}\cdot\frac{1}{{Lf}}\cdot{N_{Membranes}}(\sum\limits_{i \in stages} {Are{a_i}} ) \label{eq:ChEEq23}
+& Cost_{{{Membrane \ system}}} = \label{eq:ChEEq23} \\
+& {{{C}}_{Electricity}}\cdot W_{Compressor} + \frac{1}{K}\cdot{C_{Membrane}}\cdot\frac{1}{{Lf}}\cdot{N_{Membranes}}\left( \sum\limits_{i \in stages} {Are{a_i}} \right)  \nonumber
 \end{align}
 
 A value of 50 USD/m\textsuperscript{2} will be used based on the literature \citep{kim2017optimization}. Considering the plant life equal to 20 years, the membranes with a typical lifetime of 4 years must be replaced 5 times during the plant life, $N_{Membranes}$ \citep{scholz2015structural}.

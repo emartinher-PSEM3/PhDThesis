@@ -38,7 +38,7 @@ COW2NUTRIENT framework is comprised by three models, i.e. environmental geograph
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.85\linewidth, trim={3cm 4cm 4cm 1.5cm},clip]{gfx/Chapter4/tool_diagram_v4color.pdf} 
+	\includegraphics[width=0.95\linewidth, trim={3cm 4cm 4cm 1.5cm},clip]{gfx/Chapter4/tool_diagram_v4color.pdf} 
 	\caption{Structure of the COW2NUTRIENT decision support framework for the assessment and selection of phosphorus recovery systems.}
 	\label{fig:tool_diagram}
 \end{figure}
@@ -58,7 +58,7 @@ The Trophic State Index (TSI) is a metric proposed by \citet{carlson_trophic_197
 	\centering
 	\caption{Relation between TSI value and trophic class.}
 	\label{table:TSI_relation}
-	\resizebox{\columnwidth}{!}{
+	\resizebox{0.9\columnwidth}{!}{
 	\begin{tabular}{@{}lllll@{}}
 		\toprule
 		{TSI}           & \textless 40 & 40-50       & 50-70     & \textgreater{}70 \\ \midrule
@@ -91,7 +91,7 @@ The relationship between M3P test value and the quality of soil is shown in Tabl
 	\centering
 	\caption{Relationship between Mehlich 3 phosphorus and soil fertility level \protect\citep{Espinoza2006}.}
 	\label{table:soil_fertility}
-	\resizebox{0.85\columnwidth}{!}{
+	\resizebox{0.8\columnwidth}{!}{
 	\begin{tabular}{@{}cc@{}}
 		\toprule
 		Soil Fertility Level & M3P soil phosphorus concentration (ppm) \\ \midrule
@@ -110,7 +110,7 @@ The techno-economic model is based on mass balances, thermodynamics, and chemica
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.95\linewidth, trim=1cm 1cm 1cm 1cm, clip]{gfx/Chapter4/Process_Flowsheet2.pdf} 
+	\includegraphics[width=\linewidth, trim=1cm 1cm 1cm 1cm, clip]{gfx/Chapter4/Process_Flowsheet2.pdf} 
 	\caption{Process flowsheet for manure management and phosphorus recovery stages included in COW2NUTRIENT.}
 	\label{fig:flowsheet}
 \end{figure}
@@ -159,25 +159,25 @@ All technologies considered are at or near commercial stage. We note that, for a
 			\toprule
 			Technology   & Company                                                                       & Technology type                                                            & \begin{tabular}[c]{@{}c@{}}Technology\\ readiness level\end{tabular} & \begin{tabular}[c]{@{}c@{}}Phosphorus recovery\\ efficiency (\%)\end{tabular} & 
 			\begin{tabular}[c]{@{}c@{}}Treatment capacity\\ $\left(\frac{\text{kg\textsubscript{P-PO4}}}{\text{day} \cdot \text{unit}}\right)$ \end{tabular} & \begin{tabular}[c]{@{}c@{}}CAPEX\\ $\left(\frac{\text{MM USD}}{\text{unit}}\right)$ \end{tabular} & \begin{tabular}[c]{@{}c@{}} OPEX\\ $\left(\frac{\text{USD}}{\text{\text{kg\textsubscript{P-PO4}}}}\right)$ \end{tabular} & Reference \\ \midrule
-			Multiform    & Multiform Harvest                                                             & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$   &38.5       &       1.1 &   15.42 & 1  \\ \\
+			Multiform    & Multiform Harvest                                                             & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$   &38.5       &       1.1 &   15.42 & 1  \\
 			
-			Crystalactor & \begin{tabular}[c]{@{}c@{}}Royal Haskoning\\ DHV\end{tabular}                 & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$     & 137.7           &    $2.3 + 0.71 \cdot n_{\text{Crystalactor}}$      &  2.12 & 2  \\ \\
+			Crystalactor & \begin{tabular}[c]{@{}c@{}}Royal Haskoning\\ DHV\end{tabular}                 & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$     & 137.7           &    $2.3 + 0.71 \cdot n_{\text{Crystalactor}}$      &  2.12 & 2  \\
 			
 			NuReSys      & \begin{tabular}[c]{@{}c@{}}Nutrient Recovery\\ Systems\end{tabular}           & Struvite-based                
-			& 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$   & 204.0          &     1.38   &   6.22 &  1 \\ \\
+			& 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$   & 204.0          &     1.38   &   6.22 &  1 \\
 			
-			Pearl 500       & Ostara                                                                        & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$            &         65.0    &  2.3 &  7.54 & 3 \\ \\
+			Pearl 500       & Ostara                                                                        & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$            &         65.0    &  2.3 &  7.54 & 3 \\
 			
-			Pearl 2K       & Ostara                                                                        & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$            &      250.0   &   3.1  & 7.54 & 1 \\ \\
+			Pearl 2K       & Ostara                                                                        & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$            &      250.0   &   3.1  & 7.54 & 1 \\
 			
-			Pearl 10K       & Ostara                                                                        & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$            &         1250.0    &  10.0 &  7.54 & 4 \\ \\
+			Pearl 10K       & Ostara                                                                        & Struvite-based                                                             & 9                                                                    & $\frac{0.798 \cdot 100}{1+\left(x_{Ca^{2+}:PO_{4}^{3-}} \cdot 0.576\right)^{2.113}}$            &         1250.0    &  10.0 &  7.54 & 4 \\
 			
-			P-RoC        & \begin{tabular}[c]{@{}c@{}}Karlsruhe Institute\\ of Technology\end{tabular}   & \begin{tabular}[c]{@{}c@{}}Calcium \\ precipitates-based\end{tabular}      & 6                                                                    & 60                      & 24.3     &  \begin{tabular}[c]{@{}c@{}}Tailored design based\\on waste flow processed. \\ See Section 2.2.4.4 of \\ Supplementary Material.	\end{tabular}   &     23.22 - 167.8  & 5  \\ \\
+			P-RoC        & \begin{tabular}[c]{@{}c@{}}Karlsruhe Institute\\ of Technology\end{tabular}   & \begin{tabular}[c]{@{}c@{}}Calcium \\ precipitates-based\end{tabular}      & 6                                                                    & 60                      & 24.3     &  \begin{tabular}[c]{@{}c@{}}Tailored design based\\on waste flow processed. \\ See Section 2.2.4.4 of \\ Supplementary Material.	\end{tabular}   &     23.22 - 167.8  & 5  \\
 			
 			MAPHEX       & \begin{tabular}[c]{@{}c@{}}University of Pennsylvania\\ and USDA\end{tabular} & \begin{tabular}[c]{@{}c@{}}Modular phases\\ separation system\end{tabular} & 7                                                                    & 90                                                      & 18.5   &   0.3    &    110.8  & 6, 7  \\ \bottomrule
 	\end{tabular}}
 	\begin{tablenotes}
-		\footnotesize
+		\scriptsize
 		\item 1: \citet{Pearl2Kcost2}
 		\item 2: \citet{egle_phosphorus_2016}
 		\item 3: \citet{Pearl500cost1}
@@ -307,14 +307,17 @@ Additionally, NuReSys is a technology also selected for medium-size CAFOs.
 
 The integration of biogas production and upgrading affects the selection of P recovery processes as a consequence of the high investment expenditures associated to the installation of AD processes. These large costs blur the capital investment differences between different P recovery processes. As a result, the MDCA model promotes the implementation of technologies with better long-term economic performance (lower operating costs), such as NuReSys and Crystalactor, in spite of the fact that they involve larger investments costs than other technologies like Multiform, as shown in Figure \ref{fig:PTechs_Distribution_AD}. 
 
-\begin{figure}[h]
-	\begin{subfigure}[t]{0.49\linewidth}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf} 
 		\caption{Phosphorus recovery systems only.}
 		\label{fig:PTechs_Distribution_NoAD}
 	\end{subfigure}
-	\quad
-	\begin{subfigure}[t]{0.49\linewidth}
+%	\hspace{0.5em}
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf}
 		\caption{Phosphorus recovery systems coupled with AD and electricity production.}
 		\label{fig:PTechs_Distribution_AD}
@@ -332,7 +335,7 @@ The results obtained reveal that CAFOs scale is the main driver for the selectio
 \begin{table}[h]
 	\centering
 	\caption{Economic results per state for installing phosphorus recovery systems in the studied states of the Great Lakes area.} \label{table:economic_results}
-	\resizebox{\columnwidth}{!}{
+	\resizebox{0.9\columnwidth}{!}{
 		\begin{threeparttable}
 			\begin{tabular}{@{}ccccccc@{}}
 				\toprule
@@ -357,14 +360,17 @@ The results obtained reveal that CAFOs scale is the main driver for the selectio
 \subsection{Economic results}
 The capital expenditures (CAPEX), operating expenses (OPEX), and net revenues (difference between incomes and operating expenses) associated with the deployment of the nutrient management systems are listed per state in Table \ref{table:economic_results}. For the scenario considering the installation of only phosphorus recovery processes, the CAPEX and OPEX are 2,540.77 MM USD and 185.65 MM USD per year respectively. If the integration of biogas production and upgrading to power with phosphorus management is considered, the CAPEX and OPEX increase up to 5,192.29 MM USD and 267.51 MM USD per year respectively. It can be observed that, due to the high CAPEX of biogas production and upgrading stages, the net revenues decrease from 230.65 MM USD per year for the scenario considering only phosphorus recovery systems to 95.77 MM USD per year if the processes for phosphorus recovery and AD are combined.
 
-\begin{figure}[h]
-	\begin{subfigure}[t]{0.48\linewidth}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf} 
 		\caption{Phosphorus recovery systems only.}
 		\label{fig:Capital_TechSelected_Pcredits22_REC0}
 	\end{subfigure}
-	\quad
-	\begin{subfigure}[t]{0.48\linewidth}
+	
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf}
 		\caption{Phosphorus recovery systems coupled with AD and electricity production.}
 		\label{fig:Capital_TechSelected_Pcredits22_REC60}
@@ -375,14 +381,17 @@ The capital expenditures (CAPEX), operating expenses (OPEX), and net revenues (d
 \end{figure}
 
 
-\begin{figure}[h]
-	\begin{subfigure}[t]{0.48\linewidth}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf} 
 		\caption{Phosphorus recovery systems only.}
 		\label{fig:OPEX_TechSelected_Pcredits22_REC0}
 	\end{subfigure}
-	\quad
-	\begin{subfigure}[t]{0.48\linewidth}
+	
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf}
 		\caption{Phosphorus recovery systems coupled with AD and electricity production.}
 		\label{fig:OPEX_TechSelected_Pcredits22_REC60}
@@ -396,14 +405,17 @@ Figures \ref{fig:Capital_TechSelected} and \ref{fig:OPEX_TechSelected} show the 
 This is because, although CAFOs can have a similar number of animal units, the type of the animals can be different, resulting in the generation of different amounts of manure. 
 In the case of considering biogas production and upgrading, illustrated in Figure \ref{fig:Capital_TechSelected_Pcredits22_REC60}, the required CAPEX increases significantly, blurring the differences in the capital investment between different P recovery processes observed in Figure \ref{fig:Capital_TechSelected_Pcredits22_REC0} into the cost of the whole system. The integration of AD and electricity production also results in the increase of the OPEX, as shown in Figure \ref{fig:OPEX_TechSelected}.
 
-\begin{figure}[h]
-	\begin{subfigure}[t]{0.48\linewidth}
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf} 
 		\caption{Phosphorus recovery systems only.}
 		\label{fig:NetRev_TechSelected_Pcredits22_REC0}
 	\end{subfigure}
-	\quad
-	\begin{subfigure}[t]{0.48\linewidth}
+	
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf}
 		\caption{Phosphorus recovery systems coupled with anaerobic digestion and electricity production.}
 		\label{fig:NetRev_TechSelected_Pcredits22_REC60}
