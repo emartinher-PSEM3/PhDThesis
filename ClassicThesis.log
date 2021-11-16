@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.1)  8 NOV 2021 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.1)  16 NOV 2021 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2926,57 +2926,63 @@ Overfull \hbox (5.30132pt too wide) in paragraph at lines 184--185
 [11] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
+
+Overfull \hbox (2.10027pt too wide) in paragraph at lines 203--206
+\T1/pplj/m/n/10.95 (-20) objective math-e-mat-i-cal pro-gram-ming (op-ti-miza-t
+ion) tech-niques to be solved.
+ []
+
 \openout4 = `ClassicThesis.mw.mw'.
 
- [12] (./ClassicThesis.mw.mw)
+[12] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [13]
+ [13] (./ClassicThesis.mw.mw)
+\openout4 = `ClassicThesis.mw.mw'.
+
+\openout4 = `ClassicThesis.mw.mw'.
+
+ [14]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [14] (./ClassicThesis.mw.mw)
+ [15] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [15]
+ [16]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [16] (./ClassicThesis.mw.mw)
+ [17] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [17]
+ [18]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [18] (./ClassicThesis.mw.mw)
+ [19] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
 \openout4 = `ClassicThesis.mw.mw'.
 
- [19]
+ [20]
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-\openout4 = `ClassicThesis.mw.mw'.
 
- [20] (./ClassicThesis.mw.mw)
-\openout4 = `ClassicThesis.mw.mw'.
-
-
-Overfull \hbox (12.56923pt too wide) in paragraph at lines 309--309
+Overfull \hbox (12.56923pt too wide) in paragraph at lines 310--310
 [][]\T1/pplj/m/n/10.95 (-20) Hall, S. M. (2012). \T1/pplj/m/it/10.95 (-20) Rule
 s of thumb for chem-i-cal en-gi-neers\T1/pplj/m/n/10.95 (-20) . Butterworth-Hei
 nemann. 
@@ -2992,7 +2998,7 @@ nemann.
  [22] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-Package biblatex Info: Reference section=0 on input line 310.
+Package biblatex Info: Reference section=0 on input line 311.
 )
 \openout4 = `ClassicThesis.mw.mw'.
 
@@ -3073,7 +3079,7 @@ Package biblatex Info: Setting label 'refsection:3' on input line 4.
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter2/superstructure3bloquesCO
 MPATIBILIDAD-Layout3.pdf): PDF inclusion: found PDF version <1.7>, but at most 
 version <1.5> allowed
-<gfx/Chapter2/superstructure3bloquesCOMPATIBILIDAD-Layout3.pdf, id=1026, 1195.4
+<gfx/Chapter2/superstructure3bloquesCOMPATIBILIDAD-Layout3.pdf, id=1025, 1195.4
 6625pt x 845.1575pt>
 File: gfx/Chapter2/superstructure3bloquesCOMPATIBILIDAD-Layout3.pdf Graphic fil
 e (type pdf)
@@ -3122,7 +3128,7 @@ LaTeX Warning: No positions in optional float specifier.
  [36] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter2/Fig2.pdf, id=1127, 301.07681pt x 162.31842pt>
+<gfx/Chapter2/Fig2.pdf, id=1126, 301.07681pt x 162.31842pt>
 File: gfx/Chapter2/Fig2.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig2.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig2.pdf  used on input line 135.
@@ -3147,7 +3153,7 @@ Overfull \hbox (11.31859pt too wide) detected at line 234
 [39] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter2/Fig3.pdf, id=1204, 457.75821pt x 198.01982pt>
+<gfx/Chapter2/Fig3.pdf, id=1203, 457.75821pt x 198.01982pt>
 File: gfx/Chapter2/Fig3.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig3.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig3.pdf  used on input line 258.
@@ -3194,7 +3200,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
  [46] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter2/Fig4.pdf, id=1341, 361.35pt x 116.06561pt>
+<gfx/Chapter2/Fig4.pdf, id=1340, 361.35pt x 116.06561pt>
 File: gfx/Chapter2/Fig4.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig4.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig4.pdf  used on input line 461.
@@ -3215,7 +3221,7 @@ Package pdftex.def Info: gfx/Chapter2/Fig4.pdf  used on input line 461.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter2/Fig5.pdf, id=1411, 433.62pt x 272.02428pt>
+<gfx/Chapter2/Fig5.pdf, id=1410, 433.62pt x 272.02428pt>
 File: gfx/Chapter2/Fig5.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig5.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig5.pdf  used on input line 549.
@@ -3224,7 +3230,7 @@ Package pdftex.def Info: gfx/Chapter2/Fig5.pdf  used on input line 549.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gfx/Chapter2/Fig6.pdf, id=1413, 433.62pt x 215.79822pt>
+<gfx/Chapter2/Fig6.pdf, id=1412, 433.62pt x 215.79822pt>
 File: gfx/Chapter2/Fig6.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig6.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig6.pdf  used on input line 556.
@@ -3315,7 +3321,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
  [63] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter2/Fig7.pdf, id=1651, 409.48181pt x 406.59103pt>
+<gfx/Chapter2/Fig7.pdf, id=1650, 409.48181pt x 406.59103pt>
 File: gfx/Chapter2/Fig7.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig7.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig7.pdf  used on input line 911.
@@ -3335,7 +3341,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter2/Fig8.pdf, id=1676, 433.62pt x 286.1892pt>
+<gfx/Chapter2/Fig8.pdf, id=1675, 433.62pt x 286.1892pt>
 File: gfx/Chapter2/Fig8.pdf Graphic file (type pdf)
 <use gfx/Chapter2/Fig8.pdf>
 Package pdftex.def Info: gfx/Chapter2/Fig8.pdf  used on input line 943.
@@ -15830,7 +15836,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  [88] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf, id=2054, 1195.015
+<gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf, id=2053, 1195.015
 72pt x 1690.09372pt>
 File: gfx/Chapter3/algorithm_flowsheet_w_squares_SUPERREDUCED.pdf Graphic file 
 (type pdf)
@@ -15842,7 +15848,7 @@ D.pdf  used on input line 212.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gfx/Chapter3/procedure.pdf, id=2056, 845.01837pt x 597.47943pt>
+<gfx/Chapter3/procedure.pdf, id=2055, 845.01837pt x 597.47943pt>
 File: gfx/Chapter3/procedure.pdf Graphic file (type pdf)
 <use gfx/Chapter3/procedure.pdf>
 Package pdftex.def Info: gfx/Chapter3/procedure.pdf  used on input line 220.
@@ -15850,7 +15856,7 @@ Package pdftex.def Info: gfx/Chapter3/procedure.pdf  used on input line 220.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gfx/Chapter3/validation.pdf, id=2067, 722.7pt x 505.89pt>
+<gfx/Chapter3/validation.pdf, id=2066, 722.7pt x 505.89pt>
 File: gfx/Chapter3/validation.pdf Graphic file (type pdf)
 <use gfx/Chapter3/validation.pdf>
 Package pdftex.def Info: gfx/Chapter3/validation.pdf  used on input line 233.
@@ -15889,7 +15895,7 @@ Thesis.mw.mw)
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter3/Contour_plot_mod.pdf, id=2210, 433.62pt x 289.08pt>
+<gfx/Chapter3/Contour_plot_mod.pdf, id=2209, 433.62pt x 289.08pt>
 File: gfx/Chapter3/Contour_plot_mod.pdf Graphic file (type pdf)
 <use gfx/Chapter3/Contour_plot_mod.pdf>
 Package pdftex.def Info: gfx/Chapter3/Contour_plot_mod.pdf  used on input line 
@@ -15910,27 +15916,27 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter3/TES_mod.png, id=2291, 2943.93971pt x 1590.64853pt>
+<gfx/Chapter3/TES_mod.png, id=2290, 2943.93971pt x 1590.64853pt>
 File: gfx/Chapter3/TES_mod.png Graphic file (type png)
 <use gfx/Chapter3/TES_mod.png>
 Package pdftex.def Info: gfx/Chapter3/TES_mod.png  used on input line 326.
 (pdftex.def)             Requested size: 358.50479pt x 193.68506pt.
-<gfx/Chapter3/scenario1.png, id=2293, 5781.6pt x 3252.15pt>
+<gfx/Chapter3/scenario1.png, id=2292, 5781.6pt x 3252.15pt>
 File: gfx/Chapter3/scenario1.png Graphic file (type png)
 <use gfx/Chapter3/scenario1.png>
 Package pdftex.def Info: gfx/Chapter3/scenario1.png  used on input line 335.
 (pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
-<gfx/Chapter3/scenario2.png, id=2295, 5781.6pt x 3252.15pt>
+<gfx/Chapter3/scenario2.png, id=2294, 5781.6pt x 3252.15pt>
 File: gfx/Chapter3/scenario2.png Graphic file (type png)
 <use gfx/Chapter3/scenario2.png>
 Package pdftex.def Info: gfx/Chapter3/scenario2.png  used on input line 341.
 (pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
-<gfx/Chapter3/scenario3.png, id=2297, 5781.6pt x 3252.15pt>
+<gfx/Chapter3/scenario3.png, id=2296, 5781.6pt x 3252.15pt>
 File: gfx/Chapter3/scenario3.png Graphic file (type png)
 <use gfx/Chapter3/scenario3.png>
 Package pdftex.def Info: gfx/Chapter3/scenario3.png  used on input line 347.
 (pdftex.def)             Requested size: 292.78218pt x 166.5261pt.
-<gfx/Chapter3/scenario4.png, id=2299, 5781.6pt x 3252.15pt>
+<gfx/Chapter3/scenario4.png, id=2298, 5781.6pt x 3252.15pt>
 File: gfx/Chapter3/scenario4.png Graphic file (type png)
 <use gfx/Chapter3/scenario4.png>
 Package pdftex.def Info: gfx/Chapter3/scenario4.png  used on input line 353.
@@ -20255,7 +20261,7 @@ Overfull \hbox (16.95215pt too wide) has occurred while \output is active
 [112] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter4/tool_diagram_v4color.pdf, id=2475, 1195.01572pt x 845.04686pt>
+<gfx/Chapter4/tool_diagram_v4color.pdf, id=2474, 1195.01572pt x 845.04686pt>
 File: gfx/Chapter4/tool_diagram_v4color.pdf Graphic file (type pdf)
 <use gfx/Chapter4/tool_diagram_v4color.pdf>
 Package pdftex.def Info: gfx/Chapter4/tool_diagram_v4color.pdf  used on input l
@@ -20300,7 +20306,7 @@ Overfull \hbox (16.95215pt too wide) has occurred while \output is active
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/Process_Flowsheet2.pdf):
  PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter4/Process_Flowsheet2.pdf, id=2553, 1760.48586pt x 1055.14195pt>
+<gfx/Chapter4/Process_Flowsheet2.pdf, id=2552, 1760.48586pt x 1055.14195pt>
 File: gfx/Chapter4/Process_Flowsheet2.pdf Graphic file (type pdf)
 <use gfx/Chapter4/Process_Flowsheet2.pdf>
 Package pdftex.def Info: gfx/Chapter4/Process_Flowsheet2.pdf  used on input lin
@@ -20361,7 +20367,7 @@ Overfull \hbox (16.95215pt too wide) has occurred while \output is active
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter4/MCDA_SMAA.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter4/MCDA_SMAA.pdf, id=2715, 614.295pt x 794.97pt>
+<gfx/Chapter4/MCDA_SMAA.pdf, id=2713, 614.295pt x 794.97pt>
 File: gfx/Chapter4/MCDA_SMAA.pdf Graphic file (type pdf)
 <use gfx/Chapter4/MCDA_SMAA.pdf>
 Package pdftex.def Info: gfx/Chapter4/MCDA_SMAA.pdf  used on input line 200.
@@ -20424,7 +20430,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [129] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf, id=2816, 471.26062pt x 369
+<gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf, id=2815, 471.26062pt x 369
 .93839pt>
 File: gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf Graphic file (type pdf
 )
@@ -20432,7 +20438,7 @@ File: gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf Graphic file (type pdf
 Package pdftex.def Info: gfx/Chapter4/TechsDistribution_Pcredits22_REC0.pdf  us
 ed on input line 314.
 (pdftex.def)             Requested size: 250.95226pt x 196.9978pt.
-<gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf, id=2817, 471.26062pt x 36
+<gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf, id=2816, 471.26062pt x 36
 9.93839pt>
 File: gfx/Chapter4/TechsDistribution_Pcredits22_REC60.pdf Graphic file (type pd
 f)
@@ -20475,7 +20481,7 @@ Overfull \hbox (16.95215pt too wide) has occurred while \output is active
 [132] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf, id=2961, 461.16002pt x 
+<gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf, id=2960, 461.16002pt x 
 385.75581pt>
 File: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf Graphic file (type 
 pdf)
@@ -20483,7 +20489,7 @@ pdf)
 Package pdftex.def Info: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC0.pdf 
  used on input line 367.
 (pdftex.def)             Requested size: 250.95226pt x 209.91783pt.
-<gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf, id=2962, 456.6902pt x 
+<gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf, id=2961, 456.6902pt x 
 380.41556pt>
 File: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf Graphic file (type
  pdf)
@@ -20495,7 +20501,7 @@ Package pdftex.def Info: gfx/Chapter4/Capital_TechSelected_Pcredits22_REC60.pdf
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf, id=2963, 461.16002pt 
+<gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf, id=2962, 461.16002pt 
 x 380.41556pt>
 File: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pdf Graphic file (typ
 e pdf)
@@ -20503,7 +20509,7 @@ e pdf)
 Package pdftex.def Info: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC0.pd
 f  used on input line 388.
 (pdftex.def)             Requested size: 250.95226pt x 207.01181pt.
-<gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf, id=2964, 461.16002pt
+<gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf, id=2963, 461.16002pt
  x 380.41556pt>
 File: gfx/Chapter4/Amortized_TechSelected_Pcredits22_REC60.pdf Graphic file (ty
 pe pdf)
@@ -20514,7 +20520,7 @@ df  used on input line 395.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf, id=2972, 461.16002pt x 3
+<gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf, id=2971, 461.16002pt x 3
 85.75581pt>
 File: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf Graphic file (type p
 df)
@@ -20522,7 +20528,7 @@ df)
 Package pdftex.def Info: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC0.pdf  
 used on input line 412.
 (pdftex.def)             Requested size: 250.95226pt x 209.91783pt.
-<gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf, id=2973, 461.16002pt x 
+<gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf, id=2972, 461.16002pt x 
 385.75581pt>
 File: gfx/Chapter4/NetRev_TechSelected_Pcredits22_REC60.pdf Graphic file (type 
 pdf)
@@ -20703,7 +20709,7 @@ Package biblatex Info: Setting label 'refsection:6' on input line 4.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter5/tool_diagram_v4color.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter5/tool_diagram_v4color.pdf, id=3419, 661.98183pt x 763.1598pt>
+<gfx/Chapter5/tool_diagram_v4color.pdf, id=3418, 661.98183pt x 763.1598pt>
 File: gfx/Chapter5/tool_diagram_v4color.pdf Graphic file (type pdf)
 <use gfx/Chapter5/tool_diagram_v4color.pdf>
 Package pdftex.def Info: gfx/Chapter5/tool_diagram_v4color.pdf  used on input l
@@ -20718,7 +20724,7 @@ ine 42.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter5/Process_Flowsheet.pdf): 
 PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter5/Process_Flowsheet.pdf, id=3450, 1000.22818pt x 609.97018pt>
+<gfx/Chapter5/Process_Flowsheet.pdf, id=3449, 1000.22818pt x 609.97018pt>
 File: gfx/Chapter5/Process_Flowsheet.pdf Graphic file (type pdf)
 <use gfx/Chapter5/Process_Flowsheet.pdf>
 Package pdftex.def Info: gfx/Chapter5/Process_Flowsheet.pdf  used on input line
@@ -20755,7 +20761,7 @@ LaTeX Warning: No positions in optional float specifier.
  [156] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter5/Blank_US_map_borders_labels.pdf, id=3545, 451.6875pt x 301.125pt>
+<gfx/Chapter5/Blank_US_map_borders_labels.pdf, id=3544, 451.6875pt x 301.125pt>
 
 File: gfx/Chapter5/Blank_US_map_borders_labels.pdf Graphic file (type pdf)
 <use gfx/Chapter5/Blank_US_map_borders_labels.pdf>
@@ -20777,7 +20783,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [158] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter5/REC0DataAnalysis__PercProfitableStates.pdf, id=3578, 471.53665pt 
+<gfx/Chapter5/REC0DataAnalysis__PercProfitableStates.pdf, id=3577, 471.53665pt 
 x 353.54716pt>
 File: gfx/Chapter5/REC0DataAnalysis__PercProfitableStates.pdf Graphic file (typ
 e pdf)
@@ -20785,7 +20791,7 @@ e pdf)
 Package pdftex.def Info: gfx/Chapter5/REC0DataAnalysis__PercProfitableStates.pd
 f  used on input line 171.
 (pdftex.def)             Requested size: 304.73125pt x 228.48122pt.
-<gfx/Chapter5/PC0DataAnalysis__PercProfitableStates.pdf, id=3579, 469.9981pt x 
+<gfx/Chapter5/PC0DataAnalysis__PercProfitableStates.pdf, id=3578, 469.9981pt x 
 353.54716pt>
 File: gfx/Chapter5/PC0DataAnalysis__PercProfitableStates.pdf Graphic file (type
  pdf)
@@ -20822,13 +20828,13 @@ single page
  [161] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter5/DataAnalysisProfitable.pdf, id=3707, 758.11919pt x 471.90053pt>
+<gfx/Chapter5/DataAnalysisProfitable.pdf, id=3706, 758.11919pt x 471.90053pt>
 File: gfx/Chapter5/DataAnalysisProfitable.pdf Graphic file (type pdf)
 <use gfx/Chapter5/DataAnalysisProfitable.pdf>
 Package pdftex.def Info: gfx/Chapter5/DataAnalysisProfitable.pdf  used on input
  line 211.
 (pdftex.def)             Requested size: 358.50479pt x 223.16139pt.
-<gfx/Chapter5/TAC_tonManure.pdf, id=3708, 760.14238pt x 471.90053pt>
+<gfx/Chapter5/TAC_tonManure.pdf, id=3707, 760.14238pt x 471.90053pt>
 File: gfx/Chapter5/TAC_tonManure.pdf Graphic file (type pdf)
 <use gfx/Chapter5/TAC_tonManure.pdf>
 Package pdftex.def Info: gfx/Chapter5/TAC_tonManure.pdf  used on input line 218
@@ -20853,7 +20859,7 @@ inclusion: multiple pdfs with page group included in a single page
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter5/TotalCost_kgPRecoveredAllStatesv2.pdf, id=3845, 815.5062pt x 446.
+<gfx/Chapter5/TotalCost_kgPRecoveredAllStatesv2.pdf, id=3844, 815.5062pt x 446.
 52444pt>
 File: gfx/Chapter5/TotalCost_kgPRecoveredAllStatesv2.pdf Graphic file (type pdf
 )
@@ -20872,17 +20878,17 @@ mw.mw)
  [165] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter5/MinIncent.pdf, id=3923, 581.791pt x 372.47598pt>
+<gfx/Chapter5/MinIncent.pdf, id=3922, 581.791pt x 372.47598pt>
 File: gfx/Chapter5/MinIncent.pdf Graphic file (type pdf)
 <use gfx/Chapter5/MinIncent.pdf>
 Package pdftex.def Info: gfx/Chapter5/MinIncent.pdf  used on input line 274.
 (pdftex.def)             Requested size: 322.65211pt x 206.56747pt.
-<gfx/Chapter5/NashIncent.pdf, id=3928, 605.16899pt x 368.18152pt>
+<gfx/Chapter5/NashIncent.pdf, id=3927, 605.16899pt x 368.18152pt>
 File: gfx/Chapter5/NashIncent.pdf Graphic file (type pdf)
 <use gfx/Chapter5/NashIncent.pdf>
 Package pdftex.def Info: gfx/Chapter5/NashIncent.pdf  used on input line 292.
 (pdftex.def)             Requested size: 319.06903pt x 194.11841pt.
-<gfx/Chapter5/NashIncentv2.pdf, id=3929, 624.12108pt x 367.89636pt>
+<gfx/Chapter5/NashIncentv2.pdf, id=3928, 624.12108pt x 367.89636pt>
 File: gfx/Chapter5/NashIncentv2.pdf Graphic file (type pdf)
 <use gfx/Chapter5/NashIncentv2.pdf>
 Package pdftex.def Info: gfx/Chapter5/NashIncentv2.pdf  used on input line 299.
@@ -21000,7 +21006,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter6/Process_Flowsheet2.pdf):
  PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter6/Process_Flowsheet2.pdf, id=4187, 891.82318pt x 497.21191pt>
+<gfx/Chapter6/Process_Flowsheet2.pdf, id=4186, 891.82318pt x 497.21191pt>
 File: gfx/Chapter6/Process_Flowsheet2.pdf Graphic file (type pdf)
 <use gfx/Chapter6/Process_Flowsheet2.pdf>
 Package pdftex.def Info: gfx/Chapter6/Process_Flowsheet2.pdf  used on input lin
@@ -21055,7 +21061,7 @@ Overfull \hbox (36.5722pt too wide) has occurred while \output is active
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter6/MULTIFORM.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter6/MULTIFORM.pdf, id=4293, 614.295pt x 794.97pt>
+<gfx/Chapter6/MULTIFORM.pdf, id=4292, 614.295pt x 794.97pt>
 File: gfx/Chapter6/MULTIFORM.pdf Graphic file (type pdf)
 <use gfx/Chapter6/MULTIFORM.pdf>
 Package pdftex.def Info: gfx/Chapter6/MULTIFORM.pdf  used on input line 283.
@@ -21064,7 +21070,7 @@ Package pdftex.def Info: gfx/Chapter6/MULTIFORM.pdf  used on input line 283.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter6/MAPHEX.pdf): PDF inclusi
 on: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter6/MAPHEX.pdf, id=4295, 706.79494pt x 413.39009pt>
+<gfx/Chapter6/MAPHEX.pdf, id=4294, 706.79494pt x 413.39009pt>
 File: gfx/Chapter6/MAPHEX.pdf Graphic file (type pdf)
 <use gfx/Chapter6/MAPHEX.pdf>
 Package pdftex.def Info: gfx/Chapter6/MAPHEX.pdf  used on input line 290.
@@ -21073,18 +21079,18 @@ Package pdftex.def Info: gfx/Chapter6/MAPHEX.pdf  used on input line 290.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/Chapter6/Membrane2.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
-<gfx/Chapter6/Membrane2.pdf, id=4297, 933.73409pt x 341.12009pt>
+<gfx/Chapter6/Membrane2.pdf, id=4296, 933.73409pt x 341.12009pt>
 File: gfx/Chapter6/Membrane2.pdf Graphic file (type pdf)
 <use gfx/Chapter6/Membrane2.pdf>
 Package pdftex.def Info: gfx/Chapter6/Membrane2.pdf  used on input line 299.
 (pdftex.def)             Requested size: 239.00409pt x 77.46753pt.
-<gfx/Chapter6/BeltDryerFinal3.pdf, id=4299, 1433.54063pt x 918.30841pt>
+<gfx/Chapter6/BeltDryerFinal3.pdf, id=4298, 1433.54063pt x 918.30841pt>
 File: gfx/Chapter6/BeltDryerFinal3.pdf Graphic file (type pdf)
 <use gfx/Chapter6/BeltDryerFinal3.pdf>
 Package pdftex.def Info: gfx/Chapter6/BeltDryerFinal3.pdf  used on input line 3
 06.
 (pdftex.def)             Requested size: 209.12686pt x 133.957pt.
-<gfx/Chapter6/StrippingScrubbing.pdf, id=4301, 1255.47192pt x 607.07399pt>
+<gfx/Chapter6/StrippingScrubbing.pdf, id=4300, 1255.47192pt x 607.07399pt>
 File: gfx/Chapter6/StrippingScrubbing.pdf Graphic file (type pdf)
 <use gfx/Chapter6/StrippingScrubbing.pdf>
 Package pdftex.def Info: gfx/Chapter6/StrippingScrubbing.pdf  used on input lin
@@ -21152,7 +21158,7 @@ Overfull \hbox (36.5722pt too wide) has occurred while \output is active
 [190] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter6/AlamoFlooding.pdf, id=5968, 439.11015pt x 349.6474pt>
+<gfx/Chapter6/AlamoFlooding.pdf, id=5967, 439.11015pt x 349.6474pt>
 File: gfx/Chapter6/AlamoFlooding.pdf Graphic file (type pdf)
 <use gfx/Chapter6/AlamoFlooding.pdf>
 Package pdftex.def Info: gfx/Chapter6/AlamoFlooding.pdf  used on input line 880
@@ -21199,7 +21205,7 @@ Overfull \hbox (36.5722pt too wide) has occurred while \output is active
  [195] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter6/NitrogenFlow_AmmoniaEvaporation_sankey.pdf, id=6096, 639.89063pt 
+<gfx/Chapter6/NitrogenFlow_AmmoniaEvaporation_sankey.pdf, id=6095, 639.89063pt 
 x 319.94531pt>
 File: gfx/Chapter6/NitrogenFlow_AmmoniaEvaporation_sankey.pdf Graphic file (typ
 e pdf)
@@ -21207,21 +21213,21 @@ e pdf)
 Package pdftex.def Info: gfx/Chapter6/NitrogenFlow_AmmoniaEvaporation_sankey.pd
 f  used on input line 1190.
 (pdftex.def)             Requested size: 511.852pt x 183.37157pt.
-<gfx/Chapter6/NitrogenFlow_MULTIFORM_sankey.pdf, id=6098, 639.89063pt x 319.945
+<gfx/Chapter6/NitrogenFlow_MULTIFORM_sankey.pdf, id=6097, 639.89063pt x 319.945
 31pt>
 File: gfx/Chapter6/NitrogenFlow_MULTIFORM_sankey.pdf Graphic file (type pdf)
 <use gfx/Chapter6/NitrogenFlow_MULTIFORM_sankey.pdf>
 Package pdftex.def Info: gfx/Chapter6/NitrogenFlow_MULTIFORM_sankey.pdf  used o
 n input line 1199.
 (pdftex.def)             Requested size: 568.75739pt x 177.68112pt.
-<gfx/Chapter6/NitrogenFlow_MAPHEX_sankey.pdf, id=6100, 639.89063pt x 319.94531p
+<gfx/Chapter6/NitrogenFlow_MAPHEX_sankey.pdf, id=6099, 639.89063pt x 319.94531p
 t>
 File: gfx/Chapter6/NitrogenFlow_MAPHEX_sankey.pdf Graphic file (type pdf)
 <use gfx/Chapter6/NitrogenFlow_MAPHEX_sankey.pdf>
 Package pdftex.def Info: gfx/Chapter6/NitrogenFlow_MAPHEX_sankey.pdf  used on i
 nput line 1212.
 (pdftex.def)             Requested size: 457.79205pt x 177.68112pt.
-<gfx/Chapter6/NitrogenFlow_AirStrippingPacked_sankey.pdf, id=6102, 639.89063pt 
+<gfx/Chapter6/NitrogenFlow_AirStrippingPacked_sankey.pdf, id=6101, 639.89063pt 
 x 319.94531pt>
 File: gfx/Chapter6/NitrogenFlow_AirStrippingPacked_sankey.pdf Graphic file (typ
 e pdf)
@@ -21233,7 +21239,7 @@ f  used on input line 1221.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gfx/Chapter6/NitrogenFlow_Membrane_sankey.pdf, id=6104, 639.89063pt x 319.9453
+<gfx/Chapter6/NitrogenFlow_Membrane_sankey.pdf, id=6103, 639.89063pt x 319.9453
 1pt>
 File: gfx/Chapter6/NitrogenFlow_Membrane_sankey.pdf Graphic file (type pdf)
 <use gfx/Chapter6/NitrogenFlow_Membrane_sankey.pdf>
@@ -21265,13 +21271,13 @@ LaTeX Warning: Text page 197 contains only floats.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter6/ScaleUp2WasteProcCost.pdf, id=6190, 395.076pt x 323.6248pt>
+<gfx/Chapter6/ScaleUp2WasteProcCost.pdf, id=6189, 395.076pt x 323.6248pt>
 File: gfx/Chapter6/ScaleUp2WasteProcCost.pdf Graphic file (type pdf)
 <use gfx/Chapter6/ScaleUp2WasteProcCost.pdf>
 Package pdftex.def Info: gfx/Chapter6/ScaleUp2WasteProcCost.pdf  used on input 
 line 1290.
 (pdftex.def)             Requested size: 250.95226pt x 205.56859pt.
-<gfx/Chapter6/ScaleUp2.pdf, id=6192, 409.21681pt x 325.70343pt>
+<gfx/Chapter6/ScaleUp2.pdf, id=6191, 409.21681pt x 325.70343pt>
 File: gfx/Chapter6/ScaleUp2.pdf Graphic file (type pdf)
 <use gfx/Chapter6/ScaleUp2.pdf>
 Package pdftex.def Info: gfx/Chapter6/ScaleUp2.pdf  used on input line 1297.
@@ -21431,7 +21437,7 @@ Overfull \hbox (36.07784pt too wide) has occurred while \output is active
  [213] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter7/Figure1.pdf, id=6480, 308.0011pt x 331.92987pt>
+<gfx/Chapter7/Figure1.pdf, id=6479, 308.0011pt x 331.92987pt>
 File: gfx/Chapter7/Figure1.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure1.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure1.pdf  used on input line 43.
@@ -21510,7 +21516,7 @@ Overfull \hbox (36.07784pt too wide) has occurred while \output is active
 [220] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter7/Figure2.pdf, id=6623, 1690.29282pt x 1195.44247pt>
+<gfx/Chapter7/Figure2.pdf, id=6622, 1690.29282pt x 1195.44247pt>
 File: gfx/Chapter7/Figure2.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure2.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure2.pdf  used on input line 194.
@@ -21546,7 +21552,7 @@ Overfull \hbox (36.07784pt too wide) has occurred while \output is active
 [224] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter7/Figure3.pdf, id=6679, 603.62642pt x 452.78697pt>
+<gfx/Chapter7/Figure3.pdf, id=6678, 603.62642pt x 452.78697pt>
 File: gfx/Chapter7/Figure3.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure3.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure3.pdf  used on input line 260.
@@ -21590,7 +21596,7 @@ Overfull \hbox (36.07784pt too wide) has occurred while \output is active
 [228] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter7/Figure4.pdf, id=6789, 406.42903pt x 330.54378pt>
+<gfx/Chapter7/Figure4.pdf, id=6788, 406.42903pt x 330.54378pt>
 File: gfx/Chapter7/Figure4.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure4.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure4.pdf  used on input line 353.
@@ -21600,7 +21606,7 @@ Package pdftex.def Info: gfx/Chapter7/Figure4.pdf  used on input line 353.
  [229] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/Chapter7/Figure5.pdf, id=6796, 454.50464pt x 337.18459pt>
+<gfx/Chapter7/Figure5.pdf, id=6795, 454.50464pt x 337.18459pt>
 File: gfx/Chapter7/Figure5.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure5.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure5.pdf  used on input line 362.
@@ -21609,7 +21615,7 @@ Package pdftex.def Info: gfx/Chapter7/Figure5.pdf  used on input line 362.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<gfx/Chapter7/Figure6.pdf, id=6798, 454.32492pt x 339.33652pt>
+<gfx/Chapter7/Figure6.pdf, id=6797, 454.32492pt x 339.33652pt>
 File: gfx/Chapter7/Figure6.pdf Graphic file (type pdf)
 <use gfx/Chapter7/Figure6.pdf>
 Package pdftex.def Info: gfx/Chapter7/Figure6.pdf  used on input line 369.
@@ -30541,34 +30547,34 @@ Package biblatex Info: Setting label 'refsection:10' on input line 8.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixB/N_dist.pdf, id=7436, 433.62pt x 289.08pt>
+<gfx/AppendixB/N_dist.pdf, id=7435, 433.62pt x 289.08pt>
 File: gfx/AppendixB/N_dist.pdf Graphic file (type pdf)
 <use gfx/AppendixB/N_dist.pdf>
 Package pdftex.def Info: gfx/AppendixB/N_dist.pdf  used on input line 93.
 (pdftex.def)             Requested size: 161.32605pt x 107.549pt.
-<gfx/AppendixB/NH4_frac_dist.pdf, id=7437, 433.62pt x 289.08pt>
+<gfx/AppendixB/NH4_frac_dist.pdf, id=7436, 433.62pt x 289.08pt>
 File: gfx/AppendixB/NH4_frac_dist.pdf Graphic file (type pdf)
 <use gfx/AppendixB/NH4_frac_dist.pdf>
 Package pdftex.def Info: gfx/AppendixB/NH4_frac_dist.pdf  used on input line 99
 .
 (pdftex.def)             Requested size: 161.32605pt x 107.549pt.
-<gfx/AppendixB/P_dist.pdf, id=7438, 433.62pt x 289.08pt>
+<gfx/AppendixB/P_dist.pdf, id=7437, 433.62pt x 289.08pt>
 File: gfx/AppendixB/P_dist.pdf Graphic file (type pdf)
 <use gfx/AppendixB/P_dist.pdf>
 Package pdftex.def Info: gfx/AppendixB/P_dist.pdf  used on input line 105.
 (pdftex.def)             Requested size: 161.32605pt x 107.549pt.
-<gfx/AppendixB/PO4_frac_dist.pdf, id=7439, 433.62pt x 289.08pt>
+<gfx/AppendixB/PO4_frac_dist.pdf, id=7438, 433.62pt x 289.08pt>
 File: gfx/AppendixB/PO4_frac_dist.pdf Graphic file (type pdf)
 <use gfx/AppendixB/PO4_frac_dist.pdf>
 Package pdftex.def Info: gfx/AppendixB/PO4_frac_dist.pdf  used on input line 11
 1.
 (pdftex.def)             Requested size: 161.32605pt x 107.549pt.
-<gfx/AppendixB/Ca_dist.pdf, id=7440, 433.62pt x 289.08pt>
+<gfx/AppendixB/Ca_dist.pdf, id=7439, 433.62pt x 289.08pt>
 File: gfx/AppendixB/Ca_dist.pdf Graphic file (type pdf)
 <use gfx/AppendixB/Ca_dist.pdf>
 Package pdftex.def Info: gfx/AppendixB/Ca_dist.pdf  used on input line 117.
 (pdftex.def)             Requested size: 161.32605pt x 107.549pt.
-<gfx/AppendixB/K_dist.pdf, id=7441, 433.62pt x 289.08pt>
+<gfx/AppendixB/K_dist.pdf, id=7440, 433.62pt x 289.08pt>
 File: gfx/AppendixB/K_dist.pdf Graphic file (type pdf)
 <use gfx/AppendixB/K_dist.pdf>
 Package pdftex.def Info: gfx/AppendixB/K_dist.pdf  used on input line 123.
@@ -30616,19 +30622,19 @@ ion: multiple pdfs with page group included in a single page
  [265] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixB/plotStrYield_Mg.pdf, id=7719, 361.35pt x 361.35pt>
+<gfx/AppendixB/plotStrYield_Mg.pdf, id=7718, 361.35pt x 361.35pt>
 File: gfx/AppendixB/plotStrYield_Mg.pdf Graphic file (type pdf)
 <use gfx/AppendixB/plotStrYield_Mg.pdf>
 Package pdftex.def Info: gfx/AppendixB/plotStrYield_Mg.pdf  used on input line 
 243.
 (pdftex.def)             Requested size: 149.37698pt x 149.37851pt.
-<gfx/AppendixB/x_plotHAPYield_Mg.pdf, id=7720, 361.35pt x 361.35pt>
+<gfx/AppendixB/x_plotHAPYield_Mg.pdf, id=7719, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotHAPYield_Mg.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotHAPYield_Mg.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Mg.pdf  used on input lin
 e 253.
 (pdftex.def)             Requested size: 149.37698pt x 149.37851pt.
-<gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf, id=7721, 361.35pt x 361.35pt>
+<gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf, id=7720, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf  used on input l
@@ -30649,19 +30655,19 @@ pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotCaCO3Yield_Mg.pdf
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixB/plotStrYield_Ca.pdf, id=7873, 361.35pt x 361.35pt>
+<gfx/AppendixB/plotStrYield_Ca.pdf, id=7872, 361.35pt x 361.35pt>
 File: gfx/AppendixB/plotStrYield_Ca.pdf Graphic file (type pdf)
 <use gfx/AppendixB/plotStrYield_Ca.pdf>
 Package pdftex.def Info: gfx/AppendixB/plotStrYield_Ca.pdf  used on input line 
 274.
 (pdftex.def)             Requested size: 149.37698pt x 149.37851pt.
-<gfx/AppendixB/x_plotHAPYield_Ca.pdf, id=7874, 361.35pt x 361.35pt>
+<gfx/AppendixB/x_plotHAPYield_Ca.pdf, id=7873, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotHAPYield_Ca.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotHAPYield_Ca.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Ca.pdf  used on input lin
 e 280.
 (pdftex.def)             Requested size: 149.37698pt x 149.37851pt.
-<gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf, id=7875, 361.35pt x 361.35pt>
+<gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf, id=7874, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf  used on input l
@@ -30682,19 +30688,19 @@ pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixB/x_plotCaCO3Yield_Ca.pdf
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixB/plotStrYield_Alk.pdf, id=8049, 361.35pt x 361.35pt>
+<gfx/AppendixB/plotStrYield_Alk.pdf, id=8047, 361.35pt x 361.35pt>
 File: gfx/AppendixB/plotStrYield_Alk.pdf Graphic file (type pdf)
 <use gfx/AppendixB/plotStrYield_Alk.pdf>
 Package pdftex.def Info: gfx/AppendixB/plotStrYield_Alk.pdf  used on input line
  300.
 (pdftex.def)             Requested size: 149.37698pt x 149.37851pt.
-<gfx/AppendixB/x_plotHAPYield_Alk.pdf, id=8050, 361.35pt x 361.35pt>
+<gfx/AppendixB/x_plotHAPYield_Alk.pdf, id=8048, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotHAPYield_Alk.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotHAPYield_Alk.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotHAPYield_Alk.pdf  used on input li
 ne 306.
 (pdftex.def)             Requested size: 149.37698pt x 149.37851pt.
-<gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf, id=8051, 361.35pt x 361.35pt>
+<gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf, id=8049, 361.35pt x 361.35pt>
 File: gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf Graphic file (type pdf)
 <use gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf>
 Package pdftex.def Info: gfx/AppendixB/x_plotCaCO3Yield_Alk.pdf  used on input 
@@ -30750,7 +30756,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixC/TrophicStateIndex.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<gfx/AppendixC/TrophicStateIndex.pdf, id=8223, 845.04686pt x 597.50786pt>
+<gfx/AppendixC/TrophicStateIndex.pdf, id=8222, 845.04686pt x 597.50786pt>
 File: gfx/AppendixC/TrophicStateIndex.pdf Graphic file (type pdf)
 <use gfx/AppendixC/TrophicStateIndex.pdf>
 Package pdftex.def Info: gfx/AppendixC/TrophicStateIndex.pdf  used on input lin
@@ -30781,7 +30787,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixC/BalanceofP.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<gfx/AppendixC/BalanceofP.pdf, id=8277, 845.07724pt x 597.55246pt>
+<gfx/AppendixC/BalanceofP.pdf, id=8276, 845.07724pt x 597.55246pt>
 File: gfx/AppendixC/BalanceofP.pdf Graphic file (type pdf)
 <use gfx/AppendixC/BalanceofP.pdf>
 Package pdftex.def Info: gfx/AppendixC/BalanceofP.pdf  used on input line 46.
@@ -30795,7 +30801,7 @@ Package pdftex.def Info: gfx/AppendixC/BalanceofP.pdf  used on input line 46.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./gfx/AppendixC/SoilFertility.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<gfx/AppendixC/SoilFertility.pdf, id=8320, 845.04686pt x 597.50786pt>
+<gfx/AppendixC/SoilFertility.pdf, id=8319, 845.04686pt x 597.50786pt>
 File: gfx/AppendixC/SoilFertility.pdf Graphic file (type pdf)
 <use gfx/AppendixC/SoilFertility.pdf>
 Package pdftex.def Info: gfx/AppendixC/SoilFertility.pdf  used on input line 78
@@ -30813,7 +30819,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<gfx/AppendixC/water_manure_properties.pdf, id=8337, 597.47943pt x 421.07233pt>
+<gfx/AppendixC/water_manure_properties.pdf, id=8336, 597.47943pt x 421.07233pt>
 
 File: gfx/AppendixC/water_manure_properties.pdf Graphic file (type pdf)
 <use gfx/AppendixC/water_manure_properties.pdf>
@@ -30834,13 +30840,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [276 <./gfx/AppendixC/water_manure_properties.pdf>] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixC/AD_size_cost.pdf, id=8415, 509.51604pt x 391.91827pt>
+<gfx/AppendixC/AD_size_cost.pdf, id=8414, 509.51604pt x 391.91827pt>
 File: gfx/AppendixC/AD_size_cost.pdf Graphic file (type pdf)
 <use gfx/AppendixC/AD_size_cost.pdf>
 Package pdftex.def Info: gfx/AppendixC/AD_size_cost.pdf  used on input line 161
 .
 (pdftex.def)             Requested size: 250.95226pt x 193.03433pt.
-<gfx/AppendixC/AD_size_OM_Unit_cost.pdf, id=8419, 518.45569pt x 391.91827pt>
+<gfx/AppendixC/AD_size_OM_Unit_cost.pdf, id=8418, 518.45569pt x 391.91827pt>
 File: gfx/AppendixC/AD_size_OM_Unit_cost.pdf Graphic file (type pdf)
 <use gfx/AppendixC/AD_size_OM_Unit_cost.pdf>
 Package pdftex.def Info: gfx/AppendixC/AD_size_OM_Unit_cost.pdf  used on input 
@@ -30862,7 +30868,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<gfx/AppendixC/screwpress_cost_m.pdf, id=8450, 433.62pt x 289.08pt>
+<gfx/AppendixC/screwpress_cost_m.pdf, id=8449, 433.62pt x 289.08pt>
 File: gfx/AppendixC/screwpress_cost_m.pdf Graphic file (type pdf)
 <use gfx/AppendixC/screwpress_cost_m.pdf>
 Package pdftex.def Info: gfx/AppendixC/screwpress_cost_m.pdf  used on input lin
@@ -30874,13 +30880,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<gfx/AppendixC/screwpress_unit_cost_m.pdf, id=8454, 433.62pt x 289.08pt>
+<gfx/AppendixC/screwpress_unit_cost_m.pdf, id=8453, 433.62pt x 289.08pt>
 File: gfx/AppendixC/screwpress_unit_cost_m.pdf Graphic file (type pdf)
 <use gfx/AppendixC/screwpress_unit_cost_m.pdf>
 Package pdftex.def Info: gfx/AppendixC/screwpress_unit_cost_m.pdf  used on inpu
 t line 251.
 (pdftex.def)             Requested size: 250.95226pt x 167.30481pt.
-<gfx/AppendixC/screwpress_op_cost_m.pdf, id=8455, 433.62pt x 289.08pt>
+<gfx/AppendixC/screwpress_op_cost_m.pdf, id=8454, 433.62pt x 289.08pt>
 File: gfx/AppendixC/screwpress_op_cost_m.pdf Graphic file (type pdf)
 <use gfx/AppendixC/screwpress_op_cost_m.pdf>
 Package pdftex.def Info: gfx/AppendixC/screwpress_op_cost_m.pdf  used on input 
@@ -30904,7 +30910,7 @@ f): PDF inclusion: multiple pdfs with page group included in a single page
  [279] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixC/diagrams.pdf, id=8551, 1690.06529pt x 1194.98729pt>
+<gfx/AppendixC/diagrams.pdf, id=8550, 1690.06529pt x 1194.98729pt>
 File: gfx/AppendixC/diagrams.pdf Graphic file (type pdf)
 <use gfx/AppendixC/diagrams.pdf>
 Package pdftex.def Info: gfx/AppendixC/diagrams.pdf  used on input line 284.
@@ -30945,7 +30951,7 @@ f): PDF inclusion: multiple pdfs with page group included in a single page
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixC/vessel_investment_cost.pdf, id=8792, 455.2441pt x 256.0748pt>
+<gfx/AppendixC/vessel_investment_cost.pdf, id=8791, 455.2441pt x 256.0748pt>
 File: gfx/AppendixC/vessel_investment_cost.pdf Graphic file (type pdf)
 <use gfx/AppendixC/vessel_investment_cost.pdf>
 Package pdftex.def Info: gfx/AppendixC/vessel_investment_cost.pdf  used on inpu
@@ -30957,7 +30963,7 @@ t line 342.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixC/converyor_dryer_investment_cost.pdf, id=8831, 455.2441pt x 256.0
+<gfx/AppendixC/converyor_dryer_investment_cost.pdf, id=8830, 455.2441pt x 256.0
 748pt>
 File: gfx/AppendixC/converyor_dryer_investment_cost.pdf Graphic file (type pdf)
 
@@ -30974,7 +30980,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [286] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixC/SMAA.png, id=8852, 3306.3525pt x 2799.45876pt>
+<gfx/AppendixC/SMAA.png, id=8851, 3306.3525pt x 2799.45876pt>
 File: gfx/AppendixC/SMAA.png Graphic file (type png)
 <use gfx/AppendixC/SMAA.png>
 Package pdftex.def Info: gfx/AppendixC/SMAA.png  used on input line 393.
@@ -31031,13 +31037,13 @@ Package biblatex Info: Setting label 'refsection:12' on input line 7.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<gfx/AppendixD/AD_SizeCost_Swine.pdf, id=8936, 443.23404pt x 323.15105pt>
+<gfx/AppendixD/AD_SizeCost_Swine.pdf, id=8935, 443.23404pt x 323.15105pt>
 File: gfx/AppendixD/AD_SizeCost_Swine.pdf Graphic file (type pdf)
 <use gfx/AppendixD/AD_SizeCost_Swine.pdf>
 Package pdftex.def Info: gfx/AppendixD/AD_SizeCost_Swine.pdf  used on input lin
 e 56.
 (pdftex.def)             Requested size: 250.95226pt x 182.96527pt.
-<gfx/AppendixD/AD_size_OM_Unit_cost.pdf, id=8938, 505.62651pt x 378.79895pt>
+<gfx/AppendixD/AD_size_OM_Unit_cost.pdf, id=8937, 505.62651pt x 378.79895pt>
 File: gfx/AppendixD/AD_size_OM_Unit_cost.pdf Graphic file (type pdf)
 <use gfx/AppendixD/AD_size_OM_Unit_cost.pdf>
 Package pdftex.def Info: gfx/AppendixD/AD_size_OM_Unit_cost.pdf  used on input 
@@ -31073,7 +31079,7 @@ f): PDF inclusion: multiple pdfs with page group included in a single page
 >] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixD/screwpress_cost_m.pdf, id=9058, 433.62pt x 289.08pt>
+<gfx/AppendixD/screwpress_cost_m.pdf, id=9057, 433.62pt x 289.08pt>
 File: gfx/AppendixD/screwpress_cost_m.pdf Graphic file (type pdf)
 <use gfx/AppendixD/screwpress_cost_m.pdf>
 Package pdftex.def Info: gfx/AppendixD/screwpress_cost_m.pdf  used on input lin
@@ -31111,7 +31117,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixD/MembranesCost.pdf, id=9184, 392.64803pt x 256.0748pt>
+<gfx/AppendixD/MembranesCost.pdf, id=9183, 392.64803pt x 256.0748pt>
 File: gfx/AppendixD/MembranesCost.pdf Graphic file (type pdf)
 <use gfx/AppendixD/MembranesCost.pdf>
 Package pdftex.def Info: gfx/AppendixD/MembranesCost.pdf  used on input line 26
@@ -31185,12 +31191,12 @@ Overfull \hbox (4.92728pt too wide) detected at line 501
  [310] (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixD/EquipCost.pdf, id=9399, 392.73915pt x 323.6248pt>
+<gfx/AppendixD/EquipCost.pdf, id=9398, 392.73915pt x 323.6248pt>
 File: gfx/AppendixD/EquipCost.pdf Graphic file (type pdf)
 <use gfx/AppendixD/EquipCost.pdf>
 Package pdftex.def Info: gfx/AppendixD/EquipCost.pdf  used on input line 585.
 (pdftex.def)             Requested size: 250.95226pt x 206.7883pt.
-<gfx/AppendixD/OpCost.pdf, id=9401, 394.07225pt x 323.6248pt>
+<gfx/AppendixD/OpCost.pdf, id=9400, 394.07225pt x 323.6248pt>
 File: gfx/AppendixD/OpCost.pdf Graphic file (type pdf)
 <use gfx/AppendixD/OpCost.pdf>
 Package pdftex.def Info: gfx/AppendixD/OpCost.pdf  used on input line 594.
@@ -31201,13 +31207,13 @@ Package pdftex.def Info: gfx/AppendixD/OpCost.pdf  used on input line 594.
 hesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixD/EquipCost_NoAD.pdf, id=9505, 393.60803pt x 323.6248pt>
+<gfx/AppendixD/EquipCost_NoAD.pdf, id=9504, 393.60803pt x 323.6248pt>
 File: gfx/AppendixD/EquipCost_NoAD.pdf Graphic file (type pdf)
 <use gfx/AppendixD/EquipCost_NoAD.pdf>
 Package pdftex.def Info: gfx/AppendixD/EquipCost_NoAD.pdf  used on input line 6
 08.
 (pdftex.def)             Requested size: 250.95226pt x 206.33893pt.
-<gfx/AppendixD/OpCost_NoAD.pdf, id=9507, 388.5579pt x 323.6248pt>
+<gfx/AppendixD/OpCost_NoAD.pdf, id=9506, 388.5579pt x 323.6248pt>
 File: gfx/AppendixD/OpCost_NoAD.pdf Graphic file (type pdf)
 <use gfx/AppendixD/OpCost_NoAD.pdf>
 Package pdftex.def Info: gfx/AppendixD/OpCost_NoAD.pdf  used on input line 617.
@@ -31219,14 +31225,14 @@ Package pdftex.def Info: gfx/AppendixD/OpCost_NoAD.pdf  used on input line 617.
 (./ClassicThesis.mw.mw)
 \openout4 = `ClassicThesis.mw.mw'.
 
-<gfx/AppendixD/ScaleUp2WasteProcCost_NoAD.pdf, id=9614, 395.076pt x 323.6248pt>
+<gfx/AppendixD/ScaleUp2WasteProcCost_NoAD.pdf, id=9613, 395.076pt x 323.6248pt>
 
 File: gfx/AppendixD/ScaleUp2WasteProcCost_NoAD.pdf Graphic file (type pdf)
 <use gfx/AppendixD/ScaleUp2WasteProcCost_NoAD.pdf>
 Package pdftex.def Info: gfx/AppendixD/ScaleUp2WasteProcCost_NoAD.pdf  used on 
 input line 632.
 (pdftex.def)             Requested size: 250.95226pt x 205.56859pt.
-<gfx/AppendixD/ScaleUp2_NoAD.pdf, id=9616, 409.21681pt x 325.70343pt>
+<gfx/AppendixD/ScaleUp2_NoAD.pdf, id=9615, 409.21681pt x 325.70343pt>
 File: gfx/AppendixD/ScaleUp2_NoAD.pdf Graphic file (type pdf)
 <use gfx/AppendixD/ScaleUp2_NoAD.pdf>
 Package pdftex.def Info: gfx/AppendixD/ScaleUp2_NoAD.pdf  used on input line 64
@@ -34810,11 +34816,11 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51323 strings out of 481239
- 991884 string characters out of 5920377
- 2764666 words of memory out of 5000000
+ 51329 strings out of 481239
+ 991952 string characters out of 5920377
+ 2764665 words of memory out of 5000000
  61968 multiletter control sequences out of 15000+600000
- 782917 words of font info for 963 fonts, out of 8000000 for 9000
+ 783273 words of font info for 968 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  81i,28n,131p,10108b,6910s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -34832,10 +34838,10 @@ f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
 alatino/uplri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/wasy-type
 1/wasy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/wasy-type1/wasy6
 .pfb>
-Output written on ClassicThesis.pdf (360 pages, 41573406 bytes).
+Output written on ClassicThesis.pdf (360 pages, 41573698 bytes).
 PDF statistics:
- 10999 PDF objects out of 12825 (max. 8388607)
- 7620 compressed objects within 77 object streams
+ 10998 PDF objects out of 12825 (max. 8388607)
+ 7619 compressed objects within 77 object streams
  1943 named destinations out of 2073 (max. 500000)
  128287 words of extra memory for PDF output out of 128383 (max. 10000000)
 
