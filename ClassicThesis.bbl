@@ -6323,6 +6323,51 @@
       \field{title}{Multiple criteria decision analysis: an integrated approach}
       \field{year}{2002}
     \endentry
+    \entry{bertsimas2011price}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5b57425178d5ae2d2835ef44cb330e42}{%
+           family={Bertsimas},
+           familyi={B\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84a785e004bdea7ec13e3d7cb23e5726}{%
+           family={Farias},
+           familyi={F\bibinitperiod},
+           given={Vivek\bibnamedelima F},
+           giveni={V\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a14c6466c7005958880a00603bc8ed9}{%
+           family={Trichakis},
+           familyi={T\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{1e8ba443b38e5dcfdd80f083de4447ca}
+      \strng{fullhash}{bd2cac9d385d3042f4de7bf0df4ce62e}
+      \strng{bibnamehash}{bd2cac9d385d3042f4de7bf0df4ce62e}
+      \strng{authorbibnamehash}{bd2cac9d385d3042f4de7bf0df4ce62e}
+      \strng{authornamehash}{1e8ba443b38e5dcfdd80f083de4447ca}
+      \strng{authorfullhash}{bd2cac9d385d3042f4de7bf0df4ce62e}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Operations research}
+      \field{number}{1}
+      \field{title}{The price of fairness}
+      \field{volume}{59}
+      \field{year}{2011}
+      \field{pages}{17\bibrangedash 31}
+      \range{pages}{15}
+    \endentry
     \entry{BIOGAS3PROJECT}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f9e9aaa5a380b94f846ae2b1c9e312ae}{%
@@ -6710,6 +6755,124 @@
       \field{title}{Chemical process equipment: selection and design}
       \field{year}{2005}
     \endentry
+    \entry{cowell1981additivity}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3464261ac8e8e2b1dfc623335f0a4ac5}{%
+           family={Cowell},
+           familyi={C\bibinitperiod},
+           given={Frank\bibnamedelima A},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=795db501037b93aab4400cd34cf157fa}{%
+           family={Kuga},
+           familyi={K\bibinitperiod},
+           given={Kiyoshi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1e267179edab4b9472afedebd5f73fe4}
+      \strng{fullhash}{1e267179edab4b9472afedebd5f73fe4}
+      \strng{bibnamehash}{1e267179edab4b9472afedebd5f73fe4}
+      \strng{authorbibnamehash}{1e267179edab4b9472afedebd5f73fe4}
+      \strng{authornamehash}{1e267179edab4b9472afedebd5f73fe4}
+      \strng{authorfullhash}{1e267179edab4b9472afedebd5f73fe4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Theory}
+      \field{number}{1}
+      \field{title}{Additivity and the entropy concept: An axiomatic approach to inequality measurement}
+      \field{volume}{25}
+      \field{year}{1981}
+      \field{pages}{131\bibrangedash 143}
+      \range{pages}{13}
+    \endentry
+    \entry{Dantzig1990}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=212fe65a17e797b6dbce0c3731498b2c}{%
+           family={Dantzig},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{fullhash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{bibnamehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{authorbibnamehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{authornamehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{authorfullhash}{212fe65a17e797b6dbce0c3731498b2c}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A History of Scientific Computing}
+      \field{isbn}{0201508141}
+      \field{title}{Origins of the Simplex Method}
+      \field{year}{1990}
+      \field{pages}{141\bibrangedash 151}
+      \range{pages}{11}
+    \endentry
+    \entry{dowling2016framework}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=acc53a07cd7fda836bfbe2cd9f28028c}{%
+           family={Dowling},
+           familyi={D\bibinitperiod},
+           given={Alexander\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e769e018413f188595772932855b37d}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={Victor\bibnamedelima M},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7855f6d6a47f0c7d7fb37f2002c973a0}
+      \strng{fullhash}{e9ccac060383605de33fca3a50e6aab3}
+      \strng{bibnamehash}{e9ccac060383605de33fca3a50e6aab3}
+      \strng{authorbibnamehash}{e9ccac060383605de33fca3a50e6aab3}
+      \strng{authornamehash}{7855f6d6a47f0c7d7fb37f2002c973a0}
+      \strng{authorfullhash}{e9ccac060383605de33fca3a50e6aab3}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Chemical Engineering}
+      \field{title}{A framework for multi-stakeholder decision-making and conflict resolution}
+      \field{volume}{90}
+      \field{year}{2016}
+      \field{pages}{136\bibrangedash 150}
+      \range{pages}{15}
+    \endentry
     \entry{drud1985conopt}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c80d93a2584c9195f3a2676855d04f4d}{%
@@ -6742,6 +6905,45 @@
       \field{year}{1985}
       \field{pages}{153\bibrangedash 191}
       \range{pages}{39}
+    \endentry
+    \entry{duran1986outer}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8b7f2c2a0446c135e80cb89f863902e7}{%
+           family={Duran},
+           familyi={D\bibinitperiod},
+           given={Marco\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a39a2eac2d858d35e3c0d94e4e8d4b6}{%
+           family={Grossmann},
+           familyi={G\bibinitperiod},
+           given={Ignacio\bibnamedelima E},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e2bd8557b18da8e2bdbf7b6dd712a9f3}
+      \strng{fullhash}{e2bd8557b18da8e2bdbf7b6dd712a9f3}
+      \strng{bibnamehash}{e2bd8557b18da8e2bdbf7b6dd712a9f3}
+      \strng{authorbibnamehash}{e2bd8557b18da8e2bdbf7b6dd712a9f3}
+      \strng{authornamehash}{e2bd8557b18da8e2bdbf7b6dd712a9f3}
+      \strng{authorfullhash}{e2bd8557b18da8e2bdbf7b6dd712a9f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical programming}
+      \field{number}{3}
+      \field{title}{An outer-approximation algorithm for a class of mixed-integer nonlinear programs}
+      \field{volume}{36}
+      \field{year}{1986}
+      \field{pages}{307\bibrangedash 339}
+      \range{pages}{33}
     \endentry
     \entry{ESSP2021}{report}{}
       \name{author}{1}{}{%
@@ -6920,6 +7122,36 @@
       \verb{doi}
       \verb 10.1016/j.ecolind.2019.105731
       \endverb
+    \endentry
+    \entry{Geoffrion1972237}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7361188fbb5cfc6be21f1ed7d0976706}{%
+           family={Geoffrion},
+           familyi={G\bibinitperiod},
+           given={A.M.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7361188fbb5cfc6be21f1ed7d0976706}
+      \strng{fullhash}{7361188fbb5cfc6be21f1ed7d0976706}
+      \strng{bibnamehash}{7361188fbb5cfc6be21f1ed7d0976706}
+      \strng{authorbibnamehash}{7361188fbb5cfc6be21f1ed7d0976706}
+      \strng{authornamehash}{7361188fbb5cfc6be21f1ed7d0976706}
+      \strng{authorfullhash}{7361188fbb5cfc6be21f1ed7d0976706}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Optimization Theory and Applications}
+      \field{number}{4}
+      \field{title}{Generalized Benders decomposition}
+      \field{volume}{10}
+      \field{year}{1972}
+      \field{pages}{237\bibrangedash 260}
+      \range{pages}{24}
     \endentry
     \entry{gharehbaghi2018gis}{inproceedings}{}
       \name{author}{2}{}{%
@@ -7272,6 +7504,39 @@
       \field{pages}{373\bibrangedash 392}
       \range{pages}{20}
     \endentry
+    \entry{holmberg1990convergence}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9b346aafe84b94629b8ed8183510115}{%
+           family={Holmberg},
+           familyi={H\bibinitperiod},
+           given={Kaj},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a9b346aafe84b94629b8ed8183510115}
+      \strng{fullhash}{a9b346aafe84b94629b8ed8183510115}
+      \strng{bibnamehash}{a9b346aafe84b94629b8ed8183510115}
+      \strng{authorbibnamehash}{a9b346aafe84b94629b8ed8183510115}
+      \strng{authornamehash}{a9b346aafe84b94629b8ed8183510115}
+      \strng{authorfullhash}{a9b346aafe84b94629b8ed8183510115}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Programming}
+      \field{number}{1}
+      \field{title}{On the convergence of cross decomposition}
+      \field{volume}{47}
+      \field{year}{1990}
+      \field{pages}{269\bibrangedash 296}
+      \range{pages}{28}
+    \endentry
     \entry{hwang1995multi}{misc}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=69cdf2df4369ddfc0c25b12d4e5e9aca}{%
@@ -7329,6 +7594,36 @@
       \field{type}{techreport}
       \field{year}{2009}
     \endentry
+    \entry{kantorovich1948newton}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=238cc93b70661f2e0e5319969bab35bf}{%
+           family={Kantorovich},
+           familyi={K\bibinitperiod},
+           given={Leonid\bibnamedelima V},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{238cc93b70661f2e0e5319969bab35bf}
+      \strng{fullhash}{238cc93b70661f2e0e5319969bab35bf}
+      \strng{bibnamehash}{238cc93b70661f2e0e5319969bab35bf}
+      \strng{authorbibnamehash}{238cc93b70661f2e0e5319969bab35bf}
+      \strng{authornamehash}{238cc93b70661f2e0e5319969bab35bf}
+      \strng{authorfullhash}{238cc93b70661f2e0e5319969bab35bf}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dokl. Akad. Nauk SSSR}
+      \field{number}{7}
+      \field{title}{On Newton's method for functional equations}
+      \field{volume}{59}
+      \field{year}{1948}
+      \field{pages}{1237\bibrangedash 1240}
+      \range{pages}{4}
+    \endentry
     \entry{Kellog2010}{report}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=beeff8a8527c7fa9b54e76781eb74c63}{%
@@ -7375,6 +7670,52 @@
       \field{title}{{Manure Nutrients Relative to the Capacity of Cropland and Pastureland to Assimilate Nutrients: Spatial and Temporal Trends for the United States}}
       \field{type}{techreport}
       \field{year}{2000}
+    \endentry
+    \entry{lan2010axiomatic}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e12c8886ca2635a6a121b5b7934bea31}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48acf9456ad20ac99ee63c278c41d3c9}{%
+           family={Kao},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66b1d926f2b165f5ee0d97ce73c91589}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={Mung},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b57c9d418eb8720fc5992307ebfcfe0a}{%
+           family={Sabharwal},
+           familyi={S\bibinitperiod},
+           given={Ashutosh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{bc0b688b868b1ce2ca3204ce3cc0347b}
+      \strng{fullhash}{eb96e9696694e76a4c776c4864e33a0d}
+      \strng{bibnamehash}{eb96e9696694e76a4c776c4864e33a0d}
+      \strng{authorbibnamehash}{eb96e9696694e76a4c776c4864e33a0d}
+      \strng{authornamehash}{bc0b688b868b1ce2ca3204ce3cc0347b}
+      \strng{authorfullhash}{eb96e9696694e76a4c776c4864e33a0d}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An axiomatic theory of fairness in network resource allocation}
+      \field{year}{2010}
     \endentry
     \entry{loeppert1995chemical}{book}{}
       \name{author}{3}{}{%
@@ -7544,34 +7885,6 @@
       \field{type}{techreport}
       \field{year}{1983}
     \endentry
-    \entry{murty1983linear}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=20b08bd1decaf6030c54dd0bb0529e4d}{%
-           family={Murty},
-           familyi={M\bibinitperiod},
-           given={Katta\bibnamedelima G},
-           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{20b08bd1decaf6030c54dd0bb0529e4d}
-      \strng{fullhash}{20b08bd1decaf6030c54dd0bb0529e4d}
-      \strng{bibnamehash}{20b08bd1decaf6030c54dd0bb0529e4d}
-      \strng{authorbibnamehash}{20b08bd1decaf6030c54dd0bb0529e4d}
-      \strng{authornamehash}{20b08bd1decaf6030c54dd0bb0529e4d}
-      \strng{authorfullhash}{20b08bd1decaf6030c54dd0bb0529e4d}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Linear programming}
-      \field{year}{1983}
-    \endentry
     \entry{NACWA503}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e8cfbc8448457c7b8ae76c8920885e7}{%
@@ -7597,6 +7910,39 @@
       \field{title}{{Issue Outline on Resource Recovery from Wastewater and Coverage of 40 C.F.R. Part 503}}
       \field{type}{techreport}
       \field{year}{2014}
+    \endentry
+    \entry{Nash1950}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6de4913ee803384986db742befd3f429}{%
+           family={Nash},
+           familyi={N\bibinitperiod},
+           given={John\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Wiley, Econometric Society]}%
+      }
+      \strng{namehash}{6de4913ee803384986db742befd3f429}
+      \strng{fullhash}{6de4913ee803384986db742befd3f429}
+      \strng{bibnamehash}{6de4913ee803384986db742befd3f429}
+      \strng{authorbibnamehash}{6de4913ee803384986db742befd3f429}
+      \strng{authornamehash}{6de4913ee803384986db742befd3f429}
+      \strng{authorfullhash}{6de4913ee803384986db742befd3f429}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{2}
+      \field{title}{The Bargaining Problem}
+      \field{volume}{18}
+      \field{year}{1950}
+      \field{pages}{155\bibrangedash 162}
+      \range{pages}{8}
     \endentry
     \entry{nierenberg2005happier}{book}{}
       \name{author}{2}{}{%
@@ -7936,6 +8282,71 @@
       \field{title}{Population balances: Theory and applications to particulate systems in engineering}
       \field{year}{2000}
     \endentry
+    \entry{Rawls2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=789e307f6a6f6a453ff0ca10f85cea17}{%
+           family={Rawls},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{fullhash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{bibnamehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authorbibnamehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authornamehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authorfullhash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780674042605}
+      \field{title}{A Theory of Justice: Original Edition}
+      \field{year}{2020}
+      \verb{doi}
+      \verb doi:10.4159/9780674042605
+      \endverb
+    \endentry
+    \entry{roth1979impossibility}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=320ab47af0997a7a69af46760b320783}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Alvin\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{320ab47af0997a7a69af46760b320783}
+      \strng{fullhash}{320ab47af0997a7a69af46760b320783}
+      \strng{bibnamehash}{320ab47af0997a7a69af46760b320783}
+      \strng{authorbibnamehash}{320ab47af0997a7a69af46760b320783}
+      \strng{authornamehash}{320ab47af0997a7a69af46760b320783}
+      \strng{authorfullhash}{320ab47af0997a7a69af46760b320783}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Game Theory}
+      \field{number}{3}
+      \field{title}{An impossibility result concerning n-person bargaining games}
+      \field{volume}{8}
+      \field{year}{1979}
+      \field{pages}{129\bibrangedash 132}
+      \range{pages}{4}
+    \endentry
     \entry{roy1968classement}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8c88ac085b403f7a7507d75a956f2b92}{%
@@ -8096,6 +8507,45 @@
       \field{labeltitlesource}{title}
       \field{title}{Biorefineries and chemical processes: design, integration and sustainability analysis}
       \field{year}{2014}
+    \endentry
+    \entry{sampat2019fairness}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=64e03ff2bfa6bb92dbc02ac3541b5906}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={Apoorva\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={Victor\bibnamedelima M},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \strng{fullhash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \strng{bibnamehash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \strng{authorbibnamehash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \strng{authornamehash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \strng{authorfullhash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optimization and Engineering}
+      \field{number}{4}
+      \field{title}{Fairness measures for decision-making and conflict resolution}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{pages}{1249\bibrangedash 1272}
+      \range{pages}{24}
     \endentry
     \entry{Samreen2019}{inbook}{}
       \name{author}{2}{}{%

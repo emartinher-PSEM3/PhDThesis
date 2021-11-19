@@ -2645,7 +2645,8 @@
     <bcf:citekey order="53">giove2009decision</bcf:citekey>
     <bcf:citekey order="54">giove2009decision</bcf:citekey>
     <bcf:citekey order="55">grossmann2021advanced</bcf:citekey>
-    <bcf:citekey order="56">murty1983linear</bcf:citekey>
+    <bcf:citekey order="56">Dantzig1990</bcf:citekey>
+    <bcf:citekey order="57">kantorovich1948newton</bcf:citekey>
     <bcf:citekey order="57">POTRA2000281</bcf:citekey>
     <bcf:citekey order="58">grossmann2021advanced</bcf:citekey>
     <bcf:citekey order="59">cplex2009v12</bcf:citekey>
@@ -2664,8 +2665,20 @@
     <bcf:citekey order="72">gurobi</bcf:citekey>
     <bcf:citekey order="73">cplex2009v12</bcf:citekey>
     <bcf:citekey order="74">grossmann2021advanced</bcf:citekey>
-    <bcf:citekey order="75">floudas1995nonlinear</bcf:citekey>
-    <bcf:citekey order="76">gharehbaghi2018gis</bcf:citekey>
+    <bcf:citekey order="75">Geoffrion1972237</bcf:citekey>
+    <bcf:citekey order="76">duran1986outer</bcf:citekey>
+    <bcf:citekey order="77">holmberg1990convergence</bcf:citekey>
+    <bcf:citekey order="78">sampat2019fairness</bcf:citekey>
+    <bcf:citekey order="79">sampat2019fairness</bcf:citekey>
+    <bcf:citekey order="80">Nash1950</bcf:citekey>
+    <bcf:citekey order="80">roth1979impossibility</bcf:citekey>
+    <bcf:citekey order="81">bertsimas2011price</bcf:citekey>
+    <bcf:citekey order="82">Rawls2020</bcf:citekey>
+    <bcf:citekey order="83">lan2010axiomatic</bcf:citekey>
+    <bcf:citekey order="84">dowling2016framework</bcf:citekey>
+    <bcf:citekey order="85">cowell1981additivity</bcf:citekey>
+    <bcf:citekey order="86">sampat2019fairness</bcf:citekey>
+    <bcf:citekey order="87">gharehbaghi2018gis</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

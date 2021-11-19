@@ -10,13 +10,13 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {1.1}{Rationale: Overview of the nutrient pollution \newline challenge}}{1}{section.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.2}{Approaches for processes modeling}}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.2}{Approaches for processes modeling}}{7}{section.1.2}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsection}{\numberline {1.2.1}{Short-cut methods}}{7}{subsection.1.2.1}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsection}{\numberline {1.2.2}{Rules of thumb}}{7}{subsection.1.2.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.3}{Dimensionless analysis}}{8}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.3}{Dimensionless analysis}}{7}{subsection.1.2.3}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsection}{\numberline {1.2.4}{Mechanistic models}}{8}{subsection.1.2.4}%
 \defcounter {refsection}{2}\relax
@@ -26,21 +26,21 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {1.3}{Approaches for decision-support systems}}{9}{section.1.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.3.1}{Multi-Attribute Decision Analysis (MADA)}}{11}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.1}{Multi-Attribute Decision Analysis (MADA)}}{10}{subsection.1.3.1}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsubsection}{\numberline {1.3.1.1}{Multi-Attribute Value Theory (MAVT)}}{11}{subsubsection.1.3.1.1}%
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Indicator-based methods}}{11}{paragraph*.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Analytic Hierarchy Process (AHP)}}{12}{paragraph*.7}%
+\contentsline {paragraph}{{Analytic Hierarchy Process (AHP)}}{11}{paragraph*.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Ideal Point methods}}{12}{paragraph*.8}%
+\contentsline {paragraph}{{Ideal Point methods}}{11}{paragraph*.8}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsubsection}{\numberline {1.3.1.2}{Outranking methods}}{12}{subsubsection.1.3.1.2}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsubsection}{\numberline {1.3.1.3}{Multi-Objective Decision Analysis (MODA)}}{12}{subsubsection.1.3.1.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Linear programming (LP)}}{13}{paragraph*.9}%
+\contentsline {paragraph}{{Linear programming (LP)}}{12}{paragraph*.9}%
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Nonlinear programming (NLP)}}{13}{paragraph*.10}%
 \defcounter {refsection}{2}\relax
@@ -48,29 +48,39 @@
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Mixed-integer nonlinear programming (MINLP)}}{15}{paragraph*.12}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.4}{Approaches for geospatial environmental assessment}}{16}{section.1.4}%
+\contentsline {section}{\numberline {1.4}{Fairness metrics}}{16}{section.1.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.5}{Thesis outline}}{17}{section.1.5}%
+\contentsline {paragraph}{{Social welfare approach}}{16}{paragraph*.13}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.5.1}{Part I - Phosphorus management and recovery}}{17}{subsection.1.5.1}%
+\contentsline {paragraph}{{Nash scheme}}{16}{paragraph*.14}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{17}{paragraph*.13}%
+\contentsline {paragraph}{{Rawlsian justice}}{17}{paragraph*.15}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Geospatial assessment of phosphorus recovery through struvite precipitation.}}{17}{paragraph*.14}%
+\contentsline {paragraph}{{Parametric schemes}}{17}{paragraph*.16}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{18}{paragraph*.15}%
+\contentsline {section}{\numberline {1.5}{Approaches for geospatial environmental assessment}}{17}{section.1.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{18}{paragraph*.16}%
+\contentsline {section}{\numberline {1.6}{Thesis outline}}{18}{section.1.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.5.2}{Part II - Nitrogen management and recovery}}{18}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.6.1}{Part I - Phosphorus management and recovery}}{18}{subsection.1.6.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{18}{paragraph*.17}%
+\contentsline {paragraph}{{Chapter \ref {ch:PhosphorusTechs} - Technologies for phosphorus recovery.}}{18}{paragraph*.17}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.5.3}{Part III - Nitrogen management and recovery}}{19}{subsection.1.5.3}%
+\contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Geospatial assessment of phosphorus recovery through struvite precipitation.}}{18}{paragraph*.18}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{19}{paragraph*.18}%
+\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{18}{paragraph*.19}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{19}{paragraph*.18}%
+\contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{19}{paragraph*.20}%
+\defcounter {refsection}{2}\relax
+\contentsline {subsection}{\numberline {1.6.2}{Part II - Nitrogen management and recovery}}{19}{subsection.1.6.2}%
+\defcounter {refsection}{2}\relax
+\contentsline {paragraph}{{Chapter \ref {ch:NitrogenTechs} - Multi-scale techno-economic assessment of nitrogen recovery systems for swine operations.}}{19}{paragraph*.21}%
+\defcounter {refsection}{2}\relax
+\contentsline {subsection}{\numberline {1.6.3}{Part III - Nitrogen management and recovery}}{19}{subsection.1.6.3}%
+\defcounter {refsection}{2}\relax
+\contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{19}{paragraph*.22}%
+\defcounter {refsection}{2}\relax
+\contentsline {section}{Bibliography}{20}{paragraph*.22}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {2}{Objective}}{25}{chapter.2}%
 \defcounter {refsection}{0}\relax
@@ -80,13 +90,13 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.1.2}{Specific objectives}}{25}{subsection.2.1.2}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective I:}}{25}{paragraph*.19}%
+\contentsline {paragraph}{{Objective I:}}{25}{paragraph*.23}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective II:}}{25}{paragraph*.20}%
+\contentsline {paragraph}{{Objective II:}}{25}{paragraph*.24}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective III:}}{25}{paragraph*.21}%
+\contentsline {paragraph}{{Objective III:}}{25}{paragraph*.25}%
 \defcounter {refsection}{0}\relax
-\contentsline {paragraph}{{Objective IV:}}{25}{paragraph*.22}%
+\contentsline {paragraph}{{Objective IV:}}{25}{paragraph*.26}%
 \defcounter {refsection}{0}\relax
 \contentsline {part}{\numberline {i}{Phosphorus management and recovery}}{27}{part.1}%
 \defcounter {refsection}{0}\relax
@@ -226,9 +236,9 @@
 \defcounter {refsection}{5}\relax
 \contentsline {subsubsection}{\numberline {5.2.2.4}{Biogas valorization}}{119}{subsubsection.5.2.2.4}%
 \defcounter {refsection}{5}\relax
-\contentsline {paragraph}{{Methane production}}{119}{paragraph*.59}%
+\contentsline {paragraph}{{Methane production}}{119}{paragraph*.63}%
 \defcounter {refsection}{5}\relax
-\contentsline {paragraph}{{Electricity production}}{119}{paragraph*.60}%
+\contentsline {paragraph}{{Electricity production}}{119}{paragraph*.64}%
 \defcounter {refsection}{5}\relax
 \contentsline {subsubsection}{\numberline {5.2.2.5}{Solid-liquid separation}}{120}{subsubsection.5.2.2.5}%
 \defcounter {refsection}{5}\relax
@@ -452,7 +462,7 @@
 \defcounter {refsection}{10}\relax
 \contentsline {subsubsection}{\numberline {B.4.1.2}{Influence of alkalinity}}{268}{subsubsection.Alph2.4.1.2}%
 \defcounter {refsection}{10}\relax
-\contentsline {section}{Bibliography}{269}{figure.caption.120}%
+\contentsline {section}{Bibliography}{269}{figure.caption.124}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {C}{Appendix C: Supplementary Information of Chapter 5}}{271}{appendix.Alph3}%
 \defcounter {refsection}{11}\relax
@@ -478,21 +488,21 @@
 \defcounter {refsection}{11}\relax
 \contentsline {subsubsection}{\numberline {C.2.2.4}{Nutrient recovery model}}{279}{subsubsection.Alph3.2.2.4}%
 \defcounter {refsection}{11}\relax
-\contentsline {paragraph}{{Phosphorus recovery as struvite in single pass FBR reactor: Multiform Harvest and Crystalactor.}}{281}{paragraph*.137}%
+\contentsline {paragraph}{{Phosphorus recovery as struvite in single pass FBR reactor: Multiform Harvest and Crystalactor.}}{281}{paragraph*.141}%
 \defcounter {refsection}{11}\relax
-\contentsline {paragraph}{{Phosphorus recovery as struvite in a FBR reactor with recirculation: Ostara Pearl.}}{283}{paragraph*.138}%
+\contentsline {paragraph}{{Phosphorus recovery as struvite in a FBR reactor with recirculation: Ostara Pearl.}}{283}{paragraph*.142}%
 \defcounter {refsection}{11}\relax
-\contentsline {paragraph}{{Phosphorus recovery as struvite in a CSTR reactor: \newline NuReSys.}}{284}{paragraph*.140}%
+\contentsline {paragraph}{{Phosphorus recovery as struvite in a CSTR reactor: \newline NuReSys.}}{284}{paragraph*.144}%
 \defcounter {refsection}{11}\relax
-\contentsline {paragraph}{{Phosphorus recovery as calcium precipitates in CSTR a reactor: P-RoC.}}{284}{paragraph*.141}%
+\contentsline {paragraph}{{Phosphorus recovery as calcium precipitates in CSTR a reactor: P-RoC.}}{284}{paragraph*.145}%
 \defcounter {refsection}{11}\relax
-\contentsline {paragraph}{{Phosphorus recovery through a modular phases separation system: MAPHEX.}}{286}{paragraph*.144}%
+\contentsline {paragraph}{{Phosphorus recovery through a modular phases separation system: MAPHEX.}}{286}{paragraph*.148}%
 \defcounter {refsection}{11}\relax
 \contentsline {section}{\numberline {C.3}{Multi-criteria decision model}}{287}{section.Alph3.3}%
 \defcounter {refsection}{11}\relax
 \contentsline {section}{\numberline {C.4}{Description of the Great Lakes area}}{288}{section.Alph3.4}%
 \defcounter {refsection}{11}\relax
-\contentsline {section}{Bibliography}{289}{table.caption.146}%
+\contentsline {section}{Bibliography}{289}{table.caption.150}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {D}{Appendix D: Supplementary Information of Chapter 7}}{293}{appendix.Alph4}%
 \defcounter {refsection}{12}\relax
@@ -526,7 +536,7 @@
 \defcounter {refsection}{12}\relax
 \contentsline {section}{\numberline {D.3}{Processing cost}}{313}{section.Alph4.3}%
 \defcounter {refsection}{12}\relax
-\contentsline {section}{Bibliography}{315}{table.caption.160}%
+\contentsline {section}{Bibliography}{315}{table.caption.164}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 8}}{319}{appendix.Alph5}%
 \defcounter {refsection}{13}\relax

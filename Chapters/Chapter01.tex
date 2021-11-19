@@ -282,6 +282,28 @@ Outer approximation (OA) provides a lower and an upper bound in each iteration. 
 Generalized cross decomposition (GCD) is based on the generation of a primal problem that provides an upper bound of the solution and also the Lagrange multipliers for the dual subproblem. The dual problem is used to determine the lower bound of the problem, and provides a vector of binary variables to be fixed in the primal problem. The solution of the primal and dual problems go through convergence tests. If any of these test fails, a master problem is solved. This approach seeks to minimize the number of master problems to be solved since the computational requirements of the this problem are higher. This procedure is repeated at each iteration of the algorithm \citep{holmberg1990convergence}.
 %\citep{floudas1995nonlinear}.
 
+\section{Fairness metrics}
+The fair allocation of limited resources among multiple stakeholders is key issue in resource management. This distribution can be guided
+%by maximizing the sum of
+through the individual utilities associated with the allocation of a certain resource to each stakeholder. Several utility allocation schemes have been proposed in the literature in order to address different issues, including the different scales of stakeholders, the existence of a unique solution fairness, and the Pareto optimality, which indicates that no utility is wasted. A brief description of different fairness measures is provided below. A more detailed analysis of multiple fairness measures and their properties can be found in \citet{sampat2019fairness}.
+
+\paragraph{Social welfare approach}
+The social welfare scheme seeks to maximize the sum of the individual utilities, i.e., the total utility of the community comprised by the stakeholders. This is an intuitive scheme that satisfies the Pareto optimality, but it has some deficiencies. Particularly, this approach is very sensitive to the difference of stakeholders scales, favoring the large stakeholders over the small ones. In addition, the social welfare scheme can result in multiple allocation solutions that result in the same total utility (i.e., the solution is non-unique), leading to ambiguous solutions \citep{sampat2019fairness}.
+
+\paragraph{Nash scheme}
+The Nash scheme \citep{Nash1950, roth1979impossibility} maximizes the product of the individual utilities, which is equivalent to maximize the sum of the logarithms of the individual utilities. Therefore, this approach is able to capture the different scales of stakeholders. In addition, this scheme satisfies the Pareto optimality and has unique solution. 
+
+Some variations of the Nash scheme have been proposed in the literature such as the proportional fairness scheme, which is based on a logarithmic transformation of the Nash utility function \citep{bertsimas2011price}.
+
+
+\paragraph{Rawlsian justice}
+The Rawlsian justice \citep{Rawls2020} seeks to prioritize the smallest stakeholders (i.e., the stakeholders with the last utility) over the largest ones. This schemes presents significant deficiencies: it does not consider the large stakeholders, the Pareto optimality is not satisfied, and solution provided can be non-unique.
+
+\paragraph{Parametric schemes}
+There exist a number of parametric schemes whose properties are defined through a set of parameters. Notable parametric schemes are the $\alpha$-Fair scheme \citep{lan2010axiomatic}, the superquantile scheme \citep{dowling2016framework}, and the generalized entropy scheme \citep{cowell1981additivity}. Some of these schemes can be reduced to the social welfare, Nash, and Rawlsian schemes for certain values of their parameters \citep{sampat2019fairness}.
+%which can be reduced to the social welfare, the Nash, and the Rawlsian schemes for certain values of a parameter $\alpha$, the generalized entropy scheme, and the superquantile, which converge to the social welfare and the Rawlsian schemes
+
+
 \section{Approaches for geospatial environmental assessment}
 %Human actions, from food production\citep{foster2007environmental} to cloud computing \citep{di2017can}, result in harmful impacts endangering and deteriorating the environment.
 The development of mitigation measures to reduce the environmental footprint of anthropogenic activities requires the previous understanding and quantification of the environmental impacts associated to each sector. This process, called environmental impact assessment (EIA), involves the analysis of multi-disciplinary information, including environmental, physical, geological, ecological, economic, and social data \citep{gharehbaghi2018gis}. Since EIA aims to evaluate the environmental impact of an activity on a particular geographical location, all these data have a common geographic component, becoming geospatial data.
