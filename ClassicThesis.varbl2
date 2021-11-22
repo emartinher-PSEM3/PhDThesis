@@ -1,246 +1,246 @@
-\glossaryentry{$a_{technology}$?\glossentry{var1}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\alpha _{mf}$?\glossentry{var2}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Ar_l$?\glossentry{var3}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$A_unit$?\glossentry{var4}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Benefits_{technology}$?\glossentry{var5}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$C:N$?\glossentry{var6}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$C_{eq}$?\glossentry{var7}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$C_0$?\glossentry{var8}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Cost_{unit}$?\glossentry{var9}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$C_{component}^{unit}$?\glossentry{var10}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$ChemC_technology$?\glossentry{var11}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$D_{unit}$?\glossentry{var12}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$e_{unit}$?\glossentry{var13}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Ec_{j}\left ( T \right )$?\glossentry{var14}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$F_{component}^{unit}$?\glossentry{var15}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$F_{max}^{unit}$?\glossentry{var16}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$F_{design}^{unit}$?\glossentry{var17}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$FC_{technology}$?\glossentry{var18}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$F_{total}^{recovered}$?\glossentry{var19}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$F^{unit,unit1}$?\glossentry{var20}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$fc_{j}^{unit,unit1}$?\glossentry{var21}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$H_{b}^{unit,unit1)}$?\glossentry{var22}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$H_{steam (isoentropy)}$?\glossentry{var23}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$l_{j-i}$?\glossentry{var24}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$K_{index}$?\glossentry{var25}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$L_{unit}$?\glossentry{var26}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$N_{NH_{3}}$?\glossentry{var27}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$N_{org}$?\glossentry{var28}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$n_{unit}$?\glossentry{var29}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$n_{(unit,unit1)}$?\glossentry{var30}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$N_{index}$?\glossentry{var31}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$P_{in/compressor}$?\glossentry{var32}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$P_{out/compressor}$?\glossentry{var33}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$P_j^{*} \left ( T \right )$?\glossentry{var34}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$P_v$?\glossentry{var35}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$P_{index}$?\glossentry{var36}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$p_{turb,i}$?\glossentry{var37}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$P_{unit}$?\glossentry{var38}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Q_{(unit)}$?\glossentry{var39}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$R_{C-N/k}$?\glossentry{var40}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$R_{C-N/fertilizer}$?\glossentry{var41}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$R_{V-F/i}$?\glossentry{var42}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Rest$?\glossentry{var43}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Re_{l,mf}$?\glossentry{var44}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$s_{b,(unit,unit1)}$?\glossentry{var45}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$T_{turb,i, min}^{*}$?\glossentry{var46}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$T_{(unit,unit1)}$?\glossentry{var47}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$T_{bubble/i}$?\glossentry{var48}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$T_{m/i}$?\glossentry{var49}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$T_{in/compressor}$?\glossentry{var50}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$T_{out/compressor}$?\glossentry{var51}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$t$?\glossentry{var52}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$u_t$?\glossentry{var53}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$u_0$?\glossentry{var54}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$u_{mf}$?\glossentry{var55}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$v_{j-i}$?\glossentry{var56}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$V_{biogas,k}$?\glossentry{var57}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$V_{unit}$?\glossentry{var58}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$W_{unit}$?\glossentry{var59}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{DM/k}$?\glossentry{var60}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{VS/k}$?\glossentry{var61}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{C/k}$?\glossentry{var62}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{NH_{3}/k}$?\glossentry{var63}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{N_{org}/k}$?\glossentry{var64}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{P/k}$?\glossentry{var65}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{K/k}$?\glossentry{var66}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var67}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$W_{unit}$?\glossentry{var68}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var69}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$x_{a/biogas}$?\glossentry{var70}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$y^j$?\glossentry{var71}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$y_{biogas}$?\glossentry{var72}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var73}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Y_{a', biogas-dry}$?\glossentry{var74}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\Delta H_{reaction(bioreactor)}$?\glossentry{var75}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\Delta H_{comb, k}$?\glossentry{var76}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\Delta H_{comb, e}$?\glossentry{var77}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\Delta H_{comb, digestate-dry}$?\glossentry{var78}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\Delta H_{f, h} \left ( T \right ) $?\glossentry{var79}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$Z$?\glossentry{var80}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\rho _{component}$?\glossentry{var81}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$\mu _{component}$?\glossentry{var82}|setentrycounter[]{page}\glsnumberformat}{64}
-\glossaryentry{$a_{technology}$?\glossentry{var1}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\alpha _{mf}$?\glossentry{var2}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Ar_l$?\glossentry{var3}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$A_unit$?\glossentry{var4}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Benefits_{technology}$?\glossentry{var5}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$C:N$?\glossentry{var6}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$C_{eq}$?\glossentry{var7}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$C_0$?\glossentry{var8}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Cost_{unit}$?\glossentry{var9}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$C_{component}^{unit}$?\glossentry{var10}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$ChemC_technology$?\glossentry{var11}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$D_{unit}$?\glossentry{var12}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$e_{unit}$?\glossentry{var13}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Ec_{j}\left ( T \right )$?\glossentry{var14}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$F_{component}^{unit}$?\glossentry{var15}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$F_{max}^{unit}$?\glossentry{var16}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$F_{design}^{unit}$?\glossentry{var17}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$FC_{technology}$?\glossentry{var18}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$F_{total}^{recovered}$?\glossentry{var19}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$F^{unit,unit1}$?\glossentry{var20}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$fc_{j}^{unit,unit1}$?\glossentry{var21}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$H_{b}^{unit,unit1)}$?\glossentry{var22}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$H_{steam (isoentropy)}$?\glossentry{var23}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$l_{j-i}$?\glossentry{var24}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$K_{index}$?\glossentry{var25}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$L_{unit}$?\glossentry{var26}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$N_{NH_{3}}$?\glossentry{var27}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$N_{org}$?\glossentry{var28}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$n_{unit}$?\glossentry{var29}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$n_{(unit,unit1)}$?\glossentry{var30}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$N_{index}$?\glossentry{var31}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$P_{in/compressor}$?\glossentry{var32}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$P_{out/compressor}$?\glossentry{var33}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$P_j^{*} \left ( T \right )$?\glossentry{var34}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$P_v$?\glossentry{var35}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$P_{index}$?\glossentry{var36}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$p_{turb,i}$?\glossentry{var37}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$P_{unit}$?\glossentry{var38}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Q_{(unit)}$?\glossentry{var39}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$R_{C-N/k}$?\glossentry{var40}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$R_{C-N/fertilizer}$?\glossentry{var41}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$R_{V-F/i}$?\glossentry{var42}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Rest$?\glossentry{var43}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Re_{l,mf}$?\glossentry{var44}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$s_{b,(unit,unit1)}$?\glossentry{var45}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$T_{turb,i, min}^{*}$?\glossentry{var46}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$T_{(unit,unit1)}$?\glossentry{var47}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$T_{bubble/i}$?\glossentry{var48}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$T_{m/i}$?\glossentry{var49}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$T_{in/compressor}$?\glossentry{var50}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$T_{out/compressor}$?\glossentry{var51}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$t$?\glossentry{var52}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$u_t$?\glossentry{var53}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$u_0$?\glossentry{var54}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$u_{mf}$?\glossentry{var55}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$v_{j-i}$?\glossentry{var56}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$V_{biogas,k}$?\glossentry{var57}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$V_{unit}$?\glossentry{var58}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$W_{unit}$?\glossentry{var59}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{DM/k}$?\glossentry{var60}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{VS/k}$?\glossentry{var61}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{C/k}$?\glossentry{var62}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{NH_{3}/k}$?\glossentry{var63}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{N_{org}/k}$?\glossentry{var64}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{P/k}$?\glossentry{var65}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{K/k}$?\glossentry{var66}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var67}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$W_{unit}$?\glossentry{var68}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var69}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$x_{a/biogas}$?\glossentry{var70}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$y^j$?\glossentry{var71}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$y_{biogas}$?\glossentry{var72}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var73}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Y_{a', biogas-dry}$?\glossentry{var74}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\Delta H_{reaction(bioreactor)}$?\glossentry{var75}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\Delta H_{comb, k}$?\glossentry{var76}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\Delta H_{comb, e}$?\glossentry{var77}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\Delta H_{comb, digestate-dry}$?\glossentry{var78}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\Delta H_{f, h} \left ( T \right ) $?\glossentry{var79}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$Z$?\glossentry{var80}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\rho _{component}$?\glossentry{var81}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$\mu _{component}$?\glossentry{var82}|setentrycounter[]{page}\glsnumberformat}{93}
-\glossaryentry{$a_{technology}$?\glossentry{var1}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\alpha _{mf}$?\glossentry{var2}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Ar_l$?\glossentry{var3}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$A_unit$?\glossentry{var4}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Benefits_{technology}$?\glossentry{var5}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$C:N$?\glossentry{var6}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$C_{eq}$?\glossentry{var7}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$C_0$?\glossentry{var8}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Cost_{unit}$?\glossentry{var9}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$C_{component}^{unit}$?\glossentry{var10}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$ChemC_technology$?\glossentry{var11}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$D_{unit}$?\glossentry{var12}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$e_{unit}$?\glossentry{var13}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Ec_{j}\left ( T \right )$?\glossentry{var14}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$F_{component}^{unit}$?\glossentry{var15}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$F_{max}^{unit}$?\glossentry{var16}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$F_{design}^{unit}$?\glossentry{var17}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$FC_{technology}$?\glossentry{var18}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$F_{total}^{recovered}$?\glossentry{var19}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$F^{unit,unit1}$?\glossentry{var20}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$fc_{j}^{unit,unit1}$?\glossentry{var21}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$H_{b}^{unit,unit1)}$?\glossentry{var22}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$H_{steam (isoentropy)}$?\glossentry{var23}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$l_{j-i}$?\glossentry{var24}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$K_{index}$?\glossentry{var25}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$L_{unit}$?\glossentry{var26}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$N_{NH_{3}}$?\glossentry{var27}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$N_{org}$?\glossentry{var28}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$n_{unit}$?\glossentry{var29}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$n_{(unit,unit1)}$?\glossentry{var30}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$N_{index}$?\glossentry{var31}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$P_{in/compressor}$?\glossentry{var32}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$P_{out/compressor}$?\glossentry{var33}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$P_j^{*} \left ( T \right )$?\glossentry{var34}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$P_v$?\glossentry{var35}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$P_{index}$?\glossentry{var36}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$p_{turb,i}$?\glossentry{var37}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$P_{unit}$?\glossentry{var38}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Q_{(unit)}$?\glossentry{var39}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$R_{C-N/k}$?\glossentry{var40}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$R_{C-N/fertilizer}$?\glossentry{var41}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$R_{V-F/i}$?\glossentry{var42}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Rest$?\glossentry{var43}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Re_{l,mf}$?\glossentry{var44}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$s_{b,(unit,unit1)}$?\glossentry{var45}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$T_{turb,i, min}^{*}$?\glossentry{var46}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$T_{(unit,unit1)}$?\glossentry{var47}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$T_{bubble/i}$?\glossentry{var48}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$T_{m/i}$?\glossentry{var49}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$T_{in/compressor}$?\glossentry{var50}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$T_{out/compressor}$?\glossentry{var51}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$t$?\glossentry{var52}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$u_t$?\glossentry{var53}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$u_0$?\glossentry{var54}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$u_{mf}$?\glossentry{var55}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$v_{j-i}$?\glossentry{var56}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$V_{biogas,k}$?\glossentry{var57}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$V_{unit}$?\glossentry{var58}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$W_{unit}$?\glossentry{var59}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{DM/k}$?\glossentry{var60}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{VS/k}$?\glossentry{var61}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{C/k}$?\glossentry{var62}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{NH_{3}/k}$?\glossentry{var63}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{N_{org}/k}$?\glossentry{var64}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{P/k}$?\glossentry{var65}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{K/k}$?\glossentry{var66}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var67}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$W_{unit}$?\glossentry{var68}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var69}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$x_{a/biogas}$?\glossentry{var70}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$y^j$?\glossentry{var71}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$y_{biogas}$?\glossentry{var72}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var73}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Y_{a', biogas-dry}$?\glossentry{var74}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\Delta H_{reaction(bioreactor)}$?\glossentry{var75}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\Delta H_{comb, k}$?\glossentry{var76}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\Delta H_{comb, e}$?\glossentry{var77}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\Delta H_{comb, digestate-dry}$?\glossentry{var78}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\Delta H_{f, h} \left ( T \right ) $?\glossentry{var79}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$Z$?\glossentry{var80}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\rho _{component}$?\glossentry{var81}|setentrycounter[]{page}\glsnumberformat}{208}
-\glossaryentry{$\mu _{component}$?\glossentry{var82}|setentrycounter[]{page}\glsnumberformat}{208}
+\glossaryentry{$a_{technology}$?\glossentry{var1}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\alpha _{mf}$?\glossentry{var2}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Ar_l$?\glossentry{var3}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$A_unit$?\glossentry{var4}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Benefits_{technology}$?\glossentry{var5}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$C:N$?\glossentry{var6}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$C_{eq}$?\glossentry{var7}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$C_0$?\glossentry{var8}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Cost_{unit}$?\glossentry{var9}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$C_{component}^{unit}$?\glossentry{var10}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$ChemC_technology$?\glossentry{var11}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$D_{unit}$?\glossentry{var12}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$e_{unit}$?\glossentry{var13}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Ec_{j}\left ( T \right )$?\glossentry{var14}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$F_{component}^{unit}$?\glossentry{var15}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$F_{max}^{unit}$?\glossentry{var16}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$F_{design}^{unit}$?\glossentry{var17}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$FC_{technology}$?\glossentry{var18}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$F_{total}^{recovered}$?\glossentry{var19}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$F^{unit,unit1}$?\glossentry{var20}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$fc_{j}^{unit,unit1}$?\glossentry{var21}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$H_{b}^{unit,unit1)}$?\glossentry{var22}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$H_{steam (isoentropy)}$?\glossentry{var23}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$l_{j-i}$?\glossentry{var24}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$K_{index}$?\glossentry{var25}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$L_{unit}$?\glossentry{var26}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$N_{NH_{3}}$?\glossentry{var27}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$N_{org}$?\glossentry{var28}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$n_{unit}$?\glossentry{var29}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$n_{(unit,unit1)}$?\glossentry{var30}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$N_{index}$?\glossentry{var31}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$P_{in/compressor}$?\glossentry{var32}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$P_{out/compressor}$?\glossentry{var33}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$P_j^{*} \left ( T \right )$?\glossentry{var34}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$P_v$?\glossentry{var35}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$P_{index}$?\glossentry{var36}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$p_{turb,i}$?\glossentry{var37}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$P_{unit}$?\glossentry{var38}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Q_{(unit)}$?\glossentry{var39}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$R_{C-N/k}$?\glossentry{var40}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$R_{C-N/fertilizer}$?\glossentry{var41}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$R_{V-F/i}$?\glossentry{var42}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Rest$?\glossentry{var43}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Re_{l,mf}$?\glossentry{var44}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$s_{b,(unit,unit1)}$?\glossentry{var45}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$T_{turb,i, min}^{*}$?\glossentry{var46}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$T_{(unit,unit1)}$?\glossentry{var47}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$T_{bubble/i}$?\glossentry{var48}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$T_{m/i}$?\glossentry{var49}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$T_{in/compressor}$?\glossentry{var50}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$T_{out/compressor}$?\glossentry{var51}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$t$?\glossentry{var52}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$u_t$?\glossentry{var53}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$u_0$?\glossentry{var54}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$u_{mf}$?\glossentry{var55}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$v_{j-i}$?\glossentry{var56}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$V_{biogas,k}$?\glossentry{var57}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$V_{unit}$?\glossentry{var58}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$W_{unit}$?\glossentry{var59}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{DM/k}$?\glossentry{var60}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{VS/k}$?\glossentry{var61}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{C/k}$?\glossentry{var62}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{NH_{3}/k}$?\glossentry{var63}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{N_{org}/k}$?\glossentry{var64}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{P/k}$?\glossentry{var65}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{K/k}$?\glossentry{var66}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var67}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$W_{unit}$?\glossentry{var68}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var69}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$x_{a/biogas}$?\glossentry{var70}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$y^j$?\glossentry{var71}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$y_{biogas}$?\glossentry{var72}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var73}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Y_{a', biogas-dry}$?\glossentry{var74}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\Delta H_{reaction(bioreactor)}$?\glossentry{var75}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\Delta H_{comb, k}$?\glossentry{var76}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\Delta H_{comb, e}$?\glossentry{var77}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\Delta H_{comb, digestate-dry}$?\glossentry{var78}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\Delta H_{f, h} \left ( T \right ) $?\glossentry{var79}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$Z$?\glossentry{var80}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\rho _{component}$?\glossentry{var81}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$\mu _{component}$?\glossentry{var82}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$a_{technology}$?\glossentry{var1}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\alpha _{mf}$?\glossentry{var2}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Ar_l$?\glossentry{var3}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$A_unit$?\glossentry{var4}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Benefits_{technology}$?\glossentry{var5}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$C:N$?\glossentry{var6}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$C_{eq}$?\glossentry{var7}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$C_0$?\glossentry{var8}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Cost_{unit}$?\glossentry{var9}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$C_{component}^{unit}$?\glossentry{var10}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$ChemC_technology$?\glossentry{var11}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$D_{unit}$?\glossentry{var12}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$e_{unit}$?\glossentry{var13}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Ec_{j}\left ( T \right )$?\glossentry{var14}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$F_{component}^{unit}$?\glossentry{var15}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$F_{max}^{unit}$?\glossentry{var16}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$F_{design}^{unit}$?\glossentry{var17}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$FC_{technology}$?\glossentry{var18}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$F_{total}^{recovered}$?\glossentry{var19}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$F^{unit,unit1}$?\glossentry{var20}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$fc_{j}^{unit,unit1}$?\glossentry{var21}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$H_{b}^{unit,unit1)}$?\glossentry{var22}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$H_{steam (isoentropy)}$?\glossentry{var23}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$l_{j-i}$?\glossentry{var24}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$K_{index}$?\glossentry{var25}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$L_{unit}$?\glossentry{var26}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$N_{NH_{3}}$?\glossentry{var27}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$N_{org}$?\glossentry{var28}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$n_{unit}$?\glossentry{var29}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$n_{(unit,unit1)}$?\glossentry{var30}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$N_{index}$?\glossentry{var31}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$P_{in/compressor}$?\glossentry{var32}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$P_{out/compressor}$?\glossentry{var33}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$P_j^{*} \left ( T \right )$?\glossentry{var34}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$P_v$?\glossentry{var35}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$P_{index}$?\glossentry{var36}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$p_{turb,i}$?\glossentry{var37}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$P_{unit}$?\glossentry{var38}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Q_{(unit)}$?\glossentry{var39}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$R_{C-N/k}$?\glossentry{var40}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$R_{C-N/fertilizer}$?\glossentry{var41}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$R_{V-F/i}$?\glossentry{var42}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Rest$?\glossentry{var43}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Re_{l,mf}$?\glossentry{var44}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$s_{b,(unit,unit1)}$?\glossentry{var45}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$T_{turb,i, min}^{*}$?\glossentry{var46}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$T_{(unit,unit1)}$?\glossentry{var47}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$T_{bubble/i}$?\glossentry{var48}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$T_{m/i}$?\glossentry{var49}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$T_{in/compressor}$?\glossentry{var50}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$T_{out/compressor}$?\glossentry{var51}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$t$?\glossentry{var52}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$u_t$?\glossentry{var53}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$u_0$?\glossentry{var54}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$u_{mf}$?\glossentry{var55}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$v_{j-i}$?\glossentry{var56}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$V_{biogas,k}$?\glossentry{var57}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$V_{unit}$?\glossentry{var58}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$W_{unit}$?\glossentry{var59}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{DM/k}$?\glossentry{var60}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{VS/k}$?\glossentry{var61}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{C/k}$?\glossentry{var62}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{NH_{3}/k}$?\glossentry{var63}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{N_{org}/k}$?\glossentry{var64}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{P/k}$?\glossentry{var65}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{K/k}$?\glossentry{var66}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var67}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$W_{unit}$?\glossentry{var68}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var69}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$x_{a/biogas}$?\glossentry{var70}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$y^j$?\glossentry{var71}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$y_{biogas}$?\glossentry{var72}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var73}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Y_{a', biogas-dry}$?\glossentry{var74}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\Delta H_{reaction(bioreactor)}$?\glossentry{var75}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\Delta H_{comb, k}$?\glossentry{var76}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\Delta H_{comb, e}$?\glossentry{var77}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\Delta H_{comb, digestate-dry}$?\glossentry{var78}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\Delta H_{f, h} \left ( T \right ) $?\glossentry{var79}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$Z$?\glossentry{var80}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\rho _{component}$?\glossentry{var81}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$\mu _{component}$?\glossentry{var82}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$a_{technology}$?\glossentry{var1}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\alpha _{mf}$?\glossentry{var2}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Ar_l$?\glossentry{var3}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$A_unit$?\glossentry{var4}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Benefits_{technology}$?\glossentry{var5}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$C:N$?\glossentry{var6}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$C_{eq}$?\glossentry{var7}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$C_0$?\glossentry{var8}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Cost_{unit}$?\glossentry{var9}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$C_{component}^{unit}$?\glossentry{var10}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$ChemC_technology$?\glossentry{var11}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$D_{unit}$?\glossentry{var12}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$e_{unit}$?\glossentry{var13}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Ec_{j}\left ( T \right )$?\glossentry{var14}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$F_{component}^{unit}$?\glossentry{var15}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$F_{max}^{unit}$?\glossentry{var16}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$F_{design}^{unit}$?\glossentry{var17}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$FC_{technology}$?\glossentry{var18}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$F_{total}^{recovered}$?\glossentry{var19}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$F^{unit,unit1}$?\glossentry{var20}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$fc_{j}^{unit,unit1}$?\glossentry{var21}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$H_{b}^{unit,unit1)}$?\glossentry{var22}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$H_{steam (isoentropy)}$?\glossentry{var23}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$l_{j-i}$?\glossentry{var24}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$K_{index}$?\glossentry{var25}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$L_{unit}$?\glossentry{var26}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$N_{NH_{3}}$?\glossentry{var27}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$N_{org}$?\glossentry{var28}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$n_{unit}$?\glossentry{var29}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$n_{(unit,unit1)}$?\glossentry{var30}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$N_{index}$?\glossentry{var31}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$P_{in/compressor}$?\glossentry{var32}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$P_{out/compressor}$?\glossentry{var33}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$P_j^{*} \left ( T \right )$?\glossentry{var34}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$P_v$?\glossentry{var35}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$P_{index}$?\glossentry{var36}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$p_{turb,i}$?\glossentry{var37}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$P_{unit}$?\glossentry{var38}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Q_{(unit)}$?\glossentry{var39}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$R_{C-N/k}$?\glossentry{var40}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$R_{C-N/fertilizer}$?\glossentry{var41}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$R_{V-F/i}$?\glossentry{var42}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Rest$?\glossentry{var43}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Re_{l,mf}$?\glossentry{var44}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$s_{b,(unit,unit1)}$?\glossentry{var45}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$T_{turb,i, min}^{*}$?\glossentry{var46}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$T_{(unit,unit1)}$?\glossentry{var47}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$T_{bubble/i}$?\glossentry{var48}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$T_{m/i}$?\glossentry{var49}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$T_{in/compressor}$?\glossentry{var50}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$T_{out/compressor}$?\glossentry{var51}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$t$?\glossentry{var52}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$u_t$?\glossentry{var53}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$u_0$?\glossentry{var54}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$u_{mf}$?\glossentry{var55}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$v_{j-i}$?\glossentry{var56}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$V_{biogas,k}$?\glossentry{var57}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$V_{unit}$?\glossentry{var58}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$W_{unit}$?\glossentry{var59}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{DM/k}$?\glossentry{var60}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{VS/k}$?\glossentry{var61}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{C/k}$?\glossentry{var62}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{NH_{3}/k}$?\glossentry{var63}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{N_{org}/k}$?\glossentry{var64}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{P/k}$?\glossentry{var65}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{K/k}$?\glossentry{var66}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var67}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$W_{unit}$?\glossentry{var68}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var69}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$x_{a/biogas}$?\glossentry{var70}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$y^j$?\glossentry{var71}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$y_{biogas}$?\glossentry{var72}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$w^\prime _{Rest/k}$?\glossentry{var73}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Y_{a', biogas-dry}$?\glossentry{var74}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\Delta H_{reaction(bioreactor)}$?\glossentry{var75}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\Delta H_{comb, k}$?\glossentry{var76}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\Delta H_{comb, e}$?\glossentry{var77}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\Delta H_{comb, digestate-dry}$?\glossentry{var78}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\Delta H_{f, h} \left ( T \right ) $?\glossentry{var79}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$Z$?\glossentry{var80}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\rho _{component}$?\glossentry{var81}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$\mu _{component}$?\glossentry{var82}|setentrycounter[]{page}\glsnumberformat}{235}
