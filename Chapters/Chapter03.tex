@@ -51,10 +51,10 @@ The elements considered for phosphorus uptake are the crops sown and managed by 
 Since different crops have different phosphorus uptakes and yield rates, the amount of each type of crop is estimated for each watershed. To determine the land cover uses, accounting croplands, pasturelands, wetlands and developed areas (urban areas), information available for the most recent year (2011) from the U.S. Environmental Protection Agency's (U.S. EPA) EnviroAtlas database is used \citep{EnviroAtlas}. Data from EnviroAtlas is provided with higher spatial resolution, at HUC12 level. To ensure spatial consistency, the data is reconciled at HUC8 level. Once the land uses of each watershed are known, data from the 2017 U.S. Census of Agriculture is used to determine the distribution of crops on croplands, considering corn, soybeans, small grains, cotton, rice, vegetables, orchards, greenhouse and other crops (namely oil crops, sugar crops, and fruits) \citep{2017CensusofAgriculture}. The data provided by the U.S. Census of Agriculture have a spatial resolution of HUC6. Therefore, it is reconciled at HUC8 level scaling by the area fraction represented by each HUC8 watershed over the total HUC6 hydrologic unit. If two or more crops were harvested from the same land during the year (double cropping), the area was counted for each crop. To determine the nutrients uptake of each type of crop, data from the U.S. Department of Agriculture (USDA) Waste Management field Handbook is considered  \citep{USDAWaste}. For croplands, the specific nutrient uptake values are used for corn, soybeans, cotton, rice and orchards, while average values including the most representative species are used for small grains, vegetables, greenhouse crops, pasture crops, and forest. For pasture lands the average nutrient uptake and crop yield including the main pasture crops: alfalfa, switchgrass and wheatgrass; for forests lands the nutrient uptake and crop yield of Northern hardwoods is considered, and for developed areas null nutrient uptake is considered. The wetlands phosphorus uptake value considered is 0.77 gP m$^{-2}$ year$^{-1}$, based in the data reported by \citet{Kadlec}.
 
 \subsubsection{Phosphorus balance}
-To reach environmental sustainability of a productive activity, the releases of phosphorus should be balanced with the phosphorus uptakes from that activity, reducing the impact over the original ecosystems as much as possible. To evaluate the balance of phosphorus releases involved in agricultural activities throughout the U.S. watersheds, the techno-ecological synergy (TES) sustainability metric proposed by \citet{TESmetric} has been considered, Eq. \ref{eq:TES}. A negative value of $V_{x}$ indicates that the emissions, $\left(E_{x}\right)$, are larger than the uptake capacity of the agricultural activities, $\left(U_{x}\right)$, impacting the ecosystems, while positive values reflect that the releases are lower than the uptake capacity.
+To reach environmental sustainability of a productive activity, the releases of phosphorus should be balanced with the phosphorus uptakes from that activity, reducing the impact over the original ecosystems as much as possible. To evaluate the balance of phosphorus releases involved in agricultural activities throughout the U.S. watersheds, the techno-ecological synergy (TES) sustainability metric proposed by \citet{TESmetric} has been considered, Eq. \ref{eq:TESPaperGeo}. A negative value of $V_{x}$ indicates that the emissions, $\left(E_{x}\right)$, are larger than the uptake capacity of the agricultural activities, $\left(U_{x}\right)$, impacting the ecosystems, while positive values reflect that the releases are lower than the uptake capacity.
 
 \begin{align}
-& V_{x} =\frac{\left(U_{x} - E_{x}\right)}{E_{x}} \label{eq:TES}
+& V_{x} =\frac{\left(U_{x} - E_{x}\right)}{E_{x}} \label{eq:TESPaperGeo}
 \end{align}
 
 \subsection{Thermodynamic model for precipitates formation} \label{thermo_model}
@@ -147,13 +147,13 @@ where $n_{j}$ and $m_{k}$ are the stoichiometric coefficients of the reactants a
 		\begin{tabular}{c c c c}
 			\toprule
 			Name	& Chemical system &${pK}$	&Source	\\ \midrule
-			Ammonia & $\text{NH}_{4}^{+} \leftrightarrow \text{NH}_{3} + \text{H}^{+}$	&9.2 &\citep{Bates}	\\ 
-			Water & $\text{H}_{2}\text{O} \leftrightarrow \text{OH}^{-} + \text{H}^{+}$	&14  &\citep{Skoog}	\\ 
-			\multirow{3}{*}{Phosphoric acid} & $\text{H}_{3}\text{PO}_{4} \leftrightarrow \text{H}_{2}\text{PO}_{4}^{-} + \text{H}^{+}$	&2.1	&\citep{Ohlinger}	\\ 
-			&$\text{H}_{2}\text{PO}_{4}^{-} \leftrightarrow \text{HPO}_{4}^{2-} + \text{H}^{+}$	&7.2  &\citep{Ohlinger}	\\ 
-			&$\text{HPO}_{4}^{2-} \leftrightarrow \text{PO}_{4}^{3-} + \text{H}^{+}$	&12.35 &\citep{Ohlinger}	\\ 
-			\multirow{2}{*}{Carbonic acid} & $\text{H}_{2}\text{CO}_{3} \leftrightarrow \text{HCO}_{3}^{-} + \text{H}^{+}$	&6.35	&\citep{Skoog}	\\  
-			&$\text{HCO}_{3}^{-} \leftrightarrow \text{CO}_{3}^{2-} + \text{H}^{+}$	&10.33	&\citep{Skoog}	\\ \bottomrule
+			Ammonia & $\text{NH}_{4}^{+} \leftrightarrow \text{NH}_{3} + \text{H}^{+}$	&9.2 &\citet{Bates}	\\ 
+			Water & $\text{H}_{2}\text{O} \leftrightarrow \text{OH}^{-} + \text{H}^{+}$	&14  &\citet{Skoog}	\\ 
+			\multirow{3}{*}{Phosphoric acid} & $\text{H}_{3}\text{PO}_{4} \leftrightarrow \text{H}_{2}\text{PO}_{4}^{-} + \text{H}^{+}$	&2.1	&\citet{Ohlinger}	\\ 
+			&$\text{H}_{2}\text{PO}_{4}^{-} \leftrightarrow \text{HPO}_{4}^{2-} + \text{H}^{+}$	&7.2  &\citet{Ohlinger}	\\ 
+			&$\text{HPO}_{4}^{2-} \leftrightarrow \text{PO}_{4}^{3-} + \text{H}^{+}$	&12.35 &\citet{Ohlinger}	\\ 
+			\multirow{2}{*}{Carbonic acid} & $\text{H}_{2}\text{CO}_{3} \leftrightarrow \text{HCO}_{3}^{-} + \text{H}^{+}$	&6.35	&\citet{Skoog}	\\  
+			&$\text{HCO}_{3}^{-} \leftrightarrow \text{CO}_{3}^{2-} + \text{H}^{+}$	&10.33	&\citet{Skoog}	\\ \bottomrule
 		\end{tabular}}
 %	\end{adjustwidth}
 \end{table}
@@ -168,14 +168,14 @@ where $n_{j}$ and $m_{k}$ are the stoichiometric coefficients of the reactants a
 		\begin{tabular}{c c c c}
 			\toprule
 			Name	& Chemical system &${pK}_{{sp}}$	&Source	\\ \midrule
-			Struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgNH}_{4}\text{PO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$\\ $\text{Mg}^{2+} + \text{NH}_{4}^{+} + \text{PO}_{4}^{3-}$\end{tabular} &13.26 &\citep{Ohlinger} 	\\
-			K-struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgKPO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$ \\ $\text{Mg}^{2+} + \text{K}^{+} + \text{PO}_{4}^{3-}$\end{tabular} & 10.6 & \citep{TaylorAW}  	\\ 
-			Hydroxyapatite	& \begin{tabular}[c]{@{}c@{}}$\text{Ca}_{5} \left( \text{PO}_{4} \right)_{3}\text{OH} \leftrightarrow$\\ $5\text{Ca}^{2+} + 3\text{PO}_{4}^{3-}+\text{OH}^{-}$\end{tabular} &44.33 &\citep{Brezonik}  \\ 
-			Calcium carbonate	& $\text{CaCO}_{3} \leftrightarrow \text{Ca}^{2+} + \text{CO}_{3}^{2-}$ &8.48	&\citep{Morse} \\ 
-			Tricalcium phosphate	& $\text{Ca}_{3} \left( \text{PO}_{4} \right)_{2} \leftrightarrow 3\text{Ca}^{2+} + 2\text{PO}_{4}^{3-}$ &25.50 &\citep{Fowler} 	\\
-			Dicalcium phosphate	& $\text{CaHPO}_{4} \leftrightarrow \text{Ca}^{2+} + \text{HPO}_{4}^{2-}$ &6.57	&\citep{Gregory} 	\\
-			Calcium hydroxide	& $\text{Ca} \left( \text{OH} \right)_{2} \leftrightarrow \text{Ca}^{2+} + 2\text{OH}^{-}$ &5.19  &\citep{Skoog}  \\
-			Magnesium hydroxide	& $\text{Mg(OH)}_{2} \leftrightarrow \text{Mg}^{2+} + 2\text{OH}^{-}$&11.15  &\citep{Skoog} 	\\  \bottomrule 
+			Struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgNH}_{4}\text{PO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$\\ $\text{Mg}^{2+} + \text{NH}_{4}^{+} + \text{PO}_{4}^{3-}$\end{tabular} &13.26 &\citet{Ohlinger} 	\\
+			K-struvite	& \begin{tabular}[c]{@{}c@{}}$\text{MgKPO}_{4} \cdot 6\text{H}_{2}\text{O} \leftrightarrow$ \\ $\text{Mg}^{2+} + \text{K}^{+} + \text{PO}_{4}^{3-}$\end{tabular} & 10.6 & \citet{TaylorAW}  	\\ 
+			Hydroxyapatite	& \begin{tabular}[c]{@{}c@{}}$\text{Ca}_{5} \left( \text{PO}_{4} \right)_{3}\text{OH} \leftrightarrow$\\ $5\text{Ca}^{2+} + 3\text{PO}_{4}^{3-}+\text{OH}^{-}$\end{tabular} &44.33 &\citet{Brezonik}  \\ 
+			Calcium carbonate	& $\text{CaCO}_{3} \leftrightarrow \text{Ca}^{2+} + \text{CO}_{3}^{2-}$ &8.48	&\citet{Morse} \\ 
+			Tricalcium phosphate	& $\text{Ca}_{3} \left( \text{PO}_{4} \right)_{2} \leftrightarrow 3\text{Ca}^{2+} + 2\text{PO}_{4}^{3-}$ &25.50 &\citet{Fowler} 	\\
+			Dicalcium phosphate	& $\text{CaHPO}_{4} \leftrightarrow \text{Ca}^{2+} + \text{HPO}_{4}^{2-}$ &6.57	&\citet{Gregory} 	\\
+			Calcium hydroxide	& $\text{Ca} \left( \text{OH} \right)_{2} \leftrightarrow \text{Ca}^{2+} + 2\text{OH}^{-}$ &5.19  &\citet{Skoog}  \\
+			Magnesium hydroxide	& $\text{Mg(OH)}_{2} \leftrightarrow \text{Mg}^{2+} + 2\text{OH}^{-}$&11.15  &\citet{Skoog} 	\\  \bottomrule 
 		\end{tabular}
 	}
 %	\end{adjustwidth}
@@ -189,7 +189,7 @@ The precipitates that can be potentially formed from cattle waste have been sele
 \end{align}
 The solid species considered in this study and their corresponding $pK_{sp}$ values are shown in Table \ref{table:solids_species}. These are the main precipitates that can be formed from the ions found in the cattle leachate. Considering the activity of solid species is equal to 1, and defining $L$ as the set of chemical systems described in Table \ref{table:solids_species}, the solubility equilibrium is defined for all the elements of the set as shown in Eq. \ref{eq:solid_eq}.
 
-The supersaturation index ($\Omega$) is the defined as the ratio between the ion activity product and the solubility product (Ksp), as shown in Eq. \ref{eq:Omega_i} \citep{Tao}. Therefore, the value of $\Omega$ determines if a compound precipitates. A saturation index $\Omega > 1$ indicates supersaturated conditions where precipitate may form, $\Omega =1 $ indicates equilibrium between solid and liquid phases, and $\Omega < 1$ indicates unsaturated conditions where no precipitate can form. 
+The supersaturation index ($\Omega$) is the defined as the ratio between the ion activity product and the solubility product $\left(K_{sp}\right)$, as shown in Eq. \ref{eq:Omega_i} \citep{Tao}. Therefore, the value of $\Omega$ determines if a compound precipitates. A saturation index $\Omega > 1$ indicates supersaturated conditions where precipitate may form, $\Omega =1 $ indicates equilibrium between solid and liquid phases, and $\Omega < 1$ indicates unsaturated conditions where no precipitate can form. 
 
 The higher value of the supersaturation index, the larger formation potential of a precipitate. Therefore, the sequence for the precipitation of different species can be set by comparing the supersaturation index values. The amount of solid species generated is computed through material balances, Eq. \ref{eq:solid_balance}.
 
@@ -268,10 +268,10 @@ The plots showing evolution of precipitates formation in function of the $\text{
 The phosphorus as phosphate fraction recovered as struvite exhibits a steep descent at $\text{Ca}^{2+}/\text{PO}_{4}^{3-}$ values between 0 and 2, followed by an asymptotic behavior tending to 0. The dispersion of the values has slight variations along with the evaluated $\text{Mg}^{2+}/\text{PO}_{4}^{3-}$ values.
 For hydroxyapatite and calcium carbonate, the higher $\text{Ca}^{2+}/\text{PO}_{4}^{3-}$ value, the greater dispersion for the obtained values. This is due to the increase in the supersaturation values for both calcium precipitates because of the presence of a higher number of calcium ions in the leachate.
 
-The surrogate models obtained for struvite and calcium carbonate fit pseudo-sigmoidal equations, Eqs. \ref{eq:sigmoidal_Ca_StrYield} and \ref{eq:sigmoidal_CaCaCO3} respectively; while for hydroxyapatite (HAP) is a second polynomial function, Eq. \ref{eq:sigmoidal_Ca_HAP}. In all cases, $ x_{\text{Ca}^{2+}:\text{PO}_{4}^{3-}}$ is referred to $\text{Ca}^{2+}/\text{PO}_{4}^{3-} \ \text{molar ratio}$.
+The surrogate models obtained for struvite and calcium carbonate fit pseudo-sigmoidal equations, Eqs. \ref{eq:sigmoidal_Ca_StrYieldPaperGeo} and \ref{eq:sigmoidal_CaCaCO3} respectively; while for hydroxyapatite (HAP) is a second polynomial function, Eq. \ref{eq:sigmoidal_Ca_HAP}. In all cases, $ x_{\text{Ca}^{2+}:\text{PO}_{4}^{3-}}$ is referred to $\text{Ca}^{2+}/\text{PO}_{4}^{3-} \ \text{molar ratio}$.
 
 \begin{align}
-&x_{\text{struvite} \left(\text{PO}_{4}^{3-}\right) }= \frac{0.798}{1+\left(x_{\text{Ca}^{2+}:\text{PO}_{4}^{3-}} \cdot 0.576\right)^{2.113}} \label{eq:sigmoidal_Ca_StrYield} \\
+&x_{\text{struvite} \left(\text{PO}_{4}^{3-}\right) }= \frac{0.798}{1+\left(x_{\text{Ca}^{2+}:\text{PO}_{4}^{3-}} \cdot 0.576\right)^{2.113}} \label{eq:sigmoidal_Ca_StrYieldPaperGeo} \\
 \nonumber \\
 %\begin{split}
 & x_{\text{hydroxyapatite} \left(\text{Ca}^{2+}\right)} = \label{eq:sigmoidal_Ca_HAP} \\
@@ -324,7 +324,7 @@ For studies requiring higher spatial resolution, more accurate values for the TE
 	\begin{adjustwidth}{}{}
 		\centering
 		\includegraphics[width=\linewidth]{gfx/Chapter3/TES_mod.png} 
-		\caption{Techno-ecological synergy (TES) metric values for HUC8 watersheds. Red indicates watersheds with unbalanced agricultural phosphorus releases, and blue indicates watersheds with balanced agricultural phosphorus releases. White indicates watersheds with not available data.} 
+		\caption{Techno-ecological synergy (TES) metric values for HUC8 watersheds. Red indicates watersheds with unbalanced agricultural phosphorus releases, and blue indicates watersheds with balanced agricultural phosphorus releases. White color indicates watersheds with not available data.} 
 		\label{fig:TES}
 	\end{adjustwidth}{}
 \end{figure}
@@ -356,7 +356,7 @@ For studies requiring higher spatial resolution, more accurate values for the TE
 	\end{subfigure}
 	
 	\caption{Phosphorus releases avoided through struvite production for the different scenarios considered. Darker colors represent larger phosphorus recovery}
-	\label{fig:plot_scenarios}
+	\label{fig:plot_scenariosPaperGeo}
 \end{sidewaysfigure}
 
 Since the scope of the surrogate models developed is limited to the treatment of cattle leachate, only P releases from cattle organic waste will be considered for recovery. Additionally, as it is mentioned in the description of the model, only the phosphate fraction of phosphorus can be recovered through struvite precipitation. Data provided by IPNI NuGIS \citep{NuGIS} report total manure generated, but do not report the breakdown of manure generated by different livestock sources. Therefore, the inventory of cattle for each HUC6 watershed reported by the U.S. Census of Agriculture is used \citep{2017CensusofAgriculture}. To keep spatial consistency between data, the inventory of cattle was aggregated from HUC6 to HUC8 watershed level scaling by the fraction of area represented by each HUC8 basin over the total HUC6 area. The breakdown of cattle types in the U.S. Census of Agriculture is not available at watershed level, but it is available at state level. Therefore, the number of cattle heads is weighted by the fraction of milk and beef animals in the corresponding state. finally, the animals number for each type of cattle is calculated using the normalization values provided by Kellog et al. (2010) \citep{Kellog2000}. If the watershed is shared among several states, the average of the represented states is considered.
@@ -382,7 +382,7 @@ Since the supply of magnesium is the easiest controllable variable in the struvi
 
 %\begin{tabular}[c]{@{}c@{}}$\text{Mg}^{2+}/\text{PO}_{4}^{3-}$ \\ molar ratio\end{tabular} 
 
-The results for each scenario considered at watershed scale are shown in Fig. \ref{fig:plot_scenarios}, where darker colors represent larger phosphorus releases avoided. It can be observed that struvite production can contribute to reducing phosphorus emissions around Lake Erie and the Great Lakes region, one of the most severely affected areas by eutrophication problems. Additionally, other areas where the phosphorus emissions avoided are especially significant are the upper basin of the Mississippi River, and the basins located in the south-central region of the United States, such as the areas of some tributaries rivers to the Mississippi River basin, the Rio Grande river and the Colorado River basin. At national level, struvite production can contribute to reduce the agricultural phosphorus releases by 22\% for most conservative case where the lowest amount of magnesium is added. The phosphorus fraction recovered raises until a 30\% and 36\% when the amount of magnesium added is multiplied by 2 and by 4 respectively. However, for the scenario 4 the increase in the supply of magnesium only increases the phosphorus recovered in 2 percentual points compared with the previous scenario. Therefore, the implementation of struvite production processes for phosphorus recovering in cattle facilities can contribute significantly to the reduction in the phosphorus emissions from agricultural operations, reducing the runoffs to waterbodies and mitigating the nutrient pollution of the aquatic ecosystems. However, when only unbalance watersheds are  considered, the average fraction of phosphorus releases avoided decreases, suggesting that, from a global overview, the phosphorus releases due to fertilizers play a major role in these watersheds than when balance and unbalance watersheds are evaluated altogether. Data at watershed level are collected in the Supplementary Material.
+The results for each scenario considered at watershed scale are shown in Fig. \ref{fig:plot_scenariosPaperGeo}, where darker colors represent larger phosphorus releases avoided. It can be observed that struvite production can contribute to reducing phosphorus emissions around Lake Erie and the Great Lakes region, one of the most severely affected areas by eutrophication problems. Additionally, other areas where the phosphorus emissions avoided are especially significant are the upper basin of the Mississippi River, and the basins located in the south-central region of the United States, such as the areas of some tributaries rivers to the Mississippi River basin, the Rio Grande river and the Colorado River basin. At national level, struvite production can contribute to reduce the agricultural phosphorus releases by 22\% for most conservative case where the lowest amount of magnesium is added. The phosphorus fraction recovered raises until a 30\% and 36\% when the amount of magnesium added is multiplied by 2 and by 4 respectively. However, for the scenario 4 the increase in the supply of magnesium only increases the phosphorus recovered in 2 percentual points compared with the previous scenario. Therefore, the implementation of struvite production processes for phosphorus recovering in cattle facilities can contribute significantly to the reduction in the phosphorus emissions from agricultural operations, reducing the runoffs to waterbodies and mitigating the nutrient pollution of the aquatic ecosystems. However, when only unbalance watersheds are  considered, the average fraction of phosphorus releases avoided decreases, suggesting that, from a global overview, the phosphorus releases due to fertilizers play a major role in these watersheds than when balance and unbalance watersheds are evaluated altogether. Data at watershed level are collected in the Supplementary Material.
 
 Therefore, the phosphorus recovered from livestock facilities have a significant impact in the reduction of phosphorus releases to the environment. However, to achieve a successful implementation of nutrient management strategies, coordinated network management efforts to mitigate nutrient pollution of aquatic systems including point and non-point sources, should be performed for optimizing nutrient management programs that minimize the capital and operating costs while maximizing the environmental benefits. Proposals for the development of coordinated management systems for organic wastes have been presented by \citet{Sharara}, \citet{Sampat3}, and \citet{hu_logistics_2019}.
 

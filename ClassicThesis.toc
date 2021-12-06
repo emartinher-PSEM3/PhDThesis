@@ -10,57 +10,57 @@
 \defcounter {refsection}{2}\relax
 \contentsline {section}{\numberline {1.1}{Rationale: Overview of the nutrient pollution \newline challenge}}{1}{section.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.2}{Approaches for processes modeling}}{8}{section.1.2}%
+\contentsline {section}{\numberline {1.2}{Approaches for processes modeling}}{7}{section.1.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.1}{Short-cut methods}}{8}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.1}{Short-cut methods}}{7}{subsection.1.2.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.2}{Rules of thumb}}{8}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.2}{Rules of thumb}}{7}{subsection.1.2.2}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsection}{\numberline {1.2.3}{Dimensionless analysis}}{8}{subsection.1.2.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.4}{Mechanistic models}}{9}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.4}{Mechanistic models}}{8}{subsection.1.2.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.5}{Surrogate models}}{9}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.5}{Surrogate models}}{8}{subsection.1.2.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsection}{\numberline {1.2.6}{Experimental correlations}}{10}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.6}{Experimental correlations}}{9}{subsection.1.2.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.3}{Approaches for decision-support systems}}{10}{section.1.3}%
+\contentsline {section}{\numberline {1.3}{Approaches for decision-support systems}}{9}{section.1.3}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsection}{\numberline {1.3.1}{Multi-Attribute Decision Analysis (MADA)}}{11}{subsection.1.3.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {1.3.1.1}{Multi-Attribute Value Theory (MAVT)}}{12}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}{Multi-Attribute Value Theory (MAVT)}}{11}{subsubsection.1.3.1.1}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Indicator-based methods}}{12}{paragraph*.7}%
+\contentsline {paragraph}{{Indicator-based methods}}{11}{paragraph*.6}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Analytic Hierarchy Process (AHP)}}{12}{paragraph*.8}%
+\contentsline {paragraph}{{Analytic Hierarchy Process (AHP)}}{11}{paragraph*.7}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Ideal Point methods}}{12}{paragraph*.9}%
+\contentsline {paragraph}{{Ideal Point methods}}{12}{paragraph*.8}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {1.3.1.2}{Outranking methods}}{13}{subsubsection.1.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.3.1.2}{Outranking methods}}{12}{subsubsection.1.3.1.2}%
 \defcounter {refsection}{2}\relax
-\contentsline {subsubsection}{\numberline {1.3.1.3}{Multi-Objective Decision Analysis (MODA)}}{13}{subsubsection.1.3.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1.3}{Multi-Objective Decision Analysis (MODA)}}{12}{subsubsection.1.3.1.3}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Linear programming (LP)}}{13}{paragraph*.10}%
+\contentsline {paragraph}{{Linear programming (LP)}}{13}{paragraph*.9}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Nonlinear programming (NLP)}}{14}{paragraph*.11}%
+\contentsline {paragraph}{{Nonlinear programming (NLP)}}{13}{paragraph*.10}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Mixed-integer linear programming (MILP)}}{15}{paragraph*.12}%
+\contentsline {paragraph}{{Mixed-integer linear programming (MILP)}}{14}{paragraph*.11}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Mixed-integer nonlinear programming (MINLP)}}{16}{paragraph*.13}%
+\contentsline {paragraph}{{Mixed-integer nonlinear programming (MINLP)}}{15}{paragraph*.12}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.4}{Fairness metrics}}{17}{section.1.4}%
+\contentsline {section}{\numberline {1.4}{Fairness metrics}}{16}{section.1.4}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Social welfare approach}}{17}{paragraph*.14}%
+\contentsline {paragraph}{{Social welfare approach}}{16}{paragraph*.13}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Nash scheme}}{17}{paragraph*.15}%
+\contentsline {paragraph}{{Nash scheme}}{17}{paragraph*.14}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Rawlsian justice}}{18}{paragraph*.16}%
+\contentsline {paragraph}{{Rawlsian justice}}{17}{paragraph*.15}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Parametric schemes}}{18}{paragraph*.17}%
+\contentsline {paragraph}{{Parametric schemes}}{17}{paragraph*.16}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.5}{Approaches for geospatial environmental assessment}}{18}{section.1.5}%
+\contentsline {section}{\numberline {1.5}{Approaches for geospatial environmental assessment}}{17}{section.1.5}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{\numberline {1.6}{Thesis outline}}{19}{section.1.6}%
+\contentsline {section}{\numberline {1.6}{Thesis outline}}{18}{section.1.6}%
 \defcounter {refsection}{2}\relax
 \contentsline {subsection}{\numberline {1.6.1}{Part I - Phosphorus management and recovery}}{19}{subsection.1.6.1}%
 \defcounter {refsection}{2}\relax
@@ -68,7 +68,7 @@
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Chapter \ref {ch:Struvite} - Geospatial assessment of phosphorus recovery through struvite precipitation.}}{19}{paragraph*.19}%
 \defcounter {refsection}{2}\relax
-\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities.}}{19}{paragraph*.20}%
+\contentsline {paragraph}{{Chapter \ref {ch:Tool} - Geospatial environmental and techno-economic assessment framework for sustainable phosphorus management at livestock facilities.}}{19}{paragraph*.20}%
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Chapter \ref {ch:Policies} - Analysis of incentive policies for phosphorus recovery.}}{20}{paragraph*.21}%
 \defcounter {refsection}{2}\relax
@@ -80,7 +80,7 @@
 \defcounter {refsection}{2}\relax
 \contentsline {paragraph}{{Chapter \ref {ch:BiogasUpgrading} - Optimal technology selection for the biogas upgrading to biomethane.}}{20}{paragraph*.23}%
 \defcounter {refsection}{2}\relax
-\contentsline {section}{Bibliography}{21}{paragraph*.23}%
+\contentsline {section}{Bibliography}{20}{paragraph*.23}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {2}{Objective}}{27}{chapter.2}%
 \defcounter {refsection}{0}\relax
@@ -210,121 +210,119 @@
 \defcounter {refsection}{4}\relax
 \contentsline {section}{Bibliography}{105}{table.4.7}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {5}{Geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}}{111}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Geospatial environmental and techno-economic assessment framework for sustainable phosphorus management at livestock facilities}}{109}{chapter.5}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {5.1}{Introduction}}{113}{section.5.1}%
+\contentsline {section}{\numberline {5.1}{Introduction}}{111}{section.5.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {5.2}{Methods}}{115}{section.5.2}%
+\contentsline {section}{\numberline {5.2}{Methods}}{113}{section.5.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.2.1}{Environmental geographic information model}}{116}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.1}{Environmental geographic information model}}{114}{subsection.5.2.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.1.1}{Spatial resolution}}{117}{subsubsection.5.2.1.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}{Spatial resolution}}{115}{subsubsection.5.2.1.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.1.2}{Trophic State Index}}{117}{subsubsection.5.2.1.2}%
+\contentsline {subsubsection}{\numberline {5.2.1.2}{Trophic State Index}}{115}{subsubsection.5.2.1.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.1.3}{Techno-ecological synergy sustainability metric}}{118}{subsubsection.5.2.1.3}%
+\contentsline {subsubsection}{\numberline {5.2.1.3}{Techno-ecological synergy sustainability metric}}{116}{subsubsection.5.2.1.3}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.1.4}{Phosphorus saturation of soils}}{118}{subsubsection.5.2.1.4}%
+\contentsline {subsubsection}{\numberline {5.2.1.4}{Phosphorus saturation of soils}}{116}{subsubsection.5.2.1.4}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.2.2}{Techno-economic model}}{119}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.2}{Techno-economic model}}{117}{subsection.5.2.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.1}{Manure conditioning}}{120}{subsubsection.5.2.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}{Manure conditioning}}{118}{subsubsection.5.2.2.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.2}{Anaerobic digestion}}{120}{subsubsection.5.2.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.2}{Anaerobic digestion}}{118}{subsubsection.5.2.2.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.3}{Biogas purification}}{121}{subsubsection.5.2.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.2.3}{Biogas purification}}{119}{subsubsection.5.2.2.3}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.4}{Biogas valorization}}{121}{subsubsection.5.2.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.2.4}{Biogas valorization}}{119}{subsubsection.5.2.2.4}%
 \defcounter {refsection}{5}\relax
-\contentsline {paragraph}{{Methane production}}{121}{paragraph*.64}%
+\contentsline {paragraph}{{Methane production}}{119}{paragraph*.64}%
 \defcounter {refsection}{5}\relax
-\contentsline {paragraph}{{Electricity production}}{121}{paragraph*.65}%
+\contentsline {paragraph}{{Electricity production}}{119}{paragraph*.65}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.5}{Solid-liquid separation}}{122}{subsubsection.5.2.2.5}%
+\contentsline {subsubsection}{\numberline {5.2.2.5}{Solid-liquid separation}}{120}{subsubsection.5.2.2.5}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.6}{Phosphorus recovery}}{122}{subsubsection.5.2.2.6}%
+\contentsline {subsubsection}{\numberline {5.2.2.6}{Phosphorus recovery}}{120}{subsubsection.5.2.2.6}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.2.7}{Incentives for the installation of nutrient recovery systems}}{123}{subsubsection.5.2.2.7}%
+\contentsline {subsubsection}{\numberline {5.2.2.7}{Incentives for the installation of nutrient recovery systems}}{121}{subsubsection.5.2.2.7}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.2.3}{Multi-criteria decision model}}{125}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.3}{Multi-criteria decision model}}{123}{subsection.5.2.3}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.3.1}{Data normalization}}{125}{subsubsection.5.2.3.1}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}{Data normalization}}{123}{subsubsection.5.2.3.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.3.2}{Criteria weighting}}{126}{subsubsection.5.2.3.2}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}{Criteria weighting}}{124}{subsubsection.5.2.3.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.3.3}{Criteria aggregation}}{129}{subsubsection.5.2.3.3}%
+\contentsline {subsubsection}{\numberline {5.2.3.3}{Criteria aggregation}}{127}{subsubsection.5.2.3.3}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.2.4}{Framework limitations}}{129}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.4}{Framework limitations}}{127}{subsection.5.2.4}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.2.5}{Case study}}{130}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.5}{Case study}}{127}{subsection.5.2.5}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.5.1}{Study region}}{130}{subsubsection.5.2.5.1}%
+\contentsline {subsubsection}{\numberline {5.2.5.1}{Study region}}{127}{subsubsection.5.2.5.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.2.5.2}{Scenarios description}}{131}{subsubsection.5.2.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.5.2}{Scenarios description}}{128}{subsubsection.5.2.5.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {5.3}{Results}}{131}{section.5.3}%
+\contentsline {section}{\numberline {5.3}{Results}}{129}{section.5.3}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.3.1}{Implementation of phosphorus recovery systems in the Great Lakes area}}{131}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.1}{Implementation of phosphorus recovery systems in the Great Lakes area}}{129}{subsection.5.3.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.3.1.1}{Effect of CAFOs scale on selecting P recovery systems}}{132}{subsubsection.5.3.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}{Effect of CAFOs scale on selecting P recovery systems}}{129}{subsubsection.5.3.1.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsubsection}{\numberline {5.3.1.2}{Effect of local eutrophication risk on the selection of P recovery systems}}{134}{subsubsection.5.3.1.2}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}{Effect of local eutrophication risk on the selection of P recovery systems}}{131}{subsubsection.5.3.1.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.3.2}{Economic results}}{135}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.2}{Economic results}}{132}{subsection.5.3.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {5.4}{Discussion}}{139}{section.5.4}%
+\contentsline {section}{\numberline {5.4}{Discussion}}{135}{section.5.4}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.4.1}{Economic implications}}{139}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.1}{Economic implications}}{135}{subsection.5.4.1}%
 \defcounter {refsection}{5}\relax
-\contentsline {subsection}{\numberline {5.4.2}{Phosphorus use efficiency}}{140}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.2}{Phosphorus use efficiency}}{137}{subsection.5.4.2}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{\numberline {5.5}{Conclusion}}{141}{section.5.5}%
+\contentsline {section}{\numberline {5.5}{Conclusion}}{139}{section.5.5}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{Acknowledgments}{142}{section.5.5}%
+\contentsline {section}{Acknowledgments}{140}{section.5.5}%
 \defcounter {refsection}{5}\relax
-\contentsline {section}{Bibliography}{142}{section.5.5}%
+\contentsline {section}{Bibliography}{140}{section.5.5}%
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {6}{Analysis of incentive policies for phosphorus recovery}}{149}{chapter.6}%
+\contentsline {chapter}{\numberline {6}{Analysis of incentive policies for phosphorus recovery}}{147}{chapter.6}%
 \defcounter {refsection}{6}\relax
-\contentsline {section}{\numberline {6.1}{Introduction}}{151}{section.6.1}%
+\contentsline {section}{\numberline {6.1}{Introduction}}{149}{section.6.1}%
 \defcounter {refsection}{6}\relax
-\contentsline {section}{\numberline {6.2}{Incentive policy assessment framework}}{152}{section.6.2}%
+\contentsline {section}{\numberline {6.2}{Incentive policy assessment framework}}{151}{section.6.2}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.2.1}{Assessment of nutrient management systems}}{154}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.1}{Assessment of nutrient management systems}}{152}{subsection.6.2.1}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.1}{Phosphorus recovery systems}}{154}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}{Environmental vulnerability to nutrient pollution}}{154}{subsubsection.6.2.1.1}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.2}{Biogas production and upgrading}}{155}{subsubsection.6.2.1.2}%
+\contentsline {subsubsection}{\numberline {6.2.1.2}{Techno-economic analysis of phosphorus recovery systems}}{154}{subsubsection.6.2.1.2}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.2.2}{Environmental vulnerability to nutrient pollution}}{155}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.1.3}{Multi-criteria decision analysis model for the assessment of nutrient management systems}}{155}{subsubsection.6.2.1.3}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.2.3}{Multi-criteria decision analysis model for the assessment of nutrient management systems}}{156}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.2}{Types of incentives considered}}{156}{subsection.6.2.2}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.2.4}{Types of incentives considered}}{157}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.3}{Scenarios description}}{157}{subsection.6.2.3}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.2.5}{Scenarios description}}{158}{subsection.6.2.5}%
-\defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.2.6}{Study Region - The Great Lakes area}}{158}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.4}{Study Region - The Great Lakes area}}{158}{subsection.6.2.4}%
 \defcounter {refsection}{6}\relax
 \contentsline {section}{\numberline {6.3}{Results and discussion}}{159}{section.6.3}%
 \defcounter {refsection}{6}\relax
 \contentsline {subsection}{\numberline {6.3.1}{Single incentives}}{159}{subsection.6.3.1}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {6.3.1.1}{Effect of P credits}}{160}{subsubsection.6.3.1.1}%
+\contentsline {subsubsection}{\numberline {6.3.1.1}{Effect of P credits}}{159}{subsubsection.6.3.1.1}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsubsection}{\numberline {6.3.1.2}{Effect of renewable energy certificates}}{161}{subsubsection.6.3.1.2}%
+\contentsline {subsubsection}{\numberline {6.3.1.2}{Effect of renewable energy certificates}}{160}{subsubsection.6.3.1.2}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.3.2}{Combined effect of incentives for phosphorus and renewable electricity recovery}}{161}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.2}{Combined effect of incentives for phosphorus and renewable electricity recovery}}{162}{subsection.6.3.2}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.3.3}{Environmental cost-benefit analysis}}{164}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.3}{Environmental cost-benefit analysis}}{165}{subsection.6.3.3}%
 \defcounter {refsection}{6}\relax
-\contentsline {subsection}{\numberline {6.3.4}{Fair distribution of incentives}}{167}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.4}{Fair distribution of incentives}}{166}{subsection.6.3.4}%
 \defcounter {refsection}{6}\relax
 \contentsline {section}{\numberline {6.4}{Conclusions}}{170}{section.6.4}%
 \defcounter {refsection}{6}\relax
 \contentsline {section}{Acknowledgments}{171}{section.6.4}%
 \defcounter {refsection}{6}\relax
-\contentsline {section}{Bibliography}{171}{section.6.4}%
+\contentsline {section}{Bibliography}{172}{section.6.4}%
 \defcounter {refsection}{0}\relax
 \contentsline {part}{\numberline {ii}{Nitrogen management and recovery}}{175}{part.2}%
 \defcounter {refsection}{0}\relax
@@ -520,23 +518,23 @@
 \defcounter {refsection}{12}\relax
 \contentsline {subsection}{\numberline {D.1.3}{Digestate solid-liquid separation}}{298}{subsection.Alph4.1.3}%
 \defcounter {refsection}{12}\relax
-\contentsline {subsection}{\numberline {D.1.4}{Struvite production: Multiform system}}{300}{subsection.Alph4.1.4}%
+\contentsline {subsection}{\numberline {D.1.4}{Struvite production: Multiform system}}{301}{subsection.Alph4.1.4}%
 \defcounter {refsection}{12}\relax
-\contentsline {subsection}{\numberline {D.1.5}{MAPHEX}}{301}{subsection.Alph4.1.5}%
+\contentsline {subsection}{\numberline {D.1.5}{MAPHEX}}{302}{subsection.Alph4.1.5}%
 \defcounter {refsection}{12}\relax
-\contentsline {subsection}{\numberline {D.1.6}{Transmembrane chemisorption}}{302}{subsection.Alph4.1.6}%
+\contentsline {subsection}{\numberline {D.1.6}{Transmembrane chemisorption}}{303}{subsection.Alph4.1.6}%
 \defcounter {refsection}{12}\relax
-\contentsline {subsection}{\numberline {D.1.7}{Ammonia evaporation}}{307}{subsection.Alph4.1.7}%
+\contentsline {subsection}{\numberline {D.1.7}{Ammonia evaporation}}{308}{subsection.Alph4.1.7}%
 \defcounter {refsection}{12}\relax
-\contentsline {subsection}{\numberline {D.1.8}{Stripping in packed tower}}{308}{subsection.Alph4.1.8}%
+\contentsline {subsection}{\numberline {D.1.8}{Stripping in packed tower}}{309}{subsection.Alph4.1.8}%
 \defcounter {refsection}{12}\relax
-\contentsline {subsection}{\numberline {D.1.9}{Acidic scrubbing}}{310}{subsection.Alph4.1.9}%
+\contentsline {subsection}{\numberline {D.1.9}{Acidic scrubbing}}{311}{subsection.Alph4.1.9}%
 \defcounter {refsection}{12}\relax
-\contentsline {section}{\numberline {D.2}{Capital and operating expenses}}{313}{section.Alph4.2}%
+\contentsline {section}{\numberline {D.2}{Capital and operating expenses}}{314}{section.Alph4.2}%
 \defcounter {refsection}{12}\relax
-\contentsline {section}{\numberline {D.3}{Processing cost}}{315}{section.Alph4.3}%
+\contentsline {section}{\numberline {D.3}{Processing cost}}{316}{section.Alph4.3}%
 \defcounter {refsection}{12}\relax
-\contentsline {section}{Bibliography}{317}{table.caption.165}%
+\contentsline {section}{Bibliography}{318}{table.caption.166}%
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {E}{Appendix E: Supplementary Information of Chapter 8}}{321}{appendix.Alph5}%
 \defcounter {refsection}{13}\relax

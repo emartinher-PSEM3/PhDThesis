@@ -2458,7 +2458,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture (USDA)}%
+        {USDA}%
       }
       \strng{namehash}{86ed8a580f39ad12a2959079341747d1}
       \strng{fullhash}{3a98290e1bd12992462de5274222a0a8}
@@ -2944,7 +2944,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {U.S. Geological Survey (USGS)}%
+        {USGS}%
       }
       \strng{namehash}{d7eac2ce12dc57556719e49272be5d82}
       \strng{fullhash}{711e7e06db2588baddc8132420175ef3}
@@ -3137,19 +3137,19 @@
     \endentry
     \entry{USDAHandbook}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=80fd38d05f96523b89762870eb63ab35}{%
-           family={{United States Department of Agriculture}},
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture (USDA)}%
+        {USDA}%
       }
-      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
       \field{extraname}{1}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
@@ -3163,19 +3163,19 @@
     \endentry
     \entry{2017CensusofAgriculture}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=80fd38d05f96523b89762870eb63ab35}{%
-           family={{United States Department of Agriculture}},
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture}%
+        {USDA}%
       }
-      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
       \field{extraname}{2}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
@@ -3183,7 +3183,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{2017 Census of Agriculture. United Satates. Summary and State Data}}
+      \field{title}{{2017 Census of Agriculture. United States. Summary and State Data}}
       \field{type}{techreport}
       \field{year}{2019}
     \endentry
@@ -3216,11 +3216,11 @@
     \entry{AgSTARHandbook}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
-           family={{U.S. Environmental Protection Agency}},
+           family={{US Environmental Protection Agency}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {U.S. Environmental Protection Agency}%
+        {US EPA}%
       }
       \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
@@ -3295,11 +3295,11 @@
     \entry{NLA2012}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
-           family={{U.S. Environmental Protection Agency}},
+           family={{US Environmental Protection Agency}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {U.S. EPA}%
+        {US EPA}%
       }
       \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
@@ -3344,7 +3344,6 @@
       \field{year}{2019}
     \endentry
   \enddatalist
-  \missing{USDAWaste}
 \endrefsection
 
 \refsection{12}
@@ -6050,19 +6049,19 @@
     \endentry
     \entry{Xiao2013}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3738c4a3d90a7cdae0e1b60ba20454ca}{%
-           family={{Xiao, G., Webley, P., Hoadley, A., Ho, M., Wiley, D.}},
+        {{un=0,uniquepart=base,hash=e7da93ed2fc3586c20f2b6fb8fc36352}{%
+           family={{Xiao, G. and Webley, P. and Hoadley, A. and Ho, M. and Wiley, D.}},
            familyi={X\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Cooperative Research Centre for Greenhouse Gas Technologies. CO2CRC Publication, Canberra, Australia.}%
       }
-      \strng{namehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{fullhash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{bibnamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{authorbibnamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{authornamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{authorfullhash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{namehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{fullhash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{bibnamehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{authorbibnamehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{authornamehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{authorfullhash}{e7da93ed2fc3586c20f2b6fb8fc36352}
       \field{sortinit}{X}
       \field{sortinithash}{e90038f30fa4b9ce59606fc8347e3cc7}
       \field{extradatescope}{labelyear}
@@ -6322,6 +6321,39 @@
       \field{labeltitlesource}{title}
       \field{title}{Multiple criteria decision analysis: an integrated approach}
       \field{year}{2002}
+    \endentry
+    \entry{benders1962partitioning}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6914903188b08913d2477de545b7047}{%
+           family={Benders},
+           familyi={B\bibinitperiod},
+           given={Jacques\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{e6914903188b08913d2477de545b7047}
+      \strng{fullhash}{e6914903188b08913d2477de545b7047}
+      \strng{bibnamehash}{e6914903188b08913d2477de545b7047}
+      \strng{authorbibnamehash}{e6914903188b08913d2477de545b7047}
+      \strng{authornamehash}{e6914903188b08913d2477de545b7047}
+      \strng{authorfullhash}{e6914903188b08913d2477de545b7047}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Numerische mathematik}
+      \field{number}{1}
+      \field{title}{Partitioning procedures for solving mixed-variables programming problems}
+      \field{volume}{4}
+      \field{year}{1962}
+      \field{pages}{238\bibrangedash 252}
+      \range{pages}{15}
     \endentry
     \entry{bertsimas2011price}{article}{}
       \name{author}{3}{}{%
@@ -10129,8 +10161,8 @@
     \entry{LeonMsc}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=62b985a599ab8d046e6c9195bb392e6f}{%
-           family={Le\bibnamedelima ón},
-           familyi={L\bibinitperiod\bibinitdelim ó\bibinitperiod},
+           family={León},
+           familyi={L\bibinitperiod},
            given={E},
            giveni={E\bibinitperiod},
            givenun=0}}%
@@ -11178,34 +11210,6 @@
       \field{pages}{113\bibrangedash 118}
       \range{pages}{6}
     \endentry
-    \entry{rk1999coulson}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b179119a07b2b85f57b0d0a77b47fc57}{%
-           family={Sinnott},
-           familyi={S\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b179119a07b2b85f57b0d0a77b47fc57}
-      \strng{fullhash}{b179119a07b2b85f57b0d0a77b47fc57}
-      \strng{bibnamehash}{b179119a07b2b85f57b0d0a77b47fc57}
-      \strng{authorbibnamehash}{b179119a07b2b85f57b0d0a77b47fc57}
-      \strng{authornamehash}{b179119a07b2b85f57b0d0a77b47fc57}
-      \strng{authorfullhash}{b179119a07b2b85f57b0d0a77b47fc57}
-      \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2}
-      \field{journaltitle}{Chemical engineering design}
-      \field{title}{Coulson and Richardson's Chemical Engineering}
-      \field{year}{1999}
-    \endentry
     \entry{sinnott1999chemical}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=23e2efae5efef9aa786749f7075fbe0e}{%
@@ -11224,15 +11228,14 @@
       \strng{authorbibnamehash}{23e2efae5efef9aa786749f7075fbe0e}
       \strng{authornamehash}{23e2efae5efef9aa786749f7075fbe0e}
       \strng{authorfullhash}{23e2efae5efef9aa786749f7075fbe0e}
-      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Chemical engineering design}
+      \field{title}{Chemical Engineering Design}
       \field{volume}{6}
       \field{year}{1999}
     \endentry
@@ -12664,19 +12667,19 @@
     \endentry
     \entry{NuGIS}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=536161fdfc9d867613a2b920930d5b8e}{%
-           family={{International Plant Nutrition Institute (IPNI)}},
+        {{un=0,uniquepart=base,hash=5c719ff4f20f38aa47f23093bfee8238}{%
+           family={{International Plant Nutrition Institute}},
            familyi={I\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {International Plant Nutrition Institute (IPNI)}%
+        {IPNI}%
       }
-      \strng{namehash}{536161fdfc9d867613a2b920930d5b8e}
-      \strng{fullhash}{536161fdfc9d867613a2b920930d5b8e}
-      \strng{bibnamehash}{536161fdfc9d867613a2b920930d5b8e}
-      \strng{authorbibnamehash}{536161fdfc9d867613a2b920930d5b8e}
-      \strng{authornamehash}{536161fdfc9d867613a2b920930d5b8e}
-      \strng{authorfullhash}{536161fdfc9d867613a2b920930d5b8e}
+      \strng{namehash}{5c719ff4f20f38aa47f23093bfee8238}
+      \strng{fullhash}{5c719ff4f20f38aa47f23093bfee8238}
+      \strng{bibnamehash}{5c719ff4f20f38aa47f23093bfee8238}
+      \strng{authorbibnamehash}{5c719ff4f20f38aa47f23093bfee8238}
+      \strng{authornamehash}{5c719ff4f20f38aa47f23093bfee8238}
+      \strng{authorfullhash}{5c719ff4f20f38aa47f23093bfee8238}
       \field{sortinit}{I}
       \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
       \field{extradatescope}{labelyear}
@@ -12684,7 +12687,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{A Nutrient Use Information System (NuGIS) for the U.S.}}
+      \field{title}{{A Nutrient Use Information System (NuGIS) for the US}}
       \field{type}{techreport}
       \field{year}{2012}
     \endentry
@@ -13764,24 +13767,24 @@
     \endentry
     \entry{Kellog2000}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=80fd38d05f96523b89762870eb63ab35}{%
-           family={{United States Department of Agriculture}},
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture}%
+        {USDA}%
       }
-      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
+      \field{extraname}{1}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Manure Nutrients Relative to the Capacity of Cropland and Pastureland to Assimilate Nutrients}}
@@ -13790,17 +13793,20 @@
     \endentry
     \entry{USDAWaste}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=296ff256fcace7423856111a01f1374e}{%
-           family={{United States Department of Agriculture (USDA)}},
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
            familyi={U\bibinitperiod}}}%
       }
-      \strng{namehash}{296ff256fcace7423856111a01f1374e}
-      \strng{fullhash}{296ff256fcace7423856111a01f1374e}
-      \strng{bibnamehash}{296ff256fcace7423856111a01f1374e}
-      \strng{authorbibnamehash}{296ff256fcace7423856111a01f1374e}
-      \strng{authornamehash}{296ff256fcace7423856111a01f1374e}
-      \strng{authorfullhash}{296ff256fcace7423856111a01f1374e}
-      \field{extraname}{1}
+      \list{institution}{1}{%
+        {USDA}%
+      }
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
+      \field{extraname}{2}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
@@ -13813,39 +13819,45 @@
     \endentry
     \entry{2017CensusofAgriculture}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=296ff256fcace7423856111a01f1374e}{%
-           family={{United States Department of Agriculture (USDA)}},
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
            familyi={U\bibinitperiod}}}%
       }
-      \strng{namehash}{296ff256fcace7423856111a01f1374e}
-      \strng{fullhash}{296ff256fcace7423856111a01f1374e}
-      \strng{bibnamehash}{296ff256fcace7423856111a01f1374e}
-      \strng{authorbibnamehash}{296ff256fcace7423856111a01f1374e}
-      \strng{authornamehash}{296ff256fcace7423856111a01f1374e}
-      \strng{authorfullhash}{296ff256fcace7423856111a01f1374e}
-      \field{extraname}{2}
+      \list{institution}{1}{%
+        {USDA}%
+      }
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
+      \field{extraname}{3}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{2017 Census of Agriculture. United Satates. Summary and State Data}}
+      \field{title}{{2017 Census of Agriculture. United States. Summary and State Data}}
       \field{type}{techreport}
       \field{year}{2019}
     \endentry
     \entry{USDACattle2020}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e8b15d31d46fe890d9a3aeecca04b826}{%
-           family={{United States Department of Agriculture (USDA), National Agricultural Statistics Service}},
+        {{un=0,uniquepart=base,hash=a38d1dfbf2e9ffe61c16f4622535a894}{%
+           family={{US Department of Agriculture, National Agricultural Statistics Service}},
            familyi={U\bibinitperiod}}}%
       }
-      \strng{namehash}{e8b15d31d46fe890d9a3aeecca04b826}
-      \strng{fullhash}{e8b15d31d46fe890d9a3aeecca04b826}
-      \strng{bibnamehash}{e8b15d31d46fe890d9a3aeecca04b826}
-      \strng{authorbibnamehash}{e8b15d31d46fe890d9a3aeecca04b826}
-      \strng{authornamehash}{e8b15d31d46fe890d9a3aeecca04b826}
-      \strng{authorfullhash}{e8b15d31d46fe890d9a3aeecca04b826}
+      \list{institution}{1}{%
+        {USDA}%
+      }
+      \strng{namehash}{a38d1dfbf2e9ffe61c16f4622535a894}
+      \strng{fullhash}{a38d1dfbf2e9ffe61c16f4622535a894}
+      \strng{bibnamehash}{a38d1dfbf2e9ffe61c16f4622535a894}
+      \strng{authorbibnamehash}{a38d1dfbf2e9ffe61c16f4622535a894}
+      \strng{authornamehash}{a38d1dfbf2e9ffe61c16f4622535a894}
+      \strng{authorfullhash}{a38d1dfbf2e9ffe61c16f4622535a894}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
@@ -13860,11 +13872,11 @@
     \entry{HUC8}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=443478d363b15c65a1ee517d1122e79b}{%
-           family={{U.S. Geological Survey}},
+           family={{US Geological Survey}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {U.S. Geological Survey}%
+        {USGS}%
       }
       \strng{namehash}{443478d363b15c65a1ee517d1122e79b}
       \strng{fullhash}{443478d363b15c65a1ee517d1122e79b}
@@ -15304,7 +15316,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture (USDA)}%
+        {USDA}%
       }
       \strng{namehash}{86ed8a580f39ad12a2959079341747d1}
       \strng{fullhash}{3a98290e1bd12992462de5274222a0a8}
@@ -15360,58 +15372,58 @@
     \endentry
     \entry{li2021toward}{article}{}
       \name{author}{7}{}{%
-        {{un=1,uniquepart=given,hash=5eb4c3e75d14d3af4ceb7f957e07f41c}{%
+        {{un=1,uniquepart=given,hash=3cdf5aa30577e71dbbd44bcd3a4a00a0}{%
            family={Li},
            familyi={L\bibinitperiod},
-           given={Bing},
+           given={B.},
            giveni={B\bibinitperiod},
            givenun=1}}%
-        {{un=0,uniquepart=base,hash=7c044c21dbfe06a44a87f0a2e6c32223}{%
+        {{un=0,uniquepart=base,hash=8596812ae0965098372b6b361aa9f6df}{%
            family={Dong},
            familyi={D\bibinitperiod},
-           given={Shou\bibnamedelima Long},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={S.L.},
+           giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6783f51b3cb1b684de0686afda48afa9}{%
+        {{un=0,uniquepart=base,hash=797c8900cafa3fb2bcda8b35999adddf}{%
            family={Huang},
            familyi={H\bibinitperiod},
-           given={Yue\bibnamedelima Fei},
-           giveni={Y\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Y.F.},
+           giveni={Y\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=456dd6a18b8241b9d36da968a7c4d624}{%
+        {{un=0,uniquepart=base,hash=a494467233dc99d0be6a30678b7aca5a}{%
            family={Li},
            familyi={L\bibinitperiod},
-           given={Ping},
+           given={P.},
            giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=306f61b972c01e5452d64353ce1974d6}{%
+        {{un=0,uniquepart=base,hash=7bb130920924a4b530cdfe30437c8d8b}{%
            family={Yu},
            familyi={Y\bibinitperiod},
-           given={Wei},
+           given={W.},
            giveni={W\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=44aa80ea2dd0afe90bffcd87e2517743}{%
+        {{un=0,uniquepart=base,hash=88870294f3a06e2df0a4fca747bf9dab}{%
            family={Wang},
            familyi={W\bibinitperiod},
-           given={Guang\bibnamedelima Qian},
-           giveni={G\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           given={G.Q.},
+           giveni={G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc2bb4df495be49b4c8104ada39a6d3b}{%
+        {{un=0,uniquepart=base,hash=702a2a22257dd645f04f7484d051af7c}{%
            family={Young},
            familyi={Y\bibinitperiod},
-           given={Brent},
+           given={B.},
            giveni={B\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{1ecab20ddc78585638be41949b20c347}
-      \strng{fullhash}{22afc5f9222e3fa56d64b3488b59217b}
-      \strng{bibnamehash}{22afc5f9222e3fa56d64b3488b59217b}
-      \strng{authorbibnamehash}{22afc5f9222e3fa56d64b3488b59217b}
-      \strng{authornamehash}{1ecab20ddc78585638be41949b20c347}
-      \strng{authorfullhash}{22afc5f9222e3fa56d64b3488b59217b}
+      \strng{namehash}{386c619b92c195e79ab52042f99a0795}
+      \strng{fullhash}{3e03aa29432c27d100c9a0143e791ac8}
+      \strng{bibnamehash}{3e03aa29432c27d100c9a0143e791ac8}
+      \strng{authorbibnamehash}{3e03aa29432c27d100c9a0143e791ac8}
+      \strng{authornamehash}{386c619b92c195e79ab52042f99a0795}
+      \strng{authorfullhash}{3e03aa29432c27d100c9a0143e791ac8}
       \field{sortinit}{L}
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{extradatescope}{labelyear}
@@ -16121,14 +16133,20 @@
       \field{pages}{122673}
       \range{pages}{1}
     \endentry
-    \entry{sampat_economic_2018}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=968ccd383de6646ca8622f03e2e11749}{%
+    \entry{sampat2021valuing}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=968ccd383de6646ca8622f03e2e11749}{%
            family={Sampat},
            familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=1}}%
+           given={A.M.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a60ea836eb4cf9d73bb361df352d003}{%
+           family={Hicks},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=1a0eac6d3ec76f0477b43693cb503e38}{%
            family={Ruiz-Mercado},
            familyi={R\bibinithyphendelim M\bibinitperiod},
@@ -16142,39 +16160,105 @@
            giveni={V\bibinitperiod},
            givenun=0}}%
       }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
       \strng{namehash}{a7b414671f0a56464f21010362e61624}
-      \strng{fullhash}{c695e0a0748fd7ad8abbca184a761a51}
-      \strng{bibnamehash}{c695e0a0748fd7ad8abbca184a761a51}
-      \strng{authorbibnamehash}{c695e0a0748fd7ad8abbca184a761a51}
+      \strng{fullhash}{f1ec1633956e9651efcd858c72028857}
+      \strng{bibnamehash}{f1ec1633956e9651efcd858c72028857}
+      \strng{authorbibnamehash}{f1ec1633956e9651efcd858c72028857}
       \strng{authornamehash}{a7b414671f0a56464f21010362e61624}
-      \strng{authorfullhash}{c695e0a0748fd7ad8abbca184a761a51}
+      \strng{authorfullhash}{f1ec1633956e9651efcd858c72028857}
       \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{ACS Sustainable Chemistry \& Engineering}
-      \field{number}{5}
-      \field{shorttitle}{Economic and {Environmental} {Analysis} for {Advancing} {Sustainable} {Management} of {Livestock} {Waste}}
-      \field{title}{Economic and {Environmental} {Analysis} for {Advancing} {Sustainable} {Management} of {Livestock} {Waste}: {A} {Wisconsin} {Case} {Study}}
-      \field{volume}{6}
-      \field{year}{2018}
-      \field{pages}{6018\bibrangedash 6031}
-      \range{pages}{14}
-      \verb{file}
-      \verb Sampat et al. - 2018 - Economic and Environmental Analysis for Advancing .pdf:/home/emh/Zotero/storage/CUQ9WCD4/Sampat et al. - 2018 - Economic and Environmental Analysis for Advancing .pdf:application/pdf;Snapshot:/home/emh/Zotero/storage/QZXMPJI7/acssuschemeng.html:text/html
-      \endverb
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Resources, Conservation and Recycling}
+      \field{title}{Valuing economic impact reductions of nutrient pollution from livestock waste}
+      \field{volume}{164}
+      \field{year}{2021}
+      \field{pages}{105199}
+      \range{pages}{1}
     \endentry
-    \entry{Sampat2017}{article}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=968ccd383de6646ca8622f03e2e11749}{%
+    \entry{sampat2019coordinated}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=968ccd383de6646ca8622f03e2e11749}{%
            family={Sampat},
            familyi={S\bibinitperiod},
            given={A.M.},
            giveni={A\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abca94954939cb7608a6fa0b712c8a57}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c80adc97c72cd6d7b56a96129633c6}{%
+           family={Sharara},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3960718dbbfce974743609c9617eaff6}{%
+           family={Aguirre-Villegas},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9320e0e15865da4ab1db67ae4578f6f}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb94e2fdd7ba2b81c505e57680e4b21a}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={R.A.\bibnamedelimi A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6fa11c446f504b7129339fe3ba30f2f}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a7b414671f0a56464f21010362e61624}
+      \strng{fullhash}{9bc2163e903df8744141f8835c7df7c1}
+      \strng{bibnamehash}{9bc2163e903df8744141f8835c7df7c1}
+      \strng{authorbibnamehash}{9bc2163e903df8744141f8835c7df7c1}
+      \strng{authornamehash}{a7b414671f0a56464f21010362e61624}
+      \strng{authorfullhash}{9bc2163e903df8744141f8835c7df7c1}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& chemical engineering}
+      \field{title}{Coordinated management of organic waste and derived products}
+      \field{volume}{128}
+      \field{year}{2019}
+      \field{pages}{352\bibrangedash 363}
+      \range{pages}{12}
+    \endentry
+    \entry{Sampat2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=968ccd383de6646ca8622f03e2e11749}{%
+           family={Sampat},
+           familyi={S\bibinitperiod},
+           given={A.M.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=6e6f7ef5e59c85a36efd8824747cbfaf}{%
            family={Martín},
            familyi={M\bibinitperiod},
@@ -16200,6 +16284,7 @@
       \strng{authorbibnamehash}{090e4a38a9102c3e549ee7d06b478487}
       \strng{authornamehash}{a7b414671f0a56464f21010362e61624}
       \strng{authorfullhash}{090e4a38a9102c3e549ee7d06b478487}
+      \field{extraname}{3}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -16213,148 +16298,73 @@
       \field{pages}{296\bibrangedash 310}
       \range{pages}{15}
     \endentry
-    \entry{sampat2021valuing}{article}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=64e03ff2bfa6bb92dbc02ac3541b5906}{%
+    \entry{sampat_economic_2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=968ccd383de6646ca8622f03e2e11749}{%
            family={Sampat},
            familyi={S\bibinitperiod},
-           given={Apoorva\bibnamedelima M},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=dca60371e21bb084ec3ba0628e50c175}{%
-           family={Hicks},
-           familyi={H\bibinitperiod},
-           given={Andrea},
+           given={A.M.},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=81594113fd6040181b06349a1d526a20}{%
+        {{un=0,uniquepart=base,hash=1a0eac6d3ec76f0477b43693cb503e38}{%
            family={Ruiz-Mercado},
            familyi={R\bibinithyphendelim M\bibinitperiod},
-           given={Gerardo\bibnamedelima J},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
-           family={Zavala},
-           familyi={Z\bibinitperiod},
-           given={Victor\bibnamedelima M},
-           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5927518f8d013b42fb60e8c75d2fd718}
-      \strng{fullhash}{0f69a356f20d4c1bbd995873f73f6d47}
-      \strng{bibnamehash}{0f69a356f20d4c1bbd995873f73f6d47}
-      \strng{authorbibnamehash}{0f69a356f20d4c1bbd995873f73f6d47}
-      \strng{authornamehash}{5927518f8d013b42fb60e8c75d2fd718}
-      \strng{authorfullhash}{0f69a356f20d4c1bbd995873f73f6d47}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Resources, Conservation and Recycling}
-      \field{title}{Valuing economic impact reductions of nutrient pollution from livestock waste}
-      \field{volume}{164}
-      \field{year}{2021}
-      \field{pages}{105199}
-      \range{pages}{1}
-    \endentry
-    \entry{sampat2019coordinated}{article}{}
-      \name{author}{7}{}{%
-        {{un=1,uniquepart=given,hash=64e03ff2bfa6bb92dbc02ac3541b5906}{%
-           family={Sampat},
-           familyi={S\bibinitperiod},
-           given={Apoorva\bibnamedelima M},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=5ca2ea97e61b1550e2dc1f78c8f49a1f}{%
-           family={Hu},
-           familyi={H\bibinitperiod},
-           given={Yicheng},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5ec4756162ec97b4a70b580ace1926d0}{%
-           family={Sharara},
-           familyi={S\bibinitperiod},
-           given={Mahmoud},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=69b38da78315d0353f84c4944f53ce48}{%
-           family={Aguirre-Villegas},
-           familyi={A\bibinithyphendelim V\bibinitperiod},
-           given={Horacio},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3e769e018413f188595772932855b37d}{%
-           family={Ruiz-Mercado},
-           familyi={R\bibinithyphendelim M\bibinitperiod},
-           given={Gerardo},
+           given={G.J.},
            giveni={G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=95caaa76d734a1072da970f28fca85f7}{%
-           family={Larson},
-           familyi={L\bibinitperiod},
-           given={Rebecca\bibnamedelima A},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+        {{un=0,uniquepart=base,hash=f6fa11c446f504b7129339fe3ba30f2f}{%
            family={Zavala},
            familyi={Z\bibinitperiod},
-           given={Victor\bibnamedelima M},
-           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5927518f8d013b42fb60e8c75d2fd718}
-      \strng{fullhash}{64646d92e53821c45b8a83aeb58a5c76}
-      \strng{bibnamehash}{64646d92e53821c45b8a83aeb58a5c76}
-      \strng{authorbibnamehash}{64646d92e53821c45b8a83aeb58a5c76}
-      \strng{authornamehash}{5927518f8d013b42fb60e8c75d2fd718}
-      \strng{authorfullhash}{64646d92e53821c45b8a83aeb58a5c76}
-      \field{extraname}{3}
+      \strng{namehash}{a7b414671f0a56464f21010362e61624}
+      \strng{fullhash}{c695e0a0748fd7ad8abbca184a761a51}
+      \strng{bibnamehash}{c695e0a0748fd7ad8abbca184a761a51}
+      \strng{authorbibnamehash}{c695e0a0748fd7ad8abbca184a761a51}
+      \strng{authornamehash}{a7b414671f0a56464f21010362e61624}
+      \strng{authorfullhash}{c695e0a0748fd7ad8abbca184a761a51}
+      \field{extraname}{4}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Computers \& chemical engineering}
-      \field{title}{Coordinated management of organic waste and derived products}
-      \field{volume}{128}
-      \field{year}{2019}
-      \field{pages}{352\bibrangedash 363}
-      \range{pages}{12}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{ACS Sustainable Chemistry \& Engineering}
+      \field{number}{5}
+      \field{shorttitle}{Economic and {Environmental} {Analysis} for {Advancing} {Sustainable} {Management} of {Livestock} {Waste}}
+      \field{title}{Economic and {Environmental} {Analysis} for {Advancing} {Sustainable} {Management} of {Livestock} {Waste}: {A} {Wisconsin} {Case} {Study}}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{6018\bibrangedash 6031}
+      \range{pages}{14}
     \endentry
     \entry{sampat2019fairness}{article}{}
       \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=64e03ff2bfa6bb92dbc02ac3541b5906}{%
+        {{un=0,uniquepart=base,hash=968ccd383de6646ca8622f03e2e11749}{%
            family={Sampat},
            familyi={S\bibinitperiod},
-           given={Apoorva\bibnamedelima M},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+           given={A.M},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6fa11c446f504b7129339fe3ba30f2f}{%
            family={Zavala},
            familyi={Z\bibinitperiod},
-           given={Victor\bibnamedelima M},
-           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Springer}%
       }
-      \strng{namehash}{a18fa83ebdcafeff8445f5e481a68d77}
-      \strng{fullhash}{a18fa83ebdcafeff8445f5e481a68d77}
-      \strng{bibnamehash}{a18fa83ebdcafeff8445f5e481a68d77}
-      \strng{authorbibnamehash}{a18fa83ebdcafeff8445f5e481a68d77}
-      \strng{authornamehash}{a18fa83ebdcafeff8445f5e481a68d77}
-      \strng{authorfullhash}{a18fa83ebdcafeff8445f5e481a68d77}
+      \strng{namehash}{e02e77cabac8c4bcf1227aac4b87862a}
+      \strng{fullhash}{e02e77cabac8c4bcf1227aac4b87862a}
+      \strng{bibnamehash}{e02e77cabac8c4bcf1227aac4b87862a}
+      \strng{authorbibnamehash}{e02e77cabac8c4bcf1227aac4b87862a}
+      \strng{authornamehash}{e02e77cabac8c4bcf1227aac4b87862a}
+      \strng{authorfullhash}{e02e77cabac8c4bcf1227aac4b87862a}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -16507,7 +16517,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {U.S. Geological Survey (USGS)}%
+        {USGS}%
       }
       \strng{namehash}{d7eac2ce12dc57556719e49272be5d82}
       \strng{fullhash}{711e7e06db2588baddc8132420175ef3}
@@ -16618,19 +16628,19 @@
     \endentry
     \entry{USDAHandbook}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=80fd38d05f96523b89762870eb63ab35}{%
-           family={{United States Department of Agriculture}},
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United States Department of Agriculture (USDA)}%
+        {USDA}%
       }
-      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
       \field{extraname}{1}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
@@ -16641,32 +16651,6 @@
       \field{title}{{Agricultural Wate Management Field Handbook}}
       \field{type}{techreport}
       \field{year}{2009}
-    \endentry
-    \entry{2017CensusofAgriculture}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=80fd38d05f96523b89762870eb63ab35}{%
-           family={{United States Department of Agriculture}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {United States Department of Agriculture}%
-      }
-      \strng{namehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{fullhash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{bibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorbibnamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authornamehash}{80fd38d05f96523b89762870eb63ab35}
-      \strng{authorfullhash}{80fd38d05f96523b89762870eb63ab35}
-      \field{extraname}{2}
-      \field{sortinit}{U}
-      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{2017 Census of Agriculture. United Satates. Summary and State Data}}
-      \field{type}{techreport}
-      \field{year}{2019}
     \endentry
     \entry{animal_unit_definition}{misc}{}
       \name{author}{1}{}{%
@@ -16680,6 +16664,7 @@
       \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
       \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
       \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
+      \field{extraname}{2}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
@@ -16691,6 +16676,32 @@
       \field{note}{[Online; accessed 10-August-2020]}
       \field{title}{{Animal Feeding Operations (AFO) and Concentrated Animal Feeding Operations (CAFO)}}
       \field{year}{2011}
+    \endentry
+    \entry{2017CensusofAgriculture}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=765309feb627b2d368363a0bb1184cb8}{%
+           family={{US Department of Agriculture}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {USDA}%
+      }
+      \strng{namehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{fullhash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{bibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorbibnamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authornamehash}{765309feb627b2d368363a0bb1184cb8}
+      \strng{authorfullhash}{765309feb627b2d368363a0bb1184cb8}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{2017 Census of Agriculture. United States. Summary and State Data}}
+      \field{type}{techreport}
+      \field{year}{2019}
     \endentry
     \entry{AgSTAR2003}{report}{}
       \name{author}{1}{}{%
@@ -16721,11 +16732,11 @@
     \entry{AgSTARHandbook}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
-           family={{U.S. Environmental Protection Agency}},
+           family={{US Environmental Protection Agency}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {U.S. Environmental Protection Agency}%
+        {US EPA}%
       }
       \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
@@ -16800,11 +16811,11 @@
     \entry{NLA2012}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
-           family={{U.S. Environmental Protection Agency}},
+           family={{US Environmental Protection Agency}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {U.S. EPA}%
+        {US EPA}%
       }
       \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
@@ -17160,6 +17171,42 @@
 
 \refsection{6}
   \datalist[entry]{nyt/global//global/global}
+    \entry{amery2014agricultural}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=54944eedaae3bedc591988f4b6747f91}{%
+           family={Amery},
+           familyi={A\bibinitperiod},
+           given={Fien},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=243fd678c9d791472dea5bf78f88696c}{%
+           family={Schoumans},
+           familyi={S\bibinitperiod},
+           given={Oscar\bibnamedelima Frédéric},
+           giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{3}{%
+        {Institute for Agricultural}%
+        {Fisheries Research (ILVO)}%
+        {Alterra Wageningen UR}%
+      }
+      \strng{namehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{fullhash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{bibnamehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{authorbibnamehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{authornamehash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \strng{authorfullhash}{47c14f8c49e6c68ffb98cb479089de8c}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agricultural phosphorus legislation in Europe}
+      \field{year}{2014}
+    \endentry
     \entry{Pearl2Kcost2}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ff1cfe41dd40d59bd2392310050ed15f}{%
@@ -17357,6 +17404,32 @@
       \verb{url}
       \verb http://elibrary.asabe.org/abstract.asp?aid=46616&t=3&dabs=Y&redir=&redirType=
       \endverb
+    \endentry
+    \entry{CNP503}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fda3b6cf463f1c9893ed94684a719fa}{%
+           family={CNP},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {CNP}%
+      }
+      \strng{namehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{fullhash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{bibnamehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{authorbibnamehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{authornamehash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \strng{authorfullhash}{9fda3b6cf463f1c9893ed94684a719fa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Review of Applicability of EPA’s Part 503 Biosolids Rule on Phosphorus Minerals recovered at Water Resource Recovery Facilities}}
+      \field{type}{techreport}
+      \field{year}{2021}
     \endentry
     \entry{Deremince}{report}{}
       \name{author}{4}{}{%
@@ -17700,6 +17773,9 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
+      \list{institution}{1}{%
+        {University of Arkansas}%
+      }
       \list{publisher}{1}{%
         {Cooperative Extension Service, University of Arkansas}%
       }
@@ -17719,6 +17795,58 @@
       \field{title}{Understanding the numbers on your soil test report}
       \field{type}{techreport}
       \field{year}{2006}
+    \endentry
+    \entry{ESSP2021}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62daa7e92a872d528156e44a1a1b4d93}{%
+           family={ESSP},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {European Sustainable Phosphorus Platform}%
+      }
+      \strng{namehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{fullhash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{bibnamehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{authorbibnamehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{authornamehash}{62daa7e92a872d528156e44a1a1b4d93}
+      \strng{authorfullhash}{62daa7e92a872d528156e44a1a1b4d93}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ESPP input for the EU's "Integrated Nutrient Management Action Plan" (INMAP)}}
+      \field{type}{techreport}
+      \field{year}{2021}
+    \endentry
+    \entry{CircularEconomyActionPlan}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {European Comission}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A new Circular Economy Action for a cleaner and more competitive Europe}}
+      \field{type}{techreport}
+      \field{year}{2020}
     \endentry
     \entry{MarcoCinelli2020}{article}{}
       \name{author}{8}{}{%
@@ -17875,48 +18003,6 @@
       \field{pages}{89\bibrangedash 99}
       \range{pages}{11}
     \endentry
-    \entry{Tool}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
-           family={Mart{í}n-Hern{á}ndez},
-           familyi={M\bibinithyphendelim H\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d58081baefec46ef3bc7355caed94839}{%
-           family={Mart{í}n},
-           familyi={M\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1a0eac6d3ec76f0477b43693cb503e38}{%
-           family={Ruiz-Mercado},
-           familyi={R\bibinithyphendelim M\bibinitperiod},
-           given={G.J.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{ff84ac18e9f3578397a36503c0707e2d}
-      \strng{fullhash}{e046473272db5a0a7a5181d0b03f9b76}
-      \strng{bibnamehash}{e046473272db5a0a7a5181d0b03f9b76}
-      \strng{authorbibnamehash}{e046473272db5a0a7a5181d0b03f9b76}
-      \strng{authornamehash}{ff84ac18e9f3578397a36503c0707e2d}
-      \strng{authorfullhash}{e046473272db5a0a7a5181d0b03f9b76}
-      \field{extraname}{1}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Resources, Conservation \& Recycling}
-      \field{note}{(In Press)}
-      \field{title}{A geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}
-      \field{year}{2021}
-    \endentry
     \entry{MartinHernandez}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=709201ff5b0d7cdf1a27d1f7f5b30a8b}{%
@@ -17950,11 +18036,12 @@
       \strng{authorbibnamehash}{10aaed7fa2f786fa42d3fe4006f1b0d1}
       \strng{authornamehash}{ff84ac18e9f3578397a36503c0707e2d}
       \strng{authorfullhash}{10aaed7fa2f786fa42d3fe4006f1b0d1}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Chem. Eng. Res. Des.}
@@ -17963,6 +18050,48 @@
       \field{year}{2018}
       \field{pages}{160\bibrangedash 182}
       \range{pages}{23}
+    \endentry
+    \entry{Tool}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bb8ea6374a6c59f7898705863824bd45}{%
+           family={Martín-Hernández},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={Edgar},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5602753a663004a322d5fa1db331ae0c}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81594113fd6040181b06349a1d526a20}{%
+           family={Ruiz-Mercado},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Gerardo\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4292e7b1c31a92256774b4c9e80e6056}
+      \strng{fullhash}{521ac4b4369706b764800adcc11f237c}
+      \strng{bibnamehash}{521ac4b4369706b764800adcc11f237c}
+      \strng{authorbibnamehash}{521ac4b4369706b764800adcc11f237c}
+      \strng{authornamehash}{4292e7b1c31a92256774b4c9e80e6056}
+      \strng{authorfullhash}{521ac4b4369706b764800adcc11f237c}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Resources, Conservation and Recycling}
+      \field{title}{A geospatial environmental and techno-economic framework for sustainable phosphorus management at livestock facilities}
+      \field{volume}{175}
+      \field{year}{2021}
+      \field{pages}{105843}
+      \range{pages}{1}
     \endentry
     \entry{Michigan_CAFOS}{misc}{}
       \name{author}{1}{}{%
@@ -18011,6 +18140,32 @@
       \field{note}{[Online; accessed 29-July-2019]}
       \field{title}{{Minnesota Confined Animal Feeding Operations}}
       \field{year}{2019}
+    \endentry
+    \entry{NACWA503}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e8cfbc8448457c7b8ae76c8920885e7}{%
+           family={NACWA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Association of Clean Water Agencies}%
+      }
+      \strng{namehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{fullhash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{bibnamehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{authorbibnamehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{authornamehash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \strng{authorfullhash}{1e8cfbc8448457c7b8ae76c8920885e7}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Issue Outline on Resource Recovery from Wastewater and Coverage of 40 C.F.R. Part 503}}
+      \field{type}{techreport}
+      \field{year}{2014}
     \endentry
     \entry{HandbookCompositeIndicators}{book}{}
       \name{author}{1}{}{%
@@ -18085,6 +18240,34 @@
       \field{title}{{Concentrated Animal Feeding Operations}}
       \field{year}{2019}
     \endentry
+    \entry{Piot_Lepetit2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=564c3fb08f5586f26ffdd06b3cab5262}{%
+           family={Piot-Lepetit},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Bentham Science Publishers}%
+      }
+      \strng{namehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{fullhash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{bibnamehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{authorbibnamehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{authornamehash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \strng{authorfullhash}{564c3fb08f5586f26ffdd06b3cab5262}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agricultural externalities and environmental regulation: The case od manure management and spreading land allocation}
+      \field{year}{2011}
+    \endentry
     \entry{Sampat2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=968ccd383de6646ca8622f03e2e11749}{%
@@ -18093,31 +18276,34 @@
            given={A.M.},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=dca60371e21bb084ec3ba0628e50c175}{%
+        {{un=0,uniquepart=base,hash=2a60ea836eb4cf9d73bb361df352d003}{%
            family={Hicks},
            familyi={H\bibinitperiod},
-           given={Andrea},
+           given={A.},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=81594113fd6040181b06349a1d526a20}{%
+        {{un=0,uniquepart=base,hash=1a0eac6d3ec76f0477b43693cb503e38}{%
            family={Ruiz-Mercado},
            familyi={R\bibinithyphendelim M\bibinitperiod},
-           given={Gerardo\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=97069c5aa2ca7e73b5f887b09412a1b0}{%
+        {{un=0,uniquepart=base,hash=f6fa11c446f504b7129339fe3ba30f2f}{%
            family={Zavala},
            familyi={Z\bibinitperiod},
-           given={Victor\bibnamedelima M.},
-           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={V.M.},
+           giveni={V\bibinitperiod},
            givenun=0}}%
       }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
       \strng{namehash}{a7b414671f0a56464f21010362e61624}
-      \strng{fullhash}{a327d51a96a488b85b79986155ec4277}
-      \strng{bibnamehash}{a327d51a96a488b85b79986155ec4277}
-      \strng{authorbibnamehash}{a327d51a96a488b85b79986155ec4277}
+      \strng{fullhash}{f1ec1633956e9651efcd858c72028857}
+      \strng{bibnamehash}{f1ec1633956e9651efcd858c72028857}
+      \strng{authorbibnamehash}{f1ec1633956e9651efcd858c72028857}
       \strng{authornamehash}{a7b414671f0a56464f21010362e61624}
-      \strng{authorfullhash}{a327d51a96a488b85b79986155ec4277}
+      \strng{authorfullhash}{f1ec1633956e9651efcd858c72028857}
       \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
@@ -18125,24 +18311,12 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Nutrient pollution from livestock waste impacts both fresh and marine coastal waters. Harmful algae blooms (HABs) are a common ecosystem-level response to such pollution that is detrimental to both aquatic life and human health and that generates economic losses (e.g., property values and lost tourism). Waste treatment and management technologies are not well established practices due, in part, to the difficulty to attribute economic value to associated social and environmental impacts of nutrient pollution. In this work, we propose a computational framework to quantify the economic impacts of HABs. We demonstrate the advantage of quantifying these impacts through a case study on livestock waste management in the Upper Yahara watershed region (in the state of Wisconsin, USA). Our analysis reveals that every excess kilogram of phosphorus runoff from livestock waste results in total economic losses of 74.5 USD. Furthermore, we use a coordinated market analysis to demonstrate that this economic impact provides a strong enough incentive to activate a nutrient management and valorization market that can help balance phosphorus within the study area. The proposed framework can help state, tribes, and federal regulatory agencies develop regulatory and non-regulatory policies to mitigate the impacts of nutrient pollution.}
-      \field{issn}{0921-3449}
       \field{journaltitle}{Resources, Conservation and Recycling}
       \field{title}{Valuing economic impact reductions of nutrient pollution from livestock waste}
       \field{volume}{164}
       \field{year}{2021}
       \field{pages}{105199}
       \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.resconrec.2020.105199
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S0921344920305164
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S0921344920305164
-      \endverb
-      \keyw{Livestock waste,Economics,Eutrophication,Phosphorus}
     \endentry
     \entry{Sampat2017}{article}{}
       \name{author}{4}{}{%
@@ -18233,9 +18407,6 @@
       \field{year}{2018}
       \field{pages}{6018\bibrangedash 6031}
       \range{pages}{14}
-      \verb{file}
-      \verb Sampat et al. - 2018 - Economic and Environmental Analysis for Advancing .pdf:/home/emh/Zotero/storage/CUQ9WCD4/Sampat et al. - 2018 - Economic and Environmental Analysis for Advancing .pdf:application/pdf;Snapshot:/home/emh/Zotero/storage/QZXMPJI7/acssuschemeng.html:text/html
-      \endverb
     \endentry
     \entry{sampat2019fairness}{article}{}
       \name{author}{2}{}{%
@@ -18330,7 +18501,7 @@
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {U.S. EPA)}%
+        {U.S. EPA}%
       }
       \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
@@ -18338,40 +18509,92 @@
       \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
       \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{1}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Regulatory Definitions of Large CAFOs, Medium CAFO, and Small CAFOs}}
       \field{type}{techreport}
       \field{year}{2012}
     \endentry
-    \entry{freshwater_Great_Lakes}{misc}{}
+    \entry{NPDESforCAFO}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f5627235f7755f36aacdeda188b7ba6f}{%
-           family={{U.S. EPA}},
+        {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
            familyi={U\bibinitperiod}}}%
       }
-      \strng{namehash}{f5627235f7755f36aacdeda188b7ba6f}
-      \strng{fullhash}{f5627235f7755f36aacdeda188b7ba6f}
-      \strng{bibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
-      \strng{authorbibnamehash}{f5627235f7755f36aacdeda188b7ba6f}
-      \strng{authornamehash}{f5627235f7755f36aacdeda188b7ba6f}
-      \strng{authorfullhash}{f5627235f7755f36aacdeda188b7ba6f}
+      \list{institution}{1}{%
+        {U.S. Environmental Protection Agency}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Elements of an NPDES Permit for a CAFO. NPDES Permit Writers' Manual for CAFOs}}
+      \field{type}{techreport}
+      \field{year}{2020}
+    \endentry
+    \entry{NPDE_basics}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.epa.gov/npdes/npdes-permit-basics}}
+      \field{note}{[Online; accessed 24-August-2021]}
+      \field{title}{{NPDES Permit Basics}}
+      \field{year}{2020}
+    \endentry
+    \entry{NPDE_Implementation}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8233d83a5e663161d707a62961f8f66f}{%
+           family={{U.S. Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{fullhash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{bibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorbibnamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authornamehash}{8233d83a5e663161d707a62961f8f66f}
+      \strng{authorfullhash}{8233d83a5e663161d707a62961f8f66f}
+      \field{extraname}{4}
       \field{sortinit}{U}
       \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.epa.gov/greatlakes/facts-and-figures-about-great-lakes}}
-      \field{note}{[Online; accessed 22-November-2019]}
-      \field{title}{{Facts and Figures about the Great Lakes}}
-      \field{year}{2019}
+      \field{howpublished}{\url{https://www.epa.gov/npdes/npdes-cafo-regulations-implementation-status-reports}}
+      \field{note}{[Online; accessed 16-September-2021]}
+      \field{title}{{NPDES CAFO Regulations Implementation Status Reports}}
+      \field{year}{2021}
     \endentry
     \entry{HUC8}{report}{}
       \name{author}{1}{}{%
@@ -21197,19 +21420,19 @@
     \endentry
     \entry{EuropeanCommission4953_2_11768_1}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6c33531a8174cd0449b26d91aac50e60}{%
-           family={{European Commission-Directorate-General for Environment}},
+        {{un=0,uniquepart=base,hash=0e6d78f35df49b40196722dab5310cdd}{%
+           family={{European Commission -- Directorate General for Environment}},
            familyi={E\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {European Commission}%
       }
-      \strng{namehash}{6c33531a8174cd0449b26d91aac50e60}
-      \strng{fullhash}{6c33531a8174cd0449b26d91aac50e60}
-      \strng{bibnamehash}{6c33531a8174cd0449b26d91aac50e60}
-      \strng{authorbibnamehash}{6c33531a8174cd0449b26d91aac50e60}
-      \strng{authornamehash}{6c33531a8174cd0449b26d91aac50e60}
-      \strng{authorfullhash}{6c33531a8174cd0449b26d91aac50e60}
+      \strng{namehash}{0e6d78f35df49b40196722dab5310cdd}
+      \strng{fullhash}{0e6d78f35df49b40196722dab5310cdd}
+      \strng{bibnamehash}{0e6d78f35df49b40196722dab5310cdd}
+      \strng{authorbibnamehash}{0e6d78f35df49b40196722dab5310cdd}
+      \strng{authornamehash}{0e6d78f35df49b40196722dab5310cdd}
+      \strng{authorfullhash}{0e6d78f35df49b40196722dab5310cdd}
       \field{sortinit}{E}
       \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
@@ -23202,19 +23425,19 @@
     \endentry
     \entry{Xiao2013}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3738c4a3d90a7cdae0e1b60ba20454ca}{%
-           family={{Xiao, G., Webley, P., Hoadley, A., Ho, M., Wiley, D.}},
+        {{un=0,uniquepart=base,hash=e7da93ed2fc3586c20f2b6fb8fc36352}{%
+           family={{Xiao, G. and Webley, P. and Hoadley, A. and Ho, M. and Wiley, D.}},
            familyi={X\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Cooperative Research Centre for Greenhouse Gas Technologies. CO2CRC Publication, Canberra, Australia.}%
       }
-      \strng{namehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{fullhash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{bibnamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{authorbibnamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{authornamehash}{3738c4a3d90a7cdae0e1b60ba20454ca}
-      \strng{authorfullhash}{3738c4a3d90a7cdae0e1b60ba20454ca}
+      \strng{namehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{fullhash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{bibnamehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{authorbibnamehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{authornamehash}{e7da93ed2fc3586c20f2b6fb8fc36352}
+      \strng{authorfullhash}{e7da93ed2fc3586c20f2b6fb8fc36352}
       \field{sortinit}{X}
       \field{sortinithash}{e90038f30fa4b9ce59606fc8347e3cc7}
       \field{extradatescope}{labelyear}
@@ -23480,35 +23703,6 @@
       \field{title}{{Fertiliser Manual (RB209)}}
       \field{year}{2011}
     \endentry
-    \entry{Nexant2006}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=abdb5e2a70a9441c22d1716708fe210a}{%
-           family={Inc.},
-           familyi={I\bibinitperiod},
-           given={Nexant},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {National Renewable Energy Laboratory (NREL)}%
-      }
-      \strng{namehash}{abdb5e2a70a9441c22d1716708fe210a}
-      \strng{fullhash}{abdb5e2a70a9441c22d1716708fe210a}
-      \strng{bibnamehash}{abdb5e2a70a9441c22d1716708fe210a}
-      \strng{authorbibnamehash}{abdb5e2a70a9441c22d1716708fe210a}
-      \strng{authornamehash}{abdb5e2a70a9441c22d1716708fe210a}
-      \strng{authorfullhash}{abdb5e2a70a9441c22d1716708fe210a}
-      \field{sortinit}{I}
-      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Equipment Design and Cost Estimation for Small Modular Biomass Systems, Synthesis Gas Cleanup, and Oxygen Separation Equipment. Task 2: Gas Cleanup Design and Cost Estimates – Black Liquor Gasification}
-      \field{type}{techreport}
-      \field{year}{2006}
-    \endentry
     \entry{kaparaju2013generation}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d9f864602ef3b723b56000bee79040d6}{%
@@ -23619,6 +23813,32 @@
       \field{edition}{5}
       \field{title}{Fundamentals of Engineering Thermodynamics}
       \field{year}{2003}
+    \endentry
+    \entry{Nexant2006}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b42a6dadd868f444aa86241831e38839}{%
+           family={{Nexant Inc.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Renewable Energy Laboratory (NREL)}%
+      }
+      \strng{namehash}{b42a6dadd868f444aa86241831e38839}
+      \strng{fullhash}{b42a6dadd868f444aa86241831e38839}
+      \strng{bibnamehash}{b42a6dadd868f444aa86241831e38839}
+      \strng{authorbibnamehash}{b42a6dadd868f444aa86241831e38839}
+      \strng{authornamehash}{b42a6dadd868f444aa86241831e38839}
+      \strng{authorfullhash}{b42a6dadd868f444aa86241831e38839}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Equipment Design and Cost Estimation for Small Modular Biomass Systems, Synthesis Gas Cleanup, and Oxygen Separation Equipment. Task 2: Gas Cleanup Design and Cost Estimates – Black Liquor Gasification}
+      \field{type}{techreport}
+      \field{year}{2006}
     \endentry
     \entry{ryckebosch2011techniques}{article}{}
       \name{author}{3}{}{%

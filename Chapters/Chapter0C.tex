@@ -6,11 +6,11 @@
 \chapter{Appendix C: Supplementary Information of Chapter 5}
 
 \begin{refsection}[referencesCh4]
-\section{Environmental geographic information model}
-\subsection{Trophic State Index}
+\section{Environmental geographic information model} \label{section:Section1AppC}
+\subsection{Trophic State Index} \label{section:TSIAppC}
 \citet{carlson_trophic_1977} proposed the Trophic State Index (TSI) as a metric to determine the trophic status of waterbodies. This is used by the U.S. Environmental Protection Agency (US EPA) \citep{QAPP2012}. This index can be calculated using three parameters: concentration of chlorophyll-$\alpha$ (chl-$\alpha$), concentration of total phosphorus, and water turbidity measured through the Secchi depth. Only the two first methods has been used in this work since they are less affected to exogenous phenomena (such as atmospheric conditions, or variations in the flow of water streams). Correlations to compute the TSI from these parameters are shown in Eq. \ref{eq:TSI_clh_AppC} and \ref{eq:TSI_TP_AppC}, where $Clh$ denotes the concentration of chlorophyll-$\alpha$, and $TP$ denotes the concentration of total phosphorus in $\sfrac{mg}{m^3}$ \citep{carlson_trophic_1977}. 
 
-The TSI of a waterbody is scored in a range from zero to one hundred, which can be correlated with the oligotrophic, mesotrophic, eutrophic and hypereutrophic classes as shown in Table \ref{table:ApCTSI_relation_AppC}. Oligotrophic and mesotrophic denote low and intermediate biomass productivities, while eutrophic and hypereutrophic are referred to waterbodies with high biological productivity and frequent algal blooms. Combined data for chl-$\alpha$ and total phosphorus concentrations retrieved from the National Lakes Assessments (NLA) carried out by the US EPA in the years 2007 and 2012 \citep{NLA2012, NLA2007} is used to determine the Trophic State Index of lentic waters in the contiguous U.S, as shown in Fig. \ref{fig:ApCTSImap}. No TSI values are assigned to the watersheds without reported data.
+The TSI of a waterbody is scored in a range from zero to one hundred, which can be correlated with the oligotrophic, mesotrophic, eutrophic and hypereutrophic classes as shown in Table \ref{table:ApCTSI_relation_AppC}. Oligotrophic and mesotrophic denote low and intermediate biomass productivities, while eutrophic and hypereutrophic are referred to waterbodies with high biological productivity and frequent algal blooms. Combined data for chl-$\alpha$ and total phosphorus concentrations retrieved from the National Lakes Assessments (NLA) carried out by the US EPA in the years 2007 and 2012 \citep{NLA2012, NLA2007} is used to determine the Trophic State Index of lentic waters in the contiguous U.S, as shown in Fig. \ref{fig:ApCTSImap_AppC}. No TSI values are assigned to the watersheds without reported data.
 
 \begin{align}
 & \text{TSI}_{\text{chl-$\alpha$}} = 10  \cdot \left(6-\frac{2.04-0.68 \cdot \text{ln}\left(Clh\right)}{\left(2\right)}\right) \label{eq:TSI_clh_AppC} \\
@@ -32,19 +32,19 @@ The TSI of a waterbody is scored in a range from zero to one hundred, which can 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.95\textwidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixC/TrophicStateIndex.pdf} 
-	\caption{Trophic State Index in the contiguous US HUC8 watersheds}
+	\caption{Trophic State Index in the contiguous US HUC8 watersheds.}
 	\label{fig:ApCTSImap_AppC}
 \end{figure}
 
 \subsection{Balance of anthropogenic phosphorus releases}
 Agricultural releases are a main source of human-based phosphorus releases due to the excessive use of synthetic fertilizers and livestock waste for nutrient supplementation in croplands \citep{Dzombak}. Since this work is limited to the assessment of agricultural phosphorus releases, other possible sources of phosphorus releases are not considered. Agricultural phosphorus releases have been estimated from data reported by the Nutrient Use Geographic Information System (NuGIS) project. Further information about the methodology used for the estimation of human-based phosphorus releases can be found in \citet{NuGIS}.
 
-The anthropogenic phosphorus uptakes considered are those due to the crops grown in each watershed. In addition, phosphorus retained by wetlands is considered. Data from \citet{USDAWaste} is used to estimate the phosphorus uptakes of different crops, attending to their different phosphorus requirements and yield rates. To determine the crops grown in each watershed, the land cover uses are first determined using data from the US EPA EnviroAtlas database for the most recent year available (2011), differentiating between croplands, pasturelands, wetlands, and developed areas (urban areas) \citep{EnviroAtlas}. To estimate the distribution of crops in croplands, including corn, soybeans, small grains, cotton, rice, vegetables, orchards, greenhouse and other crops (i.e., fruits, sugar crops, and oil crops) \citep{2017CensusofAgriculture}, data from the 2017 U.S. Census of Agriculture is used. In case of two or more crops were harvested from the same land during the year (double cropping), the area was counted for each crop. Since the data from the 2017 U.S. Census of Agriculture are published at HUC6 resolution, they have been reconciled to HUC8 level by the fraction of occupied area by each HUC8 watershed in the corresponding HUC6 watershed. The wetlands phosphorus uptake value assessed is 0.77 gP m$^{-2}$ year$^{-1}$, based on data reported by \citet{Kadlec}.
+The anthropogenic phosphorus uptakes considered are those due to the crops grown in each watershed. In addition, phosphorus retained by wetlands is considered. Data from \citet{USDAHandbook} is used to estimate the phosphorus uptakes of different crops, attending to their different phosphorus requirements and yield rates. To determine the crops grown in each watershed, the land cover uses are first determined using data from the US EPA EnviroAtlas database for the most recent year available (2011), differentiating between croplands, pasturelands, wetlands, and developed areas (urban areas) \citep{EnviroAtlas}. To estimate the distribution of crops in croplands, including corn, soybeans, small grains, cotton, rice, vegetables, orchards, greenhouse and other crops (i.e., fruits, sugar crops, and oil crops) \citep{2017CensusofAgriculture}, data from the 2017 U.S. Census of Agriculture is used. In case of two or more crops were harvested from the same land during the year (double cropping), the area was counted for each crop. Since the data from the 2017 U.S. Census of Agriculture are published at HUC6 resolution, they have been reconciled to HUC8 level by the fraction of occupied area by each HUC8 watershed in the corresponding HUC6 watershed. The wetlands phosphorus uptake value assessed is 0.77 gP m$^{-2}$ year$^{-1}$, based on data reported by \citet{Kadlec}.
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.95\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixC/BalanceofP.pdf} 
-	\caption{Balance of anthropogenic phosphorus releases in the contiguous US at a HUC8 spatial resolution}
+	\caption{Balance of anthropogenic phosphorus releases in the contiguous US at a HUC8 spatial resolution.}
 	\label{fig:TECmap_AppC}
 \end{figure}
 
@@ -76,7 +76,7 @@ The relationship between M3P test value and the quality of soil is shown in Tabl
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.95\linewidth, trim={0cm 0cm 0cm 0cm},clip]{gfx/AppendixC/SoilFertility.pdf} 
-	\caption{Soil Fertility Level in the contiguous US at a HUC8 spatial resolution}
+	\caption{Soil Fertility Level in the contiguous US at a HUC8 spatial resolution.}
 	\label{fig:SoilFertilitySoilFertility_AppC}
 \end{figure}
 
@@ -102,6 +102,7 @@ The relationship between M3P test value and the quality of soil is shown in Tabl
 \begin{table}[h]
 	\centering
 	\caption{Predefined economic parameters.}
+	\label{table:economic_parameters_AppC}
 	\resizebox{0.5\columnwidth}{!}{
 	\begin{tabular}{@{}cc@{}}
 		\toprule
@@ -165,7 +166,7 @@ Correlations to estimate the capital cost, Eq. \ref{eq:inv_costs_AppC}, and oper
 	\bigskip
 	\begin{subfigure}[t]{0.75\textwidth}
 		\includegraphics[width=\textwidth]{gfx/AppendixC/AD_size_OM_Unit_cost} 
-		\caption{O\&M costs as a function of the number of animals (cattle). Data from \citet{USDA_OM}}
+		\caption{O\&M costs as a function of the number of animals (cattle). Data from \citet{USDA_OM}.}
 		\label{fig:AD_size_OM_Unit_cost_AppC}
 	\end{subfigure}
 	
@@ -178,7 +179,7 @@ Based on the evaluation reported by \citet{MollerSLsep}, a screw press is the te
 \begin{table}[h] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Partition coefficients for solid-liquid manure separation using a screw press unit \protect\citep{MollerSLsep}} \label{table:part_coef_AppC}
+		\caption{Partition coefficients for solid-liquid manure separation using a screw press unit \protect\citep{MollerSLsep}.} \label{table:part_coef_AppC}
 		\resizebox{0.6\columnwidth}{!}{
 		\begin{tabular}{c c c}
 			\toprule
@@ -196,7 +197,7 @@ To determine the commercial sizes and number of units necessary as a function of
 \begin{table}[h] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Sizing estimated for screw press units based commercial on data \protect\citep{PWTech}} \label{table:ScrewPress_units_AppC}
+		\caption{Sizing estimated for screw press units based on commercial data \protect\citep{PWTech}.} \label{table:ScrewPress_units_AppC}
 		\resizebox{\columnwidth}{!}{
 		\begin{tabular}{c c c c c}
 			\toprule
@@ -227,7 +228,7 @@ To determine the commercial sizes and number of units necessary as a function of
 \begin{table}[h] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Electrical power of screw press units \protect\citep{PWTech}} \label{table:ScrewPress_power_AppC}
+		\caption{Electrical power of screw press units \protect\citep{PWTech}.} \label{table:ScrewPress_power_AppC}
 		\resizebox{0.7\columnwidth}{!}{
 		\begin{tabular}{c c c c c}
 			\toprule
@@ -264,7 +265,7 @@ To determine the commercial sizes and number of units necessary as a function of
 	\label{fig:screwpress_costs_AppC}
 \end{figure}
 
-\subsubsection{Nutrient recovery model}
+\subsubsection{Nutrient recovery model}\label{section:NutrienModelAppC}
 Specific correlations for livestock waste to estimate the molar fraction of $\text{PO}_{4}^{3-}$ and $\text{Ca}^{2+}$ recovered as struvite as a function of the amount of calcium contained in the waste were developed in a previous work \citep{MartinStruvite}, Eqs. \ref{eq:sigmoidal_Ca_StrYield_AppC} to \ref{eq:sigmoidal_CaCaCO3_AppC}, where $x_{Ca^{2+}:PO_{4}^{3-}}$ refers to the $\text{Ca}^{2+}/\text{PO}_{4}^{3-} \ \text{molar ratio}$, $x_{struvite \left(PO_{4}^{3-}\right) }$ is the fraction of phosphorus as phosphate recovered as struvite, and $x_{HAP \left(Ca^{2+}\right)}$ and $x_{CaCO_{3} \left(Ca^{2+}\right)}$ are the fraction of calcium recovered as hydroxyapatite and calcium carbonate respectively.
 
 \begin{align}
@@ -308,7 +309,7 @@ Based on the information reported by Ostara \citep{Pearl2Kcost2}, standard equip
 \begin{table}[h] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Sizing and equipment cost estimated for Ostara Pearl process} \label{table:ostara_costs}
+		\caption{Sizing and equipment cost estimated for Ostara Pearl process.} \label{table:ostara_costs}
 		\resizebox{0.7\columnwidth}{!}{
 		\begin{tabular}{c c c c}
 			\toprule
@@ -391,7 +392,7 @@ In the SMAA method, the feasible space of each weight is explored through the Mo
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.4\linewidth, trim={2cm 6cm 8cm 2.5cm},clip]{gfx/AppendixC/SMAA.png} 
-	\caption{Example of feasible weights space for a three criteria problem considering ranking of criteria. Figure adapted from \protect\citet{tervonen_implementing_2007}}
+	\caption{Example of feasible weights space for a three criteria problem considering ranking of criteria. Figure adapted from \protect\citet{tervonen_implementing_2007}.}
 	\label{fig:SMAA_weights_AppC}
 \end{figure}
 
@@ -401,7 +402,7 @@ In the SMAA method, the feasible space of each weight is explored through the Mo
 
 \begin{table}[h!]
 	\centering
-	\caption{Livestock residues and phosphorus releases by concentrated animal operation in the Grat Lakes area, year 2019. \protect\citep{Indiana_CAFOS,Ohio_CAFOS,Pennsylvania_CAFOS,Wisconsin_CAFOS,Minnesota_CAFOS,Michigan_CAFOS}}
+	\caption{Livestock residues and phosphorus releases by concentrated animal operation in the Grat Lakes area, year 2019. \protect\citep{Indiana_CAFOS,Ohio_CAFOS,Pennsylvania_CAFOS,Wisconsin_CAFOS,Minnesota_CAFOS,Michigan_CAFOS}.}
 	\label{table:GreatLakes_manure_AppC}
 	\resizebox{\columnwidth}{!}{
 		\begin{tabular}{@{}ccccccc@{}}

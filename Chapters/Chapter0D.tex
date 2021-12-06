@@ -20,7 +20,7 @@ The area of different surfaces is estimated through preliminar equipment design,
 
 \begin{table}[h] 
 	\centering
-	\caption{Anaerobic digester design parameters. \protect\citep{ADPennState}.} \label{table:AD_U}
+	\caption{Anaerobic digester design parameters \protect\citep{ADPennState}.} \label{table:AD_U}
 	\resizebox{0.5\columnwidth}{!}{
 	\begin{tabular}{@{}ccc@{}}
 		\toprule
@@ -96,7 +96,7 @@ Based on the evaluation reported by \citet{MollerSLsep}, a screw press is the te
 \begin{table}[h!] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Partition coefficients for solid-liquid manure separation using a screw press unit \protect\citep{MollerSLsep}} \label{table:part_coef}
+		\caption{Partition coefficients for solid-liquid manure separation using a screw press unit \protect\citep{MollerSLsep}.} \label{table:part_coef}
 		\resizebox{0.6\columnwidth}{!}{
 		\begin{tabular}{c c c}
 			\toprule
@@ -121,7 +121,7 @@ To determine the commercial sizes and number of units necessary as a function of
 \begin{table}[h!] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Sizing estimated for screw press units based on commercial data \protect\citep{PWTech}} \label{table:ScrewPress_units}
+		\caption{Sizing estimated for screw press units based on commercial data \protect\citep{PWTech}.} \label{table:ScrewPress_units}
 		\resizebox{\columnwidth}{!}{
 		\begin{tabular}{c c c c c}
 			\toprule
@@ -144,7 +144,7 @@ To determine the commercial sizes and number of units necessary as a function of
 \begin{table}[h!] 
 %	\begin{adjustwidth}{}{}
 		\centering
-		\caption{Electrical power of screw press units \protect\citep{PWTech}} \label{table:ScrewPress_power}
+		\caption{Electrical power of screw press units \protect\citep{PWTech}.} \label{table:ScrewPress_power}
 		\resizebox{0.85\columnwidth}{!}{
 		\begin{tabular}{c c c c c}
 			\toprule
@@ -160,7 +160,27 @@ To determine the commercial sizes and number of units necessary as a function of
 %	\end{adjustwidth}
 \end{table}
 
-Assuming the discretization of units due to the commercial sizes available, the investment and operating costs for the screw press equipment are presented in Fig 4 of the Supplementary Material.
+Assuming the discretization of units due to the commercial sizes available, the investment and operating costs for the screw press equipment are presented in Fig. \ref{fig:screwpress_costs_AppD}.
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
+		\includegraphics[width=\linewidth]{gfx/AppendixC/screwpress_unit_cost_m} 
+		\caption{Estimated investment costs for screw press units.}
+		\label{fig:screwpress_unit_cost_m_AppD}
+	\end{subfigure}
+	\bigskip
+	\begin{subfigure}[t]{0.7\linewidth}
+		\centering
+		\includegraphics[width=\linewidth]{gfx/AppendixC/screwpress_op_cost_m}
+		\caption{Estimated operation costs for screw press units.}
+		\label{fig:screwpress_op_cost_m_AppD}
+	\end{subfigure}
+	
+	\caption{Estimated capital and operating costs for screw press units.}
+	\label{fig:screwpress_costs_AppD}
+\end{figure}
 
 \subsection{Struvite production: Multiform system}
 Struvite production from livestock waste has been estimated based on a detailed thermodynamic model for precipitates (struvite and calcium compounds) formation considering the main chemical systems involved in the formation of precipitates, shown in Tables \ref{table:pKNitrogenSP} and \ref{table:solids_speciesNitrogenSP}. $pK$ denotes the thermodynamic equilibrium constant, and $pK_{sp}$ refers to the solubility product. The variability in the organic waste composition is also considered, obtaining surrogate models to predict the formation of struvite based on different waste parameters, including the concentration of magnesium, the concentration of calcium, and the alkalinity level \citep{martin2020model}. Based on previous studies, the supply of magnesium has been fixed at a Mg\textsuperscript{2+}/PO\textsuperscript{3-}\textsubscript{4} molar ratio of 2, estimating the formation of struvite as a function of the concentration of Ca\textsuperscript{2+} ions, which compete for phosphate ions hindering the formation of struvite, shown in Eq. \ref{eq:sigmoidal_Ca_StrYield}. A comprehensive description of the thermodynamic model used for the development of the correlations to estimate the formation of struvite can be found in \citet{martin2020model}.
@@ -272,7 +292,7 @@ Characteristics of Liquid-Cel\textsuperscript{\texttrademark} Extra Flow membran
 
 The main parameters for membrane modeling are collected in Eqs. \ref{eq:Mem1}-\ref{eq:Mem99}. Digestate density ($\rho$) and ($\mu$) viscosity were assumed equal to those of water. Correlations to estimate these parameters are reported by \citet{hsu1997densities}. Ammonia Henry's constant ($H_{\text{NH}_3}$)
 %and  Knudsen diffusivity 
-have been taken from \citet{linstrom2001nist}.
+has been taken from \citet{linstrom2001nist}.
 
 \begin{align}
 & \rho_{\text{water}} \left(\frac{\text{kg}}{\text{m}^3}\right) = (10^3) \cdot \nonumber \\
@@ -596,7 +616,7 @@ m = \frac{P_{\text{NH}_3}}{P}
 		\label{fig:OPEX}
 	\end{subfigure}
 	
-	\caption{CAPEX and OPEX of the assesed nitrogen recovery technologies, including the cost of anaerobic digestion stage.} \label{fig:CAPEXOPEX}
+	\caption{CAPEX and OPEX of the assesed nitrogen recovery technologies, including the cost of anaerobic digestion stage.} \label{fig:CAPEXOPEX_NitrogenSP}
 \end{figure}
 
 \newpage
@@ -619,7 +639,7 @@ m = \frac{P_{\text{NH}_3}}{P}
 		\label{fig:OPEX_NoAD}
 	\end{subfigure}
 	
-	\caption{CAPEX and OPEX of the assesed nitrogen recovery technologies, excluding the cost of anaerobic digestion stage.} \label{fig:CAPEXOPEX_NoAD}
+	\caption{CAPEX and OPEX of the assesed nitrogen recovery technologies, excluding the cost of anaerobic digestion stage.} \label{fig:CAPEXOPEX_NoAD_NitrogenSP}
 \end{figure}
 
 \newpage
@@ -643,14 +663,14 @@ m = \frac{P_{\text{NH}_3}}{P}
 		\label{fig:ScaleUp2_NoAD}
 	\end{subfigure}
 	
-	\caption{Processing cost for different livestock facility sizes, excluding the cost of anaerobic digestion stage.} \label{fig:ScaleUGlobal_NoAD}
+	\caption{Processing cost for different livestock facility sizes, excluding the cost of anaerobic digestion stage.} \label{fig:ScaleUGlobal_NoAD_NitrogenSP}
 \end{figure}
 
 \newpage
 
 \begin{table}[h!] 
 	\centering
-	\caption{Correlations to estimate the processing cost of the evaluated technologies as a function of animal units ($AU$), excluding the cost of anaerobic digestion stage.} \label{table:ScaleUpCorrelations_NoAD}
+	\caption{Correlations to estimate the processing cost of the evaluated technologies as a function of animal units ($AU$), excluding the cost of anaerobic digestion stage.} \label{table:ScaleUpCorrelations_NoAD_NitrogenSP}
 	\resizebox{\columnwidth}{!}{
 	\begin{tabular}{@{}cccc@{}}
 		\toprule

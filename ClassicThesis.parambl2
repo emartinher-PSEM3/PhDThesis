@@ -22,6 +22,8 @@
 \glossaryentry{$T_{atm}$?\glossentry{param22}|setentrycounter[]{page}\glsnumberformat}{70}
 \glossaryentry{$R$?\glossentry{param23}|setentrycounter[]{page}\glsnumberformat}{70}
 \glossaryentry{$c_{p_{H_{2}O}}$?\glossentry{param24}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$f_i$?\glossentry{param25}|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{$f_j$?\glossentry{param26}|setentrycounter[]{page}\glsnumberformat}{70}
 \glossaryentry{$A_{specific}$?\glossentry{param1}|setentrycounter[]{page}\glsnumberformat}{103}
 \glossaryentry{$A(i)$?\glossentry{param2}|setentrycounter[]{page}\glsnumberformat}{103}
 \glossaryentry{$B(i)$?\glossentry{param3}|setentrycounter[]{page}\glsnumberformat}{103}
@@ -46,6 +48,8 @@
 \glossaryentry{$T_{atm}$?\glossentry{param22}|setentrycounter[]{page}\glsnumberformat}{103}
 \glossaryentry{$R$?\glossentry{param23}|setentrycounter[]{page}\glsnumberformat}{103}
 \glossaryentry{$c_{p_{H_{2}O}}$?\glossentry{param24}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$f_i$?\glossentry{param25}|setentrycounter[]{page}\glsnumberformat}{103}
+\glossaryentry{$f_j$?\glossentry{param26}|setentrycounter[]{page}\glsnumberformat}{103}
 \glossaryentry{$A_{specific}$?\glossentry{param1}|setentrycounter[]{page}\glsnumberformat}{235}
 \glossaryentry{$A(i)$?\glossentry{param2}|setentrycounter[]{page}\glsnumberformat}{235}
 \glossaryentry{$B(i)$?\glossentry{param3}|setentrycounter[]{page}\glsnumberformat}{235}
@@ -70,3 +74,5 @@
 \glossaryentry{$T_{atm}$?\glossentry{param22}|setentrycounter[]{page}\glsnumberformat}{235}
 \glossaryentry{$R$?\glossentry{param23}|setentrycounter[]{page}\glsnumberformat}{235}
 \glossaryentry{$c_{p_{H_{2}O}}$?\glossentry{param24}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$f_i$?\glossentry{param25}|setentrycounter[]{page}\glsnumberformat}{235}
+\glossaryentry{$f_j$?\glossentry{param26}|setentrycounter[]{page}\glsnumberformat}{235}

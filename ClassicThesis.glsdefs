@@ -958,6 +958,66 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{param25}{}%
+{%
+\gls@defglossaryentry{param25}%
+{%
+name={$f_i$},%
+sort={$f_i$},%
+type={ParamCh2},%
+first={$f_i$},%
+firstplural={$f_i$s},%
+text={$f_i$},%
+plural={$f_i$s},%
+description={total physical plant cost parameter (3.15)},%
+descriptionplural={total physical plant cost parameter (3.15)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{param26}{}%
+{%
+\gls@defglossaryentry{param26}%
+{%
+name={$f_j$},%
+sort={$f_j$},%
+type={ParamCh2},%
+first={$f_j$},%
+firstplural={$f_j$s},%
+text={$f_j$},%
+plural={$f_j$s},%
+description={fixed cost parameter (1.4)},%
+descriptionplural={fixed cost parameter (1.4)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{var1}{}%
 {%
 \gls@defglossaryentry{var1}%

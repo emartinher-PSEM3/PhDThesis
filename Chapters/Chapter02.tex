@@ -15,7 +15,7 @@ A mixed-integer nonlinear programming strategy is proposed to design integrated 
 Se propone una estrategia de programación mixta entera no lineal para diseñar instalaciones integradas de recuperación simultánea de energía y nutrientes contenidos en residuos orgánicos. Las instalaciones propuestas consideran la digestión anaeróbica de diferentes tipos de deyecciones ganaderas (vacuno, porcino, avícola y ovino). Los productos de este proceso son biogás y un efluente rico en nutrientes. El biogás producido es purificado y es utilizado en una turbina de gas para producir energía eléctrica, mientras que los gases de combustión calientes resultantes de la combustión se emplean en la generación de vapor que se alimenta a una turbina de vapor para producir energía adicional. El efluente rico en nutrientes se procesa para recuperar los nutrientes utilizando diferentes tecnologías que incluyen filtración, coagulación, centrifugación y precipitación de estruvita en reactores de mezcla completa y en reactores de lecho fluidizad. Este tratamiento proporciona un mecanismo para prevenir la liberación de fósforo o nitrógeno al medio ambiente y evitar el desarrollo de procesos de eutrofización. Se ha comprobado que la producción de estruvita en reactores de lecho fluidizado es la tecnología seleccionada para recuperar los nutrientes de todas las fuentes de estiércol. Además, la producción de energía depende en gran medida de la composición del estiércol y presenta una gran variabilidad de costes (desde 4.000 euros/kW en el caso del estiércol de aves de corral hasta 25.000 euros/kW en el caso del estiércol de vacuno y de cerdo).
 
 \bigskip
-\textbf{Palabras clave:} Biogás; Digestato; Digestión anaerobia; Deyecciones ganaderas; Producción de electricidad; Optimización matemproduccióntica
+\textbf{Palabras clave:} Biogás; Digestato; Digestión anaerobia; Deyecciones ganaderas; Producción de electricidad; Optimización matemática
 
 
 \newpage
@@ -34,7 +34,7 @@ The proposed process consists of four sections: biogas production, biogas purifi
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\linewidth, trim={6.5cm 0.1cm 11.5cm 0.3cm},clip]{gfx/Chapter2/superstructure3bloquesCOMPATIBILIDAD-Layout3.pdf} 
-	\caption{Flowsheet for the production of power and fertilizers.}
+	\caption{Flowsheet for nutrient recovery and power production.}
 	\label{fig:Flowsheet}
 \end{figure}
 
@@ -42,12 +42,12 @@ The biomass together with water and nutrients (manure slurry) are fed to a biore
 
 The digestate is released from the digester through stream 12, and it can be processed through a number of technologies to remove nitrogen and phosphorous. We consider filtration, centrifugation, coagulation, and struvite production using either a fluidized bed reactor (FBR) or a continuous stirred tank reactor (CSTR). These technologies are described in detail in Section \ref{section:DigestateConditioning}.
 
-Four manure types have been considered as raw material for the process: cattle, pig, poultry and sheep manure. Table \ref{table:techs_description} shows the composition and properties of each type of manure.
+Four manure types have been considered as raw material for the process: cattle, pig, poultry and sheep manure. Table \ref{table:techs_descriptionPaper1} shows the composition and properties of each type of manure.
 
 \begin{table}[]
 	\centering
 	\caption{Manure composition and properties \protect\citep{kowalski2013changes, Lorimor2004, AlSeadi2008, martins2009biogas}.}
-	\label{table:techs_description}
+	\label{table:techs_descriptionPaper1}
 	\resizebox{\columnwidth}{!}{
 	\begin{tabular}{@{}ccccccccccccccc@{}}
 		\toprule
@@ -91,11 +91,11 @@ We evaluate the performance of the different unit operations in the process by u
 
 In the following subsections, we briefly present the main equations used to characterize the operation of the different units. For the sake of brevity, simpler balances based on removal efficiency or stoichiometry and equations connecting units are omitted. The power production system is described in detail in previous work \citep{Leon} and we thus only provide a brief description.
 
-The cost estimation for the alternatives and for the entire process is based on the estimation of the unit costs from different sources using the factorial method. From the units cost, the facility cost is estimated using the coefficients in \citet{rk1999coulson}, so that the total physical plant cost involving equipment erection, piping instrumentation, electrical, buildings, utilities, storage, site development, and ancillary buildings is 3.15 times the total equipment cost for processes which use fluids and solids. On the other hand, the fixed cost, which includes design and engineering, contractor’s fees, and contingency items is determined as 1.4 times the total physical plant cost for the fluid and solid processes. In the subsequent cost estimation procedures these parameters are denoted as fi for the total physical plant parameter and fj for the fixed cost parameter.
+The cost estimation for the alternatives and for the entire process is based on the estimation of the unit costs from different sources using the factorial method. From the units cost, the facility cost is estimated using the coefficients in \citet{sinnott1999chemical}, so that the total physical plant cost involving equipment erection, piping instrumentation, electrical, buildings, utilities, storage, site development, and ancillary buildings is 3.15 times the total equipment cost for processes which use fluids and solids. On the other hand, the fixed cost, which includes design and engineering, contractor’s fees, and contingency items is determined as 1.4 times the total physical plant cost for the fluid and solid processes. In the subsequent cost estimation procedures these parameters are denoted as fi for the total physical plant parameter and fj for the fixed cost parameter.
 
 
 \subsection{Biogas production} \label{section:BiogasProduction}
-AD is a complex microbiological process that decomposes organic matter in the absence of oxygen. It produces a gas mixture following hydrolysis, acidogenesis, acetogenesis, and methanogenesis steps, consisting mainly of methane and carbon dioxide (biogas), and decomposed substrate (digestate). The anaerobic reactor is modeled using mass balances of the species involved in the production of biogas and digestate. Inorganic nitrogen, organic nitrogen, sulfur, carbon, and phosphorus balances are formulated by using the composition of volatile solids in manure, see Table \ref{table:techs_description} \citep{kowalski2013changes, Lorimor2004, AlSeadi2008, martins2009biogas}. Typical bounds for the biogas composition are provided. The reactor operates at 55 \textdegree C. We refer the reader to the Supplementary Material and \citet{Leon} for details on the modelling of the digester.
+AD is a complex microbiological process that decomposes organic matter in the absence of oxygen. It produces a gas mixture following hydrolysis, acidogenesis, acetogenesis, and methanogenesis steps, consisting mainly of methane and carbon dioxide (biogas), and decomposed substrate (digestate). The anaerobic reactor is modeled using mass balances of the species involved in the production of biogas and digestate. Inorganic nitrogen, organic nitrogen, sulfur, carbon, and phosphorus balances are formulated by using the composition of volatile solids in manure, see Table \ref{table:techs_descriptionPaper1} \citep{kowalski2013changes, Lorimor2004, AlSeadi2008, martins2009biogas}. Typical bounds for the biogas composition are provided. The reactor operates at 55 \textdegree C. We refer the reader to the Supplementary Material and \citet{Leon} for details on the modelling of the digester.
 
 \subsection{Biogas purification} \label{section:BiogasPurification}
 This system consists of a number of stages to remove H\textsubscript{2}S, CO\textsubscript{2} and NH\textsubscript{3}. Here we highlight some basics about the operation of these stages. For further details we refer the reader to previous work \citep{Leon}.
@@ -326,7 +326,7 @@ where $MeP$ is the metal/phosphorus ratio and M is a large value to formulate th
 The estimation of the size and cost of both the coagulation and flocculation tanks has been carried out using a correlation developed by \citet{almena2016technoeconomic} as a function of the weight of the vessels. To simplify the mass balances it is considered that the volume provided by the coagulant agents is negligible with respect to the processed stream of the digestate. The vessel size is computed from the residence time. The hydraulic retention time considered in the coagulation tank is 4 min \citep{zhou2008enhanced}. The vessel size is computed from the residence time, Eq. \ref{eq:Eq29}. Using these data, the diameter and length are computed using rules of thumb, Eqs. \ref{eq:Eq30} and \ref{eq:Eq31}. Finally, a correlation for the thickness as a function of the diameters allows determining the mass of metal required for the vessel and its weight, Eqs. \ref{eq:Eq32} and \ref{eq:Eq33}. Vessel cost estimation is provided by Eq. \ref{eq:Eq34}.
 
 \begin{align}
-	{V}_{Coag tank}\left( \text{m}^{3} \right) = HR{T_{Coag \ tank}} \cdot \frac{F_{digestate}^{in}}{\rho_{digestate}} \label{eq:Eq29}
+	{V}_{Coag \ tank}\left( \text{m}^{3} \right) = HR{T_{Coag \ tank}} \cdot \frac{F_{digestate}^{in}}{\rho_{digestate}} \label{eq:Eq29}
 \end{align}
 
 \begin{align}
@@ -357,7 +357,7 @@ To estimate the power consumed by the agitator, Eq. \ref{eq:Eq35}, rules of thum
 	P_{Agitator}\left( \text{HP} \right) = V_{Coag \ tank} \left( {\text{US gallon}} \right) \cdot \frac{\kappa_{agitator}}{1000} \label{eq:Eq35}
 \end{align}
 
-The agitator cost is also estimated using a correlation from \citet{walas1988chemical}, Eq. (36). For cost estimation purposes we have considered stainless steel 316 as construction material and a dual impeller operating at speed between 56 and 100 rpm depending on the tanks size. With these considerations the values for $a$, $b$ and $c$ are 8.8200, 0.1235 and 0.0818 respectively \citep{walas1988chemical}. This correlation provides the cost in 1985 dollars, so it is necessary to update the result using the Chemical Engineering Index as before.
+The agitator cost is also estimated using a correlation from \citet{walas1988chemical}, Eq. \ref{eq:Eq36}. For cost estimation purposes we have considered stainless steel 316 as construction material and a dual impeller operating at speed between 56 and 100 rpm depending on the tanks size. With these considerations the values for $a$, $b$ and $c$ are 8.8200, 0.1235 and 0.0818 respectively \citep{walas1988chemical}. This correlation provides the cost in 1985 dollars, so it is necessary to update the result using the Chemical Engineering Index as before.
 
 \begin{align}
 	Cost_{Agitator} \left( \text{USD}_{1985}  \right) = {e^{a + b \cdot {\text{ln}}\left( {{P_{agitator}}\left( \text{HP} \right)} \right) + c \cdot {\left[ \text{ln}\left( {P_{agitator}\left( \text{HP} \right)} \right) \right] }^2}} \label{eq:Eq36}
@@ -371,7 +371,7 @@ The total cost of the coagulation tank is equal to the sum of the vessel cost an
 
 The flocculation tank is designed similarly to that of the coagulation, using Eqs. \ref{eq:Eq29}–\ref{eq:Eq37}. For this step the hydraulic retention time is 25 min \citep{zhou2008enhanced}.
 
-The decanter is assumed to be circular because of its lower operating and maintenance costs. The area, Eq. \ref{eq:Eq38}, is computed using the parameter $A_{specific}$, which is the specific clarifier area in m\textsuperscript{2} per ton of inlet flow per day \citep{wef2005wef}. The typical value, 10 m\textsuperscript{2}/(t/day), is taken from \citet{green2008perry}. The diameter of the clarifier, Dclarifier , is computed from the area value, Eq. \ref{eq:Eq39}.
+The decanter is assumed to be circular because of its lower operating and maintenance costs. The area, Eq. \ref{eq:Eq38}, is computed using the parameter $A_{specific}$, which is the specific clarifier area in m\textsuperscript{2} per ton of inlet flow per day \citep{wef2005wef}. The typical value, 10 m\textsuperscript{2}/(t/day), is taken from \citet{green2008perry}. The diameter of the clarifier, $D^{clarifier}$, is computed from the area value, Eq. \ref{eq:Eq39}.
 
 \begin{align}
 	{A}_{clarifier} \left( \text{m}^2 \right) = \frac{A_{specific} \cdot F_{digestate}^{in}\left( \frac{\text{m}^3}{\text{day}} \right)}{1000} \label{eq:Eq38}
@@ -393,7 +393,7 @@ The diameter used in the final design will be the smallest between $D^{clarifier
 	D_{design}^{clarifier} \left( \text{m} \right) = \text{min}(D_{max}^{clarifier},D^{clarifier}) \label{eq:Eq41}
 \end{align}
 
-To model the minimization function and compute $D_{design}^{clarifier}$, the following smooth function approximation, given by Eq. \ref{eq:Eq42}, is used based on previous work \citep{de2016characterization} to avoid discontinuities within the problem formulation.
+To model the minimization function and compute $D_{design}^{clarifier}$, the following smooth function approximation, given by Eq. \ref{eq:Eq42}, is used based on a previous work \citep{de2016characterization} to avoid discontinuities within the problem formulation.
 
 \begin{align}
 	D_{design}^{clarifier} \left( \text{m} \right) = \frac{D_{max}^{clarifier}}{1 + {e^{\left( -F_{digestate}^{in} + 0.342 \right) \cdot 2.718}}} \label{eq:Eq42}
@@ -411,7 +411,7 @@ Centrifuge sizing and costing is based on the data by \citet{green2008perry}. We
 	D_{Centrifuge}\left( \text{in} \right) = 0.3308 \cdot \frac{F_{digestate}^{in}}{1000}\cdot 3600 + 9.5092 \label{eq:Eq44}
 \end{align}
 
-The number of centrifuges is calculated taking into account the maximum centrifuge diameter, Eq. \ref{eq:Eq45}, and the diameter used in the final design will be the minimum value between D Centrifuge and D Centrifuge max , Eq. \ref{eq:Eq46}.
+The number of centrifuges is calculated taking into account the maximum centrifuge diameter, Eq. \ref{eq:Eq45}, and the diameter used in the final design will be the minimum value between $D^{centrifuge}$ and $D_{max}^{centrifuge}$, Eq. \ref{eq:Eq46}.
 
 \begin{align}
 	{n}_{centrifuges} \ge \frac{D^{centrifuge}}{D_{max}^{centrifuge}} \label{eq:Eq45}
@@ -512,7 +512,7 @@ These units have been designed using correlations as a function of the flow proc
 	{V}_{Prec tank} \left( \text{m}^{3} \right) = HRT_{Prec \ tank} \cdot \left( \frac{F_{digestate}^{in}}{\rho_{digestate}} + \frac{F_{FeCl_{3}}^{in}}{\rho _{FeCl_{3}}} \right) \label{eq:Eq60}
 \end{align}
 
-The volume of CaCO\textsubscript{3} added is assumed negligible compared to the volume of the liquid because it is added as a solid. Thus, the diameter of the tanks is computed using Eqs. \ref{eq:Eq60} and \ref{eq:Eq30} as in the previous unit. The cost of the vessel is given by the weight of the metal, using the correlations provided by \citep{almena2016technoeconomic}, Eqs. \ref{eq:Eq31}-\ref{eq:Eq34}. The power required is computed, as in previous cases, using the rules of thumb in \citep{walas1988chemical}, Eq. \ref{eq:Eq35}, where the value of $\kappa_{agitator}$ agitator is equal to 10 HP per 1000 gal, in accordance with the data collected in the literature \citet{walas1988chemical}. The cost correlation is given by Eq. \ref{eq:Eq36} and updated to 2016 prices. The total cost of the precipitation tank included the vessel and the agitator costs, Eq. \ref{eq:Eq37}.
+The volume of CaCO\textsubscript{3} added is assumed negligible compared to the volume of the liquid because it is added as a solid. Thus, the diameter of the tanks is computed using Eqs. \ref{eq:Eq60} and \ref{eq:Eq30} as in the previous unit. The cost of the vessel is given by the weight of the metal, using the correlations provided by \citet{almena2016technoeconomic}, Eqs. \ref{eq:Eq31}-\ref{eq:Eq34}. The power required is computed, as in previous cases, using the rules of thumb in \citet{walas1988chemical}, Eq. \ref{eq:Eq35}, where the value of $\kappa_{agitator}$ agitator is equal to 10 HP per 1000 gal, in accordance with the data collected in the literature \citep{walas1988chemical}. The cost correlation is given by Eq. \ref{eq:Eq36} and updated to 2016 prices. The total cost of the precipitation tank included the vessel and the agitator costs, Eq. \ref{eq:Eq37}.
 
 The centrifuge size is characterized by its diameter. We model it as in the previous technologies using Eqs. \ref{eq:Eq44}-\ref{eq:Eq48}. The operating costs involve fixed, chemicals and labour costs. Fixed costs are estimated using Eq. \ref{eq:Eq61}. The labor cost is estimated in Eq. \ref{eq:Eq13}, where $n_{OP}$ is equal to 1 \citep{vian1975pronostico}. Total operating cost is given by Eq. \ref{eq:Eq14}. The chemicals costs involve the consumption of CaCO\textsubscript{3} and FeCl\textsubscript{3}, and it is estimated using Eq. \ref{eq:Eq62}:
 
@@ -578,7 +578,7 @@ In an FBR there are some variables which influence in the design and hence the c
 	\item Sphericity: 0.6 is a standard sphericity for particles used in fluidized bed reactors \citep{Fogler2005Elements}
 \end{itemize}
 
-Furthermore, the reaction kinetics and equilibrium are considered to estimate the residence time in the reactor. A first order kinetics, developed by \citep{nelson2003struvite}, has been used, Eqs. \ref{eq:Eq65} and \ref{eq:Eq66}. The kinetic constant is $3.42 \cdot 10^{-3}$ s \textsuperscript{-1} for a pH of 9.
+Furthermore, the reaction kinetics and equilibrium are considered to estimate the residence time in the reactor. A first order kinetics, developed by \citet{nelson2003struvite}, has been used, Eqs. \ref{eq:Eq65} and \ref{eq:Eq66}. The kinetic constant is $3.42 \cdot 10^{-3}$ s \textsuperscript{-1} for a pH of 9.
 
 \begin{align}
 	\frac{{-dC}}{{dt}} = k \left({C - {C_{eq}}} \right) \label{eq:Eq65}
@@ -650,7 +650,7 @@ The length of the bed is determined by the residence time through the kinetics a
 Thus, the bed length is computed as per Eq. \ref{eq:Eq78}. Typically, the length of the reactor must be 15\% larger than the bed, Eq. \ref{eq:Eq79}.
 
 \begin{align}
-	L_{bed} = \frac{u_0}{t} \label{eq:Eq78}
+	L_{bed} = u_0 \cdot t \label{eq:Eq78}
 \end{align}
 
 \begin{align}
@@ -682,7 +682,7 @@ The estimation of the cost for the fines recovery equipment is computed using Eq
 	& {n}_{hydrocyclone} \cdot \left( {2953.2} \cdot D_{design}^{hydrocyclone} - 34,131 \right) \nonumber
 \end{align}
 
-The CSTR process consists of four elements: the CSTR reactor, a centrifuge, and a dryer with its corresponding heat exchanger. As the residence time in the CSTR is large enough, it is not necessary to use a mixing tank and MgCl\textsuperscript{2} is added directly in the reactor. Thus, struvite is formed in one step in the CSTR. Since the digestate already contains NH4\textsuperscript{+} and P, we need to add MgCl\textsuperscript{2}. As a result, struvite precipitates, and it is recovered from the bottoms of the reactor and dried in a two step process. The first step consists of a centrifuge that recovers struvite with 5\% (on weight basis) water \citep{baasal1989preliminary}. Next, a drum dryer is implemented to remove the residual moisture to reach commercial standards and reduce transportation costs. Fig. \ref{fig:CSTRScheme} shows the details of the flowsheet. 
+The CSTR process consists of four elements: the CSTR reactor, a centrifuge, and a dryer with its corresponding heat exchanger. As the residence time in the CSTR is large enough, it is not necessary to use a mixing tank and MgCl\textsubscript{2} is added directly in the reactor. Thus, struvite is formed in one step in the CSTR. Since the digestate already contains NH\textsubscript{4}\textsuperscript{+} and P, we need to add MgCl\textsubscript{2}. As a result, struvite precipitates, and it is recovered from the bottoms of the reactor and dried in a two step process. The first step consists of a centrifuge that recovers struvite with 5\% (on weight basis) water \citep{baasal1989preliminary}. Next, a drum dryer is implemented to remove the residual moisture to reach commercial standards and reduce transportation costs. Fig. \ref{fig:CSTRScheme} shows the details of the flowsheet. 
 
 The design of the units involved in this process and their cost estimation is based on the following variables:
 
@@ -791,7 +791,7 @@ The total energy obtained in the system to be optimized is the sum of the one ge
 
 \begin{align}
 	&Z = \Bigg[ \left( \sum\limits_{i \in Turbines} {W}_{ {Turbine} }  + W_{Gas \ Turbine} - \sum\limits_{j \in Compressors} W_{Compressors}  \right) \label{eq:Eq98} \\ 
-	& \cdot 3600\cdot h \cdot d \cdot {C_{Electricity}} \Bigg]+ Benefits_{Filtration} + {Benefits}_{Centrif} + \nonumber \\
+	& \cdot 3600\cdot h \cdot d \cdot {C_{Electricity}} \Bigg]+ Benefits_{Filtration} + {Benefits}_{Centrifugation} + \nonumber \\
 	& {Benefits}_{Coagulation} + {Benefits}_{FBR} + {Benefits}_{CSTR} \nonumber
 \end{align}
 
@@ -852,7 +852,7 @@ The main decision variables are related to the selection of the digestate proces
 \end{table}
 
 \section{Results} \label{section:Results}
-Following the optimization procedure presented in Section 3.4 we first decide on the filter media and the coagulant chemical. We solve MINLP subproblems leading to the selection of the filter media and the coagulant agent. We use the metal slag as the filter media and the AlCl\textsubscript{3} as the coagulant for all raw materials. Next, we developed surrogate models for the five technologies included in the superstructure and solve a reformulated NLP including smooth approximations for the cost functions of the digestate treatment so as to maximize the power produced and the treatment section. The plant size is assumed to be that which processes 10 kg/s of manure based on the typical amount of manure produced in cattle farms \citep{LeonMsc}. Four manures have been evaluated on the plant: cattle, pig, poultry and sheep, with the aim of determining, for each one, the power generated the composition of the biogas produced, the optimal digestate treatment technology to recover its nutrients and the biogas-manure and digestate-manure ratios. Section \ref{section:Balanaces} summarizes the main operating conditions of the major units in the process and the selection of digestate processing technology. Section \ref{section:EconomicEvaluation} presents the detail economic evaluation of the four optimal processes, one per manure type. Finally, in Section \ref{section:Effect} an analysis of the effect of the manure composition on the power, operating conditions and digestate treatment is performed.
+Following the optimization procedure presented in Section \ref{section:SolutionProcedure} we first decide on the filter media and the coagulant chemical. We solve MINLP subproblems leading to the selection of the filter media and the coagulant agent. We use the metal slag as the filter media and the AlCl\textsubscript{3} as the coagulant for all raw materials. Next, we developed surrogate models for the five technologies included in the superstructure and solve a reformulated NLP including smooth approximations for the cost functions of the digestate treatment so as to maximize the power produced and the treatment section. The plant size is assumed to be that which processes 10 kg/s of manure based on the typical amount of manure produced in cattle farms \citep{LeonMsc}. Four manures have been evaluated on the plant: cattle, pig, poultry and sheep, with the aim of determining, for each one, the power generated the composition of the biogas produced, the optimal digestate treatment technology to recover its nutrients and the biogas-manure and digestate-manure ratios. Section \ref{section:Balanaces} summarizes the main operating conditions of the major units in the process and the selection of digestate processing technology. Section \ref{section:EconomicEvaluation} presents the detail economic evaluation of the four optimal processes, one per manure type. Finally, in Section \ref{section:Effect} an analysis of the effect of the manure composition on the power, operating conditions and digestate treatment is performed.
 
 
 \subsection{Mass and energy balances} \label{section:Balanaces}
@@ -894,7 +894,7 @@ Table \ref{table:Table4} shows the main operating conditions of major units for 
 This section is divided into the estimation of the investment cost, using a factorial method based on the cost of the units, and the estimation of the electricity production cost.
 
 \subsubsection{Investment cost}
-We use the factorial method to estimate the investment cost for this facility. This is based on the estimation of the equipment cost and several coefficients to account for pipes, installation, etc. (Sinnott and Towler, 2009). The cost for the different units has been estimated based on \citep{Matche} website (\url{www.matche.com}), \citep{towler2009chemical} and \citep{peters2003plant}, updating the cost of the units when required. We assume a plant that processes fluids and solids. Due to the different composition of each manure the specific production of biogas for each one is different, being larger for poultry and sheep than for cattle and pig. The reason for that could be that sheep and poultry manures have less water content while the water content in cattle and pig reaches 98\% (\url{http://adlib.everysite.co.uk}). For cost estimation proposes the digester maximum size considered is 6,000 m\textsuperscript{3} per unit, since the larger units could face mixing and homogenization problems \citep{rohstoffe2010guia}. This result for the facility investment cost will be different for each raw material. Fig. \ref{fig:CostDist} shows the equipment cost distribution where digester and gas turbine are the most important contributions:
+We use the factorial method to estimate the investment cost for this facility. This is based on the estimation of the equipment cost and several coefficients to account for pipes, installation, etc. (Sinnott and Towler, 2009). The cost for the different units has been estimated based on \citet{Matche} website (\url{www.matche.com}), \citet{towler2009chemical} and \citet{peters2003plant}, updating the cost of the units when required. We assume a plant that processes fluids and solids. Due to the different composition of each manure the specific production of biogas for each one is different, being larger for poultry and sheep than for cattle and pig. The reason for that could be that sheep and poultry manures have less water content while the water content in cattle and pig reaches 98\% (\url{http://adlib.everysite.co.uk}). For cost estimation proposes the digester maximum size considered is 6,000 m\textsuperscript{3} per unit, since the larger units could face mixing and homogenization problems \citep{rohstoffe2010guia}. This result for the facility investment cost will be different for each raw material. Fig. \ref{fig:CostDist} shows the equipment cost distribution where digester and gas turbine are the most important contributions:
 
 \begin{itemize}
 	\item \textbf{Cattle manure:} a plant that processes 10 kg/s of this type of manure requires an investment of 69.1 M EUR, of which 14.9 M EUR represents the equipment cost. The larger cost is assumed by the digester units, with a 75\% of the total units cost, followed by the heat exchanger network with a contribution of 12\% while both turbines add up to 12\%.
@@ -933,7 +933,7 @@ The Net Profit Value has also been calculated as a measure of the project profit
 			Cattle manure  & 12.04                                                                            & 0.45                                                                            & $-1.93 \cdot 10^{7}$                                               \\
 			Pig manure     & 12.07                                                                            & 0.45                                                                            & $-1.96\cdot 10^{7}$                                               \\
 			Poultry manure & 25.51                                                                            & 0.03                                                                            & $2.85\cdot 10^{8} $                                               \\
-			Sheep manure   & 15.53                                                                            & 0.10                                                                            & $5.40\cdot 10^{7} $                                               \\ \bottomrule
+			Sheep manure   & 15.53                                                                            & 0.10                                                                            & $5.46\cdot 10^{7} $                                               \\ \bottomrule
 		\end{tabular}
 	}
 \end{table}

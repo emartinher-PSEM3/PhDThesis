@@ -335,7 +335,7 @@ The technologies for nitrogen recovery assessed in this work, illustrated in Fig
 Ammonium, phosphate, and other relevant compounds for struvite formation, such as carbonates competing for phosphate ions to form calcium-based precipitates, are part of chemical systems controlled by thermodynamic equilibrium. Therefore, a thermodynamic model for the formation of struvite and calcium precipitates accounting the variability of elements concentration in manure has been developed in a previous work \citep{martin2020m}.
 The chemical systems considered in the model for estimating struvite formation are included
 %{\color{blue}{
-in Tables 1S and 2S of the Supplementary Material.
+in Tables \ref{table:pKNitrogenSP} and \ref{table:solids_speciesNitrogenSP} of the Supplementary Material.
 %}}
 Particularly, we note that calcium ions compete with magnesium ions for the phosphate ions, hindrancing the formation of struvite. Therefore, a correlation
 %developed in a previous work has been used to compute
@@ -502,7 +502,7 @@ n_{\text{parallel}} =
 %	\begin{threeparttable}
 \begin{tabular}{@{}ccccc@{}}
 	\toprule
-	Membrane model & Flow capacity (m3/h) & Diameter (m) & Lenght (m) & Cost (USD) \\ \midrule
+	Membrane model & Flow capacity (m\textsuperscript{3}/h) & Diameter (m) & Lenght (m) & Cost (USD) \\ \midrule
 	2.5×8          & 0.1 - 0.7            & 0.067        & 0.200      & 5,000       \\
 	4×13           & 0.5 - 3.4            & 0.116        & 0.242      & 5,700       \\
 	8x20           & 1 - 11               & 0.219        & 0.406      & 14,150      \\
@@ -998,7 +998,7 @@ and stripping in packed bed
 %(described in Section \ref{section:StrippingNrecovery})
 can be recovered in an acidic scrubbing stage using a solution of sulfuric acid in water, as described in Fig. \ref{fig:ScrubberScheme}. Ammonia is trapped by the liquid stream, reacting with the sulfuric acid to form ammonium sulfate.
 %{\color{red}{This is a solid element that can be recovered by sedimentation or filtration}}. 
-Mass balances for the scrubber unit consider the water transferred to the gas stream, assuming that saturation is reached, Eq. \ref{eq:SC2}. Ammonia  recovery efficiency ($\eta_{scrubber}^{\text{NH}_3}$) of full-scale ammonia scrubbers has been reported in the range of 40\% to 99\% \citep{melse2005}. A typical $\eta_{scrubber}^{\text{NH}_3}$ of 96\% has been selected based on the work of \citet{melse2005}.
+Mass balances for the scrubber unit consider the water transferred to the gas stream, assuming that saturation is reached, Eq. \ref{eq:SC2PaperN}. Ammonia  recovery efficiency ($\eta_{scrubber}^{\text{NH}_3}$) of full-scale ammonia scrubbers has been reported in the range of 40\% to 99\% \citep{melse2005}. A typical $\eta_{scrubber}^{\text{NH}_3}$ of 96\% has been selected based on the work of \citet{melse2005}.
 
 %\begin{figure}[H]
 %	\centering
@@ -1009,27 +1009,27 @@ Mass balances for the scrubber unit consider the water transferred to the gas st
 %\end{figure}
 
 \begin{align}
-& \frac{P_{\text{water}}}{Pv_{\text{water}}} = 1 \label{eq:SC1} 
+& \frac{P_{\text{water}}}{Pv_{\text{water}}} = 1 \label{eq:SC1PaperN} 
 \\
 & Pv_{\text{water}} = \frac{\frac{\dot{m}_{\text{water}_{out}}^{\text{gas stream}}}{MW_\text{water}}}
 {\sum_{j}\frac{\dot{m}_{\text{j}}^{\text{gas stream}}}{MW_\text{j}}}
-\cdot P_{in}^{\text{gas stream}} \label{eq:SC2} 
+\cdot P_{in}^{\text{gas stream}} \label{eq:SC2PaperN} 
 \\
-& \dot{m}_{\text{NH}_{3 \ out}}^{\text{gas stream}} = \dot{m}_{\text{NH}_{3 \ in}}^{\text{gas stream}} \cdot \left(1-\eta_{scrubber}^{\text{NH}_3}\right) \label{eq:SC3}
+& \dot{m}_{\text{NH}_{3 \ out}}^{\text{gas stream}} = \dot{m}_{\text{NH}_{3 \ in}}^{\text{gas stream}} \cdot \left(1-\eta_{scrubber}^{\text{NH}_3}\right) \label{eq:SC3PaperN}
 \end{align}
 
-The water flow needed to perform the scrubbing operation is computed from the operation line of the unit $\left(\sfrac{L}{G}\right)$, Eq. \ref{eq:SC4}. Following the rules of thumb for scrubbing units, the design operation line has been assumed as twice the minimum operation line, Eq. \ref{eq:SC5}. $Y_{\text{NH}_3}$ and $X_{\text{NH}_3}$ denote the ammonia free basis molar fractions in gas and liquid streams respectively. The amount of sulfuric acid supplied to make-up the sulfate used for ammonium sulfate formation, Eq. \ref{eq:SC7}, is slightly larger than the stoichiometric amount of the precipitation reaction, 3.5 $\text{kg}_{\text{H}_2 \text{SO}_4}$ per ${\text{kg}_{\text{NH}_3}}$ recovered \citep{bolzonella2018nutrients}.
+The water flow needed to perform the scrubbing operation is computed from the operation line of the unit $\left(\sfrac{L}{G}\right)$, Eq. \ref{eq:SC4PaperN}. Following the rules of thumb for scrubbing units, the design operation line has been assumed as twice the minimum operation line, Eq. \ref{eq:SC5PaperN}. $Y_{\text{NH}_3}$ and $X_{\text{NH}_3}$ denote the ammonia free basis molar fractions in gas and liquid streams respectively. The amount of sulfuric acid supplied to make-up the sulfate used for ammonium sulfate formation, Eq. \ref{eq:SC7PaperN}, is slightly larger than the stoichiometric amount of the precipitation reaction, 3.5 $\text{kg}_{\text{H}_2 \text{SO}_4}$ per ${\text{kg}_{\text{NH}_3}}$ recovered \citep{bolzonella2018nutrients}.
 
 \begin{align}
-& \left(\sfrac{L}{G}\right)_{\text{min}}= \frac{Y_{\text{NH}_{3 in}} - Y_{\text{NH}_{3 out}}}{X_{\text{NH}_{3 out}} - X_{\text{NH}_{3 in}}} \label{eq:SC4} 
+& \left(\sfrac{L}{G}\right)_{\text{min}}= \frac{Y_{\text{NH}_{3 in}} - Y_{\text{NH}_{3 out}}}{X_{\text{NH}_{3 out}} - X_{\text{NH}_{3 in}}} \label{eq:SC4PaperN} 
 \\
-& \left(\sfrac{L}{G}\right)= \left(\sfrac{L}{G}\right)_{\text{min}} \cdot 2 \label{eq:SC5} 
+& \left(\sfrac{L}{G}\right)= \left(\sfrac{L}{G}\right)_{\text{min}} \cdot 2 \label{eq:SC5PaperN} 
 \\
-& \dot{m}_{\text{water}_{in}}^{\text{liquid stream}} = \left(\left(\sfrac{L}{G}\right) \cdot \dot{n}_{\text{total}_{in}}^{\text{liquid stream}} - \dot{n}_{\text{NH}_{3 \ in}}^{\text{liquid stream}}\right) \cdot MW_{\text{water}} \label{eq:SC6} 
+& \dot{m}_{\text{water}_{in}}^{\text{liquid stream}} = \left(\left(\sfrac{L}{G}\right) \cdot \dot{n}_{\text{total}_{in}}^{\text{liquid stream}} - \dot{n}_{\text{NH}_{3 \ in}}^{\text{liquid stream}}\right) \cdot MW_{\text{water}} \label{eq:SC6PaperN} 
 \\
-& \dot{m}_{\text{H}_2 \text{SO}_{4_{in}}}^{\text{liquid stream}} = \dot{m}_{\text{NH}_{3 \ in}}^{\text{gas stream}} \cdot \eta_{scrubber}^{\text{NH}_3} \cdot 3.5 \label{eq:SC7} 
+& \dot{m}_{\text{H}_2 \text{SO}_{4_{in}}}^{\text{liquid stream}} = \dot{m}_{\text{NH}_{3 \ in}}^{\text{gas stream}} \cdot \eta_{scrubber}^{\text{NH}_3} \cdot 3.5 \label{eq:SC7PaperN} 
 \\
-& \dot{m}_{\left(\text{NH}_4\right)_2 \text{SO}_{4_{out}}}^{\text{liquid stream}} = \frac{\dot{m}_{\text{NH}_{3 \ in}}^{\text{gas stream}} \cdot \eta_{scrubber}^{\text{NH}_3}}{MW_{\text{NH}_3}} \cdot MW_{\left(\text{NH}_4\right)_2 \text{SO}_{4_{out}}} \label{eq:SC8} 
+& \dot{m}_{\left(\text{NH}_4\right)_2 \text{SO}_{4_{out}}}^{\text{liquid stream}} = \frac{\dot{m}_{\text{NH}_{3 \ in}}^{\text{gas stream}} \cdot \eta_{scrubber}^{\text{NH}_3}}{MW_{\text{NH}_3}} \cdot MW_{\left(\text{NH}_4\right)_2 \text{SO}_{4_{out}}} \label{eq:SC8PaperN} 
 \end{align}
 
 Scrubbing CAPEX is estimated through a preliminary design and sizing of the scrubbing units. As shown in the
@@ -1268,17 +1268,17 @@ However, it does not include the nitrogen recovery efficiency of each process, w
 
 We note that the cost of anaerobic digestion stage represents a large fraction of capital expenses. However, this technology might be already implemented in some swine operations. Therefore, the impact of AD in the CAPEX, OPEX and processing costs has been analyzed. Figures \ref{fig:ScaleUGlobal} and
 %{\color{blue}{
-1S
+\ref{fig:CAPEXOPEX_NitrogenSP}
 %}}
 show these costs including AD stages, and
 %{\color{blue}{
-Figures 2S and 3S
+Figures \ref{fig:CAPEXOPEX_NoAD_NitrogenSP} and \ref{fig:ScaleUGlobal_NoAD_NitrogenSP}
 %}}
 illustrate the costs of nitrogen recovery systems excluding AD. It can be observed that CAPEX costs are significantly higher when AD is considered. This turns into a decrease of processing costs when AD is not considered. Additional correlations for cost estimation
 %for this case
 are reported in
 %{\color{blue}{
-Table 1S.
+Table \ref{table:ScaleUpCorrelations_NoAD_NitrogenSP}.
 %}}
 
 %It can be observed in Figure \ref{fig:ScaleUGlobal} that the economies of scale have a large influence in the cost for all the technologies considered. Multiform is the processes that shows the largest cost as a consequence of its low nitrogen recovery efficiency, while digestate drying reveals to be an inexpensive alternative, in spite of the fact that this processes has a relatively low recovery efficient as well. 
