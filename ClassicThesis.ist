@@ -1,5 +1,13 @@
 % makeindex style file created by the glossaries package
+<<<<<<< HEAD
 % for document 'ClassicThesis' on 2021-12-8
+=======
+<<<<<<< Updated upstream
+% for document 'ClassicThesis' on 2021-12-6
+=======
+% for document 'ClassicThesis' on 2021-11-23
+>>>>>>> Stashed changes
+>>>>>>> parent of 04dd147... Revert "Auto stash before merge of "master" and "origin/master""
 actual '?'
 encap '|'
 level '!'
